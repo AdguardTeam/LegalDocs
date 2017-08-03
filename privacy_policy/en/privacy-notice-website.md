@@ -1,11 +1,9 @@
-
 # Adguard website & Cookies
+*August 03, 2017*
 
-Keynote  |  Adguard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
--------- | ---------------------------------------------------------------------------------------------------------------------------- 
+> **Keynote:** Adguard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 This privacy notice applies to Adguard websites *adguard.com, kb.adguard.com, blog.adguard.com, forum.adguard.com* and describes in detail what information may be collected about you when you visit them.
-
 
 ## Cookies
 When you visit our website, our server may place a small data file called a «cookie» (sometimes called «web cookie» or «browser cookie») on your hard drive. Most commercial websites use cookies. By using our site you agree to the use of cookies as described in this privacy notice... 
