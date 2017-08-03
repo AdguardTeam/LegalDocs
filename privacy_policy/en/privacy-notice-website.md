@@ -46,7 +46,7 @@ We save the information you enter on the order page. This information can be use
 The third-party service provider may transmit some of your personal information to us, but not including payment information, unless you specifically agree (as may be the case in the event of a purchase with auto-renewal). We may use the information we receive (not including payment information) to verify your registration or license status, to contact you about the status of your account, or for renewal of your subscription, if applicable.  (/LEARN MORE)
 
 ### When you leave a comment
-We use Disqus for comment sections on reports.adguard.com and blog.adguard.com. In this case we do not collect any data about you, but please note that data might be collected by Disqus and managed according to their privacy policy. 
+We use Disqus for comment sections on reports.adguard.com and blog.adguard.com. In this case we do not collect any data about you, but please note that data might be collected by Disqus and managed according to their [privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). 
 
 ### When you use Adguard Account
 Adguard Account (https://adguard.com/login.html) is a tool which permits you to register multiple license using a single registration and authentication system. If you choose to use Adguard Account you will be asked to provide your email address. (LEARN MORE) 
