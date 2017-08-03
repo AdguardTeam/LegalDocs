@@ -22,7 +22,7 @@ We may use cookies, third-party web analytics, GIFs, device information, and IP 
 
 **Analytics & Metrics**: We currently use several website analytics tools. These tools help us understand the use of our site by our visitors by collecting information. 
 
-Piwik (piwik.adguard.com) which we consider the best option from the privacy point of view as data is not shared with third parties (service providers) and we manage it ourselves. In the nearest future we will switch over to this service only. 
+[Piwik](https://piwik.org/) (piwik.adguard.com) which we consider the best option from the privacy point of view as data is not shared with third parties (service providers) and we manage it ourselves. Eventually we will switch over to this service only. 
 
 In the meantime we as well use Google Analytics and Yandex.Metrika. Users who wish to avoid tracking by Google Analytics and Yandex.Metrika can prevent data collection. 
 
