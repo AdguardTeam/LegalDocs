@@ -24,7 +24,7 @@ Our general principle is to collect only the information that is necessary to pr
 There are several ways how we may get your data:
 
 * When you give us the information directly (when you yourself contact us or send us bug report, or subscribe to our blog, forum, newsletter and etc).
-* When you are using our products, information is automatically collected. It occurs when you are updating programs, contact support services and so on. You can find the full list of data collected on a Privacy Notice page dedicated to the product you use. (See in the list on the right).
+* When you are using our products, information is automatically collected. It occurs when you are updating programs, contact support services and so on. You can find the full list of data collected on a Privacy Notice page dedicated to the product you use.
 * When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [Adguard websites’ privacy notice](the new link will be here). 
 
 ## Storage, Retention, and Deletion of Personal Information
