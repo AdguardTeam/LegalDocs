@@ -21,7 +21,7 @@ There are several ways how we may get your data:
 
 * When you give us the information directly (when you yourself contact us or send us bug report, or subscribe to our blog, forum, newsletter and etc).
 * When you are using our products, information is automatically collected. It occurs when you are updating programs, contact support services and so on. You can find the full list of data collected on a Privacy Notice page dedicated to the product you use.
-* When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [Adguard websites’ privacy notice](the new link will be here). 
+* When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [Adguard websites’ privacy notice](https://adguard.com/privacy-websites.html). 
 
 ## Storage, Retention, and Deletion of Personal Information
 
@@ -42,7 +42,7 @@ If you have a disagreement with us relating to our handling of your data, we ask
 Time goes by, and and it is quite possible that we will have to add changes to the current Privacy Policy. But don’t worry, all the updates will be available on GitHub and announced through blog posts, forum threads. Being transparent to the fullest when it comes to privacy is our main goal.
 
 ## Any questions?
-If you have any questions about Adguard privacy policy, you can contact us at pr@adguard.com. 
+If you have any questions about Adguard privacy policy, you can contact us at support@adguard.com. 
 
 ADGUARD SOFTWARE LIMITED
 
