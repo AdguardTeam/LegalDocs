@@ -1,9 +1,8 @@
 # Adguard website & Cookies
 *August 03, 2017*
-
 > **Keynote:** Adguard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-This privacy notice applies to Adguard websites *adguard.com, kb.adguard.com, blog.adguard.com, forum.adguard.com* and describes in detail what information may be collected about you when you visit them.
+This privacy notice applies to *adguard.com* and all the Adguard websites located on the subdomains, and describes in detail what information may be collected about you when you visit them.
 
 ## Cookies
 When you visit our website, our server may place a small data file called a «cookie» (sometimes called «web cookie» or «browser cookie») on your hard drive. Most commercial websites use cookies. By using our site you agree to the use of cookies as described in this privacy notice... 
@@ -43,12 +42,12 @@ We save the information you enter on the order page. This information can be use
 
 The third-party service provider may transmit some of your personal information to us, but not including payment information, unless you specifically agree (as may be the case in the event of a purchase with auto-renewal). We may use the information we receive (not including payment information) to verify your registration or license status, to contact you about the status of your account, or for renewal of your subscription, if applicable.  (/LEARN MORE)
 
-### When you leave a comment
-We use Disqus for comment sections on reports.adguard.com and blog.adguard.com. In this case we do not collect any data about you, but please note that data might be collected by Disqus and managed according to their [privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). 
-
 ### When you use Adguard Account
 Adguard Account (https://adguard.com/login.html) is a tool which permits you to register multiple license using a single registration and authentication system. If you choose to use Adguard Account you will be asked to provide your email address. (LEARN MORE) 
 You will also be asked to select a password. We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your Adguard Account and/or product settings. (/LEARN MORE)
+
+### About comment section
+We use Disqus for comment sections on reports.adguard.com and blog.adguard.com. In this case we do not collect any data about you, but please note that data might be collected by Disqus, when you leave a comment or simply visit a page with Disqus comments, and managed according to Disqus [privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). 
 
 ### Third-party content and sites
 If we offer links to third-party sites such as Twitter, Facebook, or others - they do not share any data unless you specifically click the button.
@@ -57,9 +56,6 @@ If we offer links to third-party sites such as Twitter, Facebook, or others - th
 Our website offers news and information by subscription including newsletters, blogs, or others. If you decide to subscribe to these services you may be asked to provide your email address. 
 
 Nevertheless you can always unsubscribe from our newsletters them via Adguard account or by clicking “Unsubscribe” button in the newsletter itself.  
-
-### Support Center
-You may join the Support Center at kb.adguard.com. Certain features require registration in order to participate. When you register for the Support Center you will be asked to provide your full name and email address, and select a password. No other information is required to register. This information is not shared with other users.
  
 ### Adguard Forum
 You may also join the Adguard Forum at forum.adguard.com. If you decide to register, you will be asked to select a username, password, and physical location. Disclosing your physical location is optional. You will also be required to provide an email address for use in connection with Adguard Forum. You may allow other users to send you messages if you wish. Once registered for Adguard Forum you may control your privacy settings by visiting your «Profile» page. You can modify your settings at any time. 
