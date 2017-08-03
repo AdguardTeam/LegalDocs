@@ -15,6 +15,7 @@ Any other information (that does not identify you in any way) is considered as n
 Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and for licensing. And we never share any of your data with third-parties.
 
 ## How do we get information about you?
+
 There are several ways how we may get your data:
 
 * When you give us the information directly (when you yourself contact us or send us bug report, or subscribe to our blog, forum, newsletter and etc).
@@ -22,6 +23,7 @@ There are several ways how we may get your data:
 * When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [Adguard websites’ privacy notice](the new link will be here). 
 
 ## Storage, Retention, and Deletion of Personal Information
+
 **Storage**
 Personally identifiable information on our servers is only accessible from our physical premises, or via an encrypted virtual private network (VPN). Access is limited to authorized personnel only, and company networks are password protected, and subject to additional policies and procedures for security.
 
@@ -42,5 +44,5 @@ Time goes by, and and it is quite possible that we will have to add changes to t
 If you have any questions about Adguard privacy policy, you can contact us at pr@adguard.com. 
 
 ADGUARD SOFTWARE LIMITED
-3rd floor Iris House, John Kennedy St., 
-3106 Limassol, Cyprus
+
+3rd floor Iris House, John Kennedy St., 3106 Limassol, Cyprus
