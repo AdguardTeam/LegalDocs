@@ -1,4 +1,5 @@
 # Adguard Browser Extensions Privacy Notice
+*August 03, 2017*
 
 > **Keynote:** Adguard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -29,7 +30,7 @@ Adguard extension connects to its servers to check ad blocker filters updates. W
 If you enable «Phishing and malware protection» option, Adguard extension checks every web site before you visit it. We use Lookup API technology for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
  
 ### Statistics for ad filters usage
-If you enable the [«Send statistics for ad filters usage»](https://kb.adguard.com/en/general/filter-rules-statistics) option, the following information is sent periodically:
+If you **enable the [«Send statistics for ad filters usage»](https://kb.adguard.com/en/general/filter-rules-statistics) option**, the following information is sent periodically: 
 * Extension version.
 * Browser type (Chrome/Firefox/Opera/Yandex.Browser/Safari).
 * List of enabled ad filters.
@@ -41,6 +42,8 @@ If you enable the [«Send statistics for ad filters usage»](https://kb.adguard.
 * The list is created based on the website's visit statistics since the last time statistical data was sent.
 
 By gathering statistics on used filtering rules, we can detect and remove the rules that are no longer used. As a result, it will help all those who use Adguard.
+
+PLEASE NOTE: We would like to emphasize that this option is **disabled by default**. We get the information listed above from volunteers only.
 
 ### Browsing Security community
 If you enabled the «Help us in Browsing security filters development», the program will periodically send anonymous security-related data:
