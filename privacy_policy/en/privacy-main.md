@@ -1,4 +1,4 @@
-# Adguard Privacy Policy: General notes
+# Privacy Policy: General notes
 *August 03, 2017*
 
 > **Keynote:** Adguard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
