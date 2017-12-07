@@ -54,11 +54,11 @@ AFTER CLICKING THE ACCEPT BUTTON IN THE LICENSE AGREEMENT WINDOW YOU HAVE THE RI
 
 The provisions of this Section 4 apply to Software requiring paid licenses and activation (and do not apply to Software for which Rightholder offers free licenses without activation).
 
-4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [https://adguard.com/en/terms-of-sale.html](https://adguard.com/en/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
+4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [https://adguard.com/terms-of-sale.html](https://adguard.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
 4.2. In order to use the Software for other than evaluation purposes or beyond the evaluation period, You must activate the Software. Depending on the Software You are using and how You purchased licenses to the Software, activation may be processed in one of the several different ways. Typically, activation is processed by Your providing a valid e-mail address to which Rightholder will send an activation code after Your payment for the number of licenses purchased through an applicable order. You will receive an activation code for each license purchased. Activation of certain Software may also be processed through the mobile application platform through which You purchased licenses (e.g., through an Amazon subscription or through Apple App Store codes). Activation codes may apply to one or more devices, depending on the license purchased. Once an activation code is used, the license associated with that activation code begins for the duration of the license purchased by an applicable order. If You have acquired Software that is intended to be used on more than one Computer then Your License begins from the date of activation of the Software on the first Computer.
 
-You are responsible for keeping the activation code confidential. If You create the [AdGuard account](https://adguard.com/en/login.html) during the purchase or activation of Software licenses, Your activation codes may be stored with and retrievable by accessing Your account. Please, note that when creating AdGuard account you are automatically subscribed to AdGuard newsletters and special offers notifications. You can unsubscribe in the AdGuard account or by clicking “Unsubscribe” button in the newsletter itself.
+You are responsible for keeping the activation code confidential. If You create the [AdGuard account](https://adguard.com/account/main.html) during the purchase or activation of Software licenses, Your activation codes may be stored with and retrievable by accessing Your account. Please, note that when creating AdGuard account you are automatically subscribed to AdGuard newsletters and special offers notifications. You can unsubscribe in the AdGuard account or by clicking “Unsubscribe” button in the newsletter itself.
 
 Rightholder is not responsible for lost activation codes. Any refunds or the issuance of replacement activation codes shall be in Rightholder’s sole discretion.
 
@@ -66,7 +66,7 @@ Rightholder is not responsible for lost activation codes. Any refunds or the iss
 
 ## 5. Privacy policy and information Collection
 
-Rightholder handles Your personal information in accordance with its privacy policy, which is amended from time to time and is available at [https://adguard.com/en/privacy.html](https://adguard.com/en/privacy.html). The privacy policy in effect at the time Your personal information is collected shall apply to how Rightholder collects, uses, and shares Your personal information.
+Rightholder handles Your personal information in accordance with its privacy policy, which is amended from time to time and is available at [https://adguard.com/privacy.html](https://adguard.com/privacy.html). The privacy policy in effect at the time Your personal information is collected shall apply to how Rightholder collects, uses, and shares Your personal information.
 
 ## 6. WARRANTY DISCLAIMER
 

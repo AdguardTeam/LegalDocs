@@ -30,7 +30,7 @@ AdGuard extension connects to its servers to check ad blocker filters updates. W
 If you enable “Phishing and malware protection” option, AdGuard extension checks every web site before you visit it. We use Lookup API technology for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
  
 ### Statistics for ad filters usage
-If you **enable the [“Send statistics for ad filters usage”](https://kb.adguard.com/en/general/filter-rules-statistics) option**, the following information is sent periodically: 
+If you **enable the [“Send statistics for ad filters usage”](https://kb.adguard.com/general/filter-rules-statistics) option**, the following information is sent periodically: 
 * Extension version.
 * Browser type (Chrome/Firefox/Opera/Yandex.Browser/Safari).
 * List of enabled ad filters.
