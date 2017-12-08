@@ -1,11 +1,11 @@
 # Privacy Policy: General notes
 *August 03, 2017*
 
-> **Keynote:** Adguard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
+> **Keynote:** AdGuard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of Adguard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
 
-Please read our privacy policy to learn what kind of information we collect via Adguard products and how we store and use it afterwards.
+Please read our privacy policy to learn what kind of information we collect via AdGuard products and how we store and use it afterwards.
 
 ## What we consider as “personal information”
 
@@ -21,7 +21,7 @@ There are several ways how we may get your data:
 
 * When you give us the information directly (when you yourself contact us or send us bug report, or subscribe to our blog, forum, newsletter and etc).
 * When you are using our products, information is automatically collected. It occurs when you are updating programs, contact support services and so on. You can find the full list of data collected on a Privacy Notice page dedicated to the product you use.
-* When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [Adguard websites’ privacy notice](https://adguard.com/privacy/website.html). 
+* When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [AdGuard websites’ privacy notice](https://adguard.com/privacy/website.html). 
 
 ## Storage, Retention, and Deletion of Personal Information
 
@@ -38,11 +38,11 @@ Data we collect is stored on specially protected servers. Access is restricted t
 
 If you have a disagreement with us relating to our handling of your data, we ask that you contact us to work it out. We are always happy to hear from you, and we promise to try our best to respond to any concerns you may have.
 
-## Can Adguard change its Privacy Policy?
+## Can AdGuard change its Privacy Policy?
 Time goes by, and and it is quite possible that we will have to add changes to the current Privacy Policy. But don’t worry, all the updates will be available on GitHub and announced through blog posts, forum threads. Being transparent to the fullest when it comes to privacy is our main goal.
 
 ## Any questions?
-If you have any questions about Adguard privacy policy, you can contact us at support@adguard.com. 
+If you have any questions about AdGuard privacy policy, you can contact us at support@adguard.com. 
 
 ADGUARD SOFTWARE LIMITED
 
