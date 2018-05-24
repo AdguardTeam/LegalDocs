@@ -1,4 +1,5 @@
 # End-User License Agreement of AdGuard
+*May 24, 2018*
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED. READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY CLICKING THE ACCEPT BUTTON IN THE LICENSE AGREEMENT WINDOW AND USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -58,11 +59,19 @@ The provisions of this Section 4 apply to Software requiring paid licenses and a
 
 4.2. In order to use the Software for other than evaluation purposes or beyond the evaluation period, You must activate the Software. Depending on the Software You are using and how You purchased licenses to the Software, activation may be processed in one of the several different ways. Typically, activation is processed by Your providing a valid e-mail address to which Rightholder will send an activation code after Your payment for the number of licenses purchased through an applicable order. You will receive an activation code for each license purchased. Activation of certain Software may also be processed through the mobile application platform through which You purchased licenses (e.g., through an Amazon subscription or through Apple App Store codes). Activation codes may apply to one or more devices, depending on the license purchased. Once an activation code is used, the license associated with that activation code begins for the duration of the license purchased by an applicable order. If You have acquired Software that is intended to be used on more than one Computer then Your License begins from the date of activation of the Software on the first Computer.
 
-You are responsible for keeping the activation code confidential. If You create the [AdGuard account](https://adguard.com/account/main.html) during the purchase or activation of Software licenses, Your activation codes may be stored with and retrievable by accessing Your account. Please, note that when creating AdGuard account you are automatically subscribed to AdGuard newsletters and special offers notifications. You can unsubscribe in the AdGuard account or by clicking “Unsubscribe” button in the newsletter itself.
+4.3 When You purchase AdGuard license, AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered during the installation of the Windows version if You enter your email address in the wizard window, or when signing up to the trial period in Android version, or directly via the website, if You decide to sign up at adguard.com.
+By registering AdGuard account you affirm that you are 16 years or older.
+
+You are responsible for keeping the activation code confidential. Your activation codes may be stored with and retrievable by accessing Your account.
+
+If desired, the User can delete AdGuard account in the “Settings” section. This will delete all personal information about the User from the system, but will not affect in any way the activation codes for the Software.
 
 Rightholder is not responsible for lost activation codes. Any refunds or the issuance of replacement activation codes shall be in Rightholder’s sole discretion.
 
-4.3. If You modify Your Computer or make changes to other vendors’ software installed on it, You may be required by the Rightholder to repeat activation of the Software. The Rightholder reserves the right to use any means and verification procedures to verify the validity of the license and/or legality of a copy of the Software installed and/or used on Your Computer.
+Note that when AdGuard account is created you are automatically subscribed to AdGuard newsletters and special offers notifications. You can unsubscribe in the AdGuard account or by clicking “Unsubscribe” button in the newsletter itself.
+Also note, that by subscribing to AdGuard blog or AdGuard affiliate program, you agree to receive email notifications from us and affirm that you are 16 years or older. If you wish to stop your subscription – contact us at privacy@adguard.com.
+
+4.4. If You modify Your Computer or make changes to other vendors’ software installed on it, You may be required by the Rightholder to repeat activation of the Software. The Rightholder reserves the right to use any means and verification procedures to verify the validity of the license and/or legality of a copy of the Software installed and/or used on Your Computer.
 
 ## 5. Privacy policy and information Collection
 

@@ -1,49 +1,81 @@
 # Privacy Policy: General notes
-*August 03, 2017*
+*May 24, 2018*
 
-> **Keynote:** AdGuard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
+> **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+## Who We Are
 
-Please read our privacy policy to learn what kind of information we collect via AdGuard products and how we store and use it afterwards.
+ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your Personal Data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations, and explains how, why and when we process your personal data.
+Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services. 
 
-## What we consider as “personal information”
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at 3rd floor Iris House, John Kennedy St., 3106 Limassol, Cyprus and acts as the data controller when processing your data.
 
-Personal information or Personally identifiable information is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. 
+## What We Consider “Personal Information”
 
-Any other information (that does not identify you in any way) is considered as non-personal.
+We follow EU’s [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) (“GDPR”) which defines personal data as: “…any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”. When we use terms “personal data" or “personal information”, we mean exactly that.
 
-Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and for licensing. And we never share any of your data with third-parties.
+## How We Collect Personal Data
 
-## How do we get information about you?
+There are several ways how we may get your Personal Data:
 
-There are several ways how we may get your data:
+* When you visit our website adguard.com and its subdomains (“Website”). Learn more about what exactly and how is collected and how you can manage it from the [AdGuard websites' privacy notice](https://adguard.com/privacy/website.html);
 
-* When you give us the information directly (when you yourself contact us or send us bug report, or subscribe to our blog, forum, newsletter and etc).
-* When you are using our products, information is automatically collected. It occurs when you are updating programs, contact support services and so on. You can find the full list of data collected on a Privacy Notice page dedicated to the product you use.
-* When you visit our website, there are cookies and metrics that give us information about you. Learn more about the data collected and how you can manage that on the [AdGuard websites’ privacy notice](https://adguard.com/privacy/website.html). 
+* When you use our products. You can find the full list of Personal Data collected on a privacy notice page dedicated to the product you use.
 
-## Storage, Retention, and Deletion of Personal Information
+## What Personal Data We Collect 
 
-**Storage**
-Personally identifiable information on our servers is only accessible from our physical premises, or via an encrypted virtual private network (VPN). Access is limited to authorized personnel only, and company networks are password protected, and subject to additional policies and procedures for security.
+Data we collect includes no more than is crucial to provide full functionality of AdGuard products, websites and services. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.  
 
-**Deletion of user’s information**
-In general, our policy is to keep user’s information for no longer than reasonably necessary in light of the purpose for which the information was collected, plus any additional period that is permitted or required by law thereafter. Following the expiration of the purpose for which we collected personal information plus any additional period that is permitted or required by law, we will either delete or de-identify the information from our systems.
+In-depth breakdowns of what Personal Data is getting acquired for the Website and each separate AdGuard product are present in the specific product-related and Website-related privacy notices.
 
-## Information Security
-Under no circumstances shall we disclose the information we collect about users to a third party (except when required by law or if we obtain your permission).
+## How We Use Your Personal Data
 
-Data we collect is stored on specially protected servers. Access is restricted to a limited number of authorized persons who need the access in order to administer our websites or ensure their proper functionality, especially with regard to technical support.
+Your privacy is the highest concern for us. We take it very seriously and we never disclose, share or sell your data, unless we have your consent or required to do so by law. The only purpose of collecting and storing your Personal Data is to provide you with our products and services at their full potential. 
 
-If you have a disagreement with us relating to our handling of your data, we ask that you contact us to work it out. We are always happy to hear from you, and we promise to try our best to respond to any concerns you may have.
+We retain Personal Data for as long as necessary to continue providing you with these products and services, or until you revoke your consent to share this information.
 
-## Can AdGuard change its Privacy Policy?
-Time goes by, and and it is quite possible that we will have to add changes to the current Privacy Policy. But don’t worry, all the updates will be available on GitHub and announced through blog posts, forum threads. Being transparent to the fullest when it comes to privacy is our main goal.
+## Your Rights 
 
-## Any questions?
-If you have any questions about AdGuard privacy policy, you can contact us at support@adguard.com. 
+You have the following rights when it comes to Personal Data:
 
-ADGUARD SOFTWARE LIMITED
+* Export all Personal Data that we hold about you to a local file from the AdGuard Account on adguard.com; 
 
-3rd floor Iris House, John Kennedy St., 3106 Limassol, Cyprus
+* Request information about what data about you we store and for how long, and if we didn’t collect it directly from you, information about the source; 
+
+* Request to correct any incomplete or inaccurate data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified;  
+
+* Delete all your Personal Data. You can do this at will via AdGuard Account, or by sending a request to privacy@adguard.com. In the latter case, we may ask you to verify your identity before fulfilling the request.
+
+If you disagree with our Policy or any of its parts, you have the right to lodge a complaint with your local data protection authority. 
+
+## Safeguarding Measures
+
+As stated in our keynote, your privacy is the highest concern for us. We make every possible effort to protect you and your Personal Data from unauthorized access, alteration, disclosure or destruction. We implement and maintain the following technical and security measures:
+
+* System Access Controls: We take reasonable measures to prevent Personal Data from being used without authorization. These controls shall vary based on the nature of the processing undertaken and may include, among other controls, authentication via passwords and/or two-factor authentication, documented authorization processes, documented change management processes and/or logging of access on several levels.  
+
+* Data Access Controls: We take reasonable measures to ensure that Personal Data is accessible and manageable only by properly authorized staff. Direct database query access is restricted and application access rights are established and enforced to ensure that persons entitled to use a data processing system only have access to the Personal Data to which they have privilege of access; and that personal data cannot be read, copied, modified or removed without authorization in the course of processing.
+
+* Transmission Controls: We take reasonable measures to ensure that it is possible to check and establish to which entities the transfer of personal data by means of data transmission facilities is envisaged so personal data cannot be read, copied, modified or removed without authorization during electronic transmission or transport.
+
+* Input Controls: We take reasonable measures to make it possible to check and establish whether and by whom personal data has been entered into data processing systems, modified or removed.
+
+* Data Backup: Back-ups of the databases are made on a regular basis, are secured, and encrypted to ensure that personal data is protected against accidental destruction or loss when hosted by us.
+
+* Logical Separation: Personal Data is logically segregated on our systems to ensure that Personal Data that is collected for different purposes can be processed separately.
+
+## Consequences of Not Providing Your Personal Data
+
+You are not obligated to provide your Personal Data to us. However, as this information is required for us to provide you with our services or respond to your enquiries, we will not be able to offer some or all our services without it.
+
+## Age Limitations
+
+To the extent not prohibited by applicable law, we do not allow use of our Services, Products and Website by anyone younger than 16 years old. If you learn that anyone younger than 16 has unlawfully provided us with Personal Data, please contact us and we will take steps to delete such information.
+
+## How We Use Cookies
+
+The definition of cookie and how we use them is explained in detail in the [dedicated section](https://adguard.com/privacy/website.html#anchor-1) of our Privacy Policy.
+
+## Changes To This Privacy Policy
+
+We may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Privacy Policy, please contact us at privacy@adguard.com.
