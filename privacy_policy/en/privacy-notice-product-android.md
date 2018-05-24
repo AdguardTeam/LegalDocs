@@ -1,51 +1,94 @@
 # AdGuard for Android Privacy Notice
-*August 03,2017*
-> **Keynote:** AdGuard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
+*May 24,2018*
+> **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
 
-Please read our privacy policy to learn what kind of information we collect via AdGuard for Android app and how we store and use it afterwards.
+Please read our privacy policy to learn what information is being sent to us during the use of AdGuard for Android and how we store and use it afterwards.
 
-## What we collect when you use AdGuard for Android
+## What data is collected and sent by AdGuard for Android
 
-### License check
-AdGuard connects to its servers to validate your license status. When it happens, the following information is sent:
-* Application identifier.
-* Application version.
-* Device name (which includes both device manufacturer name and device model name).
-* Device IP address.
-* Your license key.
-* Amazon purchase ID (if any).
+### License status check
 
-### Ad Blocker filters updates check
-AdGuard connects to its servers to check ad blocker filters updates. When it happens, the following information is sent:
-* Ad blocking filters identifiers.
-* Current ad blocker filters versions.
+To validate the license status AdGuard connects to its servers. When it happens, the following information is being sent:
 
-### Browsing Security site check
-If you enable “Phishing and malware protection” option, AdGuard application checks every web site before you visit it. We use Lookup API technology for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+* Application identifier;
+* Application version;
+* Device name (used in personal account so that the user can see the list of devices activated with their license keys);
+* License key;
+* Application language;
+* Build identifier;
+* Amazon purchase ID (if purchased via Amazon subscription).
 
-When browsing security is enabled, AdGuard periodically does a latency check for the list of browsing security servers; no information is being sent in these requests, though.
+We use this data to check the license status and bind the license to the device. This information is also used to display the user’s license keys in adguard.com personal account.
+
+### License reset
+
+The license is reset upon user request. When it happens, the following information is being transmitted:
+
+* Application identifier
+
+### App updates check
+
+To check for application updates AdGuard connects to its servers. When it happens, the following information is being sent:
+
+* Application identifier;
+* Application version;
+* Application language;
+* Update channel.
+
+Update checks are performed periodically. We do not store or use this data in future (but we aggregate it in anonymous form to count the total number of AdGuard products installations).
+
+### Blocking filters updates check
+
+To check the blocking filters updates AdGuard connects to its servers. When it happens, no information is being sent. The application periodically downloads a file with all filter versions and their available updates.
+
+### Trial period request
+
+When the trial period is requested by user, the following information is being sent to our server to activate the trial period:
+
+* Application identifier;
+* User’s email address (the activation instructions and other pre-reading materials will be sent to the specified email address);
+* Application language;
+* Build identifier.
+
+### Sending a web page complaint
+
+User can submit a report on a problem with a website right from the app. The app will automatically open reports.adguard.com web page and forward some information about its configuration. User can then alter or delete it.
+
+Unless user agrees to submit this information by manually clicking the “Submit” button, none of this information will be saved or sent anywhere. In case they do, the report will become public (but anonymous) on [GitHub](https://github.com/adguardteam/adguardfilters/issues).
+
+### Sending a message to support
+
+Users can send messages to support right from the app, and an option to include a diagnostic report alongside it that contains some information about app and system configuration. No information will be sent anywhere unless the user confirms the submission. 
+
+The following information is included in this report:
+
+* Application identifier;
+* Application version;
+* Device name (which includes both device manufacturer name and device model name);
+* Android version;
+* Android kernel version;
+* List of enabled filters;
+* App configuration.
+
+If the “Send system report” option is enabled, the program will also send additional information (for troubleshooting purposes):
+
+* List of application threads and their stack traces;
+* Log file contents;
+* List of installed applications.
+
+### Browsing Security website check 
+
+If “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+
+When browsing security is enabled, AdGuard periodically performs a latency check for the list of browsing security servers; no information is being sent in these requests, though.
 
 ### Browsing Security community
-If you enable the “Help us in Browsing Security development” setting, the program will periodically send anonymous security-related data:
-* URLs of visited websites that AdGuard identifies as potentially untrustworthy (access to which are blocked by the “Browsing Security” module).
-* Information on the nature of identified threats.
 
-The information described above, when collected by the AdGuard for Android, is generally not correlated with any other personal information related to you and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
+If the “Help us in Browsing Security development” option is enabled, the app will periodically send anonymous security-related data:
 
-### Send feedback
-When you contact the support service via the “Send Feedback” section, the following information is sent along with your message and the email you’ve entered:
-* Application identifier.
-* Application version.
-* Device name (which includes both device manufacturer name and device model name).
-* Android version.
-* Android kernel version.
-* The list of enabled Ad Blocker filters.
-* Configuration of your application.
+* URLs of visited websites that AdGuard identifies as potentially untrustworthy (access to them is blocked by the “Browsing Security” module);
+* Information about the nature of identified threats.
 
-If you enabled the “Send system report” option, the program will also send additional data for the troubleshooting:
-
-* A list of application threads and their stack traces.
-* Log file contents.
-* A list of installed applications.
+The information described above, when collected by AdGuard for Android, is generally not correlated with any other personal information and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
