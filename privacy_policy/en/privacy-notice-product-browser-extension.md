@@ -1,61 +1,61 @@
 # AdGuard Browser Extensions Privacy Notice
-*August 03, 2017*
+*May 24, 2018*
 
-> **Keynote:** AdGuard does not share/sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
+> **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
 
-Please read our privacy policy to learn what kind of information we collect via AdGuard extensions and how we store and use it afterwards.
+Please read our privacy policy to learn what information is being sent to us during the use of AdGuard Browser Extension and how we store and use it afterwards.
 
-## What we collect when you use AdGuard browser extensions
-### AdGuard extension installation
-AdGuard extension connects to its server just after installation or update. When it happens, the following information is sent:
-* Unique extension ID.
-* Extension version.
-* Browser language.
-* “Show acceptable ads” setting value.
+## What data is collected and sent by AdGuard Browser Extension
 
-We do this with a single purpose: to know the number of unique installations of our extension. This information is stored for 24 hours and then it is deleted.
+### Blocking filters updates check
 
-Also AdGuard makes a request to our server in order to get user’s country code. The only purpose of this is to enable proper language-specific filter.
+To check filter updates AdGuard connects to its servers. When it happens, the following information is being sent:
 
-### Ad Blocker filters updates check
-AdGuard extension connects to its servers to check ad blocker filters updates. When it happens, the following information is sent:
-* Ad blocker filters identifiers.
-* Current ad blocker filters versions.
-* Browser extension type.
-* Extension version.
+* Browser type;
+* Browser language;
+* Extension ID (a random number generated on extension installation);
+* Browser extension version;
+* Extension build type.
 
-### Browsing Security site check
-If you enable “Phishing and malware protection” option, AdGuard extension checks every web site before you visit it. We use Lookup API technology for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
- 
+Check for filters updates is performed once a day. We aggregate the data obtained this way in order to identify the number of active users.
+
+
 ### Statistics for ad filters usage
-If you **enable the [“Send statistics for ad filters usage”](https://kb.adguard.com/general/filter-rules-statistics) option**, the following information is sent periodically: 
-* Extension version.
-* Browser type (Chrome/Firefox/Opera/Yandex.Browser/Safari).
-* List of enabled ad filters.
-* The list that consists of the following elements: 
-* The domain name of the website, 
-* The number of recent page views, 
-* The list of filtering rules and Filter ID which were activated on this website, 
-* The domain name of blocked requests is sent for URL rules 
-* The list is created based on the website’s visit statistics since the last time statistical data was sent.
 
+The “Send statistics for ad filters usage” option is disabled by default. Nothing will be sent unless user manually enables it to help us improve our blocking filters. [This Knowledge base article](https://kb.adguard.com/general/filter-rules-statistics) explains how enabling this option helps us.
+
+If user enables the “Send statistics for ad filters usage” option, the following information is sent periodically:
+
+* Browser extension version;
+* Browser type;
+* List of enabled filters;
+* The list that consists of the following elements:
+  * The visited domain name of the website,
+  * The number of recent page views,
+  * The list of filtering rules and filter IDs which were activated on this website,
+  * The domain name of blocked requests is sent for URL rules. The list is created based on the website’s visit statistics since the last time statistical data was sent.
+ 
 By gathering statistics on used filtering rules, we can detect and remove the rules that are no longer used. As a result, it will help all those who use AdGuard.
 
-PLEASE NOTE: We would like to emphasize that this option is **disabled by default**. We get the information listed above from volunteers only.
+
+### Sending a web page complaint
+
+User can submit a report on a problem with a website right from the app. The app will automatically open reports.adguard.com web page and forward some information about its configuration. User can then alter or delete it.
+
+Unless user agrees to submit this information by manually clicking the “Submit” button, none of this information will be saved or sent anywhere. In case they do, the report will become public (but anonymous) on [GitHub](https://github.com/adguardteam/adguardfilters/issues).
+ 
+### Browsing Security website check
+
+If user enables “Phishing and malware protection” option, AdGuard extension checks every website before user visits it. We use the Lookup API technology for this purpose, and the information about the visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 
 ### Browsing Security community
-If you enabled the “Help us in Browsing security filters development”, the program will periodically send anonymous security-related data:
-* URLs of visited websites that AdGuard identifies as potentially untrustworthy (access to which are blocked by the “Browsing Security” module).
-* Information on the nature of identified threats.
-* Browser language.
 
-The information described above, when collected by the AdGuard browser extension is generally not correlated with any other personal information related to you and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
+If user enables the “Help us in Browsing security filters development” option, the program will periodically send anonymous security-related data:
 
-### Complaint on some web page
-When you send a complaint on some web page, the following information is sent:
-* Web page address.
-* Selected complaint type.
-* User’s comment.
+* URLs of visited websites that AdGuard identifies as potentially untrustworthy, along with information about the nature of detected threats;
+* Browser language;
+* Additional statistical information about the threats detected by AdGuard software.
 
+The information described above, when collected by the AdGuard browser extension, is generally not correlated with any other personal information related to user and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
