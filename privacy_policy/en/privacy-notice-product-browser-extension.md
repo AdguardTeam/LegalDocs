@@ -24,7 +24,7 @@ Check for filters updates is performed once a day. We aggregate the data obtaine
 
 ### Statistics for ad filters usage
 
-The “Send statistics for ad filters usage” option is disabled by default. Nothing will be sent unless user manually enables it to help us improve our blocking filters. [This Knowledge base article](https://kb.adguard.com/general/filter-rules-statistics) explains how enabling this option helps us.
+The “Send statistics for ad filters usage” option is **disabled by default**. Nothing will be sent unless user manually enables it to help us improve our blocking filters. [This Knowledge base article](https://kb.adguard.com/general/filter-rules-statistics) explains how enabling this option helps us.
 
 If user enables the “Send statistics for ad filters usage” option, the following information is sent periodically:
 
