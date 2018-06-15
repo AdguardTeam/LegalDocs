@@ -78,6 +78,21 @@ If the “Send system report” option is enabled, the program will also send ad
 * Log file contents;
 * List of installed applications.
 
+### When AdGuard crashes
+
+Upon the first launch, users are asked whether they allow AdGuard to send automatic crash reports. If they do (and only if they do), the following information will be sent to our servers when the app crashes:
+
+* Device name and model;
+* OS version and kernel build;
+* ROOT status;
+* Unidentifyable Android ID;
+* Amounts of total and free RAM;
+* Screen orientation;
+* Screen resolution and density;
+* Application name and version.
+
+This data is then used by our developers to investigate the crash and fix the potential problem.
+
 ### Browsing Security website check 
 
 If “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
