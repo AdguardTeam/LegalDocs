@@ -1,5 +1,5 @@
 # AdGuard for Android Privacy Notice
-*May 24,2018*
+*June 18,2018*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
@@ -77,6 +77,22 @@ If the “Send system report” option is enabled, the program will also send ad
 * List of application threads and their stack traces;
 * Log file contents;
 * List of installed applications.
+
+### When AdGuard crashes
+
+Upon the first launch, users are asked whether they allow AdGuard to send automatic crash reports. If they do (and only if they do), the following information will be sent to our servers when the app crashes:
+
+* Device name and model;
+* OS version and kernel build;
+* ROOT status;
+* Unidentifyable Android ID;
+* Amounts of total and free RAM;
+* Screen orientation;
+* Screen resolution and density;
+* Application name and version;
+* Information related to the crash (error message and stack trace).
+
+This data is then used by our developers to investigate the crash and fix the potential problem.
 
 ### Browsing Security website check 
 
