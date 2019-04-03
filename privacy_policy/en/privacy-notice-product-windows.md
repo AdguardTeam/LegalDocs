@@ -60,7 +60,7 @@ The check for available notifications is performed upon user request. When it ha
 If AdGuard crashes, it creates an automatic crash report. Upon the next launch AdGuard will ask you to send it to us. In this report, the following information is being sent:
 
 * Stack trace;
-* Memory dump (only if the crash was caused by an error in the CoreLibs);
+* Memory minidump (only in case of a crash in the native code);
 * Computer's name;
 * AdGuard version;
 * AdGuard settings;
