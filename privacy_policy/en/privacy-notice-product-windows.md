@@ -55,6 +55,20 @@ The check for available notifications is performed upon user request. When it ha
 
 * Application Identifier
 
+### After the program crashes
+
+If AdGuard crashes, it creates an automatic crash report. Upon the next launch AdGuard will ask you to send it to us. In this report, the following information is being sent:
+
+* Stack trace;
+* Memory dump (only if the crash was caused by an error in the CoreLibs);
+* Computer's name;
+* AdGuard version;
+* AdGuard settings;
+* Application Identifier;
+* Active Windows user name;
+* .NET Framework version;
+* List of active processes.
+
 ### After program uninstall
 
 After the program is uninstalled, the following information is being sent:
