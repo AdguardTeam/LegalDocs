@@ -52,7 +52,15 @@ If the "Include a diagnostic report" option is enabled, the app will also send t
 
 In case of a malfunction that leads to an unexpected app crash, the user is prompted to send a special crash report. If they agree, we receive following information:
 
-* Contents of a standard Mac crash report.
+* Unique application ID;
+* Unique device ID;
+* Device model, its memory size and disk space;
+* Application version;
+* OS and Kernel versions;
+* Stack trace;
+* List of components used by the application and their versions;
+* OS's last boot timestamp;
+* Application's last boot timestamp.
 
 This information is used for further diagnostics and elimination of the problem.
 
