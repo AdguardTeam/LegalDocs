@@ -52,8 +52,8 @@ If the "Include a diagnostic report" option is enabled, the app will also send t
 
 In case of a malfunction that leads to an unexpected app crash, the user is prompted to send a special crash report. If they agree, we receive following information:
 
-* Unique application ID;
-* Unique device ID;
+* Application ID;
+* Device hardware hash;
 * Device model, its memory size and disk space;
 * Application version;
 * OS and Kernel versions;
