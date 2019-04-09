@@ -16,9 +16,9 @@ AdGuard Home connects to the DNS servers configured as "Upstreams", and sends DN
 
 AdGuard Home periodically downloads a [.json file](https://github.com/AdguardTeam/AdGuardHome/blob/master/version.json) to check if there's a newer version. No information is being sent when that happens.
 
-### AdGuard filters update check
+### Filters update check
 
-AdGuard Home connects to AdGuard servers to check updates for filters developed by AdGuard. When it happens, nothing is being sent to the servers. AdGuard Home periodically downloads a file with all filters versions and their available updates. Other filters updates are subject to their respective developers' policies.
+To check updates for enabled filters, AdGuard Home connects to their respective servers. When it happens, nothing is being sent to these servers. AdGuard Home periodically downloads a file with all filters' versions and their available updates.
 
 ### When user configures AdGuard Home to use Browsing Security (disabled by default):
 
