@@ -1,5 +1,5 @@
 # AdGuard for Windows Privacy Notice
-*May 24, 2018*
+*April 03, 2019*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
@@ -54,6 +54,20 @@ AdGuard connects to its servers to check ad blocker filters updates. When it hap
 The check for available notifications is performed upon user request. When it happens, the next information is being sent:
 
 * Application Identifier
+
+### After the program crashes
+
+If AdGuard crashes, it creates an automatic crash report. Upon the next launch AdGuard will ask you to send it to us. In this report, the following information is being sent:
+
+* Stack trace;
+* Memory minidump (only in case of a crash in the native code);
+* Computer's name;
+* AdGuard version;
+* AdGuard settings;
+* Application Identifier;
+* Active Windows user name;
+* .NET Framework version;
+* List of active processes.
 
 ### After program uninstall
 
