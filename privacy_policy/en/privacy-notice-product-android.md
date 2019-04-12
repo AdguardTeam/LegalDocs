@@ -90,7 +90,8 @@ Upon the first launch, users are asked whether they allow AdGuard to send automa
 * Screen orientation;
 * Screen resolution and density;
 * Application name and version;
-* Information related to the crash (error message and stack trace).
+* Information related to the crash (error message and stack trace);
+* The last lines of the log file.
 
 This data is then used by our developers to investigate the crash and fix the potential problem.
 
