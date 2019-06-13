@@ -1,5 +1,5 @@
 # AdGuard pour Android : Avis de confidentialité 
-*18 Juin 2018*
+*18 juin 2018*
 > **Note liminaire:** Nous ne partageons ni ne vendons aucune partie de vos données personnelles. Nous sommes fiers de déclarer que nous luttons pour la protection de la vie privée des utilisateurs et nous nous engageons fermement à respecter ce principe et à être aussi transparents que possible.
 
 Notre avis de confidentialité énumère l'information qui est recueillie et le traitement qui y est appliqué. Les données recueillies ne contiennent rien de plus que ce qui est essentiel pour fournir toutes les fonctionnalités des produits AdGuard, et ne sont jamais partagées avec des tiers. Nous ne recueillons rien à des fins de suivi et prenons toutes les mesures techniques, administratives et physiques nécessaires pour protéger les informations que nous recevons.
@@ -73,7 +73,7 @@ Normalement ces messages contiennent l'information suivante :
 * Liste des filtres mis en marche;
 * La configuration des applications.
 
-Si l'option “Envoyer rapport de système” est activée, le programme va envoyer l'information additionnelle suivante (utilisée dans le cadre du dépannage uniquement):
+Si l'option “Envoyer un rapport de système” est activée, le programme va envoyer l'information additionnelle suivante (utilisée dans le cadre du dépannage uniquement):
 
 * Liste des threads d'application et leurs traces de pile;
 * Contenu du journal;

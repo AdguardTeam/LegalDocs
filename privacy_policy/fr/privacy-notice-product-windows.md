@@ -103,7 +103,7 @@ Le message au service contient les informations suivantes :
 * Clef de licence.
 
 
-Si l'option “Envoyer rapport de système” est activée, le programme va envoyer l'information additionnelle suivante pour effectuer le dépannage :
+Si l'option “Envoyer un rapport de système” est activée, le programme va envoyer l'information additionnelle suivante pour effectuer le dépannage :
 
 * Liste des procès actifs;
 * Contenu du fichier de journalisation d' AdGuard y compris la liste des erreurs survenues depuis le dernier démarrage du programme.
