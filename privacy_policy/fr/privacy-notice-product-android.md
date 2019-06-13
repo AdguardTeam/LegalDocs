@@ -73,7 +73,7 @@ Normalement ces messages contiennent l'information suivante :
 * Liste des filtres mis en marche;
 * La configuration des applications.
 
-Si l'option “Envoyer un rapport de système” est activée, le programme va envoyer l'information additionnelle suivante (utilisée dans le cadre du dépannage uniquement):
+Si l'option “Envoyer un rapport de système” est activée, le programme va envoyer l'information additionnelle suivante (utilisée dans le cadre du dépannage uniquement) :
 
 * Liste des threads d'application et leurs traces de pile;
 * Contenu du journal;
