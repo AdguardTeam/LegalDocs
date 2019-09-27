@@ -1,5 +1,5 @@
 # AdGuard for Windows Privacy Notice
-*September 26, 2019*
+*September 27, 2019*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
@@ -73,7 +73,13 @@ If AdGuard crashes, it creates an automatic crash report. Upon the next launch A
 
 If AdGuard crashes during the installation process, it creates an automatic crash report and asks you to send it to us. If you agree, the following information will be sent:
 
-* Information about system;
+* Stack trace;
+* Computer's name;
+* AdGuard version;
+* List of active processes;
+* .NET version;
+* Application identifier;
+* Active Windows user name;
 * Installer logs.
 
 ### After program uninstall
