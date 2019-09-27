@@ -1,5 +1,5 @@
 # AdGuard for iOS Privacy Notice
-*June 07, 2019*
+*September 27, 2019*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
@@ -48,5 +48,23 @@ Unless user agrees to submit this information by manually clicking the “Submit
 
 AdGuard for iOS users can use this option to activate app's Premium features. When you log into AdGuard personal account via the app, the following information is being sent:
 
-* Entered login and password;
-* Application identifier.
+* Entered login/password pair or license key;
+* Application identifier;
+* Device identifier;
+* Application version;
+* Device name.
+
+### Logging out of personal account (only AdGuard for iOS)
+
+The following information is sent to our servers when you log out of personal account via the app:
+
+* Application name;
+* Application identifier;
+* Application version.
+
+### When you first start the app (only AdGuard for iOS)
+
+* Application name;
+* Application identifier;
+* Application version; 
+* Device name.
