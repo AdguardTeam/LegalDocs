@@ -1,14 +1,29 @@
 # AdGuard for Windows Privacy Notice
-*September 27, 2019*
+*November 06, 2019*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
 
-Please read our privacy policy to learn what information is being sent to us during the use of AdGuard for Windows and how we store and use it afterwards.
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
 
-## What data is collected and sent by AdGuard for Windows
+## What data can AdGuard for Windows collect and when
 
-### License status check
+* [License status check](#license-status-check)
+* [License reset](#license-reset)
+* [Trial period activation](#trial-period-activation)
+* [Program updates check](#app-update-check)
+* [Blocking filters updates check](#filters-updates-check)
+* [Checking for available notifications](#notification-check)
+* [Program crash](#app-crash)
+* [Installer crash](#installer-crash)
+* [Program uninstall](#app-uninstall)
+* [Sending a web page complaint](#web-page-complaint)
+* [Sending a message to support](#support-message)
+* [Browsing Security website check](#browsing-security-check)
+* [Browsing Security community](#browsing-security-community)
+* [Parental Control website heck](#parental-control-check)
+
+### <a id="license-status-check"></a> License status check
 
 To validate the license status AdGuard connects to its servers. When it happens, the following information is being sent:
 
@@ -25,13 +40,20 @@ To validate the license status AdGuard connects to its servers. When it happens,
 
 We use this data to check the license status. MAC and hardware ID hashes are also used to bind the license to the computer. This information is also used to display the user’s license keys in adguard.com personal account.
 
-### License reset
+### <a id="license-reset"></a> License reset
 
 The license is reset upon user request. When it happens, the following information is being transmitted:
 
-* Application identifier
+* Application ID
 
-### Program updates check
+### <a id="trial-period-activation"></a> Trial period activation
+
+When a user activates the trial period, the following information is being sent to our server:
+
+* Application ID;
+* Partial settings configuration.
+
+### <a id="app-update-check"></a> Program updates check
 
 AdGuard connects to its servers to check application updates. When it happens, the following information is being sent:
 
@@ -45,17 +67,17 @@ AdGuard connects to its servers to check application updates. When it happens, t
 
 Program updates check is performed periodically or when prompted by user. We do not store and use this data in future.
 
-### Filters updates check
+### <a id="filters-updates-check"></a> Blocking filters updates check
 
-AdGuard connects to its servers to check ad blocker filters updates. When it happens, nothing  is being sent to our server. The program periodically downloads a file with all filters versions and their available updates.
+AdGuard connects to its servers to check ad blocker filters updates. When it happens, nothing is being sent to our server. The program periodically downloads a file with all filters versions and their available updates.
 
-### Checking for available notifications
+### <a id="notification-check"></a> Checking for available notifications
 
 The check for available notifications is performed upon user request. When it happens, the next information is being sent:
 
 * Application Identifier
 
-### After the program crashes
+### <a id="app-crash"></a> Program crash
 
 If AdGuard crashes, it creates an automatic crash report. Upon the next launch AdGuard will ask you to send it to us. In this report, the following information is being sent:
 
@@ -69,7 +91,7 @@ If AdGuard crashes, it creates an automatic crash report. Upon the next launch A
 * .NET Framework version;
 * List of active processes.
 
-### After the installer crashes
+### <a id="installer-crash"></a> Installer crash
 
 If AdGuard crashes during the installation process, it creates an automatic crash report and asks you to send it to us. If you agree, the following information will be sent:
 
@@ -82,19 +104,19 @@ If AdGuard crashes during the installation process, it creates an automatic cras
 * Active Windows user name;
 * Installer logs.
 
-### After program uninstall
+### <a id="app-uninstall"></a> Program uninstall
 
 After the program is uninstalled, the following information is being sent:
 
 * Application Identifier
 
-### Sending a web page complaint
+### <a id="web-page-complaint"></a> Sending a web page complaint
 
 User can submit a report on a problem with a website right from the app. The app will automatically open reports.adguard.com web page and forward some information about its configuration. User can then alter or delete it.
 
 Unless user agrees to submit this information by manually clicking the “Submit” button, none of this information will be saved or sent anywhere. In case they do, the report will become public (but anonymous) on [GitHub](https://github.com/adguardteam/adguardfilters/issues).
 
-### Sending a message to support
+### <a id="support-message"></a> Sending a message to support
 
 Users can send messages to support right from the app. If they do, a special file containing some information about app settings and OS configuration will be sent. This data is often required for troubleshooting purposes. User also has an option to include a diagnostic report that contains additional information. Nothing will be sent unless the user manually confirms the submission.
 
@@ -113,17 +135,13 @@ If the “Send system report” option is enabled, the program will also send ad
 * List of active processes;
 * Contents of AdGuard log file that includes the list of errors that occured since the last launch of the program.
 
-### Browsing Security database updates check
+### <a id="browsing-security-check"></a> Browsing Security website check
 
-AdGuard uses [Safebrowsing Protocol v2](https://developers.google.com/safe-browsing/) to check browsing security local database updates. The Safebrowsing Protocol v2 is very privacy friendly, and it is used to exchange data only with AdGuard servers using hashed URLs so the server never knows the actual URLs queried by the clients. 
+If "Phishing and malware protection" option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 
-In case the domain is present in the local safebrowsing database, it is additionally checked against another database located on our server. Information about the domain is also sent in hashed form, so we don’t know the specific URL.
+When browsing security is enabled, AdGuard periodically performs a latency check for the list of browsing security servers; no information is being sent in these requests, though.
 
-### Parental Control
-
-When Parental Control is enabled, AdGuard uses its own web service to check websites against the database. Every time the user is about to visit the website, a request that contains this website’s domain name is sent to this web service. This information is not stored anywhere and is not used in any way other than to tell if the website is included in the Parental Control blacklist.
-
-### Browsing Security community
+### <a id="browsing-security-community"></a> Browsing Security community
 
 If user enables the “Take part in the development of a browsing security option”, the program will periodically send anonymous security-related data:
 
@@ -131,3 +149,7 @@ If user enables the “Take part in the development of a browsing security optio
 * Additional statistical information about threats discovered by AdGuard software.
 
 The information described above, when collected by AdGuard for Windows, is generally not correlated with any other personal information related to the user, and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
+
+### <a id="parental-control-check"></a> Parental Control website check
+
+When Parental Control is enabled, AdGuard uses its own web service to check websites against the database. Every time the user is about to visit the website, a request that contains this website’s domain name is sent to this web service. This information is not stored anywhere and is not used in any way other than to tell if the website is included in the Parental Control blacklist.

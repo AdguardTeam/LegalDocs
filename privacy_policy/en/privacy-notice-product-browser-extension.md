@@ -1,15 +1,21 @@
 # AdGuard Browser Extensions Privacy Notice
-*May 24, 2018*
+*November 06, 2019*
 
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
 
-Please read our privacy policy to learn what information is being sent to us during the use of AdGuard Browser Extension and how we store and use it afterwards.
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
 
-## What data is collected and sent by AdGuard Browser Extension
+## What data can AdGuard Browser Extension collect and when
 
-### Blocking filters updates check
+* [Blocking filters updates check](#filters-updates-check)
+* [Statistics for ad filters usage](#ad-filters-stats)
+* [Sending a web page complaint](#web-page-complaint)
+* [Browsing Security website check](#browsing-security-check)
+* [Browsing Security community](#browsing-security-community)
+
+### <a id="filters-updates-check"></a> Blocking filters updates check
 
 To check filter updates AdGuard connects to its servers. When it happens, the following information is being sent:
 
@@ -22,7 +28,7 @@ To check filter updates AdGuard connects to its servers. When it happens, the fo
 Check for filters updates is performed once a day. We aggregate the data obtained this way in order to identify the number of active users.
 
 
-### Statistics for ad filters usage
+### <a id="ad-filters-stats"></a> Statistics for ad filters usage
 
 The “Send statistics for ad filters usage” option is **disabled by default**. Nothing will be sent unless user manually enables it to help us improve our blocking filters. [This Knowledge base article](https://kb.adguard.com/general/filter-rules-statistics) explains how enabling this option helps us.
 
@@ -40,17 +46,17 @@ If user enables the “Send statistics for ad filters usage” option, the follo
 By gathering statistics on used filtering rules, we can detect and remove the rules that are no longer used. As a result, it will help all those who use AdGuard.
 
 
-### Sending a web page complaint
+### <a id="web-page-complaint"></a> Sending a web page complaint
 
 User can submit a report on a problem with a website right from the app. The app will automatically open reports.adguard.com web page and forward some information about its configuration. User can then alter or delete it.
 
 Unless user agrees to submit this information by manually clicking the “Submit” button, none of this information will be saved or sent anywhere. In case they do, the report will become public (but anonymous) on [GitHub](https://github.com/adguardteam/adguardfilters/issues).
  
-### Browsing Security website check
+### <a id="browsing-security-check"></a> Browsing Security website check 
 
 If user enables “Phishing and malware protection” option, AdGuard extension checks every website before user visits it. We use the Lookup API technology for this purpose, and the information about the visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 
-### Browsing Security community
+### <a id="browsing-security-community"></a> Browsing Security community
 
 If user enables the “Help us in Browsing security filters development” option, the program will periodically send anonymous security-related data:
 
