@@ -1,5 +1,5 @@
 # Privacy Policy: General notes
-*May 24, 2018*
+*November 06, 2019*
 
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
