@@ -96,8 +96,6 @@ This information is used for further diagnostics and elimination of the problem.
 
 If “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 
-When browsing security is enabled, AdGuard periodically performs a latency check for the list of browsing security servers; no information is being sent in these requests, though.
-
 ### <a id="browsing-security-community"></a> Browsing Security community
 
 If the "Help us in Browsing Security development" option is enabled, the app will periodically send anonymous security-related data:

@@ -139,8 +139,6 @@ If the “Send system report” option is enabled, the program will also send ad
 
 If "Phishing and malware protection" option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 
-When browsing security is enabled, AdGuard periodically performs a latency check for the list of browsing security servers; no information is being sent in these requests, though.
-
 ### <a id="browsing-security-community"></a> Browsing Security community
 
 If user enables the “Take part in the development of a browsing security option”, the program will periodically send anonymous security-related data:
@@ -152,4 +150,4 @@ The information described above, when collected by AdGuard for Windows, is gener
 
 ### <a id="parental-control-check"></a> Parental Control website check
 
-When Parental Control is enabled, AdGuard uses its own web service to check websites against the database. Every time the user is about to visit the website, a request that contains this website’s domain name is sent to this web service. This information is not stored anywhere and is not used in any way other than to tell if the website is included in the Parental Control blacklist.
+When Parental Control is enabled, AdGuard uses its own web service to check websites against the database. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
