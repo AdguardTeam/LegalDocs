@@ -21,7 +21,7 @@ We believe that privacy is a fundamental human right. That's why we are transpar
 * [Sending a message to support](#support-message)
 * [Browsing Security website check](#browsing-security-check)
 * [Browsing Security community](#browsing-security-community)
-* [Parental Control website heck](#parental-control-check)
+* [Parental Control website check](#parental-control-check)
 
 ### <a id="license-status-check"></a> License status check
 
