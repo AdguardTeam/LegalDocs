@@ -76,7 +76,7 @@ The following information is included in this report:
 
 If the "Include a diagnostic report" option is enabled, the app will also send the contents of the AdGuard log file, which includes various app’s messages (errors, warnings). This information is used for troubleshooting purposes.
 
-### ### <a id="app-crash"></a> App crash
+### <a id="app-crash"></a> App crash
 
 In case of a malfunction that leads to an unexpected app crash, the user is prompted to send a special crash report. If they agree, we receive following information:
 
