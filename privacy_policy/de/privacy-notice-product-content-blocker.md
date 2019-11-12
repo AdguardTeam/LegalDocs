@@ -1,19 +1,19 @@
 # AdGuard-Inhaltsblocker: Datenschutzhinweis
-*May 24, 2018*
+*November 06, 2019*
 
 > **Kernaussage**: Wir teilen oder verkaufen Ihre personenbezogenen Daten nicht. Wir sind stolz darauf, dass wir einer der Kämpfer für die Privatsphäre der Nutzer sind, und wir fühlen uns diesem Prinzip verpflichtet und sind bestrebt, so transparent wie möglich zu sein.
 
-Unsere Datenschutzerklärung enthält eine Liste der gesammelten Informationen und der darauf angewandten Verarbeitung. Wir sammeln nur die Informationen, die notwendig für die volle Funktionalität der AdGuard-Produkte sind, und geben sie nie an Drittanbieter weiter. Wir sammeln keine Daten für Trackingzwecke und ergreifen alle notwendigen technischen, administrativen und physischen Maßnahmen, um die erhaltenen Informationen zu schützen. 
+Diese Datenschutzerklärung enthält alle Informationen, die wir möglicherweise sammeln, und erklärt, warum wir dies tun und wie wir sie weiter verwenden. Die von uns gesammelten Informationen enthalten nur die Daten, die für die vollständige Funktionalität der AdGuard-Produkte entscheidend sind.
 
-Bitte lesen Sie unsere Datenschutzerklärung, um zu erfahren, welche Informationen während der Nutzung von AdGuard für Android an uns gesendet werden und wie wir sie speichern und danach verwenden.
+Wir sind überzeugt, dass die Privatsphäre ein grundlegendes Menschenrecht ist. Deshalb sind wir transparent darüber, was AdGuard tut, und erklären den Zweck jedes einzelnen Teils der Informationen, die von unseren Apps gesammelt werden.
 
-## Welche Daten von AdGuard-Inhaltsblocker gesammelt und gesendet werden
+## Welche Daten von AdGuard-Inhaltsblocker gesammelt werden können und in welchen Fällen
 
 ### Suche nach Filter-Updates
 
 Um die Updates der Sperrfilter zu überprüfen, verbindet sich AdGuard mit seinen Servern. Wenn es passiert, werden die folgenden Informationen gesendet: 
 
 * Annwendungssprache;
-* Anbieterkennung.
+* Anbieterkennung
 
 Die Suche nach Filter-Updates wird einmal pro Tag durchgeführt. Wir aggregieren die auf diese Weise erhaltenen Daten, um die Anzahl der aktiven Nutzer zu bestimmen.
