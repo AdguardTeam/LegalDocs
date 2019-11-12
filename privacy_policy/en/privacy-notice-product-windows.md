@@ -1,5 +1,6 @@
 # AdGuard for Windows Privacy Notice
 *November 06, 2019*
+
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
@@ -44,7 +45,7 @@ We use this data to check the license status. MAC and hardware ID hashes are als
 
 The license is reset upon user request. When it happens, the following information is being transmitted:
 
-* Application ID
+* Application ID.
 
 ### <a id="trial-period-activation"></a> Trial period activation
 
@@ -75,7 +76,7 @@ AdGuard connects to its servers to check ad blocker filters updates. When it hap
 
 The check for available notifications is performed upon user request. When it happens, the next information is being sent:
 
-* Application Identifier
+* Application Identifier.
 
 ### <a id="app-crash"></a> Program crash
 
