@@ -1,5 +1,5 @@
 # Avis de confidentialité : remarques générales
-*24 mai 2018*
+*06 novembre 2019*
 
 > **Note liminaire:** Nous ne partageons ni ne vendons aucune partie de vos données personnelles. Nous sommes fiers de déclarer que nous luttons pour la protection de la vie privée des utilisateurs et nous nous engageons fermement à respecter ce principe et à être aussi transparents que possible.
 
@@ -8,7 +8,7 @@
 ADGUARD SOFTWARE LIMITED (“On”, “Notre” ou “Nous”) collecte et analyse vos Données Personnelles conformément au présent Avis de Confidentialité et dans le respect des lois applicables en matière de protection des données. Cet Avis vous fournit les informations nécessaires concernant vos droits et nos obligations, et explique comment, pourquoi et quand nous traitons vos données personnelles.
 Notre principe général est de ne recueillir que les informations nécessaires pour vous fournir toutes les fonctionnalités de nos produits et services.
 
-ADGUARD SOFTWARE LIMITED est une société enregistrée à Limassol, Chypre, dont le siège social se trouve au 3ème étage Iris House, John Kennedy St., 3106 Limassol, Chypre et qui agit en tant que responsable du traitement de vos données.
+ADGUARD SOFTWARE LIMITED est une société enregistrée à Limassol, Chypre, dont le siège social se trouve dans le bureau 1 au 3ème étage bu bâtiment Panayides Building, rue Chrysanthou Mylona, 3030, et qui agit en tant que responsable du traitement de vos données.
 
 ## Ce que nous considérons comme “Données Personnelles”
 
