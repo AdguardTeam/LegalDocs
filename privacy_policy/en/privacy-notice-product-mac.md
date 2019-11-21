@@ -103,4 +103,4 @@ If the "Help us in Browsing Security development" option is enabled, the app wil
 * URLs of visited websites that AdGuard identifies as potentially untrustworthy (access to them is blocked by the "Browsing Security" module);
 * Information about the nature of identified threats.
 
-The information described above, when collected by AdGuard for Android, is generally not correlated with any other personal information and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
+The information described above, when collected by AdGuard for Mac, is generally not correlated with any other personal information and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
