@@ -1,5 +1,6 @@
 # AdGuard DNS Privacy Notice
 *November 06, 2019*
+
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
@@ -8,7 +9,9 @@ We believe that privacy is a fundamental human right. That's why we are transpar
 
 ## What data can AdGuard DNS collect and when
 
-### When AdGuard DNS user tries to visit a page, our server receives following information:
+### Visiting a page
+
+When user tries to visit a web page, AdGuard server receives the following information:
 
 * User’s IP-address;
 * DNS request which contains domain name. 

@@ -27,7 +27,6 @@ To check filter updates AdGuard connects to its servers. When it happens, the fo
 
 Check for filters updates is performed once a day. We aggregate the data obtained this way in order to identify the number of active users.
 
-
 ### <a id="ad-filters-stats"></a> Statistics for ad filters usage
 
 The “Send statistics for ad filters usage” option is **disabled by default**. Nothing will be sent unless user manually enables it to help us improve our blocking filters. [This Knowledge base article](https://kb.adguard.com/general/filter-rules-statistics) explains how enabling this option helps us.
@@ -44,7 +43,6 @@ If user enables the “Send statistics for ad filters usage” option, the follo
   * The domain name of blocked requests is sent for URL rules. The list is created based on the website’s visit statistics since the last time statistical data was sent.
  
 By gathering statistics on used filtering rules, we can detect and remove the rules that are no longer used. As a result, it will help all those who use AdGuard.
-
 
 ### <a id="web-page-complaint"></a> Sending a web page complaint
 
