@@ -1,14 +1,25 @@
 # AdGuard for Mac Privacy Notice
-*April 09, 2019*
+*November 06, 2019*
+
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
 
-Please read our privacy policy to learn what information is being sent to us during the use of AdGuard for Mac and how we store and use it afterwards.
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
 
-## What data is collected and sent by AdGuard for Mac
+## What data can AdGuard for Mac collect and when
 
-### License status check
+* [License status check](#license-status-check)
+* [License reset](#license-reset)
+* [Blocking filters updates check](#filters-updates-check)
+* [Trial period activation](#trial-period-activation)
+* [Sending a web page complaint](#web-page-complaint)
+* [Sending a message to support](#support-message)
+* [App crash](#app-crash)
+* [Browsing Security website check](#browsing-security-check)
+* [Browsing Security community](#browsing-security-community)
+
+### <a id="license-status-check"></a> License status check
 
 To validate the license status AdGuard connects to its servers. When it happens, the following information is being sent:
 
@@ -23,17 +34,35 @@ To validate the license status AdGuard connects to its servers. When it happens,
 
 We use this data to check the license status. MAC and hardware ID hashes are also used to bind the license to the computer. This information is also used to display the user’s license keys in adguard.com personal account.
 
-### License reset
+### <a id="license-reset"></a> License reset
 
 The license is reset upon user request. When it happens, the following information is being transmitted:
 
-* Application identifier
+* Application identifier.
 
-### Filter updates check
+### <a id="filters-updates-check"></a> Blocking filters updates check
 
 To check ad blocker filters updates AdGuard connects to its servers. When it happens, nothing is being sent to our server. The application periodically downloads a file with all filters versions and their available updates.
 
-### Sending a message to support
+### <a id="trial-period-activation"></a> Trial period activation
+
+When a user activates the trial period, the following information is being sent to our server:
+
+* Computer name;
+* MAC address hash;
+* Hardware ID hash;
+* OS language;
+* Application identifier;
+* Application version;
+* Build identifier.
+
+### <a id="web-page-complaint"></a> Sending a web page complaint
+
+User can submit a report on a problem with a website right from the app. The app will automatically open reports.adguard.com web page and forward some information about its configuration. User can then alter or delete it.
+
+Unless user agrees to submit this information by manually clicking the “Submit” button, none of this information will be saved or sent anywhere. In case they do, the report will become public (but anonymous) on [GitHub](https://github.com/adguardteam/adguardfilters/issues).
+
+### <a id="support-message"></a> Sending a message to support
 
 Users can send messages to support right from the app. If they do, a special file containing some information about app settings and OS configuration will be sent. This data is often required to solve potential problems with AdGuard app. User also has an option to include a diagnostic report that contains additional information. Nothing will be sent unless the user manually confirms the submission. 
 
@@ -48,7 +77,7 @@ The following information is included in this report:
 
 If the "Include a diagnostic report" option is enabled, the app will also send the contents of the AdGuard log file, which includes various app’s messages (errors, warnings). This information is used for troubleshooting purposes.
 
-### When the app crashes
+### <a id="app-crash"></a> App crash
 
 In case of a malfunction that leads to an unexpected app crash, the user is prompted to send a special crash report. If they agree, we receive following information:
 
@@ -64,6 +93,15 @@ In case of a malfunction that leads to an unexpected app crash, the user is prom
 
 This information is used for further diagnostics and elimination of the problem.
 
-### Browsing security website check
+### <a id="browsing-security-check"></a> Browsing security website check
 
-If [“Browsing Security”](https://kb.adguard.com/en/general/how-malware-protection-works) option is enabled, AdGuard checks every website before user visits it. We use the Lookup API technology for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+If “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+
+### <a id="browsing-security-community"></a> Browsing Security community
+
+If the "Help us in Browsing Security development" option is enabled, the app will periodically send anonymous security-related data:
+
+* URLs of visited websites that AdGuard identifies as potentially untrustworthy (access to them is blocked by the "Browsing Security" module);
+* Information about the nature of identified threats.
+
+The information described above, when collected by AdGuard for Mac, is generally not correlated with any other personal information and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.

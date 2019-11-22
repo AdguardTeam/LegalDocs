@@ -1,12 +1,13 @@
 # AdGuard Content Blocker Privacy Notice
-*May 24, 2018*
+*November 06, 2019*
+
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
 
-Please read our privacy policy to learn what information is being sent to us during the use of AdGuard Content Blocker and how we store and use it afterwards.
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
 
-## What data is collected and sent by AdGuard Content Blocker
+## What data can AdGuard Content Blocker collect and when
 
 ### Blocking filters updates check
 

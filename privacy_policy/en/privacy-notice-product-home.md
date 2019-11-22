@@ -1,29 +1,36 @@
 # AdGuard Home Privacy Notice
-*April 03, 2019*
+*November 06, 2019*
+
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-Our privacy policy lists the information that is collected and the processing applied to it. All the info collected includes no more than is crucial to provide full functionality of AdGuard products, and is never shared with any third parties. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
 
-Please read our privacy policy to learn what information is being sent to us during the use of AdGuard Home and how we store and use it afterwards.
+We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
 
-## What data can be sent by AdGuard Home
+## What data can AdGuard Home collect and when
 
-### Processing DNS queries
+* [Processing DNS queries](#dns-queries)
+* [Update check](#update-check)
+* [Filters update check](#filters-updates-check)
+* [Browsing Security domain check](#browsing-security-check)
+* [Parental Control domain check](#parental-control-check)
+
+### <a id="dns-queries"></a> Processing DNS queries
 
 AdGuard Home connects to the DNS servers configured as "Upstreams", and sends DNS queries to them.
 
-### Update check
+### <a id="update-check"></a> Update check
 
 AdGuard Home periodically downloads a [.json file](https://github.com/AdguardTeam/AdGuardHome/blob/master/version.json) to check if there's a newer version. No information is being sent when that happens.
 
-### Filters update check
+### <a id="filters-updates-check"></a> Filters update check
 
 To check updates for enabled filters, AdGuard Home connects to their respective servers. When it happens, nothing is being sent to these servers. AdGuard Home periodically downloads a file with all filters' versions and their available updates.
 
-### When user configures AdGuard Home to use Browsing Security (disabled by default):
+### <a id="browsing-security-check"></a> Browsing Security domain check (disabled by default):
 
 For each requested domain, AdGuard Home connects to the Browsing Security server and passes an 8-character prefix of the domain name's SHA256 hash. The server responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
 
-### When user configures AdGuard Home to use Parental Control (disabled by default):
+### <a id="parental-control-check"></a> Parental Control domain check (disabled by default):
 
 For each requested domain, AdGuard Home connects to the Parental Control web service and passes an 8-character prefix of the domain name's SHA256 hash. The service responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
