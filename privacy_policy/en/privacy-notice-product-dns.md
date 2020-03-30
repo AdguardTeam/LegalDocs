@@ -5,7 +5,7 @@
 
 We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does, and explain the purpose of every little bit of information that may be gathered by our apps and services.
 
-This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products and services.
+This Privacy Notice lists all the information that we may collect via [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products and services.
 
 ## What data can AdGuard DNS collect and when
 
