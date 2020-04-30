@@ -1,5 +1,5 @@
 # End-User License Agreement of AdGuard
-*April 25, 2019*
+*April 30, 2020*
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED. READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY CLICKING THE ACCEPT BUTTON IN THE LICENSE AGREEMENT WINDOW AND USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -133,4 +133,4 @@ Email: support@adguard.com
 
 Website: adguard.com
 
-© 2019 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2020 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
