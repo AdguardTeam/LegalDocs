@@ -15,7 +15,8 @@ If you are wondering why we have two almost identical apps, [check this article 
 
 ## What data can AdGuard Pro/AdGuard for iOS collect and when
 
-AdGuard Pro/AdGuard for iOS establishes a local VPN, there is no remote connection to any server. App does not collect any data, therefore it does not share anything with third parties.
+AdGuard Pro/AdGuard for iOS establishes a local VPN. There is no remote connection to any server, and the app does not share any data with third parties.
+We only collect the data necessary for the correct operation of the app and for the troubleshooting purposes. See more details below.
 
 * [Safari Content Blocker blocking filters updates check](#filters-updates-check)
 * [Sending a bug report](#sending-bug-report)
