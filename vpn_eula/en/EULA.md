@@ -1,5 +1,5 @@
 # End-User License Agreement of AdGuard VPN
-*July 31, 2020*
+*August 03, 2020*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) IS A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -23,7 +23,7 @@ __2. Terms of Sale__
 
 2.1. Customer pays for a subscription that allows to activate AdGuard VPN, a software that is downloadable from https://adguard-vpn.com/
 
-In order to use the premium version of AdGuard VPN, you need to purchase a subscription: Monthly or Annual. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
+In order to use the unlimited version of AdGuard VPN, you need to purchase a subscription: Monthly or Annual. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
 
 2.2 The order process is conducted by online reseller Paddle.com. Paddle provides all customer service inquiries and handles returns.
 
