@@ -1,5 +1,5 @@
 # Website & Cookies
-*May 24, 2018*
+*August 20, 2020*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 This privacy notice applies to adguard.com and all the AdGuard websites located on its subdomains (“Website”), and describes in detail what information may be collected about you when you visit them.
@@ -56,7 +56,7 @@ Our Website may contain links to other websites of interest. However, once you h
 
 ### About Comment Section 
 
-We use [Disqus](https://disqus.com/) for comment sections on the Website. We do not collect any Personal Data about you when you register or sign in under your Disqus account, but that data might be collected by Disqus when you leave a comment or visit a page with Disqus comments, and is managed according to Disqus [privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy).
+We do not share any of your personal data to third parties when you leave a comment on our website. We are not responsible for the content of the comments. By submitting a comment, you confirm that you are over 13 years of age and take full responsibility for the content of your comments.
 
 ### News Subscriptions
 
