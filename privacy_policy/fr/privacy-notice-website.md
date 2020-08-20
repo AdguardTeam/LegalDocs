@@ -1,6 +1,6 @@
 # Site Web et Cookies : Avis de confidentialité 
 
-*24 mai 2018*
+*24 août 2020*
 > **Note liminaire:** Nous ne partageons ni ne vendons aucune partie de vos données personnelles. Nous sommes fiers de déclarer que nous luttons pour la protection de la vie privée des utilisateurs et nous nous engageons fermement à respecter ce principe et à être aussi transparents que possible.
 
 Cet avis de confidentialité est applicable à adguard.com et à tous les sites Web AdGuard sur ses sous-domaines ("site Web") et décrit en détail quelles informations sur vous peuvent être recueillies lorsque vous les visitez. 
@@ -57,9 +57,9 @@ Le prestataires de services tiers (portail de paiement) peut nous transmettre ce
 
 Notre site Web peut contenir des liens vers d'autres sites Web intéressants. Cependant, une fois que vous avez suivi ces liens pour quitter notre site, vous devez noter que nous le contrôlons pas. Par conséquent, nous ne pouvons être tenus responsables de la protection et de la confidentialité des informations que vous fournissez lorsque vous visitez ces sites et ces sites ne sont pas régis par la présente déclaration de confidentialité. Vous devez être prudent et consulter l’avis de confidentialité applicable au site Web en question.
 
-### Note sur la section des commentaires 
+### À propos de la section dédiée aux commentaires
 
-Nous utilisons[Disqus](https://disqus.com/) pour les sections de commentaires sur le site Web. Nous ne recueillons aucune donnée personnelle vous concernant lorsque vous vous inscrivez ou vous connectez sous votre compte Disqus, mais ces données peuvent être recueillies par Disqus lorsque vous laissez un commentaire ou visitez une page avec des commentaires Disqus, et ces données sont gérées conformément à la politique de confidentialité [Disqus] (https://help.disqus.com/customer/portal/articles/466259-privacy-policy).
+Nous ne partageons aucune de vos données personnelles avec des tiers lorsque vous écrivez un commentaire sur notre site internet. Nous ne sommes pas responsables au sujet du contenu des commentaires. En écrivant un commentaire, vous confirmez que vous avez plus de 13 ans et que vous assumez l’entière responsabilité de ce que vous écrivez.
 
 ### Abonnement aux actualités
 
