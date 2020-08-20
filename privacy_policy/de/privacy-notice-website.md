@@ -1,5 +1,5 @@
 # Website & Cookies
-*May 24, 2018*
+*August 20, 2020*
 
 > **Kernaussage**: Wir teilen oder verkaufen Ihre personenbezogenen Daten nicht. Wir sind stolz darauf, dass wir einer der Kämpfer für die Privatsphäre der Nutzer sind, und wir fühlen uns diesem Prinzip verpflichtet und sind bestrebt, so transparent wie möglich zu sein.
 
@@ -57,7 +57,7 @@ Unsere Webseite kann Links zu anderen relevanten Webseiten enthalten. Wenn Sie d
 
 ### Über den Kommentar-Abschnitt
 
-Wir verwenden [Disqus](https://disqus.com/) für Kommentarbereiche auf unserer Webseite. Wir sammeln keine personenbezogenen Daten über Sie, wenn Sie sich unter Ihrem Disqus-Konto registrieren oder einloggen. Aber diese Daten können von Disqus erfasst werden, wenn Sie einen Kommentar hinterlassen oder eine Seite mit Disqus-Kommentaren besuchen, und werden gemäß der [Datenschutzerklärung](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) von Disqus verwaltet.
+Wir geben keine Ihrer persönlichen Daten an Dritte weiter, wenn Sie einen Kommentar auf unserer Website hinterlassen. Wir sind nicht für den Inhalt der Kommentare verantwortlich. Mit dem Einreichen eines Kommentars bestätigen Sie, dass Sie über 13 Jahre alt sind und die volle Verantwortung für den Inhalt Ihrer Kommentare übernehmen.
 
 ### Neue Abonnements
 
