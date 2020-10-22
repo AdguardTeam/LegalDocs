@@ -29,8 +29,8 @@ Um die Updates der aktivierten Filter zu überprüfen, verbindet sich AdGuard Ho
 
 ### <a id="browsing-security-check"></a> Überprüfen der Internet-Sicherheitsdomäne (standardmäßig deaktiviert)
 
-Für jede angeforderte Domain verbindet sich AdGuard Home mit dem Internet-Sicherheit-Server und übergibt ein 8-stelliges Präfix des SHA256-Hash des Domainnamens. Der Server antwortet mit einer Liste voller Hashes und AdGuard Home prüft, ob es eine Übereinstimmung gibt. Die gesendeten Präfixe werden nicht gespeichert und offenbaren keine personenbezogenen Daten.
+Für jede angeforderte Domain verbindet sich AdGuard Home mit dem Internet-Sicherheit-Server und übergibt ein 4-stelliges Präfix des SHA256-Hash des Domainnamens. Der Server antwortet mit einer Liste voller Hashes und AdGuard Home prüft, ob es eine Übereinstimmung gibt. Die gesendeten Präfixe werden nicht gespeichert und offenbaren keine personenbezogenen Daten.
 
 ###  <a id="parental-control-check"></a> Überprüfen der Kindersicherungs-Domäne (standardmäßig deaktiviert)
 
-Für jede angeforderte Domain verbindet sich AdGuard Home mit dem Kindersicherungs-Webdienst und übergibt ein 8-stelliges Präfix des SHA256-Hash des Domain-Namens. Der Dienst antwortet mit einer Liste von Full-Hashes und AdGuard Home prüft, ob es eine Übereinstimmung gibt. Die gesendeten Präfixe werden nicht gespeichert und offenbaren keine personenbezogenen Daten.
+Für jede angeforderte Domain verbindet sich AdGuard Home mit dem Kindersicherungs-Webdienst und übergibt ein 4-stelliges Präfix des SHA256-Hash des Domain-Namens. Der Dienst antwortet mit einer Liste von Full-Hashes und AdGuard Home prüft, ob es eine Übereinstimmung gibt. Die gesendeten Präfixe werden nicht gespeichert und offenbaren keine personenbezogenen Daten.

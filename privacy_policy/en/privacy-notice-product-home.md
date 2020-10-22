@@ -29,8 +29,8 @@ To check updates for enabled filters, AdGuard Home connects to their respective 
 
 ### <a id="browsing-security-check"></a> Browsing Security domain check (disabled by default):
 
-For each requested domain, AdGuard Home connects to the Browsing Security server and passes an 8-character prefix of the domain name's SHA256 hash. The server responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
+For each requested domain, AdGuard Home connects to the Browsing Security server and passes an 4-character prefix of the domain name's SHA256 hash. The server responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
 
 ### <a id="parental-control-check"></a> Parental Control domain check (disabled by default):
 
-For each requested domain, AdGuard Home connects to the Parental Control web service and passes an 8-character prefix of the domain name's SHA256 hash. The service responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.
+For each requested domain, AdGuard Home connects to the Parental Control web service and passes an 4-character prefix of the domain name's SHA256 hash. The service responds with a list of full hashes and AdGuard Home checks if there's a match. The sent prefixes are not being stored and do not reveal any personal information.

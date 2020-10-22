@@ -32,8 +32,8 @@ AdGuard se connecte aux serveurs spécifiques pour vérifier les mises à jour p
 
 ### <a id="browsing-security-check"></a> Vérification des domaines par le module de Navigation sécurisée (inactive par défaut) :
 
-Pour chaque domaine demandé, AdGuard Home se connecte au serveur de Navigation sécurisée et passe un préfixe de 8 caractères du nom de domaine au hachage SHA256. Le serveur répond avec une liste de hachage complet et AdGuard Home vérifie s'il y a une compatibilité. Les préfixes envoyés ne sont pas stockés et ne révèlent aucune information personnelle.
+Pour chaque domaine demandé, AdGuard Home se connecte au serveur de Navigation sécurisée et passe un préfixe de 4 caractères du nom de domaine au hachage SHA256. Le serveur répond avec une liste de hachage complet et AdGuard Home vérifie s'il y a une compatibilité. Les préfixes envoyés ne sont pas stockés et ne révèlent aucune information personnelle.
 
 ### <a id="parental-control-check"></a> Vérification de domaines par le Contrôle Parental (inactive par défaut) :
 
-Pour chaque domaine demandé, AdGuard Home se connecte au serveur du Contrôle parental et passe un préfixe de 8 caractères du nom de domaine au hachage SHA256. Le serveur répond avec une liste de hachage complet et AdGuard Home vérifie s'il y a une compatibilité. Les préfixes envoyés ne sont pas stockés et ne révèlent aucune information personnelle.
+Pour chaque domaine demandé, AdGuard Home se connecte au serveur du Contrôle parental et passe un préfixe de 4 caractères du nom de domaine au hachage SHA256. Le serveur répond avec une liste de hachage complet et AdGuard Home vérifie s'il y a une compatibilité. Les préfixes envoyés ne sont pas stockés et ne révèlent aucune information personnelle.
