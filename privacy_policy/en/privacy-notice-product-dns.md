@@ -1,5 +1,5 @@
 # AdGuard DNS Privacy Notice
-*February 19, 2021*
+*February 25, 2021*
 
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -9,7 +9,7 @@ This Privacy Notice lists all the information that we may collect via [AdGuard D
 
 ## General points
 
-AdGuard DNS service operates under the jurisdiction of Republic of Cyprus. All its activities and practices comply with relevant EU Directives and Regulations as well as relevant national and local legislation and regulations of Republic of Cyprus. 
+AdGuard DNS service operates under the jurisdiction of Republic of Cyprus. All its activities and practices comply with relevant EU Directives and Regulations as well as relevant national and local legislation and regulations of Republic of Cyprus, including, but not limited by: Digital Services Act, General Data Protection Regulation, and European Resolver Policy. 
 
 AdGuard DNS operates as a DNS resolver which *can* block access to certain domains, depending on the chosen configuration (server):
 
