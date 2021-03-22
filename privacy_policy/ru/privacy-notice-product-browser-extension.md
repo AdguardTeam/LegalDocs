@@ -12,7 +12,7 @@
 - [Проверка обновлений рекламных фильтров](#filters-updates-check)
 - [Статистика использования рекламных фильтров](#ad-filters-stats)
 - [Отправка жалобы на сайт](#web-page-complaint)
-- [Проверка сайта Антифингом](#browsing-security-check)
+- [Проверка сайта Антифишингом](#browsing-security-check)
 - [Антифишинг-сообщество](#browsing-security-community)
 
 ### <a id="filters-updates-check"></a> Проверка обновлений рекламных фильтров
