@@ -5,7 +5,7 @@
 
 Wir sind überzeugt, dass die Privatsphäre ein grundlegendes Menschenrecht ist. Deshalb sind wir transparent darüber, was AdGuard tut, und erklären den Zweck jedes einzelnen Teils der Informationen, die von unseren Apps und Diensten gesammelt werden.
 
-Dieser Datenschutzhinweis listet alle Informationen auf, die wir über [AdGuard DNS](https://adguard.com/de/adguard-dns/overview.html) erfassen können, und erklärt, warum wir dies tun und wie wir diese Informationen verwenden. Die von uns gesammelten Informationen enthalten nur die Daten, die für die vollständige Funktionalität der AdGuard-Produkte und -Dienste entscheidend sind.
+Dieser Datenschutzhinweis listet alle Informationen auf, die wir über [AdGuard DNS](https://adguard.com/de/adguard-dns/overview.html) erfassen können, und erklärt, warum wir dies tun und wie wir diese Informationen verwenden. Die von uns gesammelten Informationen enthalten nur die Daten, die für die vollständige Funktionalität der AdGuard-Produkte und -Dienste entscheidend sind. *Dies ist übersetzter Text und kann geringfügig abweichen. Den Originaltext finden Sie in der [englischen Version](https://adguard.com/en/privacy/dns.html).*
 
 ## Allgemeines
 
@@ -32,3 +32,5 @@ Wir sammeln KEINE personenbezogenen Daten über unsere Benutzer/innen. Mit ander
 * Wir protokollieren auch, wie oft dieser oder jener Tracker blockiert worden ist. Wir benötigen diese Informationen, um veraltete Regeln aus unseren Filtern zu entfernen.
 
 Sämtliche Daten, die wir sammeln, geben wir nicht an Dritte weiter. Sie werden ausschließlich für interne Zwecke wie z. B. die Leistungsanalyse verwendet. Die einzigen Daten, die wir möglicherweise weitergeben könnten, sind Ableitungen aus den Originaldaten, d. h. Listen von Domains, die unsere Server als Werbe-, Tracking- oder Malware-Domains erkannt haben.
+
+
