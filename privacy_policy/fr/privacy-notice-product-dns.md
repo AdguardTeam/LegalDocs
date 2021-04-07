@@ -32,3 +32,5 @@ Nous ne recueillons RIEN sur l'utilisateur en particulier. En autres termes, vot
  * Nous enregistrons également le nombre de fois où tel ou tel traqueur a été bloqué. Nous avons besoin de ces informations pour supprimer les règles obsolètes de nos filtres.
 
  Toutes les données que nous recueillons ne sont pas communiquées à des tiers. Elles sont utilisées uniquement à des fins internes telles que l'analyse des performances. Les seules informations que nous pouvons éventuellement partager sont des dérivés, c'est-à-dire des listes de domaines que nos serveurs ont reconnus comme des domaines de publicité, de suivi ou contenant des maliciels.
+ 
+ **En cas de divergence entre les documents anglais et français, la version anglaise a la priorité.**
