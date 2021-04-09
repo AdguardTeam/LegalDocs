@@ -1,5 +1,5 @@
 # Website & Cookies
-*April 9, 2021*
+*9. April 2021*
 
 > **Kernaussage**: Wir teilen oder verkaufen Ihre personenbezogenen Daten nicht. Wir sind stolz darauf, dass wir einer der Kämpfer für die Privatsphäre der Nutzer sind, und wir fühlen uns diesem Prinzip verpflichtet und sind bestrebt, so transparent wie möglich zu sein.
 
@@ -31,7 +31,8 @@ Wir verwenden Analysetools nur, um den Datenverkehr der Webseite zu ermitteln un
 
 Wir verwenden derzeit zwei Analysetools auf der Webseite. Diese Tools helfen uns, die Nutzung unserer Webseite durch unsere Besucher zu erkennen, indem sie Informationen sammeln. 
 
-Wir halten [Plausible](https://plausible.io) (p.adguard.com) für die beste Option aus Datenschutzsicht, da die Daten nicht an Drittanbieter (Dienstleister) weitergegeben werden und wir sie selbst verwalten. In Zukunft werden wir auf die Nutzung dieses Services umstellen.  
+Wir halten [Plausible](https://plausible.io) (stat.adguard.com) für die beste Option aus Datenschutzsicht, da überhaupt keine Cookies verwendet werden. Wir betreiben eine selbst gehostete Version von Plausible und geben keine Daten an plausible.io oder andere Dritte weiter. Schließlich planen wir, nur diesen Service zu nutzen.
+
 
 Inzwischen verwenden wir auch Google Analytics mit aktivierter [Anonymisierung der IP-Adresse](https://support.google.com/analytics/answer/2763052?hl=de). Die Benutzer, die nicht von Google Analytics verfolgt werden möchten, können die Datenerfassung durch Abmeldung verhindern. Um sich abzumelden, installieren Sie die Abmeldeerweiterung von [Google Analytics](https://tools.google.com/dlpage/gaoptout).
 
