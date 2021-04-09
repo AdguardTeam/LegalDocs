@@ -1,5 +1,5 @@
 # Website & Cookies
-*August 20, 2020*
+*April 09, 2021*
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 This privacy notice applies to adguard.com and all the AdGuard websites located on its subdomains (“Website”), and describes in detail what information may be collected about you when you visit them.
@@ -30,7 +30,7 @@ We only use analytic tools in order to understand the Website's traffic, and how
 
 We currently use two website analytic tools. These tools help us understand the use of our site by our visitors by collecting information. 
 
-We consider [Matomo](https://matomo.org) (matomo.adguard.com) the best option from the privacy point of view as data is not shared with third parties (service providers) and we manage it ourselves. Eventually we will switch over to using only this service.  
+We consider [Plausible](https://plausible.io) (p.adguard.com) the best option from the privacy point of view as data is not shared with third parties (service providers) and we manage it ourselves. Eventually we will switch over to using only this service.  
 
 In the meantime we also use Google Analytics with enabled [IP address anonymization](https://support.google.com/analytics/answer/2763052?hl=en). Users who wish to not be tracked by Google Analytics can prevent data collection by opting out. To opt out, install [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout).
 
