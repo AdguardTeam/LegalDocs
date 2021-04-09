@@ -30,7 +30,7 @@ We only use analytic tools in order to understand the Website's traffic, and how
 
 We currently use two website analytic tools. These tools help us understand the use of our site by our visitors by collecting information. 
 
-We consider [Plausible](https://plausible.io) (p.adguard.com) the best option from the privacy point of view as data is not shared with third parties (service providers) and we manage it ourselves. Eventually we will switch over to using only this service.  
+We consider [Plausible](https://plausible.io) (stat.adguard.com) the best option from the privacy point of view as it doesn't use cookies at all. We run a selfhosted version of Plausible and do not share data with plausible.io or any other third parties. Eventually we plan to switch over to using only this service.  
 
 In the meantime we also use Google Analytics with enabled [IP address anonymization](https://support.google.com/analytics/answer/2763052?hl=en). Users who wish to not be tracked by Google Analytics can prevent data collection by opting out. To opt out, install [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout).
 
