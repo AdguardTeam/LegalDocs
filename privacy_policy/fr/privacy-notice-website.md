@@ -33,7 +33,7 @@ Nous n'utilisons des outils analytiques que pour comprendre le trafic du site We
 
 Nous utilisons actuellement deux outils d'analyse de sites Web. Ces outils nous aident à comprendre l'utilisation de notre site par nos visiteurs en recueillant des données. 
 
-Nous considérons[Matomo](https://matomo.org) (matomo.adguard.com) la meilleure option du point de vue de la confidentialité car les données ne sont pas partagées avec des tiers (fournisseurs de services) et nous les gérons directement. Éventuellement, nous passerons à ce service uniquement.  
+Nous considérons[Plausible](https://plausible.io) (p.adguard.com)la meilleure option du point de vue de la confidentialité car les données ne sont pas partagées avec des tiers (fournisseurs de services) et nous les gérons directement. Éventuellement, nous passerons à ce service uniquement.  
 
 Entre-temps, nous utilisons également Google Analytics où l'option d’ [anonymisation de l'adresse IP] (https://support.google.com/analytics/answer/2763052?hl=fr) est activée. Les utilisateurs qui ne souhaitent pas être suivis par Google Analytics peuvent empêcher la collecte de données en décochant la case correspondante. Pour vous désinscrire, installez l'extension [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout).
 
