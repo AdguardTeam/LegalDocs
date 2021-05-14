@@ -1,6 +1,6 @@
 # Site Web et Cookies : Avis de confidentialité 
 
-*24 août 2020*
+*14 mai 2021*
 > **Note liminaire:** Nous ne partageons ni ne vendons aucune partie de vos données personnelles. Nous sommes fiers de déclarer que nous luttons pour la protection de la vie privée des utilisateurs et nous nous engageons fermement à respecter ce principe et à être aussi transparents que possible.
 
 Cet avis de confidentialité est applicable à adguard.com et à tous les sites Web AdGuard sur ses sous-domaines ("site Web") et décrit en détail quelles informations sur vous peuvent être recueillies lorsque vous les visitez. 
