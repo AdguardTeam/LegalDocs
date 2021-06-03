@@ -26,13 +26,9 @@ In order to help us deliver content in the correct language, offer region- or co
 
 ### Analytics
 
-We only use analytic tools in order to understand the Website's traffic, and how it is being used by its visitors. The ultimate goal is to improve our services and to grant better experience to users. 
+We only use analytic tools in order to understand the website's traffic, and how it is being used by its visitors. The ultimate goal is to improve our services, website's performance and in general grant better experience to our users. 
 
-We currently use two website analytic tools. These tools help us understand the use of our site by our visitors by collecting information. 
-
-We consider [Plausible](https://plausible.io) (stat.adguard.com) the best option from the privacy point of view as it doesn't use cookies at all. We run a selfhosted version of Plausible and do not share data with plausible.io or any other third parties. Eventually we plan to switch over to using only this service.  
-
-In the meantime we also use Google Analytics with enabled [IP address anonymization](https://support.google.com/analytics/answer/2763052?hl=en). Users who wish to not be tracked by Google Analytics can prevent data collection by opting out. To opt out, install [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout).
+We do not use any javascript-based tracking or cookies. Instead, we use our server logs (i.e. information about what pages were requested) to measure how people use our website. We do not use raw logs, instead they're aggregated to build general reports for us. And the raw server logs are stored for up to 30 days and then removed.
 
 ### When You Download AdGuard Products
 
