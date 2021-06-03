@@ -5,6 +5,8 @@
 
 Diese Datenschutzerklärung bezieht sich auf `adguard.com` und alle AdGuard-Webseiten, die sich auf ihren Subdomains ("Website") befinden, und beschreibt im Detail, welche Informationen bei einem Besuch über Sie gesammelt werden können.
 
+*Dies ist übersetzter Text und kann geringfügig abweichen. Den Originaltext finden Sie in der [englischen Version](https://adguard.com/en/privacy/website.html).*
+
 ## Cookies
 
 Wenn Sie unsere Webseite besuchen, werden Sie von unserem Server um Ihre Zustimmung gefragt, eine kleine Datendatei namens "Cookie" auf Ihrer Festplatte zu speichern. Wenn Sie zustimmen, wird diese Datei hinzugefügt und wird dann bei der Analyse des Webverkehrs helfen. Die von uns über Cookies erfassten Daten werden verwendet:
@@ -27,14 +29,9 @@ Wir ermitteln Ihre IP-Adresse und erfassen grundlegende Geräteinformationen, um
 
 ### Analytics
 
-Wir verwenden Analysetools nur, um den Datenverkehr der Webseite zu ermitteln und um zu verstehen, wie er von ihren Besuchern genutzt wird. Das oberste Ziel ist es, unsere Services zu verbessern und den Nutzern ein besseres Erlebnis zu bieten.
+Wir verwenden Analysetools nur, um den Datenverkehr der Webseite zu ermitteln und um zu verstehen, wie er von ihren Besuchern genutzt wird. Das oberste Ziel ist es, unsere Services zu verbessern, die Leistung der Website zu verbessern und unseren Benutzern im Allgemeinen ein besseres Erlebnis zu bieten.
 
-Wir verwenden derzeit zwei Analysetools auf der Webseite. Diese Tools helfen uns, die Nutzung unserer Webseite durch unsere Besucher zu erkennen, indem sie Informationen sammeln. 
-
-Wir halten [Plausible](https://plausible.io) (stat.adguard.com) für die beste Option aus Datenschutzsicht, da überhaupt keine Cookies verwendet werden. Wir betreiben eine selbst gehostete Version von Plausible und geben keine Daten an plausible.io oder andere Dritte weiter. Schließlich planen wir, nur diesen Service zu nutzen.
-
-
-Inzwischen verwenden wir auch Google Analytics mit aktivierter [Anonymisierung der IP-Adresse](https://support.google.com/analytics/answer/2763052?hl=de). Die Benutzer, die nicht von Google Analytics verfolgt werden möchten, können die Datenerfassung durch Abmeldung verhindern. Um sich abzumelden, installieren Sie die Abmeldeerweiterung von [Google Analytics](https://tools.google.com/dlpage/gaoptout).
+Wir verwenden kein Javascript-basiertes Tracking oder Cookies. Stattdessen verwenden wir unsere Serverprotokolle (d.h. Informationen darüber, welche Seiten angefordert wurden), um zu messen, wie Benutzer unsere Website nutzen. Wir verwenden keine Rohprotokolle, sondern sie werden aggregiert, um allgemeine Berichte für uns zu erstellen. Und die Rohserverprotokolle werden bis zu 30 Tage gespeichert und dann entfernt.
 
 ### Wenn Sie AdGuard-Produkte herunterladen
 
