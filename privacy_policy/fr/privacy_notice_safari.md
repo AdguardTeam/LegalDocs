@@ -10,7 +10,7 @@ Nous croyons que la protection de la vie privée est un droit humain fondamental
 ## Quel type de données AdGuard pour Safari peut collecter et à quel moment
 
 * [Vérification des mises à jour des filtres de blocage](#vérification-des-mises-à-jour-des-filtres-de-blocage)
-* [Signalation d'une page web](#signalation-d'une-page-web)
+* [Signalement d'une page web](#signalement-d'une-page-web)
 
 ### <a id="filters-updates-check"></a> Vérification des mises à jour des filtres de blocage
 
@@ -23,7 +23,7 @@ AdGuard se connecte à ses serveurs pour vérifier les mises à jour des filtres
 
 Par défaut, la vérification des mises à jour des filtres est effectuée automatiquement toutes les 48 heures. Sinon, elle est faite en fonction de l'intervalle de vérification des mises à jour des filtres sélectionné, ou chaque fois que l'utilisateur le sollicite manuellement. Nous agrégeons les données obtenues de cette manière afin d'identifier le nombre d'utilisateurs actifs.
 
-### <a id="web-page-complaint"></a> Signalation d'une page web
+### <a id="web-page-complaint"></a> Signalement d'une page web
 
 L'utilisateur peut signaler un problème avec un site web directement depuis AdGuard pour Safari. L'application ouvrira automatiquement la page Web reports.adguard.com et transmettra des informations sur sa configuration. L'utilisateur peut alors modifier ou supprimer son commentaire.
 
