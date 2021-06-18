@@ -29,4 +29,4 @@ L'utilisateur peut signaler un problème avec un site web directement depuis AdG
 
 À moins que l'utilisateur n'accepte de soumettre ces informations en cliquant manuellement sur le bouton "Soumettre", aucune de ces informations ne sera enregistrée ou envoyée quelque part. Dans le cas contraire, le rapport sera publié de manière anonyme sur [GitHub](https://github.com/adguardteam/adguardfilters/issues).
 
-**En cas de divergence entre les documents anglais et français, la version anglaise a la priorité.**
+**En cas de divergence entre les documents anglais et français, la [version anglaise](https://adguard.com/en/privacy/safari.html) a la priorité.**
