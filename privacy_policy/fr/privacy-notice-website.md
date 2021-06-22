@@ -29,13 +29,9 @@ Afin de nous aider à fournir du contenu dans la langue appropriée, à proposer
 
 ### Outils analytiques
 
-Nous n'utilisons des outils analytiques que pour comprendre le trafic du site Web et la façon dont il est utilisé par ses visiteurs. Le but ultime est d'améliorer nos services et d'offrir une expérience meilleure aux utilisateurs. 
+Nous n'utilisons des outils analytiques que pour comprendre le trafic du site Web et la façon dont il est utilisé par ses visiteurs. Le but ultime est d'améliorer nos services, la performance du site web et d'offrir une expérience meilleure aux utilisateurs en général. 
 
-Nous utilisons actuellement deux outils d'analyse de sites Web. Ces outils nous aident à comprendre l'utilisation de notre site par nos visiteurs en recueillant des données. 
-
-Nous considérons[Plausible](https://plausible.io) (p.adguard.com)la meilleure option du point de vue de la confidentialité car les données ne sont pas partagées avec des tiers (fournisseurs de services) et nous les gérons directement. Éventuellement, nous passerons à ce service uniquement.  
-
-Entre-temps, nous utilisons également Google Analytics où l'option d’ [anonymisation de l'adresse IP] (https://support.google.com/analytics/answer/2763052?hl=fr) est activée. Les utilisateurs qui ne souhaitent pas être suivis par Google Analytics peuvent empêcher la collecte de données en décochant la case correspondante. Pour vous désinscrire, installez l'extension [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout).
+Nous n'utilisons pas de suivi ou de cookies basés sur le javascript. Nous utilisons cependant les journaux de notre serveur (c'est-à-dire les informations sur les pages sollicitées) pour déterminer comment les internautes utilisent notre site Web. Nous n'utilisons pas les journaux bruts, mais nous les regroupons pour établir des rapports généraux. Les journaux de serveur bruts sont stockés pendant 30 jours au maximum, puis supprimés.
 
 ### Quand vous téléchargez les produits AdGuard
 
@@ -68,5 +64,6 @@ Vous pouvez vous désinscrire de nos newsletters via le compte personnel AdGuard
 
 ### Inscription additionnelle sur le site Web AdGuard
 
-Sur certains sous-domaines du site Web (par exemple, forum.adguard.com), vous avez la possibilité de procéder à une souscription supplémentaire, où l'on peut vous demander de choisir un nom d'utilisateur et un mot de passe, d'indiquer votre emplacement physique et de fournir une adresse électronique. En vous inscrivant à l'un des services fournis sur le site Web AdGuard, vous confirmez que vous avez au moins 16 ans. Toutes les données ainsi acquises sont stockées et utilisées conformément à la [Politique générale] (https://adguard.com/privacy.html) et peuvent être corrigées ou supprimées à votre demande. Pour faire la demande, envoyez un message à privacy@adguard.com. Nous pouvons vous demander de vérifier votre identité avant de répondre à la requête.
+Sur certains sous-domaines du site Web (par exemple, forum.adguard.com), vous avez la possibilité de procéder à une souscription supplémentaire, où l'on peut vous demander de choisir un nom d'utilisateur et un mot de passe, d'indiquer votre emplacement physique et de fournir une adresse électronique. En vous inscrivant à l'un des services fournis sur le site Web AdGuard, vous confirmez que vous avez au moins 16 ans. Toutes les données ainsi acquises sont stockées et utilisées conformément à la [Politique générale](https://adguard.com/privacy.html) et peuvent être corrigées ou supprimées à votre demande. Pour faire la demande, envoyez un message à privacy@adguard.com. Nous pouvons vous demander de vérifier votre identité avant de répondre à la requête.
 
+**Ce texte est une traduction. En cas de divergence entre les documents anglais et français, [la version anglaise](https://adguard.com/en/privacy/website.html) a la priorité.**
