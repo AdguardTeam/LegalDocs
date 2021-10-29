@@ -1,11 +1,11 @@
 # AdGuard VPN Privacy Policy
-*July 31, 2020*
+*October 29, 2021*
 
 >Keynote: We do not share or sell any of your personal data. We are proud to say that we fight for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
-__Important:__ Data we collect includes no more than is crucial to provide full functionality of AdGuard VPN services and website. We do not collect anything for tracking purposes and take all necessary measures to protect the information we get.
+**Important:** Data we collect includes no more than is crucial to provide full functionality of AdGuard VPN services and website. We do not collect anything for tracking purposes and take all necessary measures to protect the information we get.
 
-__Who We Are__
+### Who We Are
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your Personal Data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations and explains how, why and when we process your personal data. Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services.
 
@@ -15,7 +15,7 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 ## What Data We Collect
 
-__When you are using our website:__
+### When you are using our website
 
 * Email address and a password which you use at the registration. That ensures that you can retrieve your password if needed, and that we can communicate with you when we have any announcements to make, service updates to advise or errors to report. You can unsubscribe from our newsletters via AdGuard Account or by clicking “Unsubscribe” button in the newsletter itself.
 
@@ -23,7 +23,7 @@ __When you are using our website:__
 
 * Billing and payment information. If you purchase a subscription to AdGuard VPN, we’ll need to know your contact details. FYI: we conduct all transactions via [Paddle](https://paddle.com/) payment provider.
 
-__When you are using our software:__
+### When you are using our software
 
 When you choose to use our app, you thereby accept to provide us your personal data. This data is essential as it helps ensure the full functionality of AdGuard VPN services.
 
@@ -39,7 +39,7 @@ We follow EU’s General Data Protection Regulation (“GDPR”) which defines p
 
 We retain Personal Data for as long as necessary to continue providing you with our products and services, or until you revoke your consent to share this information.
 
-__Your Rights__
+### Your Rights
 
 You have the following rights when it comes to Personal Data:
 
@@ -51,7 +51,7 @@ You have the following rights when it comes to Personal Data:
 
 * Delete all your Personal Data. You can do this at will via AdGuard Account, or by sending a request to privacy@adguard-vpn.com. In the latter case, we may ask you to verify your identity before fulfilling the request.
 
-__Safeguarding Measures__
+### Safeguarding Measures
 
 We make every possible effort to protect you and your Personal Data from unauthorized access, alteration, disclosure or destruction. We implement and maintain the following technical and security measures:
 
@@ -67,14 +67,14 @@ We make every possible effort to protect you and your Personal Data from unautho
 
 * Logical Separation: Personal Data is logically segregated on our systems to ensure that Personal Data is collected for different purposes can be processed separately.
 
-__Consequences of Not Providing Your Personal Data__
+### Consequences of Not Providing Your Personal Data
 
 You are not obligated to provide your Personal Data to us. However, as this information is required for us to provide you with our services or respond to your enquiries, we will not be able to offer some or all our services without it.
 
-__Age Limitations__
+### Age Limitations
 
 To the extent not prohibited by applicable law, we do not allow the use of our Services, Products and Website by anyone younger than 18 years old. If you learn that anyone younger than 18 has unlawfully provided us with Personal Data, please contact us and we will take steps to delete such information.
 
-__Changes To This Privacy Policy__
+## Changes To This Privacy Policy
 
 We may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed.
