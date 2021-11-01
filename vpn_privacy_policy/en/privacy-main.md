@@ -5,7 +5,7 @@
 
 **Important:** Data we collect includes no more than is crucial to provide full functionality of AdGuard VPN services and website. We do not collect anything for tracking purposes and take all necessary measures to protect the information we get.
 
-### Who We Are
+## Who We Are
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your Personal Data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations and explains how, why and when we process your personal data. Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services.
 
