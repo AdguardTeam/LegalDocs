@@ -8,7 +8,7 @@
 ADGUARD SOFTWARE LIMITED（「私たち」、「当社」）は、このプライバシーポリシーに従い、適用されるデータ保護法に従って、お客様の個人データを収集し処理します。このポリシーは、お客様の権利および私たちの義務に関する必要な情報を提供し、お客様の個人データを処理する方法、理由、およびタイミングについて説明します。
 私たちの一般的な原則は、私たちの製品やサービスの完全な機能を提供するために必要な情報のみを収集することです。
 
-ADGUARD SOFTWARE LIMITEDはキプロスのリマソールに登録されている会社であり、登録事務所はOffice 1, 3rd floor Panayides Building, Chrysanthou Mylona St., 3030, Limassol, Cyprusにあり、データを処理する際にデータ管理者の機能を果たします。
+ADGUARD SOFTWARE LIMITEDはキプロスのニコシアに登録されている会社であり、登録事務所はKlimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprusにあり、データを処理する際にデータ管理者の機能を果たします。
 
 ## 私たちが「個人情報」と考えるもの
 
