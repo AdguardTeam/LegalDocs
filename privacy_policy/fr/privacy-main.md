@@ -1,5 +1,5 @@
 # Avis de confidentialité : remarques générales
-*06 novembre 2019*
+*21 juin 2022*
 
 > **Note liminaire:** Nous ne partageons ni ne vendons aucune partie de vos données personnelles. Nous sommes fiers de déclarer que nous luttons pour la protection de la vie privée des utilisateurs et nous nous engageons fermement à respecter ce principe et à être aussi transparents que possible.
 

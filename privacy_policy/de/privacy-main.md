@@ -1,6 +1,6 @@
 # Datenschutzerklärung: Allgemeine Anmerkungen
 
-*November 06, 2019*
+*Juni 21, 2022*
 
 > **Kernaussage**: Wir teilen oder verkaufen Ihre personenbezogenen Daten nicht. Wir sind stolz darauf, dass wir einer der Kämpfer für die Privatsphäre der Nutzer sind, und wir fühlen uns diesem Prinzip verpflichtet und sind bestrebt, so transparent wie möglich zu sein.
 
@@ -8,7 +8,7 @@
 
 ADGUARD SOFTWARE LIMITED ("Wir", "Unser" oder "Uns") erfasst und verarbeitet Ihre personenbezogenen Daten in Übereinstimmung mit dieser Datenschutzerklärung und mit den anwendbaren Datenschutzgesetzen. Diese Datenschutzerklärung gibt Ihnen die notwendigen Informationen über Ihre Rechte und unsere Pflichten und erklärt, wie, warum und wann wir Ihre personenbezogenen Daten verarbeiten. Unser allgemeiner Grundsatz ist nur die Informationen zu sammeln, die für die volle Funktionalität unserer Produkte und Dienstleistungen notwendig sind.
 
-ADGUARD SOFTWARE LIMITED ist ein in Limassol, Zypern, eingetragenes Unternehmen, mit Sitz im Büro 1, im 3. Stock Panayides Building, Chrysanthou Mylona St., 3030, Limassol, Zypern und fungiert als Datenverantwortlicher bei der Verarbeitung Ihrer Daten.
+ADGUARD SOFTWARE LIMITED ist ein in Nicosia, Zypern, eingetragenes Unternehmen, mit Sitz im Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus und fungiert als Datenverantwortlicher bei der Verarbeitung Ihrer Daten.
 
 ## Was wir für “Personenbezogene Informationen” halten
 
