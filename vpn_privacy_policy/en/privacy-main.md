@@ -1,5 +1,5 @@
 # AdGuard VPN Privacy Policy
-*July 31, 2020*
+*June 21, 2022*
 
 >Keynote: We do not share or sell any of your personal data. We are proud to say that we fight for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
