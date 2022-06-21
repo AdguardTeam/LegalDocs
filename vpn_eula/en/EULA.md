@@ -67,7 +67,7 @@ __5. Users data and Privacy policy__
 
 5.1. Adguard Software Limited guarantees a strict no activity logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
 
-5.2. AdGuard VPN collects and processes very limited user data and has [strong Privacy policy] that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the https://adguard-vpn.com/ website.
+5.2. AdGuard VPN collects and processes very limited user data and has [strong Privacy policy](https://adguard-vpn.com/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the https://adguard-vpn.com/ website.
 
 5.3. Before using AdGuard VPN you agree to read our Privacy policy, which explains what type of information we collect and what might happen to that information, including, without limitation, how such information is shared and used. And by continuing using AdGuard VPN you are agreeing to the present Terms and Privacy Policy available at the link mentioned above.
 
