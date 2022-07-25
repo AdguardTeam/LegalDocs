@@ -2,7 +2,7 @@
 
 *July 22, 2022*
 
-IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) IS A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE USING THE SERVICE. BY USING THE SERVICE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
+IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) IS A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE USING THE SERVICE. BY USING THE SERVICE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT USE THE SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 
@@ -40,52 +40,66 @@ We grant our customers a possibility to return 100% of funds they spent on AdGua
 
 The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to Adguard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between Customer and Support, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io), you need to contact support at support@adguard.com. Processing time will depend on the payment method you have chosen and usually takes up to 5-10 business days.
 
-4. User data and Privacy Policy
+4. Restrictions
 
-4.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the https://adguard-dns.io website.
-4.2. Using AdGuard DNS, you agree to have read and accepted our Privacy Policy, which explains what type of information we collect, how it is shared and used.
+You have no right to:
 
-5. Warranty Disclaimer
+- rent, lease, loan, export or sell access to AdGuard DNS services to third parties;
 
-5.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SOFTWARE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
+- utilize framing techniques to enclose AdGuard DNS logo or trademark;
 
-5.2. IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SOFTWARE, PRODUCTS, OR SERVICES.
+- use automated agents or inject scripts into AdGuard DNS services to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from AdGuard DNS services;
 
-5.3. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY RIGHTHOLDER OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
+- run or disclose the results of any benchmark tests or analyses of AdGuard DNS Services without AdGuard DNS’s written consent;
 
-5.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY, IF THE SOFTWARE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SOFTWARE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
+- hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means.
 
-5.5. RIGHTHOLDER IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SOFTWARE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT A RIGHTHOLDER PARTNER.
+5. User data and Privacy Policy
 
-5.6. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE SOFTWARE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
+5.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the https://adguard-dns.io website.
+5.2. Using AdGuard DNS, you agree to have read and accepted our Privacy Policy, which explains what type of information we collect, how it is shared and used.
 
-6. Limitation Of Liability
+6. Warranty Disclaimer
 
-6.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER RIGHTHOLDER NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF RIGHTHOLDER OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+6.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SOFTWARE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
 
-6.2. TO THE MAXIMUM EXTENT PERMITTED BY LAW, RIGHTHOLDER’S TOTAL LIABILITY TO YOU FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAID TO RIGHTHOLDER FOR ANY SOFTWARE OR OTHER PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA.
+6.2. IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SOFTWARE, PRODUCTS, OR SERVICES.
 
-6.3. THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THIS EULA.
+6.3. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY RIGHTHOLDER OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
 
-7. Miscellaneous
+6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY, IF THE SOFTWARE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SOFTWARE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
 
-7.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
+6.5. RIGHTHOLDER IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SOFTWARE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT A RIGHTHOLDER PARTNER.
 
-7.2. Entire Agreement and Non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by You in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
+6.6. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE SOFTWARE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
 
-7.3. Restriction on Amendments. No Rightholder Partner, or agent or employee of a Rightholder Partner, is authorized to make any amendment to this EULA. Any conflict or ambiguity between this EULA and any separate terms or conditions provided by a Rightholder Partner regarding the Software shall be resolved in favor of this EULA.
+7. Limitation Of Liability
 
-7.4. Severability. If any provision of this EULA shall be held by a court of competent jurisdiction to be contrary to law, that provision will be enforced to the maximum extent permissible, and the remaining provisions of this EULA will remain in full force and effect.
+7.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER RIGHTHOLDER NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF RIGHTHOLDER OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-7.5. No Use Where Prohibited. Use of the Software is unauthorized in any jurisdiction that does not give effect to all provisions of this EULA.
+7.2. TO THE MAXIMUM EXTENT PERMITTED BY LAW, RIGHTHOLDER’S TOTAL LIABILITY TO YOU FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAID TO RIGHTHOLDER FOR ANY SOFTWARE OR OTHER PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA.
 
-7.6. Assignment. You may not assign, by operation of law or otherwise, any rights or delegate any duties under the EULA to any third party without prior written consent by Rightholder. Any purported assignment lacking such consent will be void at its inception. Rightholder may assign all or part of its rights and/or delegate all or part of its duties under the EULA to any party, at any time, and in its sole discretion, upon notice of assignment by publishing such notice on its website.
+7.3. THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THIS EULA.
 
-8. Period for Bringing Actions
+8. Miscellaneous
+
+8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
+
+8.2. Entire Agreement and Non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by You in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
+
+8.3. Restriction on Amendments. No Rightholder Partner, or agent or employee of a Rightholder Partner, is authorized to make any amendment to this EULA. Any conflict or ambiguity between this EULA and any separate terms or conditions provided by a Rightholder Partner regarding the Software shall be resolved in favor of this EULA.
+
+8.4. Severability. If any provision of this EULA shall be held by a court of competent jurisdiction to be contrary to law, that provision will be enforced to the maximum extent permissible, and the remaining provisions of this EULA will remain in full force and effect.
+
+8.5. No Use Where Prohibited. Use of the Software is unauthorized in any jurisdiction that does not give effect to all provisions of this EULA.
+
+8.6. Assignment. You may not assign, by operation of law or otherwise, any rights or delegate any duties under the EULA to any third party without prior written consent by Rightholder. Any purported assignment lacking such consent will be void at its inception. Rightholder may assign all or part of its rights and/or delegate all or part of its duties under the EULA to any party, at any time, and in its sole discretion, upon notice of assignment by publishing such notice on its website.
+
+9. Period for Bringing Actions
 
 No action, regardless of form, arising out of the transactions under this EULA, may be brought by either party hereto more than one (1) year after the cause of action has accrued, except that an action for infringement of intellectual property rights may be brought within the maximum applicable statutory period.
 
-9. Contact Information
+10. Contact Information
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
