@@ -1,6 +1,6 @@
 # End-User License Agreement of AdGuard DNS
 
-*July 22, 2022*
+*July 28, 2022*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) IS A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE USING THE ADGUARD DNS PRODUCTS AND SERVICES. BY USING THE PRODUCTS AND SERVICES, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SERVICE AND AGREEING TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT USE THE SERVICE.
 
@@ -8,7 +8,7 @@ NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY D
 
 Adguard Software Limited may modify the Terms from time to time without prior notification. The Terms are binding from the time that they are updated on our website. The amendment of Terms may be broadcasted to you by sending an email and/or by publishing the updated Terms on [the AdGuard DNS website](​​https://adguard-dns.io).
 
-1. General
+## 1. General
 
 1.1. Adguard Software Limited provides AdGuard DNS, a cloud-based DNS service, at your own risk and responsibility. You are solely and exclusively responsible for the use of AdGuard DNS. AdGuard DNS shall not be liable for any loss, monetary or non-monetary harm, and this shall not include attorney fees or court costs irrespective of any laws or statutes that prescribe otherwise.
 
@@ -20,7 +20,7 @@ Adguard Software Limited may modify the Terms from time to time without prior no
 
 1.5. We may also modify or discontinue our free services and benefits without notice at any time at our sole discretion. Non-gratuitous services may be discontinued at the end of the term of the respective contract.
 
-2. Terms of Sale
+## 2. Terms of Sale
 
 2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at https://adguard-dns.io.
 
@@ -34,13 +34,13 @@ To test private AdGuard DNS, you can try the Starter plan. For more monthly requ
 
 2.5. You can cancel auto-renewal at any time in your AdGuard account to which the AdGuard DNS subscription is bound to without any additional charges. The paid subscription will continue to operate, but you will have to renew it manually when it expires.
 
-3. Refund policy
+## 3. Refund policy
 
 We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from https://adguard-dns.io (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller). Important: Monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
 The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to Adguard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between Customer and Support, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io), you need to contact support at support@adguard.com. Processing time will depend on the payment method you have chosen and usually takes up to 5-10 business days.
 
-4. Restrictions
+## 4. Restrictions
 
 You have no right to:
 
@@ -54,13 +54,13 @@ You have no right to:
 
 - hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means.
 
-5. User data and Privacy Policy
+## 5. User data and Privacy Policy
 
 5.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the https://adguard-dns.io website.
 
 5.2. Using AdGuard DNS, you agree to have read and accepted our Privacy Policy, which explains what type of information we collect, how it is shared and used.
 
-6. Warranty Disclaimer
+## 6. Warranty Disclaimer
 
 6.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERIVCE IS AT YOUR SOLE RISK. THE SERIVCE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE PRODUCTS AND SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SERIVCE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SERIVCE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
 
@@ -74,7 +74,7 @@ You have no right to:
 
 6.6. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE SERIVCE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
 
-7. Limitation Of Liability
+## 7. Limitation Of Liability
 
 7.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER RIGHTHOLDER NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF RIGHTHOLDER OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
@@ -82,7 +82,7 @@ You have no right to:
 
 7.3. THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THIS EULA.
 
-8. Miscellaneous
+## 8. Miscellaneous
 
 8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
 
@@ -96,11 +96,11 @@ You have no right to:
 
 8.6. Assignment. You may not assign, by operation of law or otherwise, any rights or delegate any duties under the EULA to any third party without prior written consent by Rightholder. Any purported assignment lacking such consent will be void at its inception. Rightholder may assign all or part of its rights and/or delegate all or part of its duties under the EULA to any party, at any time, and in its sole discretion, upon notice of assignment by publishing such notice on its website.
 
-9. Period for Bringing Actions
+## 9. Period for Bringing Actions
 
 No action, regardless of form, arising out of the transactions under this EULA, may be brought by either party hereto more than one (1) year after the cause of action has accrued, except that an action for infringement of intellectual property rights may be brought within the maximum applicable statutory period.
 
-10. Contact Information
+## 10. Contact Information
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
