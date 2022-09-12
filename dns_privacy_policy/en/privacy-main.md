@@ -82,6 +82,7 @@ You have the following rights when it comes to Personal Data:
 
 * Request to correct any incomplete or inaccurate data about you by sending an email to privacy@adguard.com. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified;
 
+
 * Delete all your Personal Data. You can do this at will via AdGuard Account, or by sending a request to privacy@adguard.com. In the latter case, we may ask you to verify your identity before fulfilling the request.
 
 ### Safeguarding Measures
