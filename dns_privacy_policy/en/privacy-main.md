@@ -1,6 +1,6 @@
 # AdGuard DNS Privacy Policy
 
-*July 21, 2022*
+*September 12, 2022*
 
 > Keynote: We do not share or sell any of your personal data. We are proud to say that we fight for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -20,7 +20,7 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 AdGuard DNS operates as a DNS resolver which can block access to certain domains, depending on the chosen configuration (server):
 
-* *AdGuard DNS Default* blocks access to domains that we consider ad, tracking, or malware. This list is constantly updated based on the community feedback.
+* *AdGuard DNS Default* blocks access to domains that we consider ad, tracking, or malware. [This list](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) is constantly updated based on the community feedback.
 
 * *AdGuard DNS Family* blocks access to the same domains as Default, and also to domains that may contain adult content. It also enforces safe search and other safe modes wherever possible, which can result in modified search results, missing comment sections, and other differences in web page appearance compared to its original state.
 
@@ -28,7 +28,7 @@ AdGuard DNS operates as a DNS resolver which can block access to certain domains
 
 * *Private AdGuard DNS* blocks DNS queries or modifies DNS responses in accordance with the user’s preferences. In addition to that, it displays the queries and statistics to the user via the AdGuard DNS dashboard. Registering an AdGuard account is required to use this type of DNS resolver.
 
-Whenever an AdGuard DNS server (except non-filtering servers) receives a request to a domain that’s considered to be an ad or tracking domain, it returns an “unspecified IP” response (0.0.0.0). Whenever an AdGuard DNS server (except non-filtering servers) receives a request to a domain that’s considered to be a malware domain, or when an AdGuard DNS Family server receives a request to a domain that’s considered to be an adult domain, it replies with a redirect to a dummy page that explains what has happened.
+Whenever an AdGuard DNS server (except non-filtering servers) receives a request to a domain that’s considered to be an ad or tracking domain, it returns an “unspecified IP” response (`0.0.0.0`). Whenever an AdGuard DNS server (except non-filtering servers) receives a request to a domain that’s considered to be a malware domain, or when an AdGuard DNS Family server receives a request to a domain that’s considered to be an adult domain, it replies with a redirect to a dummy page that explains what has happened.
 
 If you disagree with us about classifying a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should get blocked by one of AdGuard DNS servers, contact us at support@adguard.com.
 
@@ -36,7 +36,7 @@ If you disagree with us about classifying a certain domain as advertising, track
 
 We do not collect anything about the user specifically. In other words, your IP address or any data about you is not logged.
 
-* We store aggregated performance metrics of our DNS server, namely the number of complete requests to a particular server, the number of blocked requests, and the speed of processing requests.
+* We store aggregated performance metrics of our DNS servers, namely the number of complete requests to a particular server, the number of blocked requests, and the speed of processing requests.
 
 * We keep and store the anonymous database of domains requested in the last 24 hours. There is no information whatsoever that could link any of these domain names to the original user who sent the request. We need this information to identify and block new trackers and threats.
 
@@ -50,11 +50,11 @@ All data that we collect is not shared with any third parties. It is used solely
 
 * Cookies for personalizing the content of the AdGuard DNS website for users, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data by the standards of GDPR as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies.
 
-* Billing and payment information. If you buy a subscription to AdGuard DNS, we will need to know your contact details. We conduct all transactions via [the Paddle payment provider](https://paddle.com/).
+* Billing and payment information. If you buy a subscription to Private AdGuard DNS, we will need to know your contact details. We conduct all transactions via [the Paddle payment provider](https://paddle.com/).
 
 ### When You Are Using Private AdGuard DNS
 
-AdGuard DNS users may opt to use the “private AdGuard DNS” server. This functionality allows them to control what is done to their DNS queries, observe statistics and query logs.
+AdGuard DNS users may opt to use the “private AdGuard DNS” server. This functionality allows them to control their DNS queries, observe statistics and query logs.
 
 In this case, AdGuard DNS will block DNS queries or modify them according to the user’s preferences.
 
@@ -78,9 +78,9 @@ You have the following rights when it comes to Personal Data:
 
 * Export all Personal Data that we hold about you to a local file from your [AdGuard Account](https://my.adguard.com/);
 
-* Request information about what data about you we store and for how long, and if we did not collect it directly from you, you can request information about its source;
+* Request information about what data about you we store and for how long, and if we did not collect it directly from you, you can request information about its source by sending an email to privacy@adguard.com;
 
-* Request to correct any incomplete or inaccurate data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified;
+* Request to correct any incomplete or inaccurate data about you by sending an email to privacy@adguard.com. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified;
 
 * Delete all your Personal Data. You can do this at will via AdGuard Account, or by sending a request to privacy@adguard.com. In the latter case, we may ask you to verify your identity before fulfilling the request.
 
