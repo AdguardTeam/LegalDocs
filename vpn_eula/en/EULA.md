@@ -21,7 +21,7 @@ __1. General__
 
 __2. Terms of Sale__
 
-2.1. The customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/
+2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/
 
 In order to use the unlimited version of AdGuard VPN, you need to purchase a subscription: Monthly or Annual. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
 
@@ -29,7 +29,7 @@ In order to use the unlimited version of AdGuard VPN, you need to purchase a sub
 
 2.3. If you have not cancelled the auto-payment feature, your account will be charged automatically, and your AdGuard license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard license price increase.
 
-2.4. After a license purchased using coupons or discounts expires, the payment for the license renewal is charged at full price. Information on price changes will be sent to the email address you've used when purchasing the license.
+2.4. After a license purchased using coupons or discounts expires, the payment for the license renewal is charged at full price. Information on price changes will be sent to the email address used to purchase the license.
 
 2.5. You can cancel the automatic license renewal service anytime, at no additional cost, in your personal account to which the AdGuard VPN subscription is bound. Your paid license will still be valid, but you will have to renew it manually when it expires.
 
@@ -39,11 +39,11 @@ We grant our customers an opportunity to get a 100% refund on the funds they spe
 
 The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement.
 To get a refund for a subscription purchased through the official website https://adguard-vpn.com/, contact the support team: support@adguard-vpn.com.
-Processing time depends on your choice of the payment method and usually takes up to 5-10 business days.
+Processing time depends on your choice of payment method and usually takes up to 5-10 business days.
 
 __4. Restrictions__
 
-4.1. You may not make or distribute copies of the Software, or electronically transfer the Software from one Computer to another or over a network.
+4.1. You may not make or distribute copies of the Software or electronically transfer the Software from one Computer to another or over a network.
 
 4.2. You may not alter, merge, modify, or adapt the Software, or decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form, except to the extent permitted by applicable law notwithstanding this restriction or to the extent otherwise expressly permitted by Rightholder.
 
@@ -51,25 +51,25 @@ __4. Restrictions__
 
 4.4. You may not modify the Software or create derivative works based upon the Software.
 
-4.5. In the event that You fail to comply with this EULA, Rightholder may terminate all licenses to the Software and You must destroy all copies of the Software.
+4.5. In the event that you fail to comply with this EULA, Rightholder may terminate all licenses to the Software, and you must destroy all copies of the Software.
 
-4.6. Unless otherwise provided herein, You shall not (A) install or use more than the number of copies of the Software for which You purchased a license, (B) download the Software Trial Application under more than one username, (C) alter the contents of a hard drive or Computer system to enable the use of the Software Trial Application for a period in excess of the trial period for one license to such Software Trial Application, or (D) use the Software Trial Application for a purpose other than the sole purpose of determining whether to purchase a license to a non-trial version of the Software.
+4.6. Unless otherwise provided herein, you shall not (A) install or use more than the number of copies of the Software for which you purchased a license, (B) download a Software Trial Application under more than one username, (C) alter the contents of a hard drive or Computer system to enable the use of the Software Trial Application for a period in excess of the trial period for one license to such Software Trial Application, or (D) use the Software Trial Application for a purpose other than the sole purpose of determining whether to purchase a license to a non-trial version of the Software.
 
 4.7. You may not remove or modify any proprietary notice or labels from the Software or any output of the Software, including author attribution and copyright notices.
 
-4.8. You may not use the Software for any non-authorized purpose or any illegal purpose under applicable law.
+4.8. You may not use the Software for any unauthorized or illegal purpose or activity under applicable law.
 
-4.9. Only persons aged at least 18 years old can use AdGuard VPN. You are disallowed to connect and use the AdGuard VPN if you are a minor or if you have been or are prohibited to access the AdGuard VPN, or if your account has been suspended or closed due to any reason.
+4.9. Only persons 18 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, or if you have been or are prohibited to access AdGuard VPN, or if your account has been suspended or closed due to any reason.
 
 4.10. In case of violation, we reserve the right to suspend accounts or limit access to AdGuard VPN in our sole discretion. Such suspension or access limitation may be implemented by AdGuard VPN instantly and without any notice. If your account has been suspended, you can contact us for further information.
 
-__5. Users data and Privacy policy__
+__5. Personal data and Privacy policy__
 
-5.1. Adguard Software Limited guarantees a strict no activity logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
+5.1. AdGuard Software Limited guarantees a strict no-logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored, or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
 
-5.2. AdGuard VPN collects and processes very limited user data and has [strong Privacy policy](https://adguard-vpn.com/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the https://adguard-vpn.com/ website.
+5.2. AdGuard VPN collects and processes very limited user data and has a [strong Privacy policy](https://adguard-vpn.com/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the https://adguard-vpn.com/ website.
 
-5.3. Before using AdGuard VPN you agree to read our Privacy policy, which explains what type of information we collect and what might happen to that information, including, without limitation, how such information is shared and used. And by continuing using AdGuard VPN you are agreeing to the present Terms and Privacy Policy available at the link mentioned above.
+5.3. Before using AdGuard VPN, you agree to read our Privacy policy, which explains what type of information we collect and what might happen to that information, including, without limitation, how such information is shared and used. And by continuing to use AdGuard VPN, you agree to the present Terms and Privacy policy available at the link mentioned above.
 
 __6. Warranty Disclaimer__
 
@@ -79,13 +79,13 @@ __6. Warranty Disclaimer__
 
 6.3. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY RIGHTHOLDER OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
 
-6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY, IF THE SOFTWARE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SOFTWARE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
+6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY IF THE SOFTWARE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SOFTWARE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
 
 6.5. RIGHTHOLDER IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SOFTWARE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT A RIGHTHOLDER PARTNER.
 
 6.6. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE SOFTWARE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
 
-__7. Limitation Of Liability__
+__7. Limitation of Liability__
 
 7.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER RIGHTHOLDER NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF RIGHTHOLDER OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
@@ -97,7 +97,7 @@ __8. Miscellaneous__
 
 8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
 
-8.2. Entire Agreement and Non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by You in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
+8.2. Entire Agreement and Non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by you in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
 
 8.3. Restriction on Amendments. No Rightholder Partner, or agent or employee of a Rightholder Partner, is authorized to make any amendment to this EULA. Any conflict or ambiguity between this EULA and any separate terms or conditions provided by a Rightholder Partner regarding the Software shall be resolved in favor of this EULA.
 
@@ -113,10 +113,10 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 __10. Contact Information__
 
-Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
+Should you have any questions concerning this EULA, or if you desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
 Email: support@adguard-vpn.com
 
 Website: https://adguard-vpn.com
 
-© 2020 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2020-2022 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
