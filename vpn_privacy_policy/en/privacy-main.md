@@ -1,5 +1,5 @@
 # AdGuard VPN Privacy Policy
-*June 21, 2022*
+*September 12, 2022*
 
 >Keynote: We do not share or sell any of your personal data. We are proud to say that we fight for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -31,11 +31,15 @@ When you choose to use our app, you thereby accept to provide us your personal d
 
 * Usage information. It is crucial for a VPN service to understand how much traffic you are using. That is why we collect data about how you interact with our services, how much traffic you’ve used, and for how long have you been using our services.
 
-* Diagnostic/Device information. By default we do not collect anything. But if you give your consent, we collect some anonymized diagnostic information (for crash reports) and some information about the device used to access AdGuard VPN. What exact data we collect, depends on the AdGuard VPN product you are using. See detailed information in separate privacy notices.
+* Diagnostic/Device information. By default we do not collect anything. But if you give your consent, we collect some anonymized diagnostic information (for crash reports) and some information about the device used to access AdGuard VPN. What exact data we collect, depends on the AdGuard VPN product you are using.
 
 ## How We Use Your Personal Data
 
-We follow EU’s General Data Protection Regulation (“GDPR”) which defines personal data as: “…any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”. When we use terms “personal data" or “personal information”, we mean exactly that.
+We follow EU’s General Data Protection Regulation (“GDPR”) which defines personal data as:
+
+> “… any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”. 
+
+When we use terms “personal data" or “personal information”, we mean exactly that.
 
 We retain Personal Data for as long as necessary to continue providing you with our products and services, or until you revoke your consent to share this information.
 
@@ -63,7 +67,7 @@ We make every possible effort to protect you and your Personal Data from unautho
 
 * Input Controls: We take reasonable measures to make it possible to check and establish whether and by whom personal data has been entered into data processing systems, modified or removed.
 
-* Data Backup: Back-ups of the databases are made on a regular basis, they are secured and encrypted to ensure that personal data is protected against accidental destruction or loss when hosted by us.
+* Data Backup: We regularly back up our databases to protect Personal Data from accidental destruction or loss when hosted by us. The data is also encrypted so that it cannot be used if lost.
 
 * Logical Separation: Personal Data is logically segregated on our systems to ensure that Personal Data is collected for different purposes can be processed separately.
 
