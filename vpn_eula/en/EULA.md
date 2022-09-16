@@ -1,7 +1,7 @@
 # AdGuard VPN End-User License Agreement
-*September 14, 2022*
+*September 16, 2022*
 
-IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. BY USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT INSTALL THE SOFTWARE.
+IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. BY USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT INSTALL THE SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 
@@ -11,7 +11,7 @@ __1. General__
 
 1.1. AdGuard Software Limited provides AdGuard VPN, which is a virtual private network (VPN) software for your exclusive use, at your own risk and responsibility. You are solely and exclusively responsible for the use of AdGuard VPN. AdGuard Software Limited shall not be liable for any loss, monetary or non-monetary harm, and this shall not include attorney fees or court costs irrespective of any laws or statutes that prescribe otherwise.
 
-1.2. AdGuard Software Limited grants you a non-exclusive and limited license to download and use AdGuard VPN. The AdGuard VPN services are owned and copyrighted by AdGuard Software Limited and are protected worldwide. AdGuard Software Limited retains all rights, title and interest in and to the AdGuard VPN services and any portion thereof, including, without limitation, all copyrights, trademarks, service marks, trade secrets, and other intellectual property rights. All rights are reserved unless otherwise noted. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using AdGuard VPN in any way not expressly authorized by AdGuard Software Limited with written consent is strictly prohibited.
+1.2. AdGuard Software Limited grants you a non-exclusive and limited license to download and use AdGuard VPN. The AdGuard VPN services are owned and copyrighted by AdGuard Software Limited and are protected worldwide. AdGuard Software Limited retains all rights, title, and interest in and to the AdGuard VPN services and any portion thereof, including, without limitation, all copyrights, trademarks, service marks, trade secrets, and other intellectual property rights. All rights are reserved unless otherwise noted. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using AdGuard VPN in any way not expressly authorized by AdGuard Software Limited with written consent is strictly prohibited.
 
 1.3. To use AdGuard VPN, you shall install the software and sign up using an email address. You must provide a valid email address at sign-up to create the AdGuard VPN user account. You may also log in with an email and password you have already registered at adguard.com before.
 
@@ -27,7 +27,7 @@ In order to use the unlimited version of AdGuard VPN, you need to purchase a sub
 
 2.2 The order process is conducted by online reseller Paddle.com. Paddle provides all customer service inquiries and handles returns.
 
-2.3. If you have not cancelled the auto-payment feature, your account will be charged automatically, and your AdGuard license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard license price increase.
+2.3. If you have not canceled the auto-payment feature, your account will be charged automatically, and your AdGuard license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard VPN license price increase.
 
 2.4. After a license purchased using coupons or discounts expires, the payment for the license renewal is charged at full price. Information on price changes will be sent to the email address used to purchase the license.
 
@@ -59,9 +59,9 @@ __4. Restrictions__
 
 4.8. You may not use the Software for any unauthorized or illegal purpose or activity under applicable law.
 
-4.9. Only persons 18 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, or if you have been or are prohibited to access AdGuard VPN, or if your account has been suspended or closed due to any reason.
+4.9. Only persons 18 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, if you have been or are prohibited to access AdGuard VPN, or if your account has been suspended or closed due to any reason.
 
-4.10. In case of violation, we reserve the right to suspend accounts or limit access to AdGuard VPN in our sole discretion. Such suspension or access limitation may be implemented by AdGuard VPN instantly and without any notice. If your account has been suspended, you can contact us for further information.
+4.10. In case of violation, we reserve the right to suspend accounts or limit access to AdGuard VPN at our sole discretion. Such suspension or access limitation may be implemented by AdGuard VPN instantly and without any notice. If your account has been suspended, you can contact us for further information.
 
 __5. Personal data and Privacy policy__
 
@@ -73,13 +73,13 @@ __5. Personal data and Privacy policy__
 
 __6. Warranty Disclaimer__
 
-6.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SOFTWARE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
+6.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SOFTWARE IS NOT DESIGNED, INTENDED, OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE, OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
 
 6.2. IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SOFTWARE, PRODUCTS, OR SERVICES.
 
 6.3. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY RIGHTHOLDER OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
 
-6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY IF THE SOFTWARE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SOFTWARE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
+6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY IF THE SOFTWARE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SOFTWARE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM, OR OPERATING SYSTEM.
 
 6.5. RIGHTHOLDER IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SOFTWARE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT A RIGHTHOLDER PARTNER.
 
@@ -87,7 +87,7 @@ __6. Warranty Disclaimer__
 
 __7. Limitation of Liability__
 
-7.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER RIGHTHOLDER NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF RIGHTHOLDER OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+7.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER RIGHTHOLDER NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF RIGHTHOLDER OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 7.2. TO THE MAXIMUM EXTENT PERMITTED BY LAW, RIGHTHOLDER’S TOTAL LIABILITY TO YOU FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAID TO RIGHTHOLDER FOR ANY SOFTWARE OR OTHER PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA.
 
@@ -95,7 +95,7 @@ __7. Limitation of Liability__
 
 __8. Miscellaneous__
 
-8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
+8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during, or after arbitration proceedings.
 
 8.2. Entire Agreement and Non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by you in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
 
