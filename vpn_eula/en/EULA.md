@@ -1,5 +1,5 @@
 # AdGuard VPN End-User License Agreement
-*September 16, 2022*
+*September 19, 2022*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. BY USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT INSTALL THE SOFTWARE.
 
@@ -23,7 +23,7 @@ __2. Terms of Sale__
 
 2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/
 
-In order to use the unlimited version of AdGuard VPN, you need to purchase a subscription: Monthly or Annual. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
+In order to use the unlimited version of AdGuard VPN, you need to purchase a subscription: Monthly, Annual, or Biennial. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
 
 2.2 The order process is conducted by online reseller Paddle.com. Paddle provides all customer service inquiries and handles returns.
 
@@ -35,7 +35,7 @@ In order to use the unlimited version of AdGuard VPN, you need to purchase a sub
 
 __3. Refund policy__
 
-We grant our customers an opportunity to get a 100% refund on the funds they spent on AdGuard Annual subscriptions purchased through https://adguard-vpn.com/ (for subscriptions purchased elsewhere, check the refund policy of the particular reseller). Important: Monthly subscriptions are non-refundable. Annual subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of an Annual subscription are granted regardless of the reason.
+We grant our customers an opportunity to get a 100% refund on the funds they spent on AdGuard Annual and Biennial subscriptions purchased through https://adguard-vpn.com/ (for subscriptions purchased elsewhere, check the refund policy of the particular reseller). Important: Monthly subscriptions are non-refundable. Annual and Biennial subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of an Annual or Biennial subscription are granted regardless of the reason.
 
 The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement.
 To get a refund for a subscription purchased through the official website https://adguard-vpn.com/, contact the support team: support@adguard-vpn.com.
