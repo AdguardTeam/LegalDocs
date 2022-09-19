@@ -21,13 +21,13 @@ __1. General__
 
 __2. Terms of Sale__
 
-2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/
+2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/.
 
 In order to use the unlimited version of AdGuard VPN, you need to purchase a subscription: Monthly, Annual, or Biennial. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
 
 2.2 The order process is conducted by online reseller Paddle.com. Paddle provides all customer service inquiries and handles returns.
 
-2.3. If you have not canceled the auto-payment feature, your account will be charged automatically, and your AdGuard license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard VPN license price increase.
+2.3. If you have not canceled the auto-payment feature, your account will be charged automatically, and your AdGuard VPN license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard VPN license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard VPN license price increase.
 
 2.4. After a license purchased using coupons or discounts expires, the payment for the license renewal is charged at full price. Information on price changes will be sent to the email address used to purchase the license.
 
