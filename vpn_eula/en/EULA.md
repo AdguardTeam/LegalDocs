@@ -1,5 +1,5 @@
 # AdGuard VPN End-User License Agreement
-*September 16, 2022*
+*September 19, 2022*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. BY USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT INSTALL THE SOFTWARE.
 
@@ -21,13 +21,13 @@ __1. General__
 
 __2. Terms of Sale__
 
-2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/
+2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/.
 
-In order to use the unlimited version of AdGuard VPN, you need to purchase a subscription: Monthly or Annual. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
+In order to use the unlimited version of AdGuard VPN, you need to purchase a monthly, one-year, or two-year subscription. Once you purchase a subscription, it is automatically linked to your AdGuard personal account.
 
 2.2 The order process is conducted by online reseller Paddle.com. Paddle provides all customer service inquiries and handles returns.
 
-2.3. If you have not canceled the auto-payment feature, your account will be charged automatically, and your AdGuard license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard VPN license price increase.
+2.3. If you have not canceled the auto-payment feature, your account will be charged automatically, and your AdGuard VPN license will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard VPN license expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard VPN license price increase.
 
 2.4. After a license purchased using coupons or discounts expires, the payment for the license renewal is charged at full price. Information on price changes will be sent to the email address used to purchase the license.
 
@@ -35,7 +35,7 @@ In order to use the unlimited version of AdGuard VPN, you need to purchase a sub
 
 __3. Refund policy__
 
-We grant our customers an opportunity to get a 100% refund on the funds they spent on AdGuard Annual subscriptions purchased through https://adguard-vpn.com/ (for subscriptions purchased elsewhere, check the refund policy of the particular reseller). Important: Monthly subscriptions are non-refundable. Annual subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of an Annual subscription are granted regardless of the reason.
+We grant our customers an opportunity to get a 100% refund on the funds they spent on one-year and two-year AdGuard VPN subscriptions purchased through https://adguard-vpn.com/ (for subscriptions purchased elsewhere, check the refund policy of the particular reseller). Important: monthly subscriptions are non-refundable. One-year and two-year subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of an one-year or two-year subscription are granted regardless of the reason.
 
 The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement.
 To get a refund for a subscription purchased through the official website https://adguard-vpn.com/, contact the support team: support@adguard-vpn.com.
