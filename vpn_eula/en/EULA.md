@@ -1,21 +1,21 @@
 # AdGuard VPN End-User License Agreement
-*September 19, 2022*
+*September 22, 2022*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. BY USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT INSTALL THE SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 
-AdGuard Software Limited may modify the Terms from time to time without prior notice. The Terms are binding from the time that they are updated on our website. The amendment of the Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website.
+Adguard Software Limited may modify the Terms from time to time without prior notice. The Terms are binding from the time that they are updated on our website. The amendment of the Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website.
 
 __1. General__
 
-1.1. AdGuard Software Limited provides AdGuard VPN, which is a virtual private network (VPN) software for your exclusive use, at your own risk and responsibility. You are solely and exclusively responsible for the use of AdGuard VPN. AdGuard Software Limited shall not be liable for any loss, monetary or non-monetary harm, and this shall not include attorney fees or court costs irrespective of any laws or statutes that prescribe otherwise.
+1.1. Adguard Software Limited provides AdGuard VPN, which is a virtual private network (VPN) software for your exclusive use, at your own risk and responsibility. You are solely and exclusively responsible for the use of AdGuard VPN. Adguard Software Limited shall not be liable for any loss, monetary or non-monetary harm, and this shall not include attorney fees or court costs irrespective of any laws or statutes that prescribe otherwise.
 
-1.2. AdGuard Software Limited grants you a non-exclusive and limited license to download and use AdGuard VPN. The AdGuard VPN services are owned and copyrighted by AdGuard Software Limited and are protected worldwide. AdGuard Software Limited retains all rights, title, and interest in and to the AdGuard VPN services and any portion thereof, including, without limitation, all copyrights, trademarks, service marks, trade secrets, and other intellectual property rights. All rights are reserved unless otherwise noted. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using AdGuard VPN in any way not expressly authorized by AdGuard Software Limited with written consent is strictly prohibited.
+1.2. Adguard Software Limited grants you a non-exclusive and limited license to download and use AdGuard VPN. The AdGuard VPN services are owned and copyrighted by Adguard Software Limited and are protected worldwide. Adguard Software Limited retains all rights, title, and interest in and to the AdGuard VPN services and any portion thereof, including, without limitation, all copyrights, trademarks, service marks, trade secrets, and other intellectual property rights. All rights are reserved unless otherwise noted. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using AdGuard VPN in any way not expressly authorized by Adguard Software Limited with written consent is strictly prohibited.
 
 1.3. To use AdGuard VPN, you shall install the software and sign up using an email address. You must provide a valid email address at sign-up to create the AdGuard VPN user account. You may also log in with an email and password you have already registered at adguard.com before.
 
-1.4. By providing your email address, you agree to receive notifications about modifications to AdGuard VPN, promotional information about AdGuard VPN, or similar products or services offered by AdGuard Software Limited. If you wish to stop receiving the marketing emails, you can disable them in your AdGuard personal account or unsubscribe right in the received email.
+1.4. By providing your email address, you agree to receive notifications about modifications to AdGuard VPN, promotional information about AdGuard VPN, or similar products or services offered by Adguard Software Limited. If you wish to stop receiving the marketing emails, you can disable them in your AdGuard personal account or unsubscribe right in the received email.
 
 1.5. We may also modify or discontinue our free services and benefits without notice at any time at our sole discretion. Free-of-charge services may be discontinued at the end of the respective contract period.
 
@@ -37,7 +37,7 @@ __3. Refund policy__
 
 We grant our customers an opportunity to get a 100% refund on the funds they spent on one-year and two-year AdGuard VPN subscriptions purchased through https://adguard-vpn.com/ (for subscriptions purchased elsewhere, check the refund policy of the particular reseller). Important: monthly subscriptions are non-refundable. One-year and two-year subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of an one-year or two-year subscription are granted regardless of the reason.
 
-The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement.
+The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with Adguard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement.
 To get a refund for a subscription purchased through the official website https://adguard-vpn.com/, contact the support team: support@adguard-vpn.com.
 Processing time depends on your choice of payment method and usually takes up to 5-10 business days.
 
@@ -65,9 +65,9 @@ __4. Restrictions__
 
 __5. Personal data and Privacy policy__
 
-5.1. AdGuard Software Limited guarantees a strict no-logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored, or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
+5.1. Adguard Software Limited guarantees a strict no-logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored, or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
 
-5.2. AdGuard VPN collects and processes very limited user data and has a [strong Privacy policy](https://adguard-vpn.com/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the https://adguard-vpn.com/ website.
+5.2. AdGuard VPN collects and processes very limited user data and has a [strong Privacy policy](https://adguard-vpn.com/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the https://adguard-vpn.com/ website.
 
 5.3. Before using AdGuard VPN, you agree to read our Privacy policy, which explains what type of information we collect and what might happen to that information, including, without limitation, how such information is shared and used. And by continuing to use AdGuard VPN, you agree to the present Terms and Privacy policy available at the link mentioned above.
 
