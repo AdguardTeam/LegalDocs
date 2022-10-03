@@ -1,5 +1,5 @@
 # AdGuard VPN End-User License Agreement
-*September 27, 2022*
+*September 30, 2022*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. BY USING THE SOFTWARE, YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT INSTALL THE SOFTWARE.
 
@@ -93,7 +93,7 @@ __7. Limitation of Liability__
 
 __8. Miscellaneous__
 
-8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 6 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during, or after arbitration proceedings.
+8.1. Applicable Law, Arbitration, and Choice of Venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during, or after arbitration proceedings.
 
 8.2. Entire Agreement and Non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by you in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
 
