@@ -1,5 +1,5 @@
 # AdGuard VPN Privacy Policy
-*September 12, 2022*
+*January 16, 2023*
 
 >Keynote: We do not share or sell any of your personal data. We are proud to say that we fight for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -18,6 +18,8 @@ If you have any questions about this Privacy Policy, please contact us at privac
 ### When you are using our website
 
 * Email address and a password which you use at the registration. That ensures that you can retrieve your password if needed, and that we can communicate with you when we have any announcements to make, service updates to advise or errors to report. You can unsubscribe from our newsletters via AdGuard Account or by clicking “Unsubscribe” button in the newsletter itself.
+
+> For security reasons, passwords are stored in a hashed format, we do not store plain passwords.
 
 * Cookies for personalizing the content of AdGuard VPN website for users, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data by the standards of GDPR as it does not allow to identify you. You can always disable cookies on your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the aid of cookies.
 
