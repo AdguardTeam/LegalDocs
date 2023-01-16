@@ -19,8 +19,6 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 * Email address and a hash of the password which you use at the registration. That ensures that you can retrieve your password if needed, and that we can communicate with you when we have any announcements to make, service updates to advise or errors to report. You can unsubscribe from our newsletters via AdGuard Account or by clicking “Unsubscribe” button in the newsletter itself.
 
-> For security reasons, passwords are stored in a hashed format, we do not store plain passwords.
-
 * Cookies for personalizing the content of AdGuard VPN website for users, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data by the standards of GDPR as it does not allow to identify you. You can always disable cookies on your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the aid of cookies.
 
 * Billing and payment information. If you purchase a subscription to AdGuard VPN, we’ll need to know your contact details. FYI: we conduct all transactions via [Paddle](https://paddle.com/) payment provider.
