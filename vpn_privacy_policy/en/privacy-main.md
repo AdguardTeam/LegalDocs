@@ -17,7 +17,7 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 ### When you are using our website
 
-* Email address and a password which you use at the registration. That ensures that you can retrieve your password if needed, and that we can communicate with you when we have any announcements to make, service updates to advise or errors to report. You can unsubscribe from our newsletters via AdGuard Account or by clicking “Unsubscribe” button in the newsletter itself.
+* Email address and a hash of the password which you use at the registration. That ensures that you can retrieve your password if needed, and that we can communicate with you when we have any announcements to make, service updates to advise or errors to report. You can unsubscribe from our newsletters via AdGuard Account or by clicking “Unsubscribe” button in the newsletter itself.
 
 > For security reasons, passwords are stored in a hashed format, we do not store plain passwords.
 
