@@ -52,17 +52,19 @@ If you disagree with our Policy or any of its parts, you have the right to lodge
 
 As stated in our keynote, your privacy is the highest concern for us. We make every possible effort to protect you and your Personal Data from unauthorized access, alteration, disclosure or destruction. We implement and maintain the following technical and security measures:
 
-* System Access Controls: We take reasonable measures to prevent Personal Data from being used without authorization. These controls shall vary based on the nature of the processing undertaken and may include, among other controls, authentication via passwords and/or two-factor authentication, documented authorization processes, documented change management processes and/or logging of access on several levels.  
+* **System Access Controls**: We take reasonable measures to prevent Personal Data from being used without authorization. These controls shall vary based on the nature of the processing undertaken and may include, among other controls, authentication via passwords and/or two-factor authentication, documented authorization processes, documented change management processes and/or logging of access on several levels.  
 
-* Data Access Controls: We take reasonable measures to ensure that Personal Data is accessible and manageable only by properly authorized staff. Direct database query access is restricted and application access rights are established and enforced to ensure that persons entitled to use a data processing system only have access to the Personal Data to which they have privilege of access; and that personal data cannot be read, copied, modified or removed without authorization in the course of processing.
+* **Data Access Controls**: We take reasonable measures to ensure that Personal Data is accessible and manageable only by properly authorized staff. Direct database query access is restricted and application access rights are established and enforced to ensure that persons entitled to use a data processing system only have access to the Personal Data to which they have privilege of access; and that personal data cannot be read, copied, modified or removed without authorization in the course of processing.
 
-* Transmission Controls: We take reasonable measures to ensure that it is possible to check and establish to which entities the transfer of personal data by means of data transmission facilities is envisaged so personal data cannot be read, copied, modified or removed without authorization during electronic transmission or transport.
+- **Storing Data in a Data Center**: personal information is stored in a data center located in Frankfurt. This is secure: the data center does not demand that we collect any data about your traffic or your use of our products and services. If they request us to start doing so, we will stop working with this provider and find an alternative.
 
-* Input Controls: We take reasonable measures to make it possible to check and establish whether and by whom personal data has been entered into data processing systems, modified or removed.
+* **Transmission Controls**: We take reasonable measures to ensure that it is possible to check and establish to which entities the transfer of personal data by means of data transmission facilities is envisaged so personal data cannot be read, copied, modified or removed without authorization during electronic transmission or transport.
 
-* Data Backup: Back-ups of the databases are made on a regular basis, are secured, and encrypted to ensure that personal data is protected against accidental destruction or loss when hosted by us.
+* **Input Controls**: We take reasonable measures to make it possible to check and establish whether and by whom personal data has been entered into data processing systems, modified or removed.
 
-* Logical Separation: Personal Data is logically segregated on our systems to ensure that Personal Data that is collected for different purposes can be processed separately.
+* **Data Backup**: Back-ups of the databases are made on a regular basis, are secured, and encrypted to ensure that personal data is protected against accidental destruction or loss when hosted by us.
+
+* **Logical Separation**: Personal Data is logically segregated on our systems to ensure that Personal Data that is collected for different purposes can be processed separately.
 
 ## Consequences of Not Providing Your Personal Data
 
