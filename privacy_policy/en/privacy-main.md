@@ -1,5 +1,5 @@
 # Privacy Policy: General notes
-*June 21, 2022*
+*February 1, 2023*
 
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -56,7 +56,7 @@ As stated in our keynote, your privacy is the highest concern for us. We make ev
 
 * **Data Access Controls**: We take reasonable measures to ensure that Personal Data is accessible and manageable only by properly authorized staff. Direct database query access is restricted and application access rights are established and enforced to ensure that persons entitled to use a data processing system only have access to the Personal Data to which they have privilege of access; and that personal data cannot be read, copied, modified or removed without authorization in the course of processing.
 
-- **Storing Data in a Data Center**: personal information is stored in a data center located in Frankfurt. This is secure: the data center does not demand that we collect any data about your traffic or your use of our products and services. If they request us to start doing so, we will stop working with this provider and find an alternative.
+* **Storing Data in a Data Center**: personal information is stored in a data center located in Frankfurt. This is secure: the data center does not demand that we collect any data about your traffic or your use of our products and services. If they request us to start doing so, we will stop working with this provider and find an alternative.
 
 * **Transmission Controls**: We take reasonable measures to ensure that it is possible to check and establish to which entities the transfer of personal data by means of data transmission facilities is envisaged so personal data cannot be read, copied, modified or removed without authorization during electronic transmission or transport.
 
