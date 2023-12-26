@@ -1,6 +1,6 @@
 # End-User License Agreement of AdGuard DNS
 
-*July 28, 2022*
+*December 28, 2023*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) IS A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE USING THE ADGUARD DNS PRODUCTS AND SERVICES. BY USING THE PRODUCTS AND SERVICES, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SERVICE AND AGREEING TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT USE THE SERVICE.
 
@@ -22,7 +22,7 @@ Adguard Software Limited may modify the Terms from time to time without prior no
 
 ## 2. Terms of Sale
 
-2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at https://adguard-dns.io.
+2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at <https://adguard-dns.io>.
 
 To test private AdGuard DNS, you can try the Starter plan. For more monthly requests, devices and servers, you need to purchase a subscription: Monthly or Yearly, Personal, Team, or Enterprise. Once you purchase a subscription, it is automatically linked to your AdGuard account.
 
@@ -36,9 +36,9 @@ To test private AdGuard DNS, you can try the Starter plan. For more monthly requ
 
 ## 3. Refund policy
 
-We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from https://adguard-dns.io (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller). Important: Monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
+We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from <https://adguard-dns.io> (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller). Important: Monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
-The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to Adguard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between Customer and Support, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io), you need to contact support at support@adguard.com. Processing time will depend on the payment method you have chosen and usually takes up to 5-10 business days.
+The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to Adguard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between Customer and Support, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io), you need to contact support at <support@adguard.com>. Processing time will depend on the payment method you have chosen and usually takes up to 5-10 business days.
 
 ## 4. Restrictions
 
@@ -56,23 +56,23 @@ You have no right to:
 
 ## 5. User data and Privacy Policy
 
-5.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the https://adguard-dns.io website.
+5.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the <https://adguard-dns.io> website.
 
 5.2. Using AdGuard DNS, you agree to have read and accepted our Privacy Policy, which explains what type of information we collect, how it is shared and used.
 
 ## 6. Warranty Disclaimer
 
-6.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERIVCE IS AT YOUR SOLE RISK. THE SERIVCE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE PRODUCTS AND SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SERIVCE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SERIVCE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
+6.1 YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE PRODUCTS AND SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. RIGHTHOLDER DOES NOT WARRANT THAT THE SERVICE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SERVICE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
 
 6.2. IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE PRODUCTS AND SERVICES PROVIDED UNDER THIS EULA, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SERVICES.
 
 6.3. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY RIGHTHOLDER OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
 
-6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY, IF THE SERIVCE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SERIVCE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
+6.4. RIGHTHOLDER SHALL HAVE NO LIABILITY, AND YOU RELEASE RIGHTHOLDER OF ANY AND ALL LIABILITY, IF THE SERVICE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE SERVICE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
 
-6.5. RIGHTHOLDER IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SERIVCE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SERIVCE FROM AN UNAUTHORIZED PARTY THAT IS NOT A RIGHTHOLDER PARTNER.
+6.5. RIGHTHOLDER IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SERVICE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SERVICE FROM AN UNAUTHORIZED PARTY THAT IS NOT A RIGHTHOLDER PARTNER.
 
-6.6. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE SERIVCE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
+6.6. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE SERVICE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
 
 ## 7. Limitation Of Liability
 
@@ -104,7 +104,7 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
-Email: support@adguard.com
-Website: https://adguard-dns.io
+Email: <support@adguard.com>
+Website: <https://adguard-dns.io>
 
-© 2022 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2023 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
