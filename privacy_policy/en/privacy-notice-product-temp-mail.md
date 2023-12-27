@@ -6,23 +6,23 @@ This Privacy Notice explains the data we collect and process when you use AdGuar
 
 ## What data we collect and when
 
-### When you create a mailbox
+### When a mailbox is created
 
 **The mailbox name.** It is random and generated once when the user starts using the service. It is not associated with any IP address or the user information. We do not collect or store users' IP addresses.
 **Timestamps.** We retain the timestamp when each mailbox is created.
 
-### Each time you log in
+### With each login
 
 **Last access time.** We record the time of the last access to each mailbox. We need this information to automatically delete inactive mailboxes.
-**Secret cookies.** To facilitate access to the mailbox, a secret cookie is stored on the user's device.
+**Authenticaion cookie.** An authentication cookie is a small file that is sent to the user's browser after they log in to AdGuard Temp Mail. It helps us recognize the user, so they don't have to keep entering their login details every time they use the service. An authentication cookie is stored on the user's device.
 
-### When you delete your mailbox
+### When a mailbox is deleted
 
 **Mailbox deletion time.** The deletion time of mailboxes is stored. Mailboxes can be deleted manually by users or automatically after 7 days of inactivity. The email address is permanently stored and marked as deleted upon removal. The reason for permanently storing the email address is to avoid allocating the same address to a different user.
 
 Upon mailbox deletion, associated emails are physically deleted, and no new emails are accepted.
 
-Even if you don’t delete your mailbox, all mails and related data are permanently deleted 24 hours after receipt.
+Even if a mailbox is not deleted, all mails and related data are permanently deleted 24 hours after receipt.
 
 ## Security and data protection
 
