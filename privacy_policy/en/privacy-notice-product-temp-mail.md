@@ -1,4 +1,5 @@
 # AdGuard Temp Mail Privacy Notice
+*December 28, 2023*
 
 > Keynote: We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -35,5 +36,3 @@ Please note that we may update this privacy notice from time to time. If signifi
 If you have any questions or concerns about your privacy or the use of our service, please contact our support team at <support@adguard.com>.
 
 Thank you for choosing AdGuard Temp Mail. Your trust is important to us.
-
-Last updated: December 27, 2023
