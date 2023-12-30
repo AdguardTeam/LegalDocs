@@ -1,5 +1,5 @@
 # End-User License Agreement of AdGuard
-*July 19, 2021*
+*November 22, 2023*
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -9,55 +9,91 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 ## 1. Definitions
 
-1.1. Rightholder (owner of all rights, whether exclusive or otherwise to the Software) means ADGUARD SOFTWARE LIMITED, a company incorporated according to the laws of the Republic of Cyprus.
+1.1. “Account” is a part of the Website dedicated to Your licenses and subscriptions.
 
-1.2. “Software” means the ADGUARD software program and any third party software programs contained therein, in each case supplied by Rightholder herewith, and corresponding documentation, associated media, printed materials, and online or electronic documentation, and all updates or upgrades of the above that are provided to You.
+1.2. “Computer(s)” is a combination of hardware and software, including, but not limited to, computers, notebooks, laptops, tablets, electronic books, smart watches, smart glasses, home automation devices, smart home and smart car systems, smart televisions, projectors, workstations, network storages, entertainment centers, routers, phones, smartphones, or other devices with one (1) installed operating system on which the Software can be installed and used. A device with several operating systems and / or virtual machines installed is considered as a set of Computers, the number of which corresponds to the number of operating systems and virtual machines installed on the device.
 
-1.3. “Software Trial Application” means a version of the Software, so identified, to be used only to review, demonstrate and evaluate the Software for a limited time period. The Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
+1.3. “End User” (“You”, “Your”, “Yourself”) is a person who accepts this EULA and installs and uses the Software. If the Software is to be used by a company for its business purposes, the End User is such company; whereas the person accepting this EULA represents and warrants that the person is empowered to do so on behalf of the company; whereas the company means an entity of any type of ownership.
 
-1.4. “Computer(s)” means hardware, including personal computers, laptops, workstations, personal digital assistants, smartphones, hand-held devices, or other electronic devices for which the Software was designed and upon which the Software is installed.
+1.4. “Partner(s)” are persons and companies that are authorized by Rightholder to distribute the Software.
 
-1.5. “End User” or “You” or “Your” means each individual installing or using the Software on his or her own behalf or who is legally using a copy of the Software; or, if the Software is being installed or used on behalf of an organization, such as an employer of an individual, “You” further means the organization for which the Software is installed or used and the person accepting this EULA and installing or using the Software on the behalf of such organization represents that he or she has been authorized by such organization to do so on its behalf. The term “organization”, without limitation, includes any partnership, limited liability company, corporation, association, joint stock company, trust, joint venture, labor organization, unincorporated organization, or governmental authority.
+1.5. “Rightholder” (“we”, “us”, “our”) is ADGUARD SOFTWARE LIMITED, an entity organized and existing under the laws of the Republic of Cyprus. The Rightholder is the owner of all rights, exclusive or otherwise, to the Software.
 
-1.6. “Partner(s)” means those individuals or organizations that distribute the Software based on an agreement and license with the Rightholder.
+1.6. “Software” is the ADGUARD software program and any third party software programs contained therein, in each case supplied by Rightholder herewith, and corresponding documentation, associated media, printed materials, and online or electronic documentation, and all updates or upgrades of the above that are provided to You.
 
-1.7. “Update(s)” means all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc. that Rightholder provides from time to time in its discretion.
+1.7. “Software Beta Application” is a version of the Software, so identified, to be used only to test the Software for a limited time period. The beta version of the Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
+
+1.8. “Software Trial Application” is a version of the Software, so identified, to be used only to review, demonstrate and evaluate the Software for a limited time period. The Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
+
+1.9. “Third Party Software” are software modules, libraries and applications owned and/or licensed by third parties that are distributed with the Software and that may be part of the Software.
+
+1.10. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software, that the Rightholder provides from time to time in its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
+
+1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, [https://adguard.com/](https://adguard.com/)).
 
 ## 2. License Grant
 
-2.1. You may install and use the Software on the number of Computers that was specified in an applicable order accepted by Rightholder or a Partner when You purchased a license to the Software.
+2.1. The Rightholder hereby grants You a non-exclusive license to download and use the Software within the scope of the Software'’s functionality described on the Website, provided that You comply with all requirements, restrictions and terms specified in this EULA.
 
-2.2. If You have received, downloaded and/or installed a Software Trial Application, You are hereby granted an evaluation license for the Software, You may use the Software Trial Application only for evaluation purposes and only during the single applicable evaluation period, unless otherwise indicated, from the date of the initial installation. Any use of the Software Trial Application for other purposes or beyond the applicable evaluation period is strictly prohibited.
+2.2. You are entitled, in accordance with the license granted in clause 2.1 herein, to install and use the Software on a certain number of Computers, which is indicated in Your order when You purchased Your license or subscription.
 
-2.3. From the time of the Software activation (with the exception of the Software Trial Application), You have the right to receive the following services for the defined period specified on the Software package (if the Software was purchased on a physical medium) or specified during purchase (if the Software was purchased via the Internet): 
-- Updates of the Software via the Internet when and as the Rightholder publishes them on its website or through other online services. Any Updates that You may receive become part of the Software and the terms and conditions of this EULA apply to them; 
-- Provided that You have installed the latest Updates, Technical Support via the Internet, as described in the documentation provided with the Software or at Rightholder’s website. Rightholder does not guarantee that Technical Support will be available for Software that does not have the latest Updates installed.
+2.3. In case You intend to install and use a Software Trial Application, the Rightholder hereby grants Tou a non-exclusive license to use the Software Trial Application to assess the applicability of its functionality to Your needs during the granted term of assessment, which commences on the date of installation of the Software Trial Application, unless indicated otherwise-subject to Your compliance with ll requirements, restrictions, and terms specified in the EULA. You are not allowed to use the Software Trial Application for purposes other than those specified in this clause or after the expiry of the granted term of assessment.
+
+2.4. In case You intend to install and use a Software Beta Application, the Rightholder hereby grants You a non-exclusive license to use the Software Beta Application to test its functionality during the granted term of testing, provided that You participate in the Beta testing program of the Rightholder and comply with all rules of the Beta testing program and with all requirements, restrictions and terms specified in this EULA. You are not allowed to use the Software Beta Application for purposes other than those specified in this clause or after the expiry of the granted term of testing.
+
+2.5. To use the Software, You must install the Software and sign in using Your email address to bind the Software to Your Account or sign up by creating a new Account. You must provide a valid email address when signing up. You may also sign in with an email and password You have already registered at the Website or other Rightholder’s websites before.
+
+2.6 You are entitled receive technical support via the Website and to get Updates during the term of Your license or subscription (not applicable if You are using a Software Trial Application or a Software Beta Application). In order to qualify for technical support, You must install all available latest Updates.
 
 ## 3. License Restrictions
 
 3.1. You may not make or distribute copies of the Software, or electronically transfer the Software from one Computer to another or over a network.
 
-3.2. You may not alter, merge, modify, or adapt the Software, or decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form, except to the extent permitted by applicable law notwithstanding this restriction or to the extent otherwise expressly permitted by Rightholder.
+3.2. You may not alter, merge, modify, or adapt the Software, or decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form, except to the extent permitted by applicable law notwithstanding this restriction or to the extent otherwise expressly permitted by the Rightholder.
 
-3.3. You may not sell, resell, rent, lease, or sublicense the Software. Only authorized Partners of Rightholder are permitted to resell or sublicense the Software.
+3.3. You may not sell, resell, rent, lease, or sublicense the Software. Only authorized Partners of the Rightholder are permitted to resell or sublicense the Software.
 
 3.4. You may not modify the Software or create derivative works based upon the Software.
 
-3.5. In the event that You fail to comply with this EULA, Rightholder may terminate all licenses to the Software and You must destroy all copies of the Software.
+3.5. In the event that You fail to comply with this EULA, the Rightholder may terminate all licenses to the Software and You must destroy all copies of the Software.
 
-3.6. Unless otherwise provided herein, You shall not (A) install or use more than the number of copies of the Software for which You purchased a license, (B) download the Software Trial Application under more than one username, (C) alter the contents of a hard drive or Computer system to enable the use of the Software Trial Application for a period in excess of the trial period for one license to such Software Trial Application, or (D) use the Software Trial Application for a purpose other than the sole purpose of determining whether to purchase a license to a non-trial version of the Software.
+3.6. Unless otherwise provided herein, You shall not:
 
-3.7. You may not remove or modify any proprietary notice or labels from the Software or any output of the Software, including author attribution and copyright notices.
+(A) install or use more than the number of copies of the Software for which You purchased a license,
 
-3.8. You may not use the Software for any non-authorized purpose or any illegal purpose under applicable law.
+(B) download the Software Trial Application under more than one username,
+
+(C) alter the contents of a hard drive or Computer system to enable the use of the Software Trial Application for a period in excess of the trial period for one license to such Software Trial Application, or
+
+(D) use the Software Trial Application for a purpose other than the sole purpose of determining whether to purchase a license to a non-trial version of the Software.
+
+3.7. Unless otherwise provided herein, You shall not when using the Software Beta Application:
+
+(A) use the Software Beta Application for a purpose other than the sole purpose of testing the Software,
+
+(B) use the Software Beta Application if You do not participate in the Beta testing program of the Rightholder or if You violate the rules of the Beta testing program,
+
+(C) distribute, share, send, or make the Software Beta Application otherwise available to third parties without prior written consent of the Rightholder, or
+
+(D) breach the confidentiality of the Software Beta Application, its functions, features, characteristics, design, user interface, documentation, or other related materials by publishing, sharing, sending, disclosing, or otherwise making available to third parties without prior written consent of the Rightholder.
+
+3.8. You shall not disclose, share, send, or make otherwise available to third parties information about vulnerabilities in the Software of which you become aware or discover, or use information about such vulnerabilities to compromise the security or privacy of other End Users, or otherwise violate the terms, conditions and restrictions of the Responsible Disclosure Program of the Rightholder available on the Website.
+
+3.9. You may not remove or modify any proprietary notice or labels from the Software or any output of the Software, including author attribution and copyright notices.
+
+3.10. You may not use the Software for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where the Software is used.
+
+3.11. You may not use another person’s email address or misrepresent Yourself as another person when signing up to create Your Account or when logging in to use the Software.
+
+3.12. You may not download, install, use the Software or purchase the subscription to the Software if the country in which You reside has restricted or prohibited the use of the Software, or the country belongs to E.U. or U.S. embargoed countries, or if You are a person to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
 
 ## 4. Sales, Activation, and Term
 
-The provisions of this Section 4 apply to Software requiring paid licenses and activation (and do not apply to Software for which Rightholder offers free licenses without activation).
+The provisions of this Section 4 apply to Software requiring paid licenses and activation (and do not apply to Software for which the Rightholder offers free licenses without activation).
 
 4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [https://adguard.com/terms-of-sale.html](https://adguard.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
-4.2. In order to use the Software for other than evaluation purposes or beyond the evaluation period, You must activate the Software. Depending on the Software You are using and how You purchased licenses to the Software, activation may be processed in one of the several different ways. Typically, activation is processed by Your providing a valid e-mail address to which Rightholder will send an activation code after Your payment for the number of licenses purchased through an applicable order. You will receive an activation code for each license purchased. Activation of certain Software may also be processed through the mobile application platform through which You purchased licenses (e.g., through an Amazon subscription or through Apple App Store codes). Activation codes may apply to one or more devices, depending on the license purchased. Once an activation code is used, the license associated with that activation code begins for the duration of the license purchased by an applicable order. If You have acquired Software that is intended to be used on more than one Computer then Your License begins from the date of activation of the Software on the first Computer.
+4.2. In order to use the Software for other than evaluation purposes or beyond the evaluation period, You must activate the Software. Depending on the Software You are using and how You purchased licenses to the Software, activation may be processed in one of the several different ways. Typically, activation is processed by Your providing a valid email address to which the Rightholder will send an activation code after Your payment for the number of licenses purchased through an applicable order. You will receive an activation code for each license purchased. Activation of certain Software may also be processed through the mobile application platform through which You purchased licenses (e.g., through an Amazon subscription or through Apple App Store codes). Activation codes may apply to one or more devices, depending on the license purchased. Once an activation code is used, the license associated with that activation code begins for the duration of the license purchased by an applicable order. If You have acquired Software that is intended to be used on more than one Computer then Your License begins from the date of activation of the Software on the first Computer.
 
 4.3 When You purchase AdGuard license, AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered during the installation of the Windows version if You enter your email address in the wizard window, or when signing up to the trial period in Android version, or directly via the website, if You decide to sign up at adguard.com.
 By registering AdGuard account you affirm that you are 16 years or older.
