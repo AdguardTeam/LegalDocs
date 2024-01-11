@@ -125,7 +125,7 @@ Here is how we use this information:
 * Finding and fixing mistakes in the UI/UX;
 * Learning what people like or don't like about our app.
 
-### <a id="browsing-security-check"></a> Browsing Security website check 
+### <a id="browsing-security-check"></a> Browsing Security website check
 
 If "Phishing and malware protection" option is enabled, AdGuard checks every website before the user visits it. We use the Lookup API for this purpose, and the information about visited website is sent in form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 

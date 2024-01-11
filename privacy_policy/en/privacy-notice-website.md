@@ -1,5 +1,7 @@
 # Website & Cookies
-*April 09, 2021*
+
+January 11, 2024
+
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 This privacy notice applies to adguard.com and all the AdGuard websites located on its subdomains (“Website”), and describes in detail what information may be collected about you when you visit them.
@@ -26,7 +28,7 @@ In order to help us deliver content in the correct language, offer region- or co
 
 ### Analytics
 
-We only use analytic tools in order to understand the website's traffic, and how it is being used by its visitors. The ultimate goal is to improve our services, website's performance and in general grant better experience to our users. 
+We only use analytic tools in order to understand the website's traffic, and how it is being used by its visitors. The ultimate goal is to improve our services, website's performance and in general grant better experience to our users.
 
 We do not use any javascript-based tracking or cookies. Instead, we use our server logs (i.e. information about what pages were requested) to measure how people use our website. We do not use raw logs, instead they're aggregated to build general reports for us. And the raw server logs are stored for up to 30 days and then removed.
 
@@ -38,7 +40,7 @@ You are not required to disclose any Personal Data in order to download any of o
 
 When you pay for AdGuard products the billing is handled by a third-party service provider. The service provider is acting as our reseller; thus, you will be making your purchase from the service provider directly, and not from AdGuard. The handling of your personal information will be governed by any privacy policy or terms of service published by the service provider.
 
-We save the information you enter on the order page (your email address). This information can be used in the future if you request your license key to be recovered and can be deleted by you from your AdGuard Account. 
+We save the information you enter on the order page (your email address). This information can be used in the future if you request your license key to be recovered and can be deleted by you from your AdGuard Account.
 
 The third-party service provider (payment gate) may transmit some of your personal information to us, but not including payment information, unless you specifically agree (as may be the case in the event of a purchase with auto-renewal). We may use the information we receive (not including payment information) to verify your registration or license status, to contact you about the status of your account, or for renewal of your subscription, if applicable.
 
@@ -46,11 +48,11 @@ The third-party service provider (payment gate) may transmit some of your person
 
 [AdGuard Account](https://adguard.com/account/login.html) is a tool which permits you to register multiple licenses under a single account. If you choose to use AdGuard Account you will be asked to provide your email address. You will also be asked to select a password. We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your AdGuard Account and/or product settings. By registering AdGuard Account you confirm that you are at least 16 years old.
 
-### Links To Other Websites 
+### Links To Other Websites
 
 Our Website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy policy applicable to the website in question.
 
-### About Comment Section 
+### About Comment Section
 
 We do not share any of your personal data to third parties when you leave a comment on our website. We are not responsible for the content of the comments. By submitting a comment, you confirm that you are over 13 years of age and take full responsibility for the content of your comments.
 
@@ -61,4 +63,4 @@ You can unsubscribe from our newsletters via AdGuard Account or by clicking “U
 
 ### Additional Registration on AdGuard Website
 
-On some subdomains (for example, forum.adguard.com) of the Website you may have an option to go through additional registration, where you may be asked to select a username, password, indicate your physical location and provide an email address. By registering to any of services provided on AdGuard Website you confirm that you are at least 16 years old. All data acquired this way is stored and used in compliance to the [General Policy](https://adguard.com/privacy.html) and can be corrected or deleted upon your request. To request this, send a message to privacy@adguard.com. We may ask you to verify your identity before fulfilling the request.
+On some subdomains of the Website you may have an option to go through additional registration, where you may be asked to select a username, password, indicate your physical location and provide an email address. By registering to any of services provided on AdGuard Website you confirm that you are at least 16 years old. All data acquired this way is stored and used in compliance to the [General Policy](https://adguard.com/privacy.html) and can be corrected or deleted upon your request. To request this, send a message to <privacy@adguard.com>. We may ask you to verify your identity before fulfilling the request.
