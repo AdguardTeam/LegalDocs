@@ -1,5 +1,6 @@
 # AdGuard Temp Mail Privacy Notice
-*December 28, 2023*
+
+January 11, 2024
 
 > Keynote: We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -15,7 +16,7 @@ This Privacy Notice explains the data we collect and process when you use AdGuar
 ### With each login
 
 **Last access time.** We record the time of the last access to each mailbox. We need this information to automatically delete inactive mailboxes.
-**Authenticaion cookie.** An authentication cookie is a small file that is sent to the user's browser after they log in to AdGuard Temp Mail. It helps us recognize the user, so they don't have to keep entering their login details every time they use the service. An authentication cookie is stored on the user's device.
+**Authentication cookie.** An authentication cookie is a small file that is sent to the user's browser after they log in to AdGuard Temp Mail. It helps us recognize the user, so they don't have to keep entering their login details every time they use the service. An authentication cookie is stored on the user's device.
 
 ### When a mailbox is deleted
 
