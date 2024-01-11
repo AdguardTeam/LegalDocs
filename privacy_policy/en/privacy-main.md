@@ -1,12 +1,13 @@
 # Privacy Policy: General notes
-*February 1, 2023*
+
+January 11, 2024
 
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
 ## Who We Are
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your Personal Data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations, and explains how, why and when we process your personal data.
-Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services. 
+Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services.
 
 ADGUARD SOFTWARE LIMITED is a company registered in Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus and acts as the data controller when processing your data.
 
@@ -22,7 +23,7 @@ There are several ways how we may get your Personal Data:
 
 * When you use our products. You can find the full list of Personal Data collected on a privacy notice page dedicated to the product you use.
 
-## What Personal Data We Collect 
+## What Personal Data We Collect
 
 Data we collect includes no more than is crucial to provide full functionality of AdGuard products, websites and services. We do not collect anything for tracking purposes and take all necessary technical, administrative and physical measures to protect the information we get.  
 
@@ -30,23 +31,23 @@ In-depth breakdowns of what Personal Data is getting acquired for the Website an
 
 ## How We Use Your Personal Data
 
-Your privacy is the highest concern for us. We take it very seriously and we never disclose, share or sell your data, unless we have your consent or required to do so by law. The only purpose of collecting and storing your Personal Data is to provide you with our products and services at their full potential. 
+Your privacy is the highest concern for us. We take it very seriously and we never disclose, share or sell your data, unless we have your consent or required to do so by law. The only purpose of collecting and storing your Personal Data is to provide you with our products and services at their full potential.
 
 We retain Personal Data for as long as necessary to continue providing you with these products and services, or until you revoke your consent to share this information.
 
-## Your Rights 
+## Your Rights
 
 You have the following rights when it comes to Personal Data:
 
-* Export all Personal Data that we hold about you to a local file from the AdGuard Account on adguard.com; 
+* Export all Personal Data that we hold about you to a local file from the AdGuard Account on adguard.com;
 
-* Request information about what data about you we store and for how long, and if we didn’t collect it directly from you, information about the source; 
+* Request information about what data about you we store and for how long, and if we didn’t collect it directly from you, information about the source;
 
 * Request to correct any incomplete or inaccurate data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified;  
 
-* Delete all your Personal Data. You can do this at will via AdGuard Account, or by sending a request to privacy@adguard.com. In the latter case, we may ask you to verify your identity before fulfilling the request.
+* Delete all your Personal Data. You can do this at will via AdGuard Account, or by sending a request to <privacy@adguard.com>. In the latter case, we may ask you to verify your identity before fulfilling the request.
 
-If you disagree with our Policy or any of its parts, you have the right to lodge a complaint with your local data protection authority. 
+If you disagree with our Policy or any of its parts, you have the right to lodge a complaint with your local data protection authority.
 
 ## Safeguarding Measures
 
@@ -80,4 +81,4 @@ The definition of cookie and how we use them is explained in detail in the [dedi
 
 ## Changes To This Privacy Policy
 
-We may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Privacy Policy, please contact us at privacy@adguard.com.
+We may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Privacy Policy, please contact us at <privacy@adguard.com>.

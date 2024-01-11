@@ -1,5 +1,6 @@
 # AdGuard for iOS Privacy Notice
-*July 27, 2020*
+
+January 11, 2024
 
 > **Keynote:** We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -7,11 +8,9 @@ This Privacy Notice lists all the information that we may collect and explains w
 
 We believe that privacy is a fundamental human right. That's why we are transparent about what AdGuard does and explain the purpose of every little bit of information that is gathered by our apps.
 
-**Please note, that AdGuard Pro and AdGuard for iOS are almost the same in terms of functionality and in terms of how both apps process the users' data. There is a slight difference though, as AdGuard for iOS app also allows users to log in using AdGuard account, and AdGuard Pro doesn’t, which is reflected in some points of this Privacy Policy.** 
+**Please note that AdGuard Pro and AdGuard for iOS are almost the same in terms of functionality and in terms of how both apps process the users' data. There is a slight difference though, as AdGuard for iOS app also allows users to log in using AdGuard account, and AdGuard Pro doesn’t, which is reflected in some points of this Privacy Policy.**
 
 If you are wondering why we have two almost identical apps, [check this article here](https://adguard.com/en/blog/updating-adguard-pro-for-ios.html).
-
-
 
 ## What data can AdGuard Pro/AdGuard for iOS collect and when
 
@@ -73,10 +72,10 @@ The following information is sent to our servers when you log out of personal ac
 * Application identifier;
 * Application version.
 
-### <a id="first-time-start"></a> Starting the app for the first time 
+### <a id="first-time-start"></a> Starting the app for the first time
 
 The following information is sent to our servers when you launch the AdGuard Pro/AdGuard for iOS app for the first time:
 
 * Application identifier;
-* Application version; 
+* Application version;
 * Device type (iPhone X, iPad Pro etc).
