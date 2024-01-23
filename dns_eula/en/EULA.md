@@ -1,6 +1,6 @@
 # End-User License Agreement of AdGuard DNS
 
-*December 28, 2023*
+January 23, 2024
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”) IS A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE USING THE ADGUARD DNS PRODUCTS AND SERVICES. BY USING THE PRODUCTS AND SERVICES, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SERVICE AND AGREEING TO BECOME BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT USE THE SERVICE.
 
@@ -34,7 +34,7 @@ To test private AdGuard DNS, you can try the Starter plan. For more monthly requ
 
 2.5. You can cancel auto-renewal at any time in your AdGuard account to which the AdGuard DNS subscription is bound to without any additional charges. The paid subscription will continue to operate, but you will have to renew it manually when it expires.
 
-## 3. Refund policy
+## 3. Refund Policy {#refund-policy}
 
 We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from <https://adguard-dns.io> (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller). Important: Monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
@@ -54,7 +54,7 @@ You have no right to:
 
 - hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means.
 
-## 5. User data and Privacy Policy
+## 5. User Data and Privacy Policy
 
 5.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the <https://adguard-dns.io> website.
 
@@ -107,4 +107,4 @@ Should You have any questions concerning this EULA, or if You desire to contact 
 Email: <support@adguard.com>
 Website: <https://adguard-dns.io>
 
-© 2023 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
