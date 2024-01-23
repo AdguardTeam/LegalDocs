@@ -54,7 +54,7 @@ You have no right to:
 
 - hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means.
 
-## 5. User data and Privacy Policy
+## 5. User Data and Privacy Policy
 
 5.1. AdGuard DNS collects and processes very limited user data and has a strong [Privacy Policy](https://adguard-dns.io/privacy.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard DNS and your browsing of the <https://adguard-dns.io> website.
 
