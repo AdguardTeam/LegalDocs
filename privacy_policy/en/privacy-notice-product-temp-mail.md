@@ -1,6 +1,6 @@
 # AdGuard Temp Mail Privacy Notice
 
-January 11, 2024
+February 22, 2024
 
 > Keynote: We do not share or sell any of your personal data. We are proud to say that we are one of the fighters for users' privacy and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -22,9 +22,7 @@ This Privacy Notice explains the data we collect and process when you use AdGuar
 
 **Mailbox deletion time.** The deletion time of mailboxes is stored. Mailboxes can be deleted manually by users or automatically after 7 days of inactivity. The email address is permanently stored and marked as deleted upon removal. The reason for permanently storing the email address is to avoid allocating the same address to a different user.
 
-Upon mailbox deletion, associated emails are physically deleted, and no new emails are accepted.
-
-Even if a mailbox is not deleted, all mails and related data are permanently deleted 24 hours after receipt.
+All received emails are accessible as long as the email address remains active. Upon mailbox deletion, associated emails are physically deleted, and no new emails are accepted.
 
 ## Security and data protection
 
