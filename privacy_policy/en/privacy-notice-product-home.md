@@ -21,7 +21,7 @@ AdGuard Home connects to the DNS servers configured as "Upstreams", and sends DN
 
 ### <a id="update-check"></a> Update check
 
-AdGuard Home periodically downloads a [.json file](https://github.com/AdguardTeam/AdGuardHome/blob/master/version.json) to check if there's a newer version. No information is being sent when that happens.
+AdGuard Home periodically downloads a [.json file](https://static.adtidy.org/adguardhome/release/version.json) to check if there's a newer version. No information is being sent when that happens.
 
 ### <a id="filters-updates-check"></a> Filters update check
 

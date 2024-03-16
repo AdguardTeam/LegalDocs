@@ -21,7 +21,7 @@ AdGuard Home устанавливает соединение с DNS-сервае
 
 ### <a id="update-check"></a> Проверка обновлений
 
-AdGuard Home периодически скачивает [файл .json](https://github.com/AdguardTeam/AdGuardHome/blob/master/version.json), чтобы проверить наличие более новой версии. При этом не передаётся никакая информация.
+AdGuard Home периодически скачивает [файл .json](https://static.adtidy.org/adguardhome/release/version.json), чтобы проверить наличие более новой версии. При этом не передаётся никакая информация.
 
 ### <a id="filters-updates-check"></a> Проверка обновлений фильтров
 
