@@ -24,7 +24,7 @@ AdGuard Home se connecte aux serveurs DNS configurés comme "Upstreams" et leur 
 
 ### <a id="update-check"></a> Contrôle des mises à jour
 
-AdGuard Home télécharge périodiquement un fichier [du type .json](https://github.com/AdguardTeam/AdGuardHome/blob/master/version.json) pour vérifier s'il en existe déjà une nouvelle version. Aucune information n'est transmise nulle part pendant ce procès.
+AdGuard Home télécharge périodiquement un fichier [du type .json](https://static.adtidy.org/adguardhome/release/version.json) pour vérifier s'il en existe déjà une nouvelle version. Aucune information n'est transmise nulle part pendant ce procès.
 
 ### <a id="filters-updates-check"></a> Contrôle des mises à jour des filtres
 
