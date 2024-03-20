@@ -34,7 +34,7 @@ To test private AdGuard DNS, you can try the Starter plan. For more monthly requ
 
 2.5. You can cancel auto-renewal at any time in your AdGuard account to which the AdGuard DNS subscription is bound to without any additional charges. The paid subscription will continue to operate, but you will have to renew it manually when it expires.
 
-## 3. Refund Policy {#refund-policy}
+## <a name="refund-policy"></a> 3. Refund Policy
 
 We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from <https://adguard-dns.io> (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller). Important: Monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
