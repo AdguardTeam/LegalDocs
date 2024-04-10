@@ -1,0 +1,15 @@
+{
+    "name": "legaldocs",
+    "version": "1.0.0",
+    "description": "This repository contains AdGuard’s legal documents, they are later synced to the website. The purpose is to be transparent about the history of their changes.",
+    "main": "index.js",
+    "scripts": {
+        "lint": "markdownlint ."
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "markdownlint": "^0.34.0",
+        "markdownlint-cli": "^0.39.0"
+    }
+}
