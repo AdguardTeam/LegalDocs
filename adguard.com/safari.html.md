@@ -12,9 +12,9 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 To check for filter updates, AdGuard connects to its servers. When it happens, the following information is sent:
 
-* Browser language
-* App identifier
-* Version of the extension
+- Browser language
+- App identifier
+- Version of the extension
 
 By default, filter updates are automatically checked every 48 hours. Otherwise, it’s done according to the selected interval, or whenever it’s manually requested by a user. We do not store this data, but we do aggregate it in an anonymous form to count the total number of active users.
 

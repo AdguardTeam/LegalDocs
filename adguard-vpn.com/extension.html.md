@@ -1,6 +1,4 @@
----
-title: AdGuard VPN Browser Extension Privacy Notice
----
+# AdGuard VPN Browser Extension Privacy Notice
 
 *April 10, 2024*
 

@@ -10,9 +10,9 @@ This Privacy Notice applies to adguard.com and all the AdGuard websites located 
 
 When you visit our Website, our server will ask your permission to place a small data file called “cookie” on your hard drive. Once you agree, this file is added and helps analyze web traffic. The data we acquire from cookies may be used to:
 
-* Help you log in by remembering your user credentials (depending on the options you select in your profile settings). We may also use cookies to record user registration information. Cookies can help us identify your preferences, including language and currency, for future use.
+- Help you log in by remembering your user credentials (depending on the options you select in your profile settings). We may also use cookies to record user registration information. Cookies can help us identify your preferences, including language and currency, for future use.
 
-* Collect anonymous information in order to improve the accuracy of our services. We may also use cookies to collect anonymous information regarding downloads of our products from download site(s). This information is used for statistical purposes only and no personal data is collected or stored this way.
+- Collect anonymous information in order to improve the accuracy of our services. We may also use cookies to collect anonymous information regarding downloads of our products from download site(s). This information is used for statistical purposes only and no personal data is collected or stored this way.
 
 None of the information we may acquire through the use of cookies is considered personal data by the standards of GDPR as it does not allow us to identify you as a natural person. You can always [disable cookies](http://www.wikihow.com/Disable-Cookies) on your web browsing software or clear existing cookies. Please note that some features of our products and services may not function properly without the aid of cookies.
 
@@ -68,11 +68,11 @@ The third-party service provider (payment gate) may transmit some of your person
 
 The exact list of data processed by AdGuard to ensure the operation of the AdGuard account includes:
 
-* Email address
-* Sign-up date
-* Subscriptions and licenses
-* ASN (autonomous system number). We do not store your IP address, only your ASN. ASN identifies your ISP but not you
-* City and country of your IP address when you try to log in to the service
+- Email address
+- Sign-up date
+- Subscriptions and licenses
+- ASN (autonomous system number). We do not store your IP address, only your ASN. ASN identifies your ISP but not you
+- City and country of your IP address when you try to log in to the service
 
 **Why we need this information:** The email address serves as an account identifier and is also needed to communicate with the user.  We need to know the ASN, city and country so that we can tailor our service to your specific needs. It's also security related: With this information, we can see from where someone is trying to log in to an account using your email, and prevent or notify you of “suspicious” logins.
 
