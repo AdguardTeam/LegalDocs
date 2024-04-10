@@ -1,3 +1,4 @@
+
 # AdGuard VPN for Mac Privacy Notice
 
 *April 10, 2024*
@@ -10,7 +11,6 @@ This Privacy Notice lists all the information that we, Adguard Software Ltd. ("w
 > - We only collect the information necessary for AdGuard VPN for Mac to function fully and properly.
 > - We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 > - You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account or by sending us a request at <privacy@adguard-vpn.com>.
-
 
 ## What data AdGuard VPN for Mac can collect and when
 

@@ -1,3 +1,4 @@
+
 # AdGuard VPN for iOS Privacy Notice
 
 *April 10, 2024*
