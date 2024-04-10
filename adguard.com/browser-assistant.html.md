@@ -24,4 +24,3 @@ Every time a user opens a new tab, the add-on communicates with the standalone a
 
 The user can submit a report of a website problem directly from AdGuard Browser Assistant. The app will automatically open the [reports.adguard.com](https://reports.adguard.com/new_issue.html) web page and forward some information about its configuration. The user can then alter or delete it.
 Unless the user agrees to submit this information by manually clicking the “Submit” button, none of this information is stored or sent anywhere. If the user agrees, the report will become public (but anonymous) on [GitHub](https://github.com/adguardteam/adguardfilters/issues).
-
