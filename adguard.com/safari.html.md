@@ -8,7 +8,7 @@
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-###  Checking for filter updates
+### Checking for filter updates
 
 To check for filter updates, AdGuard connects to its servers. When it happens, the following information is sent:
 
