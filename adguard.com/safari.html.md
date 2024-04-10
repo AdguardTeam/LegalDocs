@@ -1,3 +1,4 @@
+
 # AdGuard for Safari Privacy Notice
 
 *April 10, 2024*

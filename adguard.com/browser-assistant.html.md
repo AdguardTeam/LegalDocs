@@ -1,3 +1,4 @@
+
 # AdGuard Browser Assistant Privacy Notice
 
 *April 10, 2024*

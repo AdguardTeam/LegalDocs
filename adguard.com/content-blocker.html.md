@@ -1,3 +1,4 @@
+
 # AdGuard Content Blocker Privacy Notice
 
 *April 10, 2024*

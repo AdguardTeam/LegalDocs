@@ -1,3 +1,4 @@
+
 # AdGuard Browser Extension Privacy Notice
 
 *April 10, 2024*
