@@ -1,8 +1,3 @@
-**A certain component of AdGuard VPN, DnsLibs, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the Apache License, Version 2.0.**
-
-**If your project aligns with the Apache License, Version 2.0 criteria, you are permitted to utilize this component of AdGuard VPN under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard VPN End-User License Agreement below is mandatory.**
-
-**The text of the Apache License, Version 2.0 is accessible in the project’s source code repository and also on the Apache Software Foundation website at <https://www.apache.org/licenses/LICENSE-2.0>.**
 
 # AdGuard VPN End-User License Agreement
 
@@ -15,6 +10,12 @@ IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE 
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website ([https://adguard-vpn.com/](https://adguard-vpn.com/), “Website”).
+
+**A certain component of AdGuard VPN, DnsLibs, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the Apache License, Version 2.0.**
+
+**If your project aligns with the Apache License, Version 2.0 criteria, you are permitted to utilize this component of AdGuard VPN under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard VPN End-User License Agreement below is mandatory.**
+
+**The text of the Apache License, Version 2.0 is accessible in the project’s source code repository and also on the Apache Software Foundation website at <https://www.apache.org/licenses/LICENSE-2.0>.**
 
 ## 1. General
 

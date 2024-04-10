@@ -1,3 +1,4 @@
+
 # AdGuard VPN for Android Privacy Notice
 
 *April 10, 2024*
@@ -14,17 +15,17 @@ This Privacy Notice lists all the information that we, Adguard Software Ltd. (â€
 ## What data AdGuard VPN for Android can collect and when
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-[Signing up]()
+[Signing up](#signing-up)
 
-[Logging in]()
+[Logging in](#logging-in)
 
-[Subscribing to the AdGuard VPN newsletter]()
+[Subscribing to the AdGuard VPN newsletter](#subscribing-to-the-adguard-vpn-newsletter)
 
-[The first launch of the app]()
+[The first launch of the app](#the-first-launch-of-the-app)
 
-[Contacting support]()
+[Contacting support](#contacting-support)
 
-[Automatic crash reports]()
+[Automatic crash reports](#automatic-crash-reports)
 
 ### Signing up
 
