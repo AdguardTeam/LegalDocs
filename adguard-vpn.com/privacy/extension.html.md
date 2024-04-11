@@ -1,7 +1,7 @@
 
 # AdGuard VPN Browser Extension Privacy Notice
 
-*April 10, 2024*
+April 10, 2024
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard VPN Browser Extension and explains why we do it and how we use this information.
 
@@ -10,8 +10,8 @@ This Privacy Notice lists all the information that we, Adguard Software Ltd. (�
 >- We do not collect logs of your activity on VPN servers and do not know what websites you visit
 >- We only collect the information necessary for AdGuard VPN Browser Extension to function fully and properly
 >- We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible
-> - You can delete your information by deleting your AdGuard account or by sending us a request at <privacy@adguard-vpn.com>
-> - The information we collect about you depends on how you interact with our extension.
+>- You can delete your information by deleting your AdGuard account or by sending us a request at <privacy@adguard-vpn.com>
+>- The information we collect about you depends on how you interact with our extension.
 
 ## What data AdGuard VPN Browser Extension can collect and when
 
@@ -32,6 +32,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 ### Signing up
 
 When we create an account for the user, the following information is sent to our servers:
+
 - Email address
 - App identifier
 - OS language
