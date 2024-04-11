@@ -7,7 +7,7 @@
 
 ## What data AdGuard Browser Assistant can collect and when
 
-AdGuard Browser Assistant is a companion add-on that extends the functionality of our standalone desktop apps. It does not collect any information by itself, but it communicates with the standalone apps. To find out what data AdGuard Ad Blocker collects, please refer to the respective Privacy Policies for [AdGuard for Mac]() and [AdGuard for Windows]().
+AdGuard Browser Assistant is a companion add-on that extends the functionality of our standalone desktop apps. It does not collect any information by itself, but it communicates with the standalone apps. To find out what data AdGuard Ad Blocker collects, please refer to the respective Privacy Policies for AdGuard for Mac and AdGuard for Windows.
 
 ### Launching for the first time
 
