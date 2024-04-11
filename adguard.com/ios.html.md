@@ -4,6 +4,7 @@
 April 10, 2024
 
 >**Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+
 Please note that AdGuard for iOS and AdGuard Pro are nearly identical in functionality and user data processing. However, AdGuard for iOS offers the possibility to log in with your AdGuard account, whereas AdGuard Pro does not. This is reflected in several points of this Privacy Notice.
 If you are wondering why we have two almost identical apps, [check out this article](https://adguard.com/en/blog/updating-adguard-pro-for-ios.html).
 
@@ -32,6 +33,7 @@ To implement DNS filtering, AdGuard creates a local VPN connection. This means t
 To check for filter updates, the app connects to its servers. When it happens, the following information is sent:
 
 - App language
+
 - App identifier
 
 Filter updates are checked at user-defined intervals in accordance with the application’s settings. We do not store the obtained data, but we do aggregate update requests in order to determine the total number of active users.
@@ -41,13 +43,17 @@ Filter updates are checked at user-defined intervals in accordance with the appl
 Users can report bugs by clicking the “Send bug report” button in the app menu. When this happens, the following information is sent along with the message text and the entered email:
 
 - App identifier
+
 - App settings (language and enabled blocking filters)
+
 - App and OS versions
+
 - Device model
 
  If the “Attach application logs” option is enabled, the following information is sent along with the above information:
 
 - Log file contents
+
 - `.json` files containing rules for Safari
 
 **Why do we need this information:** This information is used by our team to diagnose and troubleshoot the problem.
@@ -62,8 +68,11 @@ Unless the user agrees to submit this information by manually clicking the “Su
 AdGuard for iOS users can use this option to activate features of the full version of the app. When you log in to AdGuard account via the app, the following information is sent:
 
 - Entered login/password pair or license key
+
 - App identifier
+
 - App version
+
 - Device type (iPhone X, iPad Pro, etc.)
 
 **Why we need this information:** To confirm the fact of the user's login and to verify the user’s license. The login and app activation details are also displayed in the AdGuard account.
@@ -73,4 +82,5 @@ AdGuard for iOS users can use this option to activate features of the full versi
 The following information is sent to our servers when you log out of your account via the app:
 
 - App identifier
+
 - App version
