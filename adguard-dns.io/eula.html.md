@@ -11,11 +11,11 @@ IF YOU DO NOT AGREE TO BE BOUND BY THIS EULA, DO NOT CONNECT TO ADGUARD DNS AND 
 NOTE THAT THIS EULA REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THIS EULA OR ANY BREACH THEREOF TO ARBITRATION.
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify this EULA from time to time without prior notification. The amendment of EULA may be broadcasted to you by sending an email and/or by publishing the updated EULA on the [AdGuard DNS website](https://adguard-dns.io/) (“Website”).
 
-**A certain component of AdGuard DNS, public DNS server, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the GNU Affero General Public License, Version 3 (AGPLv3).
+**A certain component of AdGuard DNS, public DNS server, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the GNU Affero General Public License, Version 3 (AGPLv3).**
 
-If your project aligns with the AGPLv3 license criteria, you are permitted to utilize this component of AdGuard DNS under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard DNS End-User License Agreement below is mandatory.
+**If your project aligns with the AGPLv3 license criteria, you are permitted to utilize this component of AdGuard DNS under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard DNS End-User License Agreement below is mandatory.**
 
-The text of the AGPLv3 license is accessible in the project’s source code repository and also on the Free Software Foundation website at [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).**
+**The text of the AGPLv3 license is accessible in the project’s source code repository and also on the Free Software Foundation website at [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).**
 
 ## 1. General
 
@@ -63,6 +63,7 @@ The subscription in question becomes blocked the moment the refund is issued. Af
 ## 4. Restrictions
 
 You have no right to:
+
 - rent, lease, loan, export or sell access to AdGuard DNS services to third parties;
 
 - utilize framing techniques to enclose AdGuard DNS logos, trademarks, author attribution and copyright notices;
