@@ -1,7 +1,7 @@
 
 # AdGuard VPN for iOS Privacy Notice
 
-*April 10, 2024*
+April 10, 2024
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. ("we", "us", or "our"), may collect when you use AdGuard VPN for iOS and explains why we do it and how we use this information.
 
@@ -60,8 +60,7 @@ When you launch AdGuard VPN for iOS for the first time, the following informatio
 - App version
 - Device OS: iOS
 - OS language
-- For iOS 14.2: [iAd metadata](https://developer.apple.com/documentation/iad/setting-up-apple-search-ads-attribution) — Apple Search Ads attribution parameters
-- For iOS 14.3 and newer: [AdServices parameters](https://developer.apple.com/documentation/adservices?language=objc) — anonymous information about the date and Apple’s advertising campaign when the app was installed
+- Apple AdServices Token
 
 **Why we need this information:**
 
