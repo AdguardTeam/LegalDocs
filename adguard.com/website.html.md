@@ -1,7 +1,7 @@
 
-# WebSite & Cookies Privacy Notice
+# Website & Cookies Privacy Notice
 
-*April 10, 2024*
+April 10, 2024
 
 > **Keynote:** We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 

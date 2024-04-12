@@ -1,7 +1,7 @@
 
 # AdGuard Browser Extension Privacy Notice
 
-*April 10, 2024*
+April 10, 2024
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard Browser Extension and explains why we do it and how we use this information.
 
@@ -13,7 +13,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 [Checking for filter updates](#checking-for-filter-updates)
 
-[​Help with the development of AdGuard filters](#​​help-with-the-development-of-adguard-filters)
+[Help with the development of AdGuard filters](#​​help-with-the-development-of-adguard-filters)
 
 [Sending a web page complaint](#sending-a-web-page-complaint)
 
@@ -24,7 +24,9 @@ Here we describe all cases when and what data is sent to our server, so you can 
 To check for filter updates, AdGuard connects to its servers. When it happens, the following information is sent:
 
 - Browser language
+
 - App identifier
+
 - Extension version
 
 Filter updates are checked at user-defined intervals in accordance with the application’s settings. We do not store this data, but we do aggregate it in an anonymous form to count the total number of active users.
@@ -36,7 +38,9 @@ The “Help with the development of AdGuard filters” option is **disabled by d
 If the “Send statistics for ad filters usage” option is enabled, the following information is sent periodically:
 
 - Filter list ID
+
 - Rule text
+
 - How many times the rule was triggered
 
 **Why do we need this information:** We automatically optimize filters and remove rules that are rarely used. To do this, we collect information about which rules are triggered.
@@ -48,4 +52,4 @@ Unless the user agrees to submit this information by manually clicking the “Su
 
 ### Browsing Security website check
 
-If the “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the[Lookup API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about visited websites is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+If the “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the [Lookup API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about visited websites is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.

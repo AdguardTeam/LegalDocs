@@ -1,5 +1,5 @@
 
-# WebSite & Cookies Privacy Notice
+# Website & Cookies Privacy Notice
 
 April 10, 2024
 
