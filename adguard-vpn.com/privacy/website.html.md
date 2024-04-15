@@ -35,7 +35,7 @@ None of the information we may acquire through the use of cookies is considered 
 
 [News subscriptions](#news-subscriptions)
 
-[Additional registration on AdGuard Website](#additional-registration-on-adguard-website)
+[Additional registration on AdGuard VPN Website](#additional-registration-on-adguard-vpn-website)
 
 ### Do Not Track
 
@@ -90,6 +90,6 @@ Our Website may contain links to other websites of interest. However, once you h
 Our Website offers news and information on a subscription basis including newsletters, blogs, or other information. If you subscribe to any of these services you may be asked to provide your email address. By subscribing, you confirm that you are at least 16 years old.
 You can unsubscribe from our newsletters via AdGuard account or by clicking the “Unsubscribe” button in the newsletter itself.
 
-### Additional registration on AdGuard Website
+### Additional registration on AdGuard VPN Website
 
 On some subdomains of the Website, you may have the option to complete additional registration, which may require you to select a username and password, provide your physical location, and provide an email address. By registering for any of the services provided on the AdGuard Website, you confirm that you are at least 16 years old. All information collected in this manner will be stored and used in accordance with the [Privacy Policy](https://adguard-vpn.com/en/privacy.html) and can be corrected or deleted upon your request. To make such a request, please send a message to <privacy@adguard.com>. We may ask you to verify your identity before fulfilling your request.
