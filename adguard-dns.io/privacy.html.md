@@ -1,7 +1,7 @@
 
 # AdGuard DNS Privacy Policy
 
-April 10, 2024
+*April 10, 2024*
 
 ## Summary
 

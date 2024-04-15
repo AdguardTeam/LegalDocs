@@ -1,7 +1,7 @@
 
 # AdGuard VPN for iOS Privacy Notice
 
-April 10, 2024
+*April 10, 2024*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. ("we", "us", or "our"), may collect when you use AdGuard VPN for iOS and explains why we do it and how we use this information.
 

@@ -1,7 +1,7 @@
 
 # Website & Cookies Privacy Notice
 
-April 10, 2024
+*April 10, 2024*
 
 > **Keynote:** We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 
@@ -27,7 +27,7 @@ None of the information we may acquire through the use of cookies is considered 
 
 [When downloading AdGuard products](#when-downloading-adguard-products)
 
-[When purchasing AdGuard products](#when-purchasing-adguard-products)
+[When purchasing AdGuard DNS](#when-purchasing-adguard-dns)
 
 [When using an AdGuard account](#when-using-an-adguard-account)
 
@@ -55,7 +55,7 @@ We do not use any JavaScript-based tracking or cookies. Instead, we use our serv
 
 You are not required to disclose any personal data in order to download any of our products.
 
-### When purchasing AdGuard products
+### When purchasing AdGuard DNS
 
 When you pay for AdGuard products, the billing is handled by a third-party service provider. The service provider acts as our reseller; therefore, you make your purchase directly from the service provider and not from AdGuard. The handling of your personal information will be governed by any privacy policy or terms of service published by the service provider.
 

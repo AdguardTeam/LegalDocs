@@ -1,7 +1,7 @@
 
 # AdGuard for Mac Privacy Notice
 
-April 10, 2024
+*April 10, 2024*
 
 > **Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 
@@ -173,7 +173,7 @@ After AdGuard for Mac is uninstalled, the app identifier is sent.
 
 ### Browsing security website check
 
-If the “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the [Lookup API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about visited websites is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+If the “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the [Safe Browsing API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about visited websites is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.
 
 ### Help us with Browsing security filters development
 

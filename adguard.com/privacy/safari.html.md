@@ -1,7 +1,7 @@
 
 # AdGuard for Safari Privacy Notice
 
-April 10, 2024
+*April 10, 2024*
 
 >**Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 

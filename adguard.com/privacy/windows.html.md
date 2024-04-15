@@ -159,4 +159,4 @@ If *Phishing and malware protection* is enabled, AdGuard will check each website
 
 ### Parental Control website check
 
-When *Parental Control* is enabled, AdGuard uses its own web service to check websites against the database. The information about the visited website is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+When *Parental Control* is enabled, AdGuard uses its own web service to check websites against the database. We use the [Lookup API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about the visited website is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.

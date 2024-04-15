@@ -1,7 +1,7 @@
 
 # Website & Cookies Privacy Notice
 
-April 10, 2024
+*April 10, 2024*
 
 > **Keynote:** We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 
@@ -25,9 +25,9 @@ None of the information we may acquire through the use of cookies is considered 
 
 [Analytics](#analytics)
 
-[When downloading AdGuard products](#when-downloading-adguard-products)
+[When downloading AdGuard VPN](#when-downloading-adguard-vpn)
 
-[When purchasing AdGuard products](#when-purchasing-adguard-products)
+[When purchasing AdGuard VPN](#when-purchasing-adguard-vpn)
 
 [When using an AdGuard account](#when-using-an-adguard-account)
 
@@ -51,11 +51,11 @@ We only use analytic tools in order to understand the Website’s traffic, and h
 
 We do not use any JavaScript-based tracking or cookies. Instead, we use our server logs (i.e. information about what pages were requested) to measure how people use our website. Raw server logs, including anonymized IP addresses, are aggregated to create general reports for us and are retained for 90 days and then deleted.
 
-### When downloading AdGuard products
+### When downloading AdGuard VPN
 
 You are not required to disclose any personal data in order to download any of our products.
 
-### When purchasing AdGuard products
+### When purchasing AdGuard VPN
 
 When you pay for AdGuard products, the billing is handled by a third-party service provider. The service provider acts as our reseller; therefore, you make your purchase directly from the service provider and not from AdGuard. The handling of your personal information will be governed by any privacy policy or terms of service published by the service provider.
 

@@ -1,7 +1,7 @@
 
 # AdGuard for iOS Privacy Notice
 
-April 10, 2024
+*April 10, 2024*
 
 >**Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
 
