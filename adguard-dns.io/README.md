@@ -5,4 +5,4 @@
 
 - [privacy.html.md] - AdGuard DNS Privacy Policy.
 
-- [ewebsite.html.md] - AdGuard DNS Website & Cookies Privacy Notice.
+- [website.html.md] - AdGuard DNS Website & Cookies Privacy Notice.
