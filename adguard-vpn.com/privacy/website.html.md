@@ -17,7 +17,7 @@ When you visit our Website, our server will ask your permission to place a small
 
 None of the information we may acquire through the use of cookies is considered personal data by the standards of GDPR as it does not allow us to identify you as a natural person. You can always [disable cookies](http://www.wikihow.com/Disable-Cookies) on your web browsing software or clear existing cookies. Please note that some features of our products and services may not function properly without the aid of cookies.
 
-## Interacting with AdGuard Website
+## Interacting with AdGuard VPN Website
 
 [Do Not Track](#do-not-track)
 
