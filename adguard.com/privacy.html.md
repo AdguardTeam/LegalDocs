@@ -9,7 +9,7 @@ We do not share or sell your personal information. We are strongly committed to 
 1. We collect only the information necessary for our products and services to function properly.
 1. AdGuard apps filter traffic locally on your device. We don’t know what websites you visit.
 1. AdGuard apps periodically connect to our servers to download filter updates and check your license status.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at <my.adguard.com> or by sending us a request at <privacy@adguard.com>.
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](my.adguard.com) or by sending us a request at <privacy@adguard.com>.
 
 ## Who we are
 
@@ -72,7 +72,7 @@ For the exact data that the payment provider collects about you, please see the 
 - For AdGuard Browser Extension: <https://adguard.com/privacy/browser-extension.html>
 - For AdGuard for Safari: <https://adguard.com/privacy/safari.html>
 - For AdGuard Browser Assistant: <https://adguard.com/privacy/assistant.html>
-- For AdGuard Content Blocker:< https://adguard.com/privacy/content-blocker.html>
+- For AdGuard Content Blocker:<https://adguard.com/privacy/content-blocker.html>
 - For AdGuard Home: <https://adguard.com/privacy/home.html>
 
 **Diagnostic / Device information**. By default, we do not collect any information about your device. However, if you experience problems using our software and you give us your permission, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard software you are using. Please refer to the respective privacy notices for more information.
