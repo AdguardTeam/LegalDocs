@@ -1,17 +1,17 @@
 # Terms and Conditions of AdGuard Account and AdGuard Websites
 
-*June 13, 2024*
+*June 17, 2024*
 
 ## 1. General
 
-AdGuard Software Limited (hereafter, “AdGuard”, “we,” “us,” “our”) is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus.
+Adguard Software Limited (hereafter, “AdGuard”, “we,” “us,” “our”) is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus.
 We operate the AdGuard Account services available at https://my.adguard.com/ (hereafter, the “Account”), and websites related to AdGuard software and services (hereafter, the “Websites”): AdGuard Ad Blocker (https://adguard.com/), AdGuard VPN (https://adguard-vpn.com/), and AdGuard DNS (https://adguard-dns.io/).
 
 IMPORTANT: THESE TERMS AND CONDITIONS (HEREAFTER, “TERMS” OR “AGREEMENT”) REGULATE THE USE OF THE ACCOUNT AND THE WEBSITES AND CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF THE ACCOUNT IS USED BY OR FOR AN ENTITY, AN ENTITY, HEREAFTER ALSO, “YOU”, “YOUR”, THE “USER”) AND ADGUARD (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE ACCOUNT, HEREAFTER ALSO, THE “RIGHTHOLDER”). READ IT CAREFULLY BEFORE USING THE ACCOUNT OR THE WEBSITES.
 
 BY REGISTERING TO THE ACCOUNT, OR BY ACCESSING OR USING IT OR THE WEBSITES, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU ARE CONFIRMING YOUR ACCEPTANCE OF AND AGREEING TO BECOME BOUND BY THESE TERMS.
 
-IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT REGISTER TO THE ACCOUNT AND DO NOT ACCESS OR USE THE ACCOUNT AND THE WEBSITES.
+IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT REGISTER THE ACCOUNT AND DO NOT ACCESS OR USE THE ACCOUNT AND THE WEBSITES.
 
 AdGuard may modify these Terms from time to time without prior notification. In some cases of important changes, the amendment of these Terms be broadcasted to you by sending an email and/or by publishing the updated Terms on the Account or the Websites. It is your responsibility to periodically review these Terms to stay informed of any changes. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms by your continued use of the Account or the Websites after the date such revised Terms are broadcasted.
 
@@ -21,7 +21,7 @@ AdGuard may modify these Terms from time to time without prior notification. In 
 
 AdGuard provides the Account services to help you manage your user account that is used with the AdGuard software, manage your purchased licenses and subscriptions, and configure the AdGuard software in the appropriate section of the Account.
 
-### (3) The Websites
+### (2) The Websites
 
 AdGuard provides the Websites to promote the AdGuard software, enable you to purchase a license or a subscription, and provide you with information about using the AdGuard software.
 
@@ -46,13 +46,13 @@ The Account and the Websites are not intended to be used by any person or entity
 
 ### (1) Content of the Account and the Websites
 
-AdGuard is the owner of all right, title and interest in and to or the licensee of all intellectual property rights to the content of the Account and the Websites, including, without limitation, all source or object code, scripts, databases, functionality, software, computer programs, techniques, improvements, designs, audio, video, text, photographs, graphics, concepts, formulas, processes, documentation, trade secrets, and any other copyrighted works or works of authorship, provided by AdGuard when you use the Account or the Websites.
+AdGuard is the owner of all right, title and interest in and to, or the license of all intellectual property rights to the content of the Account and the Websites, including, without limitation, all source or object code, scripts, databases, functionality, software, computer programs, techniques, improvements, designs, audio, video, text, photographs, graphics, concepts, formulas, processes, documentation, trade secrets, and any other copyrighted works or works of authorship, provided by AdGuard when you use the Account or the Websites.
 
 AdGuard is the owner of all intellectual property rights to all trademarks, service marks, and logos provided in the content of the Account and the Websites, excluding those owned by third parties.
 
 Modifying, reverse engineering, copying, reproducing, aggregating, republishing, uploading, encoding, selling, licensing, distributing to unauthorized parties, or otherwise exploiting the Account or the Websites for any purpose whatsoever not expressly authorized by AdGuard with a written consent is strictly prohibited.
 
-### (2) Using Media Kits
+### (2) Using Media kits
 
 The Websites contain Media kits with logos, images and other copyrighted materials owned by AdGuard.
 
@@ -63,7 +63,7 @@ AdGuard hereby grants you a non-exclusive, non-transferable, revocable, royalty-
 - The use of Media kits is solely for informational, non-commercial, or personal purposes, and Media kits are not duplicated or stored on other networked computers or published in other media.
 - No alterations are made to Media kits.
 
-Use of media kits for any other purpose is expressly prohibited by law and may result in significant civil and criminal penalties.
+Use of Media kits for any other purpose is expressly prohibited by law and may result in significant civil and criminal penalties.
 
 All texts and associated graphics of Media kits are provided “as is” and without any warranties.
 
