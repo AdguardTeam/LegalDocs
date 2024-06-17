@@ -107,7 +107,7 @@ Purchasing subscriptions to the AdGuard software is subject to the following pro
 
 ### (1) AdGuard Privacy Policy
 
-AdGuard processes very limited user data and has a strong Privacy Policy available at LINK that explains in detail how AdGuard handles your personal data in relation to your use of the Account and the Websites.
+AdGuard processes very limited user data and has a strong [Privacy Policy](https://adguard.com/en/privacy.html) that explains in detail how AdGuard handles your personal data in relation to your use of the Account and the Websites.
 
 By accessing and using the Account or the Websites, you agree to have read, understand and accept terms and conditions of data processing set out in our Privacy Policy available at the link mentioned above, which explains what type of information we collect, how it is shared and used.
 
@@ -125,7 +125,7 @@ AdGuard will receive and process certain data to perform our obligations set for
 
 Data processing during the use of the AdGuard software as well as the sections of the Account related to the AdGuard software is governed by the privacy policies of the respective software.
 
-### Third-Party Websites and Services
+## 7. Third-Party Websites and Services
 
 The Account or the Websites may contain links to other websites or services owned and/or operated by third parties.
 
@@ -205,7 +205,7 @@ You are granted a license (or sublicense) under the terms of the GNU General Pub
 
 ### (1) Applicable law, arbitration, and choice of venue
 
-These Terms will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. These Terms shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of these Terms or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this section shall prevent AdGuard or you from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
+These Terms will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. These Terms shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of these Terms or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this section shall prevent AdGuard or you from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
 
 ### (2) Entire agreement and non-waiver
 
@@ -236,6 +236,6 @@ No action, regardless of form, arising out of the transactions under these Terms
 Should you have any questions concerning these Terms, or if you desire to contact AdGuard for any reason, please contact our Customer Support Service:
 
 Email: support@adguard.com
-Website: https://my.adguard.com/
+Website: https://adguard.com/
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Account and the Websites and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
