@@ -13,12 +13,9 @@ ADGUARD SOFTWARE LIMITED (“We”, “Us”, “Our”) processes your data in 
 
 - Visit websites related to AdGuard software and services (hereafter, the “Websites”):
 
-  - AdGuard Ad Blocker website at <https://adguard.com/>,
-
-  - AdGuard VPN website at <https://adguard-vpn.com/>,
-
-  - AdGuard DNS website at <https://adguard-dns.io/>.
-
+    - AdGuard Ad Blocker website at <https://adguard.com/>,
+    - AdGuard VPN website at <https://adguard-vpn.com/>,
+    - AdGuard DNS website at <https://adguard-dns.io/>.
 - Use AdGuard Account services at <https://my.adguard.com/> (hereafter, the “AdGuard Account”).
 
 - Use AdGuard Affiliate Account services at <https://aff.adguard.com/> (hereafter, the “Affiliate Account”).
