@@ -12,10 +12,15 @@ We believe that privacy is a fundamental human right. That’s why we are transp
 ADGUARD SOFTWARE LIMITED (“We”, “Us”, “Our”) processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws when you:
 
 - Visit websites related to AdGuard software and services (hereafter, the “Websites”):
+
   - AdGuard Ad Blocker website at <https://adguard.com/>,
+
   - AdGuard VPN website at <https://adguard-vpn.com/>,
+
   - AdGuard DNS website at <https://adguard-dns.io/>.
+
 - Use AdGuard Account services at <https://my.adguard.com/> (hereafter, the “AdGuard Account”).
+
 - Use AdGuard Affiliate Account services at <https://aff.adguard.com/> (hereafter, the “Affiliate Account”).
 
 ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus, and acts as the data controller when processing your data.
