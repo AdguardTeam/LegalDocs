@@ -27,7 +27,7 @@ If you do not agree with our policies and practices described in this Privacy Po
 
 There are several ways how we may get your Personal Data:
 
-- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected,how it is collected, and how you can manage it, please see the Privacy Policy for AdGuard Websites at <https://adguard.com/privacy/privacy-website.html>.
+- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected,how it is collected, and how you can manage it, please see the Privacy Policy for AdGuard Websites at <adguard.com/website-privacy.html>.
 - When you use our products. You can find the full list of Personal Data collected on a privacy notice page dedicated to the product you use.
 
 ## What data we process
@@ -46,7 +46,7 @@ Data we process includes no more than is crucial to provide full functionality o
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletters via AdGuard Account or by clicking the “Unsubscribe” button or link in the newsletter itself.
 
-**Cookies**. We use our cookies to personalize the content of the Website, such as setting the default language.None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/privacy/privacy-website.html) for details.
+**Cookies**. We use our cookies to personalize the content of the Website, such as setting the default language.None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
 
 **Buying a license.** If you purchase a license for AdGuard software, we’ll use the email address you provide  to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased license.
 
@@ -170,7 +170,7 @@ To the extent not prohibited by applicable law, we do not allow the use of our s
 
 ## How we use cookies
 
-The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the Privacy Policy of AdGuard Websites: <https://adguard.com/privacy/privacy-website.html>.
+The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the Privacy Policy of AdGuard Websites: <adguard.com/website-privacy.html>.
 
 ## Changes to this Privacy Policy
 
