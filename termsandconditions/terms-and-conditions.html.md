@@ -107,7 +107,7 @@ Purchasing subscriptions to the AdGuard software is subject to the following pro
 
 ### (1) AdGuard Privacy Policy
 
-AdGuard processes very limited user data and has a strong [Privacy Policy of AdGuard Account, Websites, and AdGuard Partner Account](https://adguard.com/website-privacy.html) that explains in detail how AdGuard handles your personal data in relation to your use of the Account and the Websites.
+AdGuard processes very limited user data and has a strong [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) that explains in detail how AdGuard handles your personal data in relation to your use of the Account and the Websites.
 
 By accessing and using the Account or the Websites, you agree to have read, understand and accept terms and conditions of data processing set out in our Privacy Policy available at the link mentioned above, which explains what type of information we collect, how it is shared and used.
 
