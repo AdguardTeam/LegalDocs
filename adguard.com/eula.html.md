@@ -16,7 +16,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 **If your project aligns with the GNU General Public License v3.0 or the Apache License, Version 2.0 criteria, you are permitted to utilize these components and versions of AdGuard under the provisions of the relevant open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the End-User License Agreement of AdGuard below is mandatory.**
 
-**The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at https://www.gnu.org/licenses/gpl-3.0.html and on the Apache Software Foundation website at https://www.apache.org/licenses/LICENSE-2.0, respectively.**
+**The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at https://www.gnu.org/licenses/gpl-3.0.html and on the Apache Software Foundation website at <https://www.apache.org/licenses/LICENSE-2.0>, respectively.**
 
 ## 1. Definitions
 
@@ -43,7 +43,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 ## 2. License grant
 
-2.1. The Rightholder hereby grants You a non-exclusive license to download and use the Software within the scope of the Software'’s functionality described on the Website, provided that You comply with all requirements, restrictions and terms specified in this EULA.
+2.1. The Rightholder hereby grants You a non-exclusive license to download and use the Software within the scope of the Software’s functionality described on the Website, provided that You comply with all requirements, restrictions and terms specified in this EULA.
 
 2.2. You are entitled, in accordance with the license granted in clause 2.1 herein, to install and use the Software on a certain number of Computers, which is indicated in Your order when You purchased Your license or subscription.
 

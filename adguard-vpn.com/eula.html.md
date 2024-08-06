@@ -34,7 +34,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 2. Terms of sale
 
-2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from https://adguard-vpn.com/.
+2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from <https://adguard-vpn.com/>.
 
 In order to use the paid version of AdGuard VPN, you need to purchase a monthly, one-year, or two-year subscription. Once you purchase a subscription, it is automatically linked to your Account.
 The period of use of AdGuard VPN granted by the Rightholder is specified when you purchase the subscription.
