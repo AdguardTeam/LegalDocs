@@ -94,7 +94,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 5.1. AdGuard Software Limited guarantees a strict no-logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored, or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
 
-5.2. AdGuard VPN collects and processes very limited user data and has a strong Privacy Policy available at <https://adguard-vpn.com/en/privacy.html> that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the Website.
+5.2. AdGuard VPN collects and processes very limited user data and has a strong Privacy Policy available at <https://adguard-vpn.com/privacy.html> that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the Website.
 
 5.3. Before using AdGuard VPN, you acknowledge that you have read and understand our Privacy policy, which explains what type of information we receive and process, and what might happen to that information, including, without limitation, how such information is shared and used.
 

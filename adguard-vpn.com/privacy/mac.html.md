@@ -1,9 +1,11 @@
 
 # AdGuard VPN for Mac Privacy Notice
 
-*April 10, 2024*
+*August 7, 2024*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. ("we", "us", or "our"), may collect when you use AdGuard VPN for Mac and explains why we do it and how we use this information.
+
+This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <https://adguard-vpn.com/privacy.html>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 > **Keynote**:
 >
