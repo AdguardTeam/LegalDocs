@@ -30,7 +30,7 @@ Some data that we receive and process may be treated as personal data (“Person
 
 ### When you are using our website
 
-**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the AdGuard Website & Cookie Notice available at <adguard-vpn.com/privacy/website.html>.
+**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the Privacy Policy of AdGuard Websites available at <adguard.com/website-privacy.html>.
 
 **Account registration**. We process your email address and a hash of the password which you provide to us at the registration. That ensures that you can retrieve your password if needed.
 
@@ -38,7 +38,7 @@ Some data that we receive and process may be treated as personal data (“Person
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletters via AdGuard Account or by clicking the “Unsubscribe” button or link in the newsletter itself.
 
-**Cookies**. We use our cookies to personalize the content of AdGuard VPN website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the Website & Cookie Notice for details: <adguard-vpn.com/privacy/website.html>.
+**Cookies**. We use our cookies to personalize the content of AdGuard VPN website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the Privacy Policy of AdGuard Websites for details: <adguard.com/website-privacy.html>.
 
 **Buying a subscription**. We process your email address for billing and payment purposes. If you purchase a subscription to AdGuard VPN, we’ll need to know your contact details to send you information about the purchase.
 
