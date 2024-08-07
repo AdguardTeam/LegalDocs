@@ -1,6 +1,6 @@
 # Terms and Conditions of AdGuard Account and AdGuard Websites
 
-*June 17, 2024*
+*August 6, 2024*
 
 ## 1. General
 
@@ -27,7 +27,7 @@ AdGuard provides the Websites to promote the AdGuard software, enable you to pur
 
 ### (3) Your use of the Account and the Websites
 
-AdGuard hereby grants you a non-exclusive, non-transferable, revocable license to connect, access and use the Account within the scope of its functionality and to access and use the Websites, provided that you comply with all requirements, restrictions and terms specified in these Terms.
+AdGuard hereby grants you a non-exclusive, non-transferable, revocable licensee to connect, access and use the Account within the scope of its functionality and to access and use the Websites, provided that you comply with all requirements, restrictions and terms specified in these Terms.
 
 The Account contains sections related to the AdGuard software. Use of the respective sections of the Account is only possible if you agree to the EULA and privacy policy of the corresponding AdGuard software.
 
@@ -71,23 +71,23 @@ All texts and associated graphics of Media kits are provided “as is” and wit
 
 By registering your Account and by using the Websites, you represent and warrant that:
 
-- You have the legal capacity, and You agree to comply with these Terms.
-- You are not a minor in the jurisdiction in which you reside.
-- You will not decipher, decompile, disassemble, modify, reverse engineer, copy, reproduce, aggregate, republish, upload, encode, license, rent, lease, loan, distribute to unauthorized parties, export or sell access to the Account or the Websites.
-- You will not utilize framing techniques to enclose AdGuard logos, trademarks, author attribution and copyright notices.
-- You will not use automated agents or inject scripts into the Account or the Websites to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from the Account or the Websites.
-- You will not circumvent, disable, or otherwise interfere with security-related features of the Account or the Websites, including features that prevent or restrict the use or copying of any Site Content or enforce limitations on the use of the Services and/or the Site Content contained therein.
-- You will not scan and test the Account or the Websites for vulnerabilities, conduct penetration tests, disclose, share, send, or make otherwise available to third parties information about vulnerabilities in the Account or the Websites of which you become aware, or use information about such vulnerabilities to compromise the security of the Account or the Websites or privacy of other users of the Account.
-- You will not interfere with, disrupt, or create an undue burden on the Account or the Websites or the networks or services connected to the Account or the Websites.
-- You will not defame, disparage, or perform other acts that in our opinion are harmful to AdGuard and/or the Account or the Websites.
-- You will not hide, conceal, or obscure any part of the Account or the Websites via HTML/CSS, scripting, or any other means.
-- You will not use the Account or the Websites for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used.
-- Your use of the Account or the Websites will not violate any applicable law or regulation, including applicable local, national, state, federal and industry-specific laws or regulations that restrict or prohibit, in whole or in part, the use of the Account or the Websites.
-- You will not use the Account or the Websites in any attempt to compete with AdGuard or otherwise utilize the Account or the Websites for any revenue-generating or commercial venture.
-- You will not use another person’s email address or impersonate another person or a representative of another company when registering your Account.
-- You will not create user Accounts by automated means or under false pretenses.
-- You are not domiciled or reside in a country that belongs to E.U. or U.S. embargoed countries.
-- You are not a person, and you are not acting on behalf of a person or a company to which provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+(a) You have the legal capacity, and You agree to comply with these Terms.
+(b) You are not a minor in the jurisdiction in which you reside.
+(c) You will not decipher, decompile, disassemble, modify, reverse engineer, copy, reproduce, aggregate, republish, upload, encode, license, rent, lease, loan, distribute to unauthorized parties, export or sell access to the Account or the Websites.
+(d) You will not utilize framing techniques to enclose AdGuard logos, trademarks, author attribution and copyright notices.
+(e) You will not use automated agents or inject scripts into the Account or the Websites to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from the Account or the Websites.
+(f) You will not circumvent, disable, or otherwise interfere with security-related features of the Account or the Websites, including features that prevent or restrict the use or copying of any Site Content or enforce limitations on the use of the Services and/or the Site Content contained therein.
+(g) You will not scan and test the Account or the Websites for vulnerabilities, conduct penetration tests, disclose, share, send, or make otherwise available to third parties information about vulnerabilities in the Account or the Websites of which you become aware, or use information about such vulnerabilities to compromise the security of the Account or the Websites or privacy of other users of the Account.
+(h) You will not interfere with, disrupt, or create an undue burden on the Account or the Websites or the networks or services connected to the Account or the Websites.
+(i) You will not defame, disparage, or perform other acts that in our opinion are harmful to AdGuard and/or the Account or the Websites.
+(j) You will not hide, conceal, or obscure any part of the Account or the Websites via HTML/CSS, scripting, or any other means.
+(k) You will not use the Account or the Websites for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used.
+(l) Your use of the Account or the Websites will not violate any applicable law or regulation, including applicable local, national, state, federal and industry-specific laws or regulations that restrict or prohibit, in whole or in part, the use of the Account or the Websites.
+(m) You will not use the Account or the Websites in any attempt to compete with AdGuard or otherwise utilize the Account or the Websites for any revenue-generating or commercial venture.
+(n) You will not use another person’s email address or impersonate another person or a representative of another company when registering your Account.
+(o) You will not create user Accounts by automated means or under false pretenses.
+(p) You are not domiciled or reside in a country that belongs to E.U. or U.S. embargoed countries.
+(q) You are not a person, and you are not acting on behalf of a person or a company to which provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
 
 Any use of the Account or the Websites in violation of the foregoing violates these Terms and may result in, among other things, termination or suspension of your rights to use the Account and the AdGuard software.
 
@@ -95,19 +95,19 @@ Any use of the Account or the Websites in violation of the foregoing violates th
 
 Purchasing subscriptions to the AdGuard software is subject to the following provisions:
 
-- You may purchase a subscription to the AdGuard software and manage all purchased licenses and subscriptions using the Account. Registration and use of the Account is at no cost to you.
-- If you purchase a subscription to a specific AdGuard software, the terms of purchase and subscription, including, without limitation, availability, duration and rules of free trial, refund, and cancellation, are governed by the EULA and/or terms of sale applicable to such software. The duration of the purchased subscription and applicable limitations are specified at the time of purchase.
-- You agree to provide complete and accurate payment information, including your email address and payment method, for all purchases made via the Account, and to promptly update your payment information so that we can provide you with a seamless experience in using the AdGuard software.
-- You agree that sales tax may be added to the price of a subscription as deemed required by AdGuard.
-- If your subscription is auto-renewed and is subject to recurring charges, then you consent that AdGuard will charge your payment method on a recurring basis without requiring your prior approval for each recurring charge, until you cancel your subscription or disable subscription auto-renewal.
-- After expiration of your subscription purchased using promo codes or discounts, the payment for the subscription renewal will be charged at full price. All changes to prices will be sent to you to the email address that you have specified when purchasing your subscription.
-- We reserve the right, in our sole discretion, to refuse or cancel your purchases, or limit quantities purchased per person. These restrictions may include purchases by or under the same Account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit purchases that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
+(a) You may purchase a subscription to the AdGuard software and manage all purchased licenses and subscriptions using the Account. Registration and use of the Account is at no cost to you.
+(b) If you purchase a subscription to a specific AdGuard software, the terms of purchase and subscription, including, without limitation, availability, duration and rules of free trial, refund, and cancellation, are governed by the EULA and/or terms of sale applicable to such software. The duration of the purchased subscription and applicable limitations are specified at the time of purchase.
+(c) You agree to provide complete and accurate payment information, including your email address and payment method, for all purchases made via the Account, and to promptly update your payment information so that we can provide you with a seamless experience in using the AdGuard software.
+(d) You agree that sales tax may be added to the price of a subscription as deemed required by AdGuard.
+(e) If your subscription is auto-renewed and is subject to recurring charges, then you consent that AdGuard will charge your payment method on a recurring basis without requiring your prior approval for each recurring charge, until you cancel your subscription or disable subscription auto-renewal.
+(f) After expiration of your subscription purchased using promo codes or discounts, the payment for the subscription renewal will be charged at full price. All changes to prices will be sent to you to the email address that you have specified when purchasing your subscription.
+(g) We reserve the right, in our sole discretion, to refuse or cancel your purchases, or limit quantities purchased per person. These restrictions may include purchases by or under the same Account, the same payment method, and/or orders that use the same billing or shipping address. We reserve the right to limit or prohibit purchases that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.
 
 ## 6. Data Processing
 
 ### (1) AdGuard Privacy Policy
 
-AdGuard processes very limited user data and has a strong [Privacy Policy](https://adguard.com/en/privacy.html) that explains in detail how AdGuard handles your personal data in relation to your use of the Account and the Websites.
+AdGuard processes very limited user data and has a strong [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) that explains in detail how AdGuard handles your personal data in relation to your use of the Account and the Websites.
 
 By accessing and using the Account or the Websites, you agree to have read, understand and accept terms and conditions of data processing set out in our Privacy Policy available at the link mentioned above, which explains what type of information we collect, how it is shared and used.
 
@@ -115,11 +115,11 @@ By accessing and using the Account or the Websites, you agree to have read, unde
 
 AdGuard will receive and process certain data to perform our obligations set forth in these Terms and to provide you with the functionality of the Account and the Websites. The data we process may be treated as personal data in accordance with the laws of certain territories and countries. You can read more about data processing in our Privacy Policy.
 
-- To register your Account, we will process your email address, your password.
-- If you choose to register your Account using your third-party account, such as Google, Apple ID, or Facebook, we will process an authentication token that proves your identity. AdGuard does not request or have access to your third-party accounts.
-- To enable you to purchase a subscription to the AdGuard software, we will process your email address to inform you of your subscription status, to renew your subscription (if applicable), and to restore your license key if you request us to do so. Your payment information as well as your e-mail address will be processed by our payment service provider during the purchase.
-- To keep you informed about the operation and new features of the Account, we will process your e-mail address.
-- To receive newsletters and promotional emails about the AdGuard software, you may opt-in and subscribe to the newsletters. You can withdraw your consent at any time by unsubscribing in your Account settings or by clicking on the appropriate link in the email you receive.
+(a) To register your Account, we will process your email address, your password.
+(b) If you choose to register your Account using your third-party account, such as Google, Apple ID, or Facebook, we will process an authentication token that proves your identity. AdGuard does not request or have access to your third-party accounts.
+(c) To enable you to purchase a subscription to the AdGuard software, we will process your email address to inform you of your subscription status, to renew your subscription (if applicable), and to restore your license key if you request us to do so. Your payment information as well as your e-mail address will be processed by our payment service provider during the purchase.
+(d) To keep you informed about the operation and new features of the Account, we will process your e-mail address.
+(e) To receive newsletters and promotional emails about the AdGuard software, you may opt-in and subscribe to the newsletters. You can withdraw your consent at any time by unsubscribing in your Account settings or by clicking on the appropriate link in the email you receive.
 
 ### (3) Data processing when you use the AdGuard software
 
@@ -148,27 +148,27 @@ AdGuard will not be liable to you or any third party for any modification, price
 
 AdGuard reserves the right, but not the obligation, to:
 
-- Monitor the Account for violations of these Terms;
-- Take appropriate legal action in the event, in our sole discretion, of a violation of applicable law or these Terms, including, without limitation, reporting to law enforcement authorities;
-- Refuse, restrict access to, limit the availability of, or disable your Account or any portion thereof;
-- Otherwise manage the Account to protect our rights and property and to ensure the proper operation of the Account.
+(a) Monitor the Account for violations of these Terms;
+(b) Take appropriate legal action in the event, in our sole discretion, of a violation of applicable law or these Terms, including, without limitation, reporting to law enforcement authorities;
+(c) Refuse, restrict access to, limit the availability of, or disable your Account or any portion thereof;
+(d) Otherwise manage the Account to protect our rights and property and to ensure the proper operation of the Account.
 
 ## 9. Warranty Disclaimer
 
 By accessing and using the Account or the Websites, you expressly agree with the following provisions:
 
-- YOUR USE OF THE ACCOUNT SERVICE OR THE WEBSITES IS AT YOUR SOLE RISK. THE ACCOUNT SERVICE AND THE WEBSITES ARE PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. ADGUARD AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SERVICES PROVIDED UNDER THESE TERMS, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. ADGUARD DOES NOT WARRANT THAT THE ACCOUNT SERVICE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 OR ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE ACCOUNT SERVICE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. ADGUARD SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
-- IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SERVICES PROVIDED UNDER THESE TERMS, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SERVICES.
-- NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY ADGUARD OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
-- ADGUARD SHALL HAVE NO LIABILITY, AND YOU RELEASE ADGUARD OF ANY AND ALL LIABILITY, IF THE ACCOUNT SERVICE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE ACCOUNT SERVICE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
-- ADGUARD IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SERVICE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT OUR PARTNER.
-- YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE ACCOUNT SERVICE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
+(a) YOUR USE OF THE ACCOUNT SERVICE OR THE WEBSITES IS AT YOUR SOLE RISK. THE ACCOUNT SERVICE AND THE WEBSITES ARE PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. ADGUARD AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SERVICES PROVIDED UNDER THESE TERMS, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. ADGUARD DOES NOT WARRANT THAT THE ACCOUNT SERVICE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 OR ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE ACCOUNT SERVICE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. ADGUARD SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
+(b) IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SERVICES PROVIDED UNDER THESE TERMS, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SERVICES.
+(c) NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY ADGUARD OR ITS PARTNERS, OR ITS OR THEIR AGENTS OR EMPLOYEES, SHALL CREATE A REPRESENTATION OR WARRANTY, NOR IN ANY WAY INCREASE THE SCOPE OF ANY EXPRESS REPRESENTATION OR WARRANTY PROVIDED HEREIN.
+(d) ADGUARD SHALL HAVE NO LIABILITY, AND YOU RELEASE ADGUARD OF ANY AND ALL LIABILITY, IF THE ACCOUNT SERVICE HAS BEEN ALTERED IN ANY WAY, OR FOR ANY FAILURE THAT ARISES OUT OF USE OF THE ACCOUNT SERVICE WITH OTHER THAN A RECOMMENDED HARDWARE CONFIGURATION, PLATFORM OR OPERATING SYSTEM.
+(e) ADGUARD IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SERVICE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT OUR PARTNER.
+(f) YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE ACCOUNT SERVICE DOES NOT VIOLATE APPLICABLE LAW, THIRD-PARTY RIGHTS, OR YOUR CONTRACTUAL OBLIGATIONS TO THIRD PARTIES.
 
 ## 10. Limitation of Liability
 
-- TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER ADGUARD NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE ACCOUNT SERVICE OR THE WEBSITES PROVIDED UNDER THESE TERMS WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADGUARD OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
-- TO THE MAXIMUM EXTENT PERMITTED BY LAW, ADGUARD’S TOTAL LIABILITY TO YOU FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAID TO ADGUARD FOR ANY SERVICES PROVIDED UNDER THESE TERMS.
-- THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THESE TERMS.
+(a) TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER ADGUARD NOR ITS SUPPLIERS OR PARTNERS SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE ACCOUNT SERVICE OR THE WEBSITES PROVIDED UNDER THESE TERMS WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADGUARD OR ITS SUPPLIERS OR PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+(b) TO THE MAXIMUM EXTENT PERMITTED BY LAW, ADGUARD’S TOTAL LIABILITY TO YOU FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAID TO ADGUARD FOR ANY SERVICES PROVIDED UNDER THESE TERMS.
+(c) THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THESE TERMS.
 
 ## 11. Term and Termination
 
@@ -182,14 +182,14 @@ You have the right to terminate these Terms at any time by deleting your Account
 
 If you confirm the deletion of your Account:
 
-- We will delete all information from your Account, including your email address. You will no longer receive emails from AdGuard and you will not be able to sign in again to your Account.
-- Your AdGuard VPN and AdGuard DNS subscriptions, if any, will be canceled.
-- Your AdGuard Ad Blocker license keys will be unbound from your deleted Account and can be used to activate AdGuard products or be bound to another Account.
-- If you have signed up to the Account via your third-party account and you have not confirmed your Account yet, you will be required to set your password first.
+(a) We will delete all information from your Account, including your email address. You will no longer receive emails from AdGuard and you will not be able to sign in again to your Account.
+(b) Your AdGuard VPN and AdGuard DNS subscriptions, if any, will be canceled.
+(c) Your AdGuard Ad Blocker license keys will be unbound from your deleted Account and can be used to activate AdGuard products or be bound to another Account.
+(d) If you have signed up to the Account via your third-party account and you have not confirmed your Account yet, you will be required to set your password first.
 
 ### (3) Termination by AdGuard for good cause
 
-AdGuard reserves the right to terminate these Terms and provision of the Account or the Websites to you for good cause. In such event, we reserve the right, but not the obligation, to notify you thirty (30) business days prior to the date of the proposed termination. We will cancel your subscription and refund your share of your payment for the current paid term, in proportion to the unused term, within thirty (30) business days after termination.
+AdGuard reserves the right to terminate these Terms and provision of the Account or the Websites to you for good cause. In such an event, we reserve the right, but not the obligation, to notify you thirty (30) business days prior to the date of the proposed termination. We will cancel your subscription and refund your share of your payment for the current paid term, in proportion to the unused term, within thirty (30) business days after termination.
 
 ### (4) Termination by AdGuard due to your breach of these Terms
 

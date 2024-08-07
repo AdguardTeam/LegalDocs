@@ -1,9 +1,11 @@
 
 # AdGuard VPN Browser Extension Privacy Notice
 
-*April 10, 2024*
+*August 7, 2024*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard VPN Browser Extension and explains why we do it and how we use this information.
+
+This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <https://adguard-vpn.com/privacy.html>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 > **Keynote:**
 >
@@ -36,7 +38,7 @@ When we create an account for the user, the following information is sent to our
 - Email address
 - App identifier
 - OS language
-- Marketing consent flag
+- Marketing consent flag, showing whether the user consented to receive marketing emails or not
 
 **Why we need this information:**
 

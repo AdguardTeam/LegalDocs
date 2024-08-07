@@ -1,6 +1,6 @@
 # AdGuard VPN Privacy Policy
 
-*April 10, 2024*
+*August 7, 2024*
 
 ## Summary
 
@@ -30,7 +30,7 @@ Some data that we receive and process may be treated as personal data (“Person
 
 ### When you are using our website
 
-**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the AdGuard Website & Cookie Notice available at <adguard-vpn.com/privacy/website.html>.
+**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
 
 **Account registration**. We process your email address and a hash of the password which you provide to us at the registration. That ensures that you can retrieve your password if needed.
 
@@ -38,7 +38,7 @@ Some data that we receive and process may be treated as personal data (“Person
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletters via AdGuard Account or by clicking the “Unsubscribe” button or link in the newsletter itself.
 
-**Cookies**. We use our cookies to personalize the content of AdGuard VPN website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the Website & Cookie Notice for details: <adguard-vpn.com/privacy/website.html>.
+**Cookies**. We use our cookies to personalize the content of AdGuard VPN website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
 
 **Buying a subscription**. We process your email address for billing and payment purposes. If you purchase a subscription to AdGuard VPN, we’ll need to know your contact details to send you information about the purchase.
 
@@ -57,7 +57,8 @@ For the exact data that the payment provider collects about you, please see the 
 ### When you are using our software
 
 **Sign-in / Account registration**. When signing in to connect the installed app to your account or registering a new account, you need to provide your email address and create a password to initially create a VPN connection. We process this essential data to provide you with the AdGuard VPN service.
-Using our software. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
+
+**Using our software**. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
 
 - For AdGuard VPN for Windows: <https://adguard-vpn.com/privacy/windows.html>
 - For AdGuard VPN for Android: <https://adguard-vpn.com/privacy/android.html>
@@ -67,14 +68,15 @@ Using our software. When you choose to use our app, you will provide us your dat
 
 **Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, in the free version, we collect data on your traffic usage. Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.
 
-**Diagnostic / Device information**. However, if you experience problems using our software and you give us your permission, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
+**Diagnostic / Device information**. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
 ## What legal bases we use to process your Personal Data
 
 We use different legal bases to process Personal Data depending on the type of data, the purposes, and circumstances of processing.
 
 **Consent**. We process your Personal Data if you have provided us with your consent to use your personal data for certain purposes. For example, to send you marketing messages or to help you troubleshoot problems with using our software. You can withdraw your consent any time without affecting your use of our software.
-Performance of a contract. We process your Personal Data when it is necessary to fulfill our contractual obligations to you, including providing the functionality of our software and services or at your request prior to entering into a contract with you.
+
+**Performance of a contract**. We process your Personal Data when it is necessary to fulfill our contractual obligations to you, including providing the functionality of our software and services or at your request prior to entering into a contract with you.
 
 **Legal obligations**. We process your Personal Data where it is necessary for compliance with our legal obligations, such as to exercise or defend our legal rights, or for taxation purposes.
 
@@ -87,7 +89,7 @@ We store your Personal Data in our own data center located in Frankfurt. Your Pe
 For data transfers to other countries, we always implement appropriate safeguards to ensure that your Personal Data always remains safe and that your rights are respected:
 
 - The country or the third party is recognized as providing adequate protection.
-- A valid transfer mechanism is used, such as the Standard Contractual Clauses, and additional measures are implemented where necessary.
+- A valid transfer mechanism is used, such as the Standard Contractual Clauses, and supplementary measures are implemented where necessary.
 - The transfer has your explicit consent.
 - The transfer is necessary for the performance of a contract with you or to take steps requested by you prior to entering into that contract.
 
@@ -118,7 +120,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object**: The right to object to processing of your Personal Data.
 
-**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transfer that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard Account at <my.adguard.com>.
+**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard Account at <my.adguard.com>.
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 

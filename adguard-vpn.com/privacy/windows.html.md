@@ -1,9 +1,11 @@
 
 # AdGuard VPN for Windows Privacy Notice
 
-*April 10, 2024*
+*August 7, 2024*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard VPN for Windows and explains why we do it and how we use this information.
+
+This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <https://adguard-vpn.com/privacy.html>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 >**Keynote:**
 >
@@ -84,7 +86,7 @@ When you launch AdGuard VPN for Windows for the first time, the following inform
 
 ### Using the app
 
-AdGuard VPN periodically connects to our server to check the account status of the. The following information is sent:
+AdGuard VPN periodically connects to our server to check the account status. The following information is sent:
 
 - Authorization token
 
@@ -116,7 +118,7 @@ The following information is also included in the report:
 
 - Authorization token
 
-If the you check the *Send detailed system info* checkbox, a file with the following information will be sent to our servers:
+If you check the *Send detailed system info* checkbox, a file with the following information will be sent to our servers:
 
 - App settings
 
