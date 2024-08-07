@@ -5,6 +5,8 @@
 
 - [privacy-policy.html.md] - AdGuard Privacy Policy.
 
+- [website-privacy.html.md] - Privacy Policy of AdGuard Websites
+
 - [browser-assistant.html.md] - AdGuard Browser Assistant Privacy Notice.
 
 - [content-blocker.html.md] - AdGuard Content Blocker Privacy Notice.
