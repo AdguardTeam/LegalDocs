@@ -69,6 +69,7 @@ When you launch AdGuard VPN for iOS for the first time, the following informatio
 - To monitor the number of simultaneous connections
 - To count the number of apps of a certain type and version
 - To communicate with you in your language
+- To integrate with Apple Search Ads
 
 ### Connecting to the VPN server
 
