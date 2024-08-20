@@ -30,7 +30,7 @@ Some data that we receive and process may be treated as personal data (“Person
 
 ### When you are using our website
 
-**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the Privacy Policy of AdGuard Websites available at <adguard.com/website-privacy.html>.
+**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the Privacy Policy of AdGuard Websites available at [https://adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
 
 **Account registration**. We process your email address and a hash of the password which you provide to us at the registration. That ensures that you can retrieve your password if needed.
 

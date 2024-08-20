@@ -65,7 +65,7 @@ All this data that we process is not shared with any third parties. It is used s
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletter via AdGuard Account or by clicking the “Unsubscribe” button or link in the email itself.
 
-**Cookies.** We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the Privacy Policy of AdGuard Websites for details: <adguard.com/website-privacy.html>.
+**Cookies.** We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
 
 **Buying a subscription.** If you purchase  a subscription to Private AdGuard DNS, we’ll use the email address you provide  to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 

@@ -27,7 +27,7 @@ If you do not agree with our policies and practices described in this Privacy Po
 
 There are several ways how we may get your Personal Data:
 
-- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected,how it is collected, and how you can manage it, please see the Privacy Policy for AdGuard Websites at <adguard.com/website-privacy.html>.
+- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected,how it is collected, and how you can manage it, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/privacy/website-privacy.html).
 - When you use our products. You can find the full list of Personal Data collected on a privacy notice page dedicated to the product you use.
 
 ## What data we process
@@ -170,7 +170,7 @@ To the extent not prohibited by applicable law, we do not allow the use of our s
 
 ## How we use cookies
 
-The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the Privacy Policy of AdGuard Websites: <adguard.com/website-privacy.html>.
+The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
 
 ## Changes to this Privacy Policy
 
