@@ -65,7 +65,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.11. You may not download, install, use the Software or purchase the subscription to the Software if the country in which you reside has restricted or prohibited the use of Mail software, or the country belongs to E.U. or U.S. embargoed countries, or if you are a person to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
 
-2.12. In case of violation, we reserve the right to suspend your Account or limit access to AdGuard Mail at our sole discretion. Such suspension or access limitation may be implemented by AdGuard Mail instantly and without any notice. If your Account has been suspended, you can contact us for further information.
+2.12. In the event of a violation, we reserve the right to suspend your account or limit your access to AdGuard Mail at our sole discretion. Such suspension or restriction may be implemented by AdGuard Mail immediately and without notice. If your Account has been suspended, you may contact us for further information.
 
 ## 3. Personal data and Privacy Policy
 
