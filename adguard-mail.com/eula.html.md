@@ -29,7 +29,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 2. Restrictions
 
-2.1. You may not make or distribute copies of the Software or electronically transfer the Software from one device to another or over a network.
+2.1. You may not make or distribute copies of the Software or transfer the Software from one device to another or over a network.
 
 2.2. You may not alter, merge, modify, or adapt the Software, or decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form, except to the extent permitted by applicable law notwithstanding this restriction or to the extent otherwise expressly permitted by the Rightholder.
 
