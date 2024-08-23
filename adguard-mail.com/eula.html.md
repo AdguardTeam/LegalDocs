@@ -59,7 +59,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 (C) Engaging in the transmission of unsolicited advertising, "spam" emails, or other deceptive practices, including misrepresenting yourself as another person or entity.
 
-2.9. Only persons 18 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or closed due to any reason.
+2.9. Only persons 18 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
 
 2.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard Mail.
 
