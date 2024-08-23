@@ -41,7 +41,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.6. Unless otherwise provided herein, you shall not when using the beta version of the Software
 
-(A) use the beta version of the Software for a purpose other than the sole purpose of testing the Software,
+(A) use the beta version of the Software for any purpose other than to test the Software,
 
 (B) use the beta version of the Software if you do not participate in the Beta testing program of the Rightholder or if you violate the rules of the Beta testing program,
 
