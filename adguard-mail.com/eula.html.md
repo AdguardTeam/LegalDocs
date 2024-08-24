@@ -9,7 +9,7 @@ BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE
 IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
-AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([https://adguard-mail.com/](https://adguard-mail.com/), “Website”). 
+AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([https://adguard-mail.com/](https://adguard-mail.com/), “Website”).
 
 ## 1. General
 
@@ -63,7 +63,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard Mail.
 
-2.11. You may not download, install, use the Software or purchase the subscription to the Software if the country in which you reside has restricted or prohibited the use of Mail software, or the country belongs to E.U. or U.S. embargoed countries, or if you are a person to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+2.11. You may not download, install, use the Software or purchase the subscription to the Software if the country in which you reside is an EU or U.S. embargoed country, or if you are a person to whom the shipment of the Software is prohibited under the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
 
 2.12. In the event of a violation, we reserve the right to suspend your account or limit your access to AdGuard Mail at our sole discretion. Such suspension or restriction may be implemented by AdGuard Mail immediately and without notice. If your Account has been suspended, you may contact us for further information.
 
@@ -73,7 +73,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 3.2. Before using AdGuard Mail, you acknowledge that you have read and understood our Privacy Policy, which explains the types of information we collect and process, and what may happen to that information, including, without limitation, how such information is shared and used.
 
-By installing and using AdGuard Mail, you agree to the present Terms and the terms and conditions of data processing by AdGuard Software Limited as set out in our Privacy Policy available at the link mentioned above.
+By installing and using AdGuard Mail, you agree to the present Terms and the terms and conditions of data processing by AdGuard Software Limited as set out in our Privacy Policy, which is available at the link above.
 
 3.3. AdGuard Software Limited shall receive and process certain data to fulfill our obligations set forth in these Terms and to provide you with the functionality of AdGuard Mail. The data we process depends on the operating system for which the Software is designed. Such data may be considered personal data in accordance with the laws of certain territories and countries. We take the protection of your personal data seriously and process it in accordance with applicable data protection laws. You can read more about our data processing practices in our Privacy Policy.
 
