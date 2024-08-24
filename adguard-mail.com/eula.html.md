@@ -25,7 +25,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 1.7. We may modify or discontinue AdGuard Mail free services and benefits without notice at any time at our sole discretion.
 
-1.8 Continued use of AdGuard Mail after any modifications to this EULA have been made will constitute your acceptance of those changes.
+1.8 Your continued use of AdGuard Mail after any modifications to this EULA have been made will constitute your acceptance of such modifications.
 
 ## 2. Restrictions
 
