@@ -47,7 +47,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 (C) distribute, share, send, or make the beta version of the Software otherwise available to third parties without prior written consent of the Rightholder, or
 
-(D) breach the confidentiality of the beta version of the Software, its functions, features, characteristics, design, user interface, documentation, or other related materials by publishing, sharing, sending, disclosing, or otherwise making available to third parties without prior written consent of the Rightholder.
+(D) breach the confidentiality of the beta version of the Software, its functions, features, characteristics, design, user interface, documentation, or other related materials by publishing, sharing, sending, disclosing, or otherwise making them available to third parties without prior written consent of the Rightholder.
 
 2.7. You may not remove or modify any proprietary notice or labels from the Software or any output of the Software, including author attribution and copyright notices.
 
