@@ -30,9 +30,8 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 [Technical and interaction data](#technical-and-interaction-data)
 
-
-
 ### User registration and authorization
+
 Registration and authorization for AdGuard Mail are managed through the web-based AdGuard authentication service at [auth.adguard.com](https://auth.adguard.com/). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [https://adguard.com/en/privacy/website.html](https://adguard.com/en/privacy/website.html).
 
 When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguard.com](https://auth.adguard.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
@@ -40,6 +39,7 @@ When you register or log in to AdGuard Mail or other AdGuard services, you will 
 ### Mailbox Management
 
 When you manage your mailboxes, including actions such as creating, retrieving, or deleting a mailbox, the following information may be transmitted to our servers:
+
 - **Mailbox ID**: A unique identifier for the mailbox associated with your account, used to perform the requested action.
 - **Temporary Email Address**: The temporary email address linked to the mailbox.
 - **Language Setting (optional)**: The language used for mailbox creation, which is automatically determined based on the language settings of the AdGuard Mail application. These settings are derived from your operating system or browser language preferences.
@@ -49,6 +49,7 @@ The information transmitted allows us to manage your mailboxes efficiently. Whil
 ### Message Handling
 
 When interacting with messages within your mailboxes, such as retrieving, updating (marking as read), or deleting messages, the following information is transmitted:
+
 - **Mailbox ID and Message ID**: Unique identifiers used to retrieve, update, or delete specific messages.
 - **Message Content**: When requesting an email message, the complete content of the message is transmitted.
 
@@ -57,7 +58,9 @@ Storing the content of incoming emails is a fundamental function of the temporar
 Meanwhile, the alias service of AdGuard Mail does not store incoming messages and only performs the function of forwarding messages to the target mailboxes specified by you.
 
 ### Alias and Recipient Management
+
 When managing aliases and recipients, including actions like creating, retrieving, updating, or deleting, the following information is transmitted:
+
 - **Alias ID**: The unique identifier for the alias.
 - **Recipient ID**: The unique identifier for the recipient.
 - **Email Address**: The email address associated with the recipient or alias.
@@ -66,21 +69,26 @@ When managing aliases and recipients, including actions like creating, retrievin
 Alias and recipient management involves data that directly identifies email addresses and associated users. While email addresses are considered Personally Identifiable Information (PII), they are essential for the functionality of the service.
 
 ### Session and Account Access Management
+
 When managing your account access or sessions, including actions like logging out, the following information may be transmitted:
+
 - **User ID and Email Address**: Unique identifiers for your account.
 - **Session Information**: Details about the active sessions associated with your account.
 - **Access Token**: A token used to authenticate and maintain your session.
 
-This information is crucial for maintaining secure access to your account and managing sessions across multiple devices. 
+This information is crucial for maintaining secure access to your account and managing sessions across multiple devices.
 
 ### Statistics and Blocked Senders
+
 When viewing or managing statistics and blocked senders, the following information is transmitted:
+
 - **Alias IDs**: Identifiers used to retrieve statistics related to specific aliases.
 - **Sender Email Address**: The email address of the sender that has been blocked.
 
 This information allows you to monitor activity and manage unwanted communications effectively. The data transmitted is primarily used for user interface purposes and generally does not contain sensitive personal information.
 
 ### App updates check
+
 To check for app updates, AdGuard Mail connects to its servers. During this process, the following information may be sent:
 
 - **App platform**
@@ -149,11 +157,13 @@ This data is used only internally and is not shared with third parties.
 
 **AdGuard Mail** is composed of two main components: the Temporary Email Service and the Alias Service. Each component handles data storage and logging differently to ensure user privacy while maintaining essential functionality.
 
-#### Alias Service
+### Alias Service
+
 - **No Logging of Individual Email Forwarding**: The Alias Service does not log or store any records of individual emails being forwarded. This ensures that details of your email activity remain private.
 - **Aggregated Statistics**: The Alias Service only stores aggregated statistics related to the number of emails forwarded through each alias. These statistics do not include any details about the emails themselves, such as content or specific sender/recipient information.
 
-#### Temporary Email Service
+### Temporary Email Service
+
 - **Storage of Received Emails**: The Temporary Email Service stores all emails received at the temporary email addresses you create. This allows you to access these emails as needed.
 - **Email Deletion**: Emails stored by the Temporary Email Service are deleted in two scenarios:
     - When you delete the temporary mailbox associated with the email.
