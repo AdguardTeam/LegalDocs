@@ -51,7 +51,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.7. You may not remove or modify any proprietary notice or labels from the Software or any output of the Software, including author attribution and copyright notices.
 
-2.8. You may not use the AdGuard Mail application for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where the application is used and where the AdGuard Mail servers are located. This includes, but is not limited to:
+2.8. You may not use the AdGuard Mail application for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in the countries where the application is used and where the AdGuard Mail servers are located. This includes, but is not limited to:
 
 (A) Sending, uploading, or transmitting any materials or information of unacceptable content, including but not limited to offensive, defamatory, fraudulent, or harassing content, as well as content that violates any law or the rights of others.
 
