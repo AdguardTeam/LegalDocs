@@ -49,7 +49,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 (D) breach the confidentiality of the beta version of the Software, its functions, features, characteristics, design, user interface, documentation, or other related materials by publishing, sharing, sending, disclosing, or otherwise making them available to third parties without prior written consent of the Rightholder.
 
-2.7. You may not remove or modify any proprietary notice or labels from the Software or any output of the Software, including author attribution and copyright notices.
+2.7. You may not remove or modify any proprietary notices or labels from the Software or any output of the Software, including author attribution and copyright notices.
 
 2.8. You may not use the AdGuard Mail application for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in the countries where the application is used and where the AdGuard Mail servers are located. This includes, but is not limited to:
 
