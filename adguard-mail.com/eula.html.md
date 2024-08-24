@@ -21,7 +21,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 1.4. AdGuard Mail, which AdGuard Software Limited may provide on a free basis in accordance with Section 1.2, may have a number of limitations, such as restrictions on the number of email aliases you can create and the number of recipients you can forward emails to. Information on these and other limitations is provided on the Website.
 
-1.6. To use AdGuard Mail, you must install the application or visit the Website and sign in using your email address or sign up by creating a new account. You must provide a valid email address when signing up. You may also sign in with an email and password you have already registered on the Website or other Rightholder’s websites, such as adguard.com, previously.
+1.6. To use AdGuard Mail, you must install the Application or visit the Website and log in using your email address or sign up by creating a new account. You must provide a valid email address when signing up. You may also log in with an email and password that you have previously registered on the Website or other Rightholder’s websites, such as adguard.com.
 
 1.7. We may modify or discontinue AdGuard Mail free services and benefits without notice at any time at our sole discretion.
 
