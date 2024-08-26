@@ -78,7 +78,7 @@ When managing your account access or sessions, including actions like logging ou
 
 This information is crucial for maintaining secure access to your account and managing sessions across multiple devices.
 
-### Statistics and Blocked Senders
+### Statistics and blocked senders
 
 When viewing or managing statistics and blocked senders, the following information is transmitted:
 
