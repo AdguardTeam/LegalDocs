@@ -68,7 +68,7 @@ When managing aliases and recipients, including actions like creating, retrievin
 
 Alias and recipient management involves data that directly identifies email addresses and associated users. While email addresses are considered Personally Identifiable Information (PII), they are essential for the functionality of the service.
 
-### Session and Account Access Management
+### Session and account access management
 
 When managing your account access or sessions, including actions like logging out, the following information may be transmitted:
 
