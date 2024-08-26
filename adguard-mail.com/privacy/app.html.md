@@ -44,7 +44,7 @@ When you manage your mailboxes, including actions such as creating, retrieving, 
 - **Temporary email address**: The temporary email address linked to the mailbox.
 - **Language preference (optional)**: The language used to create the mailbox, which is automatically determined based on the language settings of the AdGuard Mail application. These settings are derived from your operating system or browser language preferences.
 
-The information transmitted allows us to manage your mailboxes efficiently. While Mailbox IDs are used internally, the temporary email address is inherently transient and non-identifiable, reducing privacy risks.
+The information transmitted allows us to manage your mailboxes efficiently. While mailbox IDs are used internally, the temporary email address is inherently transient and non-identifiable, reducing privacy risks.
 
 ### Message handling
 
