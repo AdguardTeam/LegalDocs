@@ -73,7 +73,7 @@ Alias and recipient management involves data that directly identifies email addr
 When managing your account access or sessions, including actions like logging out, the following information may be transmitted:
 
 - **User ID and email address**: Unique identifiers for your account.
-- **Session Information**: Details about the active sessions associated with your account.
+- **Session information**: Details about the active sessions associated with your account.
 - **Access Token**: A token used to authenticate and maintain your session.
 
 This information is crucial for maintaining secure access to your account and managing sessions across multiple devices.
