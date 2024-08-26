@@ -164,7 +164,7 @@ This data is used only internally and is not shared with third parties.
 
 ### Temporary email service
 
-- **Storage of Received Emails**: The Temporary Email Service stores all emails received at the temporary email addresses you create. This allows you to access these emails as needed.
+- **Storage of received emails**: The temporary email service stores all emails received at the temporary email addresses you create. This allows you to access these emails as needed.
 - **Email Deletion**: Emails stored by the Temporary Email Service are deleted in two scenarios:
     - When you delete the temporary mailbox associated with the email.
     - When you manually delete individual emails.
