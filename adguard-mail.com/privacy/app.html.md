@@ -111,7 +111,7 @@ You can send messages to support directly from the app. If the *Send app and sys
 - **Browser or OS version**
 - **App configuration**
 
-This detailed information is used by the support team to better assist with resolving your request.
+This detailed information is used by the support team to better assist with resolving your issue.
 
 ### Automatic crash reports
 
