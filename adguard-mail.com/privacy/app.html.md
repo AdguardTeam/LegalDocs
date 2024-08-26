@@ -98,7 +98,7 @@ To check for app updates, AdGuard Mail connects to its servers. During this proc
 - **Browser or OS version**
 - **Update channel**
 
-Update checks are performed periodically or when prompted by you. We do not store or reuse this data, but we aggregate it in an anonymous form to count the total number of AdGuard products installed.
+Update checks are performed periodically or at your request. We do not store or reuse this data, but we aggregate it in an anonymous form to count the total number of AdGuard products installed.
 
 ### Sending a message to support
 
