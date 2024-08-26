@@ -18,7 +18,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 [Alias and recipient management](#alias-and-recipient-management)
 
-[Account Information](#account-information)
+[Account information](#account-information)
 
 [Statistics and Blocked Senders](#statistics-and-blocked-senders)
 
