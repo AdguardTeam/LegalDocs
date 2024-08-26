@@ -57,7 +57,7 @@ Storing the content of incoming emails is a fundamental function of the temporar
 
 Meanwhile, the alias service of AdGuard Mail does not store incoming messages and only performs the function of forwarding messages to the target mailboxes specified by you.
 
-### Alias and Recipient Management
+### Alias and recipient management
 
 When managing aliases and recipients, including actions like creating, retrieving, updating, or deleting, the following information is transmitted:
 
