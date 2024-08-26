@@ -83,7 +83,7 @@ This information is crucial for maintaining secure access to your account and ma
 When viewing or managing statistics and blocked senders, the following information is transmitted:
 
 - **Alias IDs**: Identifiers used to retrieve statistics related to specific aliases.
-- **Sender email address**: The email address of the sender that has been blocked.
+- **Sender email address**: The email address of the blocked sender.
 
 This information allows you to monitor activity and manage unwanted communications effectively. The data transmitted is primarily used for user interface purposes and generally does not contain sensitive personal information.
 
