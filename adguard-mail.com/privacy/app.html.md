@@ -115,7 +115,7 @@ This detailed information is used by the support team to better assist with reso
 
 ### Automatic crash reports
 
-The first time the app is launched, you are asked if you want to allow AdGuard to send automatic crash reports. If you agree (and only if you agree), the following information will be sent to our servers if the app crashes:
+The first time the app is launched, you will be asked if you want to allow AdGuard to send automatic crash reports. If you agree (and only if you agree), the following information will be sent to our servers if the app crashes:
 
 - **Device name and model**
 - **OS version and kernel build**
