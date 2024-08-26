@@ -51,7 +51,7 @@ The information transmitted allows us to manage your mailboxes efficiently. Whil
 When interacting with messages within your mailboxes, such as retrieving, updating (marking as read), or deleting messages, the following information is transmitted:
 
 - **Mailbox ID and message ID**: Unique identifiers used to retrieve, update, or delete specific messages.
-- **Message Content**: When requesting an email message, the complete content of the message is transmitted.
+- **Message content**: When requesting an email message, the complete content of the message is transmitted.
 
 Storing the content of incoming emails is a fundamental function of the temporary email service within AdGuard Mail. AdGuard Mail stores all information related to incoming messages, including the sender, subject, full email text, time of receipt, and more. This information is retained until you explicitly delete it or delete the account to which it belongs.
 
