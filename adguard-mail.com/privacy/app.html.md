@@ -117,16 +117,16 @@ This detailed information is used by the support team to better assist with reso
 
 The first time the app is launched, you will be asked if you want to allow AdGuard to send automatic crash reports. If you agree (and only if you agree), the following information will be sent to our servers if the app crashes:
 
+- **App language**
+- **App name, identifier and version**
+- **Build identifier**
+- **Crash information (error message and stack trace)**
 - **Device name and model**
 - **OS version and kernel build**
-- **Unidentifiable Device ID**
-- **Total and free RAM**
 - **Screen orientation**
 - **Screen resolution and density**
-- **App name, identifier and version**
-**Crash information (error message and stack trace)**
-- **App language**
-- **Build identifier**
+- **Total and free RAM**
+- **Unidentifiable Device ID**
 
 **Why we need this information:** To troubleshoot critical issues. It helps us stay informed about new problems that are not reported by users.
 
