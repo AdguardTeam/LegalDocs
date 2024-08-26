@@ -134,7 +134,7 @@ Crash report data is stored only on our servers. We do not use any third-party s
 
 ### Technical and interaction data
 
-The first time the app is launched, you are asked if you want to allow AdGuard Mail to send technical and interaction data. If you agree, the following information is sent:
+The first time the app is launched, you will be asked if you want to allow AdGuard Mail to send technical and interaction data. If you agree, the following information will be sent:
 
 - **App configuration and enabled features**
 - **App language**
