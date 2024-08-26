@@ -140,7 +140,7 @@ The first time the app is launched, you are asked if you want to allow AdGuard M
 - **App language**
 - **Build identifier**
 - **Device information (type, screen size, language, and OS version)**
-- **Names of the screens viewed inside the app**
+- **Names of screens viewed within the app**
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
 
