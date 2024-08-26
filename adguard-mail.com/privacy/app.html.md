@@ -46,7 +46,7 @@ When you manage your mailboxes, including actions such as creating, retrieving, 
 
 The information transmitted allows us to manage your mailboxes efficiently. While Mailbox IDs are used internally, the temporary email address is inherently transient and non-identifiable, reducing privacy risks.
 
-### Message Handling
+### Message handling
 
 When interacting with messages within your mailboxes, such as retrieving, updating (marking as read), or deleting messages, the following information is transmitted:
 
