@@ -171,7 +171,7 @@ This data is used only internally and is not shared with third parties.
 
 This approach ensures that the temporary email service retains emails only as long as they are needed.
 
-## Third-Party Service: Amazon SES
+## Third-party service: Amazon SES
 
 AdGuard Mail utilizes Amazon Simple Email Service (Amazon SES) to forward emails. When emails are forwarded using AdGuard Mail, the content of these emails and associated metadata (such as sender and recipient email addresses) are temporarily stored and processed by Amazon SES to ensure successful delivery.
 
