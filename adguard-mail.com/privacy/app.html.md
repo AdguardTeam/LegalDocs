@@ -42,7 +42,7 @@ When you manage your mailboxes, including actions such as creating, retrieving, 
 
 - **Mailbox ID**: A unique identifier for the mailbox associated with your account that is used to perform the requested action.
 - **Temporary email address**: The temporary email address linked to the mailbox.
-- **Language setting (optional)**: The language used for mailbox creation, which is automatically determined based on the language settings of the AdGuard Mail application. These settings are derived from your operating system or browser language preferences.
+- **Language preference (optional)**: The language used to create the mailbox, which is automatically determined based on the language settings of the AdGuard Mail application. These settings are derived from your operating system or browser language preferences.
 
 The information transmitted allows us to manage your mailboxes efficiently. While Mailbox IDs are used internally, the temporary email address is inherently transient and non-identifiable, reducing privacy risks.
 
