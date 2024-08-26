@@ -155,7 +155,7 @@ This data is used only internally and is not shared with third parties.
 
 ## Server data storage and logging practices
 
-**AdGuard Mail** is composed of two main components: the temporary email service and the alias service. Each component handles data storage and logging differently to ensure user privacy while maintaining essential functionality.
+**AdGuard Mail** consists of two main components: the temporary email service and the alias service. Each component handles data storage and logging differently to ensure user privacy while maintaining essential functionality.
 
 ### Alias service
 
