@@ -63,7 +63,7 @@ When managing aliases and recipients, including actions like creating, retrievin
 
 - **Alias ID**: The unique identifier for the alias.
 - **Recipient ID**: The unique identifier for the recipient.
-- **Email Address**: The email address associated with the recipient or alias.
+- **Email address**: The email address associated with the recipient or alias.
 - **Recipient Name and Description**: Optional fields that may contain user-defined information about the recipient.
 
 Alias and recipient management involves data that directly identifies email addresses and associated users. While email addresses are considered Personally Identifiable Information (PII), they are essential for the functionality of the service.
