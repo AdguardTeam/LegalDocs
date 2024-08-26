@@ -175,6 +175,6 @@ This approach ensures that the temporary email service retains emails only as lo
 
 AdGuard Mail utilizes Amazon Simple Email Service (Amazon SES) to forward emails. When emails are forwarded using AdGuard Mail, the content of these emails and associated metadata (such as sender and recipient email addresses) are temporarily stored and processed by Amazon SES to ensure successful delivery.
 
-Amazon SES may retain certain data, such as logs, for a limited time for operational purposes, including tracking email deliverability and investigating service issues. However, the content of the emails is typically deleted shortly after processing is completed.
+Amazon SES may retain certain data, such as logs, for a limited period of time for operational purposes, including tracking email deliverability and investigating service issues. However, the content of the emails is typically deleted shortly after processing is complete.
 
 Amazon SES is a trusted service provider that complies with strict privacy and security standards. By using AdGuard Mail, you acknowledge and agree that your email data will be handled by Amazon SES in accordance with their privacy practices. For more details, please refer to [Amazon's Privacy Notice](https://aws.amazon.com/privacy/) and [AWS SES Data Handling Policies](https://docs.aws.amazon.com/ses/latest/dg/deleting-personal-data.html).
