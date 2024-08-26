@@ -12,7 +12,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 [User registration and authorization](#user-registration-and-authorization)
 
-[Mailbox Management](#mailbox-management)
+[Mailbox management](#mailbox-management)
 
 [Message Handling](#message-handling)
 
