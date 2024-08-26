@@ -100,7 +100,7 @@ To check for app updates, AdGuard Mail connects to its servers. During this proc
 
 Update checks are performed periodically or when prompted by you. We do not store or reuse this data, but we aggregate it in an anonymous form to count the total number of AdGuard products installed.
 
-### Sending a Message to Support
+### Sending a message to support
 
 You can send messages to support directly from the app. If the *Send app and system info* option is enabled, the following information will be sent along with the message and the email address provided:
 
