@@ -16,7 +16,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 [Message handling](#message-handling)
 
-[Alias and Recipient Management](#alias-and-recipient-management)
+[Alias and recipient management](#alias-and-recipient-management)
 
 [Account Information](#account-information)
 
