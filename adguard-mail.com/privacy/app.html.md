@@ -124,7 +124,7 @@ The first time the app is launched, you will be asked if you want to allow AdGua
 - **Screen orientation**
 - **Screen resolution and density**
 - **App name, identifier and version**
-- **Information related to the crash (error message and stack trace)**
+**Crash information (error message and stack trace)**
 - **App language**
 - **Build identifier**
 
