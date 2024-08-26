@@ -40,7 +40,7 @@ When you register or log in to AdGuard Mail or other AdGuard services, you will 
 
 When you manage your mailboxes, including actions such as creating, retrieving, or deleting a mailbox, the following information may be transmitted to our servers:
 
-- **Mailbox ID**: A unique identifier for the mailbox associated with your account, used to perform the requested action.
+- **Mailbox ID**: A unique identifier for the mailbox associated with your account that is used to perform the requested action.
 - **Temporary email address**: The temporary email address linked to the mailbox.
 - **Language setting (optional)**: The language used for mailbox creation, which is automatically determined based on the language settings of the AdGuard Mail application. These settings are derived from your operating system or browser language preferences.
 
