@@ -36,7 +36,7 @@ Registration and authorization for AdGuard Mail are managed through the web-base
 
 When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguard.com](https://auth.adguard.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
 
-### Mailbox Management
+### Mailbox management
 
 When you manage your mailboxes, including actions such as creating, retrieving, or deleting a mailbox, the following information may be transmitted to our servers:
 
