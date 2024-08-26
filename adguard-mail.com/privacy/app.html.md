@@ -159,7 +159,7 @@ This data is used only internally and is not shared with third parties.
 
 ### Alias service
 
-- **No Logging of Individual Email Forwarding**: The Alias Service does not log or store any records of individual emails being forwarded. This ensures that details of your email activity remain private.
+- **No logging of individual email forwarding**: The alias service does not log or store any records of individual emails being forwarded. This ensures that details of your email activity remain private.
 - **Aggregated Statistics**: The Alias Service only stores aggregated statistics related to the number of emails forwarded through each alias. These statistics do not include any details about the emails themselves, such as content or specific sender/recipient information.
 
 ### Temporary email service
