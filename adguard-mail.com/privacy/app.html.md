@@ -20,7 +20,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 [Account information](#account-information)
 
-[Statistics and Blocked Senders](#statistics-and-blocked-senders)
+[Statistics and blocked senders](#statistics-and-blocked-senders)
 
 [App updates check](#app-updates-check)
 
