@@ -62,7 +62,7 @@ Meanwhile, the alias service of AdGuard Mail does not store incoming messages an
 When managing aliases and recipients, including actions like creating, retrieving, updating, or deleting, the following information is transmitted:
 
 - **Alias ID**: The unique identifier for the alias.
-- **Recipient ID**: The unique identifier for the recipient.
+- **Recipient ID**: The unique identifier of the recipient.
 - **Email address**: The email address associated with the recipient or alias.
 - **Recipient name and description**: Optional fields that may contain user-defined information about the recipient.
 
