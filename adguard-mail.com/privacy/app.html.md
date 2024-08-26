@@ -169,7 +169,7 @@ This data is used only internally and is not shared with third parties.
     - When you delete the temporary mailbox associated with the email.
     - When you manually delete individual emails.
 
-This approach ensures that the Temporary Email Service retains emails only as long as they are needed.
+This approach ensures that the temporary email service retains emails only as long as they are needed.
 
 ## Third-Party Service: Amazon SES
 
