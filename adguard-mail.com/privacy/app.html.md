@@ -126,7 +126,7 @@ The first time the app is launched, you will be asked if you want to allow AdGua
 - **Screen orientation**
 - **Screen resolution and density**
 - **Total and free RAM**
-- **Unidentifiable Device ID**
+- **Unidentifiable device ID**
 
 **Why we need this information:** To troubleshoot critical issues. It helps us stay informed about new problems that are not reported by users.
 
