@@ -129,11 +129,11 @@ You have the right to view reports on the Affiliate Website regarding your commi
 
 (1) Available payout methods
 
-You have the right to receive your earned commission via [PayPal](https://www.paypal.com/) or via the [Solar Staff](https://solarstaff.com/) payment service.
+You have the right to receive your earned commission via the [PayPal](https://www.paypal.com/) payment service or via the [Mellow](https://www.mellow.io/) payment service.
 
 To set the chosen payout method for your Affiliate Account, you will need to provide the email address linked to your account in the third-party payment service to which you want to receive payouts.
 
-If you choose the Solar Staff service, you will also be asked to read and accept an agreement between you and the Solar Staff service and the Solar Staff’s privacy policy. Upon your acceptance of these documents, the Solar Staff service will create your account using the email address you provide. To use Solar Staff as your payment method, you will need to complete your account registration on the Solar Staff website. If you do not agree to the Solar Staff’s agreement and/or privacy policy and do not wish to accept these documents, you must not use the Solar Staff service to get payouts from the balance of your Affiliate Account. Instead, you may choose PayPal as your payout method.
+If you choose the Mellow service, you will also be asked to read and accept an agreement between you and the Mellow service and the Mellow Privacy Policy. Upon your acceptance of these documents, the Mellow service will create your account using the email address you provide. To use Mellow as your payment method, you will need to complete your account registration on the Mellow website. If you do not agree to the Mellow’s agreement and/or privacy policy and do not wish to accept these documents, you must not use the Mellow service to get payouts from the balance of your Affiliate Account. Instead, you may choose PayPal as your payout method.
 
 (2) How AdGuard processes your payouts
 
@@ -326,7 +326,7 @@ To process payments via the payout method you have chosen, AdGuard will share so
 
     (a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with [PayPal (Europe) S.à r.l. et Cie, S.C.A.](https://www.paypal.com/) PayPal Privacy Policy: [https://www.paypal.com/cy/webapps/mpp/ua/privacy-full](https://www.paypal.com/cy/webapps/mpp/ua/privacy-full).
 
-    (b) If you choose Solar Staff as your payout method, AdGuard will share the email address you indicate with [TMS SolarWeb Ltd](https://solarstaff.com/). Solar Staff Privacy Policy: [https://solarstaff.com/documents/privacy-policy](https://solarstaff.com/documents/privacy-policy).
+    (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with [TMS SolarWeb Ltd](https://www.mellow.io/). Mellow Privacy Policy: [https://www.mellow.io/documents/privacy-policy](https://www.mellow.io/documents/privacy-policy).
 
 AdGuard does not request or have access to your accounts in third-party payment services.
 
@@ -378,7 +378,7 @@ AdGuard reserves the right, but not the obligation, to:
 
 By accessing and using the Affiliate Account or the Affiliate Website and by participating in the Affiliate Program, you expressly agree to the following terms:
 
-    (a) YOUR USE OF THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE IS AT YOUR SOLE RISK. THE AFFILIATE ACCOUNT SERVICE AND THE AFFILIATE WEBSITE ARE PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. ADGUARD AND ITS SUPPLIERS AND AFFILIATES DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SERVICES PROVIDED UNDER THESE TERMS, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. ADGUARD DOES NOT WARRANT THAT THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE WILL BE ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES UNDER ARTICLE 2 OR ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS APPLIED IN ANY JURISDICTION, ARE GRANTED TO YOU UNLESS EXPRESSLY GRANTED HEREIN.
+    (a) YOUR USE OF THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE IS AT YOUR SOLE RISK. THE AFFILIATE ACCOUNT SERVICE AND THE AFFILIATE WEBSITE ARE PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. ADGUARD AND ITS SUPPLIERS AND AFFILIATES DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SERVICES PROVIDED UNDER THESE TERMS, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. ADGUARD DOES NOT WARRANT THAT THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE WILL BE ERROR-FREE OR UNINTERRUPTED. NO RIGHTS OR REMEDIES UNDER ARTICLE 2 OR ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS APPLIED IN ANY JURISDICTION, ARE GRANTED TO YOU UNLESS EXPRESSLY GRANTED HEREIN.
 
     (b) IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SERVICES PROVIDED UNDER THESE TERMS, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO SIXTY (60) DAYS FROM THE DATE OF DELIVERY OF SUCH SERVICES.
 
