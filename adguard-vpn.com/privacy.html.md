@@ -56,7 +56,7 @@ For the exact data that the payment provider collects about you, please see the 
 
 ### When you are using our software
 
-**Sign-in / Account registration**. When signing in to connect the installed app to your account or registering a new account, you need to provide your email address and create a password to initially create a VPN connection. We process this essential data to provide you with the AdGuard VPN service.
+**Sign-in/Account registration**. When signing in to connect the installed app to your account or registering a new account, you need to provide your email address and create a password to initially create a VPN connection. We process this essential data to provide you with the AdGuard VPN service.
 Using our software. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
 
 - For AdGuard VPN for Windows: <https://adguard-vpn.com/privacy/windows.html>
@@ -65,16 +65,17 @@ Using our software. When you choose to use our app, you will provide us your dat
 - For AdGuard VPN for iOS: <https://adguard-vpn.com/privacy/ios.html>
 - For AdGuard VPN Browser Extension: <https://adguard-vpn.com/privacy/extension.html>
 
-**Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, in the free version, we collect data on your traffic usage. Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.
+**Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two cases: to prevent service abuse and to know when a user's subscription has expired. We store only the number of bytes used by the account, it is not associated with. Traffic usage data is stored for 90 days. Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.
 
-**Diagnostic / Device information**. However, if you experience problems using our software and you give us your permission, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
+**Diagnostic/Device information**. However, if you experience problems using our software and you give us your permission, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
 ## What legal bases we use to process your Personal Data
 
 We use different legal bases to process Personal Data depending on the type of data, the purposes, and circumstances of processing.
 
 **Consent**. We process your Personal Data if you have provided us with your consent to use your personal data for certain purposes. For example, to send you marketing messages or to help you troubleshoot problems with using our software. You can withdraw your consent any time without affecting your use of our software.
-Performance of a contract. We process your Personal Data when it is necessary to fulfill our contractual obligations to you, including providing the functionality of our software and services or at your request prior to entering into a contract with you.
+
+**Performance of a contract**. We process your Personal Data when it is necessary to fulfill our contractual obligations to you, including providing the functionality of our software and services or at your request prior to entering into a contract with you.
 
 **Legal obligations**. We process your Personal Data where it is necessary for compliance with our legal obligations, such as to exercise or defend our legal rights, or for taxation purposes.
 
