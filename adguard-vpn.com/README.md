@@ -5,14 +5,14 @@
 
 - [policy.html.md] - AdGuard VPN Privacy Policy.
 
-- [ios.html.md] - AdGuard VPN for iOS Privacy Notice.
+- [extension.html.md] - AdGuard VPN Browser Extension Privacy Notice.
 
 - [android.html.md] - AdGuard VPN for Android Privacy Notice.
+
+- [ios.html.md] - AdGuard VPN for iOS Privacy Notice.
 
 - [mac.html.md] - AdGuard VPN for Mac Privacy Notice.
 
 - [windows.html.md] - AdGuard VPN for Windows Privacy Notice.
 
-- [extension.html.md] - AdGuard VPN Browser Extension Privacy Notice.
-
-- [website.html.md] - AdGuard VPN Website & Cookies Privacy Notice.
+All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
