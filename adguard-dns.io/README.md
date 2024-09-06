@@ -5,4 +5,4 @@
 
 - [privacy.html.md] - AdGuard DNS Privacy Policy.
 
-- [website.html.md] - AdGuard DNS Website & Cookies Privacy Notice.
+All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
