@@ -21,6 +21,6 @@
 
 - [android.html.md] - AdGuard for Android Privacy Notice.
 
-- [windows.html.md] - AdGuard for Windows Privacy Noticet.
+- [windows.html.md] - AdGuard for Windows Privacy Notice.
 
 - [extension-eula.html.md] - AdGuard Browser Extension End User License Agreement.
