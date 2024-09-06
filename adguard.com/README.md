@@ -1,7 +1,7 @@
 
 # AdGuard Documents
 
-- [eula.html.md](eula.html.md) - AdGuard End User License Agreement.
+- [eula.html.md](eula.html.md) - AdGuard End-User License Agreement.
 
 - [privacy-policy.html.md](rivacy-policy.html.md) - AdGuard Privacy Policy.
 
@@ -27,4 +27,36 @@
 
 - [windows.html.md](windows.html.md) - AdGuard for Windows Privacy Notice.
 
+## List of documents in the footer
+
+EULA
+EULA of AdGuard Temp Mail
+Privacy policy
+Privacy policy of AdGuard websites
+Terms and conditions
+Terms of sale
+
 All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
+
+For example, this is what it should look like when you open the Privacy policy:
+
+Other documents:
+
+EULA
+EULA of AdGuard Temp Mail
+Privacy policy of AdGuard websites
+Terms and conditions
+Terms of sale
+
+Privacy notices:
+
+- AdGuard Assistant
+- AdGuard Browser Extension
+- AdGuard Content Blocker
+- AdGuard for Android
+- AdGuard for iOS
+- AdGuard for Mac
+- AdGuard for Safari
+- AdGuard for Windows
+- AdGuard Home
+- AdGuard Temp Mail
