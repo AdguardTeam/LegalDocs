@@ -3,7 +3,7 @@
 
 - [eula.html.md](eula.html.md) - AdGuard End-User License Agreement.
 
-- [privacy-policy.html.md](rivacy-policy.html.md) - AdGuard Privacy Policy.
+- [privacy-policy.html.md](privacy-policy.html.md) - AdGuard Privacy Policy.
 
 - [website-privacy.html.md](website-privacy.html.md) - Privacy Policy of AdGuard Websites.
 
@@ -13,28 +13,35 @@
 
 - [browser-assistant.html.md](browser-assistant.html.md) - AdGuard Browser Assistant Privacy Notice.
 
-- [extension.html.md](extension.html.md) - AdGuard Browser Extension Privacy Notice.
+- [extension.html.md](privacy\extension.html.md) - AdGuard Browser Extension Privacy Notice.
 
-- [content-blocker.html.md](content-blocker.html.md) - AdGuard Content Blocker Privacy Notice.
+- [content-blocker.html.md](privacy\content-blocker.html.md) - AdGuard Content Blocker Privacy Notice.
 
-- [android.html.md](android.html.md) - AdGuard for Android Privacy Notice.
+- [android.html.md](privacy\android.html.md) - AdGuard for Android Privacy Notice.
 
-- [ios.html.md](ios.html.md) - AdGuard for iOS Privacy Notice.
+- [ios.html.md](privacy\ios.html.md) - AdGuard for iOS Privacy Notice.
 
-- [mac.html.md](mac.html.md) - AdGuard for Mac Privacy Notice.
+- [mac.html.md](privacy\mac.html.md) - AdGuard for Mac Privacy Notice.
 
-- [safari.html.md](safari.html.md) - AdGuard for Safari Privacy Notice.
+- [safari.html.md](privacy\safari.html.md) - AdGuard for Safari Privacy Notice.
 
-- [windows.html.md](windows.html.md) - AdGuard for Windows Privacy Notice.
+- [windows.html.md](privacy\windows.html.md) - AdGuard for Windows Privacy Notice.
+
+- [home.html.md](privacy\home.html.md) - AdGuard Home Privacy Notice.
 
 ## List of documents in the footer
 
-EULA
-EULA of AdGuard Temp Mail
-Privacy policy
-Privacy policy of AdGuard websites
-Terms and conditions
-Terms of sale
+[EULA](eula.html.md)
+
+[EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
+
+[Privacy policy](privacy-policy.html.md)
+
+[Privacy policy of AdGuard websites](website-privacy.html.md)
+
+[Terms and conditions](terms-and-conditions.html.md)
+
+[Terms of sale](https://adguard.com/en/terms-of-sale.html)
 
 All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
 
@@ -42,21 +49,25 @@ For example, this is what it should look like when you open the Privacy policy:
 
 Other documents:
 
-EULA
-EULA of AdGuard Temp Mail
-Privacy policy of AdGuard websites
-Terms and conditions
-Terms of sale
+[EULA](eula.html.md)
+
+[EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
+
+[Privacy policy of AdGuard websites](website-privacy.html.md)
+
+[Terms and conditions](terms-and-conditions.html.md)
+
+[Terms of sale](https://adguard.com/en/terms-of-sale.html)
 
 Privacy notices:
 
-- AdGuard Assistant
-- AdGuard Browser Extension
-- AdGuard Content Blocker
-- AdGuard for Android
-- AdGuard for iOS
-- AdGuard for Mac
-- AdGuard for Safari
-- AdGuard for Windows
-- AdGuard Home
-- AdGuard Temp Mail
+- [AdGuard Assistant](privacy\browser-assistant.html.md)
+- [AdGuard Browser Extension](privacy\extension.html.md)
+- [AdGuard Content Blocker](privacy\content-blocker.html.md)
+- [AdGuard for Android](privacy\android.html.md)
+- [AdGuard for iOS](privacy\ios.html.md)
+- [AdGuard for Mac](privacy\mac.html.md)
+- [AdGuard for Safari](privacy\safari.html.md)
+- [AdGuard for Windows](privacy\windows.html.md)
+- [AdGuard Home](privacy\home.html.md)
+- [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
