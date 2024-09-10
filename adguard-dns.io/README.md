@@ -13,6 +13,8 @@
 
 [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
 
+[Refund policy](https://adguard.com/en/terms-of-sale.html)
+
 [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
 
 [Terms of sale](https://adguard.com/en/terms-of-sale.html)
@@ -24,6 +26,8 @@ For example, this is what it should look like when you open the Privacy policy:
 [EULA](eula.html.md)
 
 [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
+
+[Refund policy](https://adguard.com/en/terms-of-sale.html)
 
 [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
 
