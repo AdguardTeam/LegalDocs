@@ -57,7 +57,8 @@ For the exact data that the payment provider collects about you, please see the 
 ### When you are using our software
 
 **Sign-in/Account registration**. When signing in to connect the installed app to your account or registering a new account, you need to provide your email address and create a password to initially create a VPN connection. We process this essential data to provide you with the AdGuard VPN service.
-Using our software. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
+
+**Using our software**. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
 
 - For AdGuard VPN for Windows: <https://adguard-vpn.com/privacy/windows.html>
 - For AdGuard VPN for Android: <https://adguard-vpn.com/privacy/android.html>
@@ -71,7 +72,7 @@ We store only the number of bytes used by the account, it is not associated with
 
 Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.
 
-**Diagnostic/Device information**. However, if you experience problems using our software and you give us your permission, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
+**Diagnostic/Device information**. However, if you experience problems using our software and you give us your permission, we can collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. This can only be done if the user has given us permission to collect crash reports. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
 ## What legal bases we use to process your Personal Data
 
@@ -111,6 +112,7 @@ We retain Personal Data for as long as necessary to provide you with our product
 In some countries and regions, you may have certain rights in relation to your Personal Data under applicable data protection laws.
 
 If you wish to exercise your rights with respect to your Personal Data, please contact us at <privacy@adguard-vpn.com>. We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
+
 You are entitled to exercise the following rights in relation to your Personal Data:
 
 **Right of access**: The right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
