@@ -14,4 +14,3 @@ the original version in English language.
 See the README file for each website to see how the links to the legal documents should be listed on these websites.
 All links to legal documents in the footer should be arranged alphabetically.
 The same applies to the list of other documents at the end of each legal document.
-
