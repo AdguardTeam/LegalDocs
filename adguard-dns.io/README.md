@@ -3,13 +3,13 @@
 
 - [eula.html.md](eula.html.md) - AdGuard DNS End-User License Agreement.
 
-- [privacy.html.md](eula.html.md) - AdGuard DNS Privacy Policy.
+- [privacy.html.md](privacy.html.md) - AdGuard DNS Privacy Policy.
 
 ## List of documents in the footer
 
 [EULA](eula.html.md)
 
-[Privacy policy](eula.html.md)
+[Privacy policy](privacy.html.md)
 
 [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
 
