@@ -46,7 +46,7 @@ Data we process includes no more than is crucial to provide full functionality o
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletters via AdGuard Account or by clicking the “Unsubscribe” button or link in the newsletter itself.
 
-**Cookies**. We use our cookies to personalize the content of the Website, such as setting the default language.None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
+**Cookies**. We use our cookies to personalize the content of the Website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
 
 **Buying a license.** If you purchase a license for AdGuard software, we’ll use the email address you provide to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased license.
 
