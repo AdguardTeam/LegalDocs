@@ -38,7 +38,7 @@ When we create an account for the user, the following information is sent to our
 - Email address
 - App identifier
 - OS language
-- Marketing consent flag, showing whether the user consented to receive marketing emails or not
+- Marketing consent flag indicating whether user has consented to receive marketing emails
 
 **Why we need this information:**
 
