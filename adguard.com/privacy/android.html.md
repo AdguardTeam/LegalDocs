@@ -81,7 +81,7 @@ When a user requests the trial period, the following information is sent to our 
 - App identifier
 - User’s email address (the activation instructions and other pre-reading materials will be sent to the email address provided)
 - App language
-- Marketing consent, showing whether the user consented to receive marketing emails or not
+- Marketing consent flag indicating whether user has consented to receive marketing emails
 - Build identifier
 - Webmaster ID
 
