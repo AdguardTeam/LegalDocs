@@ -71,6 +71,19 @@ When you launch AdGuard VPN for iOS for the first time, the following informatio
 - To communicate with you in your language
 - To integrate with Apple Search Ads
 
+### Using the app
+
+AdGuard VPN periodically connects to our server to check the account status. The following information is sent:
+
+- Authorization token
+- App ID
+- App version
+- App language
+- App type
+- OS language
+
+When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.
+
 ### Connecting to the VPN server
 
 When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.

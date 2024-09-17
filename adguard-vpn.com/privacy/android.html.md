@@ -69,6 +69,19 @@ When you launch AdGuard VPN for Android for the first time, the following inform
 - To monitor the number of simultaneous connections
 - To count the number of applications of a certain type and version
 
+### Using the app
+
+AdGuard VPN periodically connects to our server to check the account status. The following information is sent:
+
+- Authorization token
+- App ID
+- App version
+- App language
+- App type
+- OS language
+
+When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.
+
 ### Contacting support
 
 You can send messages to support by tapping *Report a bug* or *Request a feature*.
