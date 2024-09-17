@@ -67,9 +67,7 @@ You can also provide us with your consent to process your email for sending mark
 
 **Cookies.** We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
 
-**Buying a subscription.** If you purchase  a subscription to Private AdGuard DNS, we’ll use the email address you provide  to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
-
-We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
+**Buying a subscription.** If you purchase a subscription to Private AdGuard DNS, we’ll use the email address you provide to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 
 We conduct all transactions via the Paddle payment provider [Paddle.com Market Ltd](https://www.paddle.com/) to enable payments if you purchase a subscription to use our software and services. The data processed depends on the payment provider and may include the following:
 
