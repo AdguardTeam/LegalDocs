@@ -73,7 +73,7 @@ For the exact data that the payment provider collects about you, please see the 
 - For AdGuard Browser Extension: <https://adguard.com/privacy/browser-extension.html>
 - For AdGuard for Safari: <https://adguard.com/privacy/safari.html>
 - For AdGuard Browser Assistant: <https://adguard.com/privacy/assistant.html>
-- For AdGuard Content Blocker:<https://adguard.com/privacy/content-blocker.html>
+- For AdGuard Content Blocker: <https://adguard.com/privacy/content-blocker.html>
 - For AdGuard Home: <https://adguard.com/privacy/home.html>
 
 **Diagnostic / Device information**. By default, we do not collect any information about your device. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard software you are using. Please refer to the respective privacy notices for more information.
