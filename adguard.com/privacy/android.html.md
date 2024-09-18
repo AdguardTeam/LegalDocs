@@ -79,13 +79,17 @@ The license is reset upon user request. When it happens, the app identifier is s
 When a user requests the trial period, the following information is sent to our server for activation:
 
 - App identifier
-- User’s email address (the activation instructions and other pre-reading materials will be sent to the email address provided)
+- User’s email address
 - App language
 - Marketing consent flag indicating whether user has consented to receive marketing emails
 - Build identifier
-- Webmaster ID
+- Webmaster ID (affiliate identifier and affiliate source parameters)
 
-**Why we need this information:** To know which device requests the trial features.
+**Why we need this information:**
+
+- To know which device is requesting the trial features
+- To notify the user of their trial period. Activation instructions and other trial materials will be sent to the email address provided
+- To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
 
 ### App updates check
 
