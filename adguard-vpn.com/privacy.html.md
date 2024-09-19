@@ -66,7 +66,11 @@ For the exact data that the payment provider collects about you, please see the 
 - For AdGuard VPN for iOS: <https://adguard-vpn.com/privacy/ios.html>
 - For AdGuard VPN Browser Extension: <https://adguard-vpn.com/privacy/extension.html>
 
-**Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, in the free version, we collect data on your traffic usage. Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.
+**Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two reasons: to prevent misuse of our service and to know when a user's subscription has expired. When the subscription expires or is canceled, the free limit is reactivated and without knowing your previous data usage we cannot properly enforce the rules that limit using the free version.
+
+We store only the number of bytes used by the account, it is not associated with locations. Traffic usage data is stored for 90 days.
+
+Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.  This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
 
 **Diagnostic / Device information**. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
@@ -108,6 +112,7 @@ We retain Personal Data for as long as necessary to provide you with our product
 In some countries and regions, you may have certain rights in relation to your Personal Data under applicable data protection laws.
 
 If you wish to exercise your rights with respect to your Personal Data, please contact us at <privacy@adguard-vpn.com>. We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
+
 You are entitled to exercise the following rights in relation to your Personal Data:
 
 **Right of access**: The right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
