@@ -1,9 +1,11 @@
 
 # AdGuard VPN for iOS Privacy Notice
 
-*April 10, 2024*
+*August 7, 2024*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. ("we", "us", or "our"), may collect when you use AdGuard VPN for iOS and explains why we do it and how we use this information.
+
+This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <https://adguard-vpn.com/privacy.html>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 > **Keynote**:
 >
@@ -67,6 +69,7 @@ When you launch AdGuard VPN for iOS for the first time, the following informatio
 - To monitor the number of simultaneous connections
 - To count the number of apps of a certain type and version
 - To communicate with you in your language
+- To integrate with Apple Search Ads
 
 ### Using the app
 
@@ -89,7 +92,7 @@ When you click *Connect*, the app will send your authorization token to AdGuard 
 
 You can send messages to support by tapping *Report a bug* or *Request a feature*.
 
-When you submit a report, their email address is sent to our servers. The AdGuard VPN support team may use it for follow-up communication about the issue.
+When you submit a report, your email address is sent to our servers. The AdGuard VPN support team may use it for follow-up communication about the issue.
 
 The following information is also included in the report:
 

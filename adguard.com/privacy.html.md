@@ -1,6 +1,6 @@
 # AdGuard Privacy Policy
 
-*April 10, 2024*
+*August 7, 2024*
 
 ## Summary
 
@@ -27,7 +27,7 @@ If you do not agree with our policies and practices described in this Privacy Po
 
 There are several ways how we may get your Personal Data:
 
-- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected,how it is collected, and how you can manage it, please see the Privacy Policy for AdGuard Websites at <adguard.com/website-privacy.html>.
+- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected, how it is collected, and how you can manage it, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
 - When you use our products. You can find the full list of Personal Data collected on a privacy notice page dedicated to the product you use.
 
 ## What data we process
@@ -46,9 +46,9 @@ Data we process includes no more than is crucial to provide full functionality o
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletters via AdGuard Account or by clicking the “Unsubscribe” button or link in the newsletter itself.
 
-**Cookies**. We use our cookies to personalize the content of the Website, such as setting the default language.None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
+**Cookies**. We use our cookies to personalize the content of the Website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable cookies in your web browsing software or clear existing cookies, but please note that some of our services may not function properly without the use of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
 
-**Buying a license.** If you purchase a license for AdGuard software, we’ll use the email address you provide  to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased license.
+**Buying a license.** If you purchase a license for AdGuard software, we’ll use the email address you provide to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased license.
 
 We conduct all transactions via [Paddle.com Market Ltd](https://www.paddle.com/) and [PayPro Global, Inc.](https://payproglobal.com/) to enable payments if you purchase a subscription to use our software and services.
 The data processed depends on the payment provider and may include the following:
@@ -73,10 +73,10 @@ For the exact data that the payment provider collects about you, please see the 
 - For AdGuard Browser Extension: <https://adguard.com/privacy/browser-extension.html>
 - For AdGuard for Safari: <https://adguard.com/privacy/safari.html>
 - For AdGuard Browser Assistant: <https://adguard.com/privacy/assistant.html>
-- For AdGuard Content Blocker:<https://adguard.com/privacy/content-blocker.html>
+- For AdGuard Content Blocker: <https://adguard.com/privacy/content-blocker.html>
 - For AdGuard Home: <https://adguard.com/privacy/home.html>
 
-**Diagnostic / Device information**. By default, we do not collect any information about your device. However, if you experience problems using our software and you give us your permission, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard software you are using. Please refer to the respective privacy notices for more information.
+**Diagnostic / Device information**. By default, we do not collect any information about your device. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard software you are using. Please refer to the respective privacy notices for more information.
 
 Some files, such as trace logs and dump files, can only be created by you: please follow instructions on the Website or from our support team, and send the generated files to us by email. By sending us the files, you provide us with your consent to process the files and data for the purpose of providing technical support.
 
@@ -99,7 +99,7 @@ We store your Personal Data in our own data center located in Frankfurt, Germany
 For data transfers to other countries, we always implement appropriate safeguards to ensure that your Personal Data always remains safe and that your rights are respected:
 
 - The country or the third party is recognized as providing adequate protection.
-- A valid transfer mechanism is used, such as the Standard Contractual Clauses, and additional measures are implemented where necessary.
+- A valid transfer mechanism is used, such as the Standard Contractual Clauses, and supplementary measures are implemented where necessary.
 - The transfer has your explicit consent.
 - The transfer is necessary for the performance of a contract with you or to take steps requested by you prior to entering into that contract.
 
@@ -108,7 +108,7 @@ To determine if a non-EU country has an adequate level of data protection, pleas
 
 ## How we use your Personal Data
 
-Your privacy is our highest priority. We take it very seriously and will never disclose, share, or sell your data unless we have your permission or are required to do so by law. The only purpose of collecting and storing your Personal Data is to provide you with our products and services at their full potential.
+Your privacy is our highest priority. We take it very seriously and will never disclose, share, or sell your data unless we have your consent or are required to do so by law. The only purpose of collecting and storing your Personal Data is to provide you with our products and services at their full potential.
 
 ### Retaining your data
 
@@ -132,7 +132,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object**: The right to object to processing of your Personal Data.
 
-**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used, and machine-readable format and to transfer that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard account at <my.adguard.com>.
+**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used, and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard account at <my.adguard.com>.
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 
@@ -170,7 +170,7 @@ To the extent not prohibited by applicable law, we do not allow the use of our s
 
 ## How we use cookies
 
-The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the Privacy Policy of AdGuard Websites: <adguard.com/website-privacy.html>.
+The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
 
 ## Changes to this Privacy Policy
 
