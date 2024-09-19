@@ -1,8 +1,10 @@
 # AdGuard for Android Privacy Notice
 
-*April 10, 2024*
+*August 7, 2024*
 
 > **Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+
+This Privacy Notice supplements the AdGuard Privacy Policy available at <https://adguard.com/privacy.html>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 ## What data AdGuard for Android can collect and when
 
@@ -77,13 +79,17 @@ The license is reset upon user request. When it happens, the app identifier is s
 When a user requests the trial period, the following information is sent to our server for activation:
 
 - App identifier
-- User’s email address (the activation instructions and other pre-reading materials will be sent to the email address provided)
+- User’s email address
 - App language
-- Marketing consent
+- Marketing consent flag indicating whether user has consented to receive marketing emails
 - Build identifier
-- Webmaster ID
+- Webmaster ID (affiliate identifier and affiliate source parameters)
 
-**Why we need this information:** To know which device to disable the trial features for.
+**Why we need this information:**
+
+- To know which device is requesting the trial features
+- To notify the user of their trial period. Activation instructions and other trial materials will be sent to the email address provided
+- To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
 
 ### App updates check
 

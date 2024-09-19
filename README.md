@@ -10,3 +10,7 @@ to `https://adguard.com/eula.html`.
 Translations need to be done internally and are not stored in this repo.
 On the website we must indicate that the document was translated and point to
 the original version in English language.
+
+See the README file for each website to see how the links to the legal documents should be listed on these websites.
+All links to legal documents in the footer should be arranged alphabetically.
+The same applies to the list of other documents at the end of each legal document.
