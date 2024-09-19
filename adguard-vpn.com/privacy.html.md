@@ -70,7 +70,7 @@ For the exact data that the payment provider collects about you, please see the 
 
 We store only the number of bytes used by the account, it is not associated with locations. Traffic usage data is stored for 90 days.
 
-Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.
+Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.  This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
 
 **Diagnostic/Device information**. However, if you experience problems using our software and you give us your permission, we can collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. This can only be done if the user has given us permission to collect crash reports. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
