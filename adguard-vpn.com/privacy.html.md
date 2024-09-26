@@ -66,7 +66,7 @@ For the exact data that the payment provider collects about you, please see the 
 - For AdGuard VPN for iOS: <https://adguard-vpn.com/privacy/ios.html>
 - For AdGuard VPN Browser Extension: <https://adguard-vpn.com/privacy/extension.html>
 
-**Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two reasons: to prevent misuse of our service and to know when a user's subscription has expired. When the subscription expires or is canceled, the free limit is reactivated and without knowing your previous data usage we cannot properly enforce the rules that limit using the free version.
+**Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two reasons: to prevent misuse of our service and to know when a user’s subscription has expired. When the subscription expires or is canceled, the free limit is reactivated and without knowing your previous data usage we cannot properly enforce the rules that limit using the free version.
 
 We store only the number of bytes used by the account, it is not associated with locations. Traffic usage data is stored for 90 days.
 

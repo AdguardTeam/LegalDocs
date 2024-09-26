@@ -77,7 +77,7 @@ AdGuard for iOS users can use this option to activate features of the full versi
 
 - Device type (iPhone X, iPad Pro, etc.)
 
-**Why we need this information:** To confirm the fact of the user's login and to verify the user’s license. The login and app activation details are also displayed in the AdGuard account.
+**Why we need this information:** To confirm the fact of the user’s login and to verify the user’s license. The login and app activation details are also displayed in the AdGuard account.
 
 ### Logging out of AdGuard account (only AdGuard for iOS)
 

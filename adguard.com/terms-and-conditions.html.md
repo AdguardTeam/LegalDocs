@@ -1,6 +1,6 @@
 # Terms and Conditions of AdGuard Account and AdGuard Websites
 
-*August 6, 2024*
+*September 26, 2024*
 
 ## 1. General
 
@@ -83,7 +83,7 @@ By registering your Account and by using the Websites, you represent and warrant
 (j) You will not hide, conceal, or obscure any part of the Account or the Websites via HTML/CSS, scripting, or any other means.
 (k) You will not use the Account or the Websites for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used.
 (l) Your use of the Account or the Websites will not violate any applicable law or regulation, including applicable local, national, state, federal and industry-specific laws or regulations that restrict or prohibit, in whole or in part, the use of the Account or the Websites.
-(m) You will not use the Account or the Websites in any attempt to compete with AdGuard or otherwise utilize the Account or the Websites for any revenue-generating or commercial venture.
+(m) You will not use the Account or the Websites in any attempt to compete with AdGuard or otherwise utilize the Account or the Websites for any revenue-generating or commercial venture, unless you have a paid subscription to AdGuard products that allows such use, provided it is within the scope of the product’s intended purpose.
 (n) You will not use another person’s email address or impersonate another person or a representative of another company when registering your Account.
 (o) You will not create user Accounts by automated means or under false pretenses.
 (p) You are not domiciled or reside in a country that belongs to E.U. or U.S. embargoed countries.
