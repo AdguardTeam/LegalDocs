@@ -1,6 +1,6 @@
 # Terms and Conditions of AdGuard Account and AdGuard Websites
 
-*August 6, 2024*
+*September 26, 2024*
 
 ## 1. General
 
