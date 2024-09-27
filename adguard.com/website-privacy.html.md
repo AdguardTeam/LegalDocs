@@ -1,7 +1,7 @@
 
 # Privacy Policy of AdGuard Websites
 
-*August 1, 2024*
+*September 27, 2024*
 
 **Keynote:** We are proud to say that we fight for users’ privacy, and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -16,6 +16,7 @@ ADGUARD SOFTWARE LIMITED (“We”, “Us”, “Our”) processes your data in 
     - AdGuard Ad Blocker website at <https://adguard.com/>,
     - AdGuard VPN website at <https://adguard-vpn.com/>,
     - AdGuard DNS website at <https://adguard-dns.io/>.
+    - AdGuard Mail website at <https://adguard-mail.com/>.
 - Use AdGuard Account services at <https://my.adguard.com/> (hereafter, the “AdGuard Account”).
 
 - Use AdGuard Affiliate Account services at <https://aff.adguard.com/> (hereafter, the “Affiliate Account”).
