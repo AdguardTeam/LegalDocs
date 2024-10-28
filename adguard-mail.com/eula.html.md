@@ -1,7 +1,7 @@
 
 # AdGuard Mail End-User License Agreement
 
-*August 12, 2024*
+*September 27, 2024*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS OR USING THE SOFTWARE, WHETHER ACCESSED VIA THE WEB OR AS AN INSTALLED APPLICATION.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -69,7 +69,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 3. Personal data and Privacy Policy
 
-3.1. AdGuard Mail collects and processes limited user data and has a strong Privacy Policy available at <https://adguard-mail.com/en/privacy.html> that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard Mail and your browsing of the Website.
+3.1. AdGuard Mail has a strong [Privacy Policy](https://adguard-mail.com/privacy.html) that describes what data AdGuard Mail apps can collect and when. Another document — [Website & Cookies Privacy notice](https://adguard-mail.com/privacy/website.html) — explains in detail how AdGuard Software Limited handles your personal data in relation to your browsing of the Website.
 
 3.2. Before using AdGuard Mail, you acknowledge that you have read and understood our Privacy Policy, which explains the types of information we collect and process, and what may happen to that information, including, without limitation, how such information is shared and used.
 

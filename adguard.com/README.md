@@ -19,7 +19,7 @@
 ## List of documents in the footer
 
 - [EULA](eula.html.md)
-- [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
+- [EULA of AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/eula.html)
 - [Privacy policy](privacy-policy.html.md)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions of AdGuard Websites](terms-and-conditions.html.md)
@@ -33,7 +33,7 @@ For example, this is what it should look like when you open the Privacy policy:
 Other documents:
 
 - [EULA](eula.html.md)
-- [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
+- [EULA of AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/eula.html)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions of AdGuard Websites](terms-and-conditions.html.md)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
@@ -49,4 +49,4 @@ Other documents:
     - [AdGuard for Safari](privacy\safari.html.md)
     - [AdGuard for Windows](privacy\windows.html.md)
     - [AdGuard Home](privacy\home.html.md)
-    - [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
+    - [AdGuard Temp Mail](https://adguard.com/privacy/temp-mail.html)

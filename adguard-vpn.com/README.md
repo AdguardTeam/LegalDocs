@@ -26,6 +26,7 @@ Other documents:
 
 - [EULA](eula.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
+
 - [Terms and conditions of AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
 - [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
