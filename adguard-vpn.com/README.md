@@ -14,10 +14,11 @@
 - [EULA](eula.html.md)
 - [Privacy policy](policy.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
-- [Terms and conditions](https://adguard.com/terms-and-conditions.html)
-- [Terms of sale](https://adguard.com/terms-of-sale.html)
+- [Terms and conditions of AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
+- [Terms of sale](https://adguard.com/en/terms-of-sale.html)
+- [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
 
-All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
+Links to legal documents in the footer are arranged in order of importance. The same applies to the list of other documents at the end of each legal document.
 
 For example, this is what it should look like when you open the Privacy policy:
 
@@ -25,8 +26,11 @@ Other documents:
 
 - [EULA](eula.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
-- [Terms and conditions](https://adguard.com/terms-and-conditions.html)
-- [Terms of sale](https://adguard.com/terms-of-sale.html)
+
+- [Terms and conditions of AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
+- [Terms of sale](https://adguard.com/en/terms-of-sale.html)
+- [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
+
 - Privacy notices:
     - [AdGuard VPN Browser Extension](privacy\extension.html.md)
     - [AdGuard VPN for Android](privacy\android.html.md)

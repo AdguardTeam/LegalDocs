@@ -8,7 +8,7 @@
 - [EULA](eula.html.md)
 - [Privacy notice](privacy/app.html.md)
 
-All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
+Links to legal documents in the footer are arranged in order of importance. The same applies to the list of other documents at the end of each legal document.
 
 For example, this is what it should look like when you open the Privacy policy:
 
