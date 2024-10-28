@@ -22,7 +22,7 @@
 - [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
 - [Privacy policy](privacy-policy.html.md)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
-- [Terms and conditions](terms-and-conditions.html.md)
+- [Terms and conditions of AdGuard Websites](terms-and-conditions.html.md)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
 - [Data processing agreement](data-processing-agreement.md)
 
@@ -35,7 +35,7 @@ Other documents:
 - [EULA](eula.html.md)
 - [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
-- [Terms and conditions](terms-and-conditions.html.md)
+- [Terms and conditions of AdGuard Websites](terms-and-conditions.html.md)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
 - [Data processing agreement](data-processing-agreement.md)
 

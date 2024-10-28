@@ -9,7 +9,7 @@
 - [EULA](eula.html.md)
 - [Privacy policy](privacy.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
-- [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
+- [Terms and conditions of AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
 - [Refund policy](https://adguard.com/en/terms-of-sale.html)
 - [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
@@ -20,7 +20,7 @@ For example, this is what it should look like when you open the Privacy policy:
 
 - [EULA](eula.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
-- [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
+- [Terms and conditions of AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
 - [Refund policy](https://adguard.com/en/terms-of-sale.html)
 - [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
