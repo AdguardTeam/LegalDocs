@@ -19,11 +19,11 @@
 ## List of documents in the footer
 
 - [EULA](eula.html.md)
-- [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
+- [EULA of AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/eula.html)
 - [Privacy policy](privacy-policy.html.md)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions](terms-and-conditions.html.md)
-- [Terms of sale](https://adguard.com/en/terms-of-sale.html)
+- [Terms of sale](https://adguard.com/terms-of-sale.html)
 
 All links to legal documents in the footer should be arranged alphabetically. The same applies to the list of other documents at the end of each legal document.
 
@@ -32,10 +32,10 @@ For example, this is what it should look like when you open the Privacy policy:
 Other documents:
 
 - [EULA](eula.html.md)
-- [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
+- [EULA of AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/eula.html)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions](terms-and-conditions.html.md)
-- [Terms of sale](https://adguard.com/en/terms-of-sale.html)
+- [Terms of sale](https://adguard.com/terms-of-sale.html)
 
 - Privacy notices:
     - [AdGuard Assistant](privacy\browser-assistant.html.md)
@@ -47,4 +47,4 @@ Other documents:
     - [AdGuard for Safari](privacy\safari.html.md)
     - [AdGuard for Windows](privacy\windows.html.md)
     - [AdGuard Home](privacy\home.html.md)
-    - [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
+    - [AdGuard Temp Mail](https://adguard.com/privacy/temp-mail.html)
