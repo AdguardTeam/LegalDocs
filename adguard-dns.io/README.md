@@ -6,6 +6,7 @@
 
 ## List of documents in the footer
 
+- [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
 - [EULA](eula.html.md)
 - [Privacy policy](privacy.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
@@ -17,6 +18,7 @@ All links to legal documents in the footer should be arranged alphabetically. Th
 
 For example, this is what it should look like when you open the Privacy policy:
 
+- [Data processing agreement](https://adguard.com/en/data-processing-agreement.html)
 - [EULA](eula.html.md)
 - [Privacy policy of AdGuard websites](adguard.com/website-privacy.html.md)
 - [Refund policy](https://adguard.com/en/terms-of-sale.html)

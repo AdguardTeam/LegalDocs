@@ -18,6 +18,7 @@
 
 ## List of documents in the footer
 
+- [Data processing agreement](data-processing-agreement.md)
 - [EULA](eula.html.md)
 - [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
 - [Privacy policy](privacy-policy.html.md)
@@ -31,6 +32,7 @@ For example, this is what it should look like when you open the Privacy policy:
 
 Other documents:
 
+- [Data processing agreement](data-processing-agreement.md)
 - [EULA](eula.html.md)
 - [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
