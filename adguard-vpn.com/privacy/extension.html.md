@@ -19,18 +19,6 @@ This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <htt
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the extension to work properly.
 
-[Signing up](#signing-up)
-
-[Logging in](#logging-in)
-
-[First launch of the extension](#first-launch-of-the-extension)
-
-[User authorization](#user-authorization)
-
-[Using the extension](#using-the-extension)
-
-[Sending a message to support](#sending-a-message-to-support)
-
 ### Signing up
 
 When we create an account for the user, the following information is sent to our servers:

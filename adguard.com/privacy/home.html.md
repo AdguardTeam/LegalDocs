@@ -9,16 +9,6 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at <https:/
 
 ## What data AdGuard Home can collect and when
 
-[Processing DNS queries](#processing-dns-queries)
-
-[Checking for updates](#checking-for-updates)
-
-[Checking for filter updates](#checking-for-filter-updates)
-
-[Browsing Security domain check](#browsing-security-domain-check-disabled-by-default)
-
-[Parental Control domain check](#parental-control-domain-check-disabled-by-default)
-
 ### Processing DNS queries
 
 AdGuard Home connects to the DNS servers configured as “Upstreams” and sends DNS queries to them.

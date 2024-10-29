@@ -10,30 +10,6 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at <https:/
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-[Registration of a new user](#registration-of-a-new-user)
-
-[User authorization](#user-authorization)
-
-[License status check](#license-status-check)
-
-[License reset](#license-reset)
-
-[Trial period request](#trial-period-request)
-
-[App updates check](#app-updates-check)
-
-[Checking for filter updates](#checking-for-filter-updates)
-
-[Sending a web page complaint](#sending-a-web-page-complaint)
-
-[Sending a message to support](#sending-a-message-to-support)
-
-[Automatic crash reports](#automatic-crash-reports)
-
-[Technical and interaction data](#technical-and-interaction-data)
-
-[Browsing Security website check](#browsing-security-website-check)
-
 ### Registration of a new user
 
 When we create an AdGuard account for the user, the following information is sent to our servers:

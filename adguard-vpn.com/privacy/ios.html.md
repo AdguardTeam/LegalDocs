@@ -18,20 +18,6 @@ This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <htt
 
 Here we describe when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the app to work properly. The information we collect about you depends on how you interact with our app.
 
-[Signing up](#signing-up)
-
-[Logging in](#logging-in)
-
-[Subscribing to the AdGuard VPN newsletter](#subscribing-to-the-adguard-vpn-newsletter)
-
-[The first launch of the app](#the-first-launch-of-the-app)
-
-[Connecting to the VPN server](#connecting-to-the-vpn-server)
-
-[Contacting support](#contacting-support)
-
-[Automatic crash reports](#automatic-crash-reports)
-
 ### Signing up
 
 When we create an AdGuard account for you, the following information is sent to our servers:
