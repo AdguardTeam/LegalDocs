@@ -11,30 +11,6 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at <https:/
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-[User authorization](#user-authorization)
-
-[License status check](#license-status-check)
-
-[License reset](#license-reset)
-
-[Checking for program updates](#checking-for-program-updates)
-
-[Checking for filter updates](#checking-for-filter-updates)
-
-[Trial period activation](#trial-period-activation)
-
-[Sending a web page complaint](#sending-a-web-page-complaint)
-
-[Sending a message to support](#sending-a-message-to-support)
-
-[App crash report](#app-crash-report)
-
-[App uninstall](#app-uninstall)
-
-[Browsing security website check](#browsing-security-website-check)
-
-[Help us with Browsing security filters development](#help-us-with-browsing-security-filters-development)
-
 ### User authorization
 
 Users have the option to activate the license by logging into their personal account in the app. The following information is sent to our servers:
