@@ -1,6 +1,6 @@
 # AdGuard Data Processing Agreement
 
-*October 30, 2024*
+*October 31, 2024*
 
 This Data Processing Agreement ("Agreement") governs the specific requirements of Data Protection Laws to the extent that Company’s use of AdGuard Services implies the processing of Personal Data subject to Data Protection Laws.
 
