@@ -16,18 +16,19 @@ Unless otherwise defined herein, capitalized terms and expressions used in this 
 
 Term and definitions
 
-- **"AdGuard"**: AdGuard Software Limited, a corporation duly incorporated under the laws of Cyprus, with a registration number 332952.
-- **"AdGuard Services" or "Services"**: The services are provided by AdGuard and specified on the website.
+- **"AdGuard"**: AdGuard Software Limited, a company duly incorporated under the laws of Cyprus, with a registration number 332952.
+- **"AdGuard Services" or "Services"**: The Services are provided by AdGuard and specified on the Website.
 - **"Agreement"**: Means this Data Processing Agreement and all Schedules.
 - **"Company"**: A customer of the AdGuard Services under the Service Agreement.
-- **"Company Personal Data"**: Means any Personal Data related to the Company or Company’s customers or employees Processed in connection with the Service Agreement.
+- **"Company Personal Data"**: Means any Personal Data related to the Company or the Company’s customers or employees processed in connection with the Service Agreement.
 - **"Contracted Processor"**: Means a Subprocessor.
 - **"Data Protection Laws"**: Means EU Data Protection Laws and, to the extent applicable, the data protection or privacy laws of any other country.
 - **"EEA"**: Means the European Economic Area.
 - **"EU Data Protection Laws"**: Means EU Directive 95/46/EC, as transposed into domestic legislation of each Member State and as amended, replaced, or superseded from time to time, including by the GDPR and laws implementing or supplementing the GDPR.
-- **"GDPR"**: Means EU General Data Protection Regulation 2016/679.
-- **"Data Transfer"**: Means a transfer of Company Personal Data from Controller to the Processor or a Contracted Processor, or an onward transfer of Company Personal Data from the Processor to a Subprocessor, or between two establishments of a Subprocessor.
-- **"Subprocessor"**: Means any person appointed by or on behalf of Processor to process Personal Data on behalf of Controller in connection with the Agreement.
+- **"GDPR"**: Means the EU General Data Protection Regulation 2016/679.
+- **"Data Transfer"**: Means a transfer of a Company's Personal Data from a Controller to a Processor or a Contracted Processor, or an onward transfer of Company Personal Data from a Processor to a Subprocessor, or between two establishments of a Subprocessor.
+- **"Service Agreement"**: Means an agreement between AdGuard and Customer which is regulated by separate written document under which AdGuard may grant to Company a non-exclusive, non-transferable right to access and use the AdGuard Services, in accordance with the terms and limitations set forth in that Service Agreement and the applicable Subscription Plan. Under that Service Agreement, the Company may have the right to distribute the AdGuard Services to the End Users. Therefore, in order to secure the personal data of End Users to whom the AdGuard Services may be distributed under the Service Agreement, the Company undertakes to follow the rules specified in the present Agreement (Data Processing Agreement).
+- **"Subprocessor"**: Means any person appointed by or on behalf of a Processor to process Personal Data on behalf of a Controller in connection with the Agreement.
 - **"Website"**: "https://adguard-dns.io/, https://adguard.com, https://adguard-vpn.com, or any other website related to the provision of AdGuard Services on behalf of AdGuard."
 
 The terms, "Commission", "Controller", "Data Subject", "Member State", "Personal Data", "Personal Data Breach", "Processing" and "Supervisory Authority" shall have the same meaning as in the GDPR or other applicable Data Protection Law, and their cognate terms shall be construed accordingly.
@@ -36,7 +37,7 @@ The following terminology applies to these Agreement: “Company”, "You" and "
 
 ### 1. GENERAL PROVISIONS
 
-In order to protect and secure personal data of End users of the Services the Parties hereby agree about the following:
+In order to protect and secure personal data of End Users of the Services the Parties hereby agree about the following:
 
 - The Company act as a Data Controller (the "Controller").
 
@@ -123,8 +124,8 @@ To the extent possible, the Processor shall only transfer or authorize the trans
 
 Through engagement, payment for services, transmission of any documents, data, or information, receipt of services, and/or any other form of interaction with the AdGuard, the Company represents and warrants that:
 
-- the Company accept the Privacy Policy concerning the processing and safeguarding of personal data, as outlined and made available on the official website of the AdGuard, encompassing, but not limited to, granting consent for the processing of their own personal data and/or his employee, and/or representors, and/or end users, etc.;
-- he has obtained all requisite consents and approvals in advance from the individuals and End users whose personal data will be transferred to the AdGuard in the course of executing Service agreement and hereof. Notwithstanding of any other provisions of the Agreement, the Company shall be liable to the AdGuard and compensate for all losses associated with improper and/or careless fulfillment of obligations under the Agreement, which entail:
+- the Company accept the Privacy Policy concerning the processing and safeguarding of personal data, as outlined and made available on the official website of the AdGuard, encompassing, but not limited to, granting consent for the processing of their own personal data and/or his employee, and/or representors, and/or End Users, etc.;
+- he has obtained all requisite consents and approvals in advance from the individuals and End Users whose personal data will be transferred to the AdGuard in the course of executing Service agreement and hereof. Notwithstanding of any other provisions of the Agreement, the Company shall be liable to the AdGuard and compensate for all losses associated with improper and/or careless fulfillment of obligations under the Agreement, which entail:
     - harm to life and/or health and/or reputation of the Company and/or third parties;
     - the obligation to pay penalties related to bringing the AdGuard to administrative and/or other public responsibility;
     - the obligation to compensate to third parties the losses and/or damages of illegal personal data processing, data breach and/or improper data processing.
