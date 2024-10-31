@@ -1,6 +1,6 @@
 # AdGuard Data Processing Agreement
 
-*October 28, 2024*
+*October 30, 2024*
 
 This Data Processing Agreement ("Agreement") governs the specific requirements of Data Protection Laws to the extent that Company’s use of AdGuard Services implies the processing of Personal Data subject to Data Protection Laws.
 
@@ -14,7 +14,7 @@ The term of this Agreement shall follow the term of the Service Agreement. Terms
 
 Unless otherwise defined herein, capitalized terms and expressions used in this DPA shall have the following meaning:
 
-Term and definitions
+Terms and definitions
 
 - **"AdGuard"**: AdGuard Software Limited, a company duly incorporated under the laws of Cyprus, with a registration number 332952.
 - **"AdGuard Services" or "Services"**: The Services are provided by AdGuard and specified on the Website.
@@ -29,7 +29,7 @@ Term and definitions
 - **"Data Transfer"**: Means a transfer of a Company's Personal Data from a Controller to a Processor or a Contracted Processor, or an onward transfer of Company Personal Data from a Processor to a Subprocessor, or between two establishments of a Subprocessor.
 - **"Service Agreement"**: Means an agreement between AdGuard and Customer which is regulated by separate written document under which AdGuard may grant to Company a non-exclusive, non-transferable right to access and use the AdGuard Services, in accordance with the terms and limitations set forth in that Service Agreement and the applicable Subscription Plan. Under that Service Agreement, the Company may have the right to distribute the AdGuard Services to the End Users. Therefore, in order to secure the personal data of End Users to whom the AdGuard Services may be distributed under the Service Agreement, the Company undertakes to follow the rules specified in the present Agreement (Data Processing Agreement).
 - **"Subprocessor"**: Means any person appointed by or on behalf of a Processor to process Personal Data on behalf of a Controller in connection with the Agreement.
-- **"Website"**: "https://adguard-dns.io/, https://adguard.com, https://adguard-vpn.com, or any other website related to the provision of AdGuard Services on behalf of AdGuard."
+- **"Website"**: https://adguard.com, https://adguard-vpn.com, https://adguard-dns.io/, or any other website related to the provision of AdGuard Services on behalf of AdGuard.
 
 The terms, "Commission", "Controller", "Data Subject", "Member State", "Personal Data", "Personal Data Breach", "Processing" and "Supervisory Authority" shall have the same meaning as in the GDPR or other applicable Data Protection Law, and their cognate terms shall be construed accordingly.
 
@@ -140,8 +140,8 @@ Through engagement, payment for services, transmission of any documents, data, o
 
 - the relevant information is already in the public domain through no fault of the Parties.
 
-**Notices.** All notices and communications given under this Agreement must be in writing and will be sent by email. Controller shall be notified by email sent to the address related to its use of the Services under the Service Agreement. Processor shall be notified by email sent to the address: privacy@adguard.com
+**Notices.** All notices and communications given under this Agreement must be in writing and will be sent by email. Controller shall be notified by email sent to the address related to its use of the Services under the Service Agreement. Processor shall be notified by email sent to the address: [privacy@adguard.com](mailto:privacy@adguard.com).
 
 **Governing Law and Jurisdiction.** This Agreement shall be governed by Cyprus law, without regard to the choice or conflicts of law provisions of any jurisdiction to the contrary, and disputed, actions, claims or causes of action arising out of or in connection with this Agreement, an order form, any document incorporated by reference, AdGuard technology, or the Services shall be subject to the exclusive jurisdiction of Republic of Cyprus.
 
-**Changes.** We may change this Data Processing Agreement from time to time. Laws, regulations, and industry standards evolve, which may require these changes, or we may make changes to our business. We will post the changes on this page and encourage you to review our Data Processing Agreement to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Data Processing Agreement, please contact us at privacy@adguard.com.
+**Changes.** We may change this Data Processing Agreement from time to time. Laws, regulations, and industry standards evolve, which may require these changes, or we may make changes to our business. We will post the changes on this page and encourage you to review our Data Processing Agreement to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Data Processing Agreement, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
