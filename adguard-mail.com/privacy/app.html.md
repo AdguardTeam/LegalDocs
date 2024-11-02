@@ -10,26 +10,6 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 > AdGuard Mail applications are available on multiple platforms: iOS, Android, macOS, Windows, and Web. They share identical functionality and a common code base. The following information represents the full range of data that may be collected, although the specific details gathered can vary depending on the platform, with some platforms collecting less.
 
-[User registration and authorization](#user-registration-and-authorization)
-
-[Mailbox management](#mailbox-management)
-
-[Message handling](#message-handling)
-
-[Alias and recipient management](#alias-and-recipient-management)
-
-[Account information](#account-information)
-
-[Statistics and blocked senders](#statistics-and-blocked-senders)
-
-[App updates check](#app-updates-check)
-
-[Sending a message to support](#sending-a-message-to-support)
-
-[Automatic crash reports](#automatic-crash-reports)
-
-[Technical and interaction data](#technical-and-interaction-data)
-
 ### User registration and authorization
 
 Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com/). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [https://adguard.com/privacy/website.html](https://adguard.com/privacy/website.html).

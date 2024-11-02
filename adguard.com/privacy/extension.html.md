@@ -13,14 +13,6 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at <https:/
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-[Checking for filter updates](#checking-for-filter-updates)
-
-[Help with the development of AdGuard filters](#​​help-with-the-development-of-adguard-filters)
-
-[Sending a web page complaint](#sending-a-web-page-complaint)
-
-[Browsing Security website check](#browsing-security-website-check)
-
 ### Checking for filter updates
 
 To check for filter updates, AdGuard connects to its servers. When it happens, the following information is sent:

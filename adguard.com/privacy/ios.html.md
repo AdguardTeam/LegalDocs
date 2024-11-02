@@ -14,18 +14,6 @@ If you are wondering why we have two almost identical apps, [check out this arti
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-[Local VPN filtering](#local-vpn-filtering)
-
-[Checking for filter updates](#checking-for-filter-updates)
-
-[Leave feedback](#leave-feedback)
-
-[Sending a web page complaint](#sending-a-web-page-complaint)
-
-[Logging in to AdGuard account (only AdGuard for iOS)](#logging-in-to-adguard-account-only-adguard-for-ios)
-
-[Logging out of AdGuard account (only AdGuard for iOS)](#logging-out-of-adguard-account-only-adguard-for-ios)
-
 ### Local VPN filtering
 
 To implement DNS filtering, AdGuard creates a local VPN connection. This means that there is no remote connection to any server and this is only a technical means of filtering DNS traffic. When creating a local VPN connection, no personal and identifying information is collected or sent to our servers.
