@@ -9,7 +9,7 @@ We do not share or sell your personal information. We are strongly committed to 
 1. We collect only the information necessary for our products and services to function properly.
 1. AdGuard apps filter traffic locally on your device. We don’t know what websites you visit.
 1. AdGuard apps periodically connect to our servers to download filter updates and check your license status.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at <privacy@adguard.com>.
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## Who we are
 
@@ -17,7 +17,7 @@ ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processe
 
 ADGUARD SOFTWARE LIMITED is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
-If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at <privacy@adguard.com>.
+If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 Please read this Privacy Policy thoroughly.
 
@@ -94,7 +94,7 @@ We use different legal bases to process Personal Data depending on the type of d
 
 ## Where we process your Personal Data
 
-We store your Personal Data in our own data center located in Frankfurt, Germany. Your Personal Data may be processed by our employees, who can only access your data through their job duties on a need-to-know basis. If you have questions or would like to know from which countries your Personal Data may be accessed, you can write to us at <privacy@adguard.com>.
+We store your Personal Data in our own data center located in Frankfurt, Germany. Your Personal Data may be processed by our employees, who can only access your data through their job duties on a need-to-know basis. If you have questions or would like to know from which countries your Personal Data may be accessed, you can write to us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 For data transfers to other countries, we always implement appropriate safeguards to ensure that your Personal Data always remains safe and that your rights are respected:
 
@@ -103,7 +103,7 @@ For data transfers to other countries, we always implement appropriate safeguard
 - The transfer has your explicit consent.
 - The transfer is necessary for the performance of a contract with you or to take steps requested by you prior to entering into that contract.
 
-If you would like a copy of the Standard Contractual Clauses used, please contact us at <privacy@adguard.com>.
+If you would like a copy of the Standard Contractual Clauses used, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 To determine if a non-EU country has an adequate level of data protection, please visit [the European Commission website](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
 
 ## How we use your Personal Data
@@ -118,13 +118,13 @@ We retain Personal Data for as long as necessary to provide you with these produ
 
 In some countries and regions, you may have certain rights in relation to your Personal Data under applicable data protection laws.
 
-If you wish to exercise your rights with respect to your Personal Data, please contact us at <privacy@adguard.com>. We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
+If you wish to exercise your rights with respect to your Personal Data, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com). We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
 
 You are entitled to exercise the following rights in relation to your Personal Data:
 
 **Right of access**: The right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
 
-**Right to erasure or right to be forgotten**: The right to completely delete your Personal Data. You can do this at will in your AdGuard account or by sending a request to <privacy@adguard.com>.
+**Right to erasure or right to be forgotten**: The right to completely delete your Personal Data. You can do this at will in your AdGuard account or by sending a request to [privacy@adguard.com](mailto:privacy@adguard.com).
 
 **Right to rectification**: The right to correct any incomplete or inaccurate Personal Data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified.
 
@@ -166,7 +166,7 @@ You are not obligated to provide your Personal Data to us. However, as this info
 
 ### Age limitations
 
-To the extent not prohibited by applicable law, we do not allow the use of our services, products, and Website by persons under the age of 16. If you learn that someone under the age of 16 has unlawfully provided us with Personal Data, please contact us at <privacy@adguard.com>. We will take steps to delete that information.
+To the extent not prohibited by applicable law, we do not allow the use of our services, products, and Website by persons under the age of 16. If you learn that someone under the age of 16 has unlawfully provided us with Personal Data, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com). We will take steps to delete that information.
 
 ## How we use cookies
 
@@ -174,4 +174,4 @@ The definition of cookies and how we use them is explained in detail in the dedi
 
 ## Changes to this Privacy Policy
 
-We may change this Privacy Policy from time to time. Laws, regulations, and industry standards evolve, which may require these changes, or we may make changes to our business. We will post the changes on this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Privacy Policy, please contact us at <privacy@adguard.com>.
+We may change this Privacy Policy from time to time. Laws, regulations, and industry standards evolve, which may require these changes, or we may make changes to our business. We will post the changes on this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, we will provide additional notice via email. If you disagree with the changes to this Privacy Policy, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).

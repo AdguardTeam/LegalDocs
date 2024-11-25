@@ -27,7 +27,7 @@ This Privacy Policy provides you with the necessary information regarding your r
 
 This Privacy Policy does not apply to third-party websites or services that you visit, even if the Websites, the AdGuard Account, or the Affiliate Account have links to such third-party websites or services. You should familiarize yourself with privacy policies of third-party websites and services.
 
-If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at <privacy@adguard.com>.
+If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 PLEASE READ THIS PRIVACY POLICY THOROUGHLY.
 
@@ -116,7 +116,7 @@ We use different legal bases to process Personal Data, depending on the type of 
 
 ## Where we process your Personal Data
 
-We store your Personal Data in our own data center located in Frankfurt, Germany. Your Personal Data may be processed by our employees, who can only access your data on a need-to-know basis as part of their job duties. If you have any questions or would like to know from which countries access may be possible, you can write to us at <privacy@adguard.com>.
+We store your Personal Data in our own data center located in Frankfurt, Germany. Your Personal Data may be processed by our employees, who can only access your data on a need-to-know basis as part of their job duties. If you have any questions or would like to know from which countries access may be possible, you can write to us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 When we transfer data to other countries, we always implement appropriate safeguards to ensure that your Personal Data always remains safe and that your rights are respected:
 
@@ -125,7 +125,7 @@ When we transfer data to other countries, we always implement appropriate safegu
 - The transfer has your explicit consent.
 - The transfer is necessary to perform a contract with you or to take steps requested by you prior to entering into that contract.
 
-If you wish to obtain a copy of the Standard Contractual Clauses used, please contact us at <privacy@adguard.com>.
+If you wish to obtain a copy of the Standard Contractual Clauses used, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 To determine if a non-EU country has an adequate level of data protection, please visit [commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
 
@@ -139,13 +139,13 @@ We will retain Personal Data for as long as necessary to provide you with our pr
 
 In some countries and regions, you may have certain rights in relation to your Personal Data under applicable data protection laws.
 
-If you wish to exercise your rights with respect to your Personal Data, please contact us at <privacy@adguard.com>. We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that we may charge you a reasonable fee for processing your request or refuse your request in certain cases specified by applicable data protection laws.
+If you wish to exercise your rights with respect to your Personal Data, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com). We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that we may charge you a reasonable fee for processing your request or refuse your request in certain cases specified by applicable data protection laws.
 
 You are entitled to exercise the following rights in relation to your Personal Data:
 
 **Right of access:** the right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
 
-**Right to erasure** or **right to be forgotten:** the right to have your Personal Data completely deleted. You can delete your data related to your AdGuard Account and Affiliate Account accounts yourself via the settings of these accounts. Alternatively, you can send us a request at <privacy@adguard.com>.
+**Right to erasure** or **right to be forgotten:** the right to have your Personal Data completely deleted. You can delete your data related to your AdGuard Account and Affiliate Account accounts yourself via the settings of these accounts. Alternatively, you can send us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 **Right to rectification:** the right to correct any incomplete or inaccurate Personal Data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified.
 

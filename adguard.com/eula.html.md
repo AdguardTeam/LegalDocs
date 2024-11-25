@@ -162,7 +162,7 @@ By sending us the files, You provide us with Your consent to process the files a
 
 6.5. The Rightholder will use Your email address that You used when binding the Software to Your Account or creating a new Account to send You notifications about modifications, new versions, and features of the Software. In addition, You can provide Your consent to receive promotional information about the Software, or similar products or services offered by the Rightholder. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your Account or unsubscribe right in the received email.
 
-6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at <privacy@adguard.com>.
+6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## 7. WARRANTY DISCLAIMER
 

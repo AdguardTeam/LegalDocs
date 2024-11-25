@@ -13,7 +13,7 @@ We do not share or sell your personal information. We are strongly committed to 
 
 1. When you sign up for our services or buy an AdGuard DNS subscription, you provide us with your email address. We’ll use it to notify you of changes to your AdGuard account. If you agree, we’ll also keep you informed about AdGuard DNS sales and news.
 
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at <privacy@adguard.com>.
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 Below, we list all the information we may process via AdGuard DNS and explain why we do it and how we use this information. We do not collect anything for tracking purposes and take all necessary measures to protect the information you share with us.
 
 ## Who we are
