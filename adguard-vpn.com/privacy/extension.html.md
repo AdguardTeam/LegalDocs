@@ -12,7 +12,7 @@ This Privacy Notice supplements the AdGuard VPN Privacy Policy available at [adg
 >- We do not collect logs of your activity on VPN servers and do not know what websites you visit
 >- We only collect the information necessary for AdGuard VPN Browser Extension to function fully and properly
 >- We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible
->- You can delete your information by deleting your AdGuard account or by sending us a request at <privacy@adguard-vpn.com>
+>- You can delete your information by deleting your AdGuard account or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com)
 >- The information we collect about you depends on how you interact with our extension.
 
 ## What data AdGuard VPN Browser Extension can collect and when

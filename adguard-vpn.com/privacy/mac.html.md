@@ -12,7 +12,7 @@ This Privacy Notice supplements the AdGuard VPN Privacy Policy available at [adg
 > - We do not collect logs on VPN servers and do not know what websites you visit.
 > - We only collect the information necessary for AdGuard VPN for Mac to function fully and properly.
 > - We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
-> - You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account or by sending us a request at <privacy@adguard-vpn.com>.
+> - You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 ## What data AdGuard VPN for Mac can collect and when
 

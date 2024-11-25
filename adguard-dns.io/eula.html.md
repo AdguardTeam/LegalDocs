@@ -58,7 +58,7 @@ We grant our customers a possibility to return 100% of funds they spent on AdGua
 
 > Important: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
-The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between You and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), You need to contact our Customer Support Service at [support@adguard.com](support@adguard.com). Processing time will depend on the payment method You have chosen and usually takes up to 10 business days.
+The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between You and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), You need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method You have chosen and usually takes up to 10 business days.
 
 ## 4. Restrictions
 
@@ -137,7 +137,7 @@ You represent and warrant that
 
 ## 9. Licenses to third party software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 ## 10. Miscellaneous
 

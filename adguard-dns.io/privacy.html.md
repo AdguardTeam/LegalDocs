@@ -40,7 +40,7 @@ AdGuard DNS operates as a DNS resolver that can block access to certain domains 
 
 - **Private AdGuard DNS** blocks DNS queries or modifies DNS responses in accordance with the user’s preferences. In addition to that, it displays the queries and statistics to the user via the AdGuard DNS dashboard. Registering an AdGuard account is required to use this type of DNS resolver.
 
-If you disagree with our classification of  a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard.com](support@adguard.com).
+If you disagree with our classification of  a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard.com](mailto:support@adguard.com).
 
 ## What data we process and when
 
