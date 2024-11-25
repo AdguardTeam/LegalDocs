@@ -54,7 +54,7 @@ We grant our customers an opportunity to get a 100% refund on the funds they spe
 
 > **Important**: monthly subscriptions are non-refundable. One-year and two-year subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of a 1-year or 2-year subscription are granted regardless of the reason.
 
-The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with Adguard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement. To get a refund for a subscription purchased through the Website, contact the support team: <support@adguard-vpn.com> Processing time depends on your choice of payment method and usually takes up to 10 business days.
+The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with Adguard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement. To get a refund for a subscription purchased through the Website, contact the support team: [support@adguard-vpn.com](mailto:support@adguard-vpn.com) Processing time depends on your choice of payment method and usually takes up to 10 business days.
 
 ## 4. Restrictions
 
@@ -147,7 +147,7 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should you have any questions concerning this EULA, or if you desire to contact the Rightholder for any reason, please contact our customer support service:
 
-Email: <support@adguard-vpn.com>
+Email: [support@adguard-vpn.com](mailto:support@adguard-vpn.com)
 Website: [adguard-vpn.com](https://adguard-vpn.com)
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
