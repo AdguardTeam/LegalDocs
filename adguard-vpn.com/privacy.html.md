@@ -60,11 +60,11 @@ For the exact data that the payment provider collects about you, please see the 
 
 **Using our software**. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
 
-- For AdGuard VPN for Windows: <https://adguard-vpn.com/privacy/windows.html>
-- For AdGuard VPN for Android: <https://adguard-vpn.com/privacy/android.html>
-- For AdGuard VPN for Mac: <https://adguard-vpn.com/privacy/mac.html>
-- For AdGuard VPN for iOS: <https://adguard-vpn.com/privacy/ios.html>
-- For AdGuard VPN Browser Extension: <https://adguard-vpn.com/privacy/extension.html>
+- For AdGuard VPN for Windows: [adguard-vpn.com/privacy/windows.html](https://adguard-vpn.com/privacy/windows.html)
+- For AdGuard VPN for Android: [adguard-vpn.com/privacy/android.html](https://adguard-vpn.com/privacy/android.html)
+- For AdGuard VPN for Mac: [adguard-vpn.com/privacy/mac.html](https://adguard-vpn.com/privacy/mac.html)
+- For AdGuard VPN for iOS: [adguard-vpn.com/privacy/ios.html](https://adguard-vpn.com/privacy/ios.html)
+- For AdGuard VPN Browser Extension: [adguard-vpn.com/privacy/extension.html](https://adguard-vpn.com/privacy/extension.html)
 
 **Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two reasons: to prevent misuse of our service and to know when a user’s subscription has expired. When the subscription expires or is canceled, the free limit is reactivated and without knowing your previous data usage we cannot properly enforce the rules that limit using the free version.
 
@@ -125,13 +125,13 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object**: The right to object to processing of your Personal Data.
 
-**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard Account at <my.adguard.com>.
+**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard Account at [my.adguard.com](https://my.adguard.com).
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 
 **Right to withdraw a consent** where the data processing is based on the consent.
 
-**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at <https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument>.
+**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at [www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument).
 
 When we receive your Personal Data from a third party, we will use reasonable efforts to inform you about it.
 

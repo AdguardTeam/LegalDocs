@@ -13,13 +13,13 @@ ADGUARD SOFTWARE LIMITED (“We”, “Us”, “Our”) processes your data in 
 
 - Visit websites related to AdGuard software and services (hereafter, the “Websites”):
 
-    - AdGuard Ad Blocker website at <https://adguard.com/>,
-    - AdGuard VPN website at <https://adguard-vpn.com/>,
-    - AdGuard DNS website at <https://adguard-dns.io/>.
-    - AdGuard Mail website at <https://adguard-mail.com/>.
-- Use AdGuard Account services at <https://my.adguard.com/> (hereafter, the “AdGuard Account”).
+    - AdGuard Ad Blocker website at [adguard.com](https://adguard.com/),
+    - AdGuard VPN website at [adguard-vpn.com](https://adguard-vpn.com/),
+    - AdGuard DNS website at [adguard-dns.io](https://adguard-dns.io/).
+    - AdGuard Mail website at [adguard-mail.com](https://adguard-mail.com/).
+- Use AdGuard Account services at [my.adguard.com](https://my.adguard.com) (hereafter, the “AdGuard Account”).
 
-- Use AdGuard Affiliate Account services at <https://aff.adguard.com/> (hereafter, the “Affiliate Account”).
+- Use AdGuard Affiliate Account services at [aff.adguard.com](https://aff.adguard.com/) (hereafter, the “Affiliate Account”).
 
 ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus, and acts as the data controller when processing your data.
 
@@ -53,7 +53,7 @@ You may also give us your consent to process your email to send you marketing me
 
 **Buying a license.** We process your email address for billing and payment purposes. If you buy a subscription to AdGuard software, we’ll use the email address you provide to send you information about the purchase, such as your subscription status and renewal notifications (if applicable), and to recover your license key if you request it.
 
-We conduct all transactions via two payment providers — [Paddle.com Inc.](https://www.paddle.com/) and [PayPro Global](https://payproglobal.com/) — to process payments when you purchase a subscription to use our software and services. Processed data: your email address, country of residence, zip/postal code, and if you use a bank card to make a purchase, the card number, name, expiration date and the security code associated with the bank card. Paddle privacy policy: <https://www.paddle.com/legal/privacy>. PayPro Global privacy policy: <https://docs.payproglobal.com/documents/legal/privacyPolicy.pdf>
+We conduct all transactions via two payment providers — [Paddle.com Inc.](https://www.paddle.com/) and [PayPro Global](https://payproglobal.com/) — to process payments when you purchase a subscription to use our software and services. Processed data: your email address, country of residence, zip/postal code, and if you use a bank card to make a purchase, the card number, name, expiration date and the security code associated with the bank card. Paddle privacy policy: [www.paddle.com/legal/privacy](https://www.paddle.com/legal/privacy). PayPro Global privacy policy: [docs.payproglobal.com/documents/legal/privacyPolicy.pdf](https://docs.payproglobal.com/documents/legal/privacyPolicy.pdf)
 
 The third-party service provider may transmit some of your personal data to us, but not including payment information, unless you specifically agree (as may be the case if you purchase a subscription with auto-renewal). We may use the information to verify your registration or subscription status, or for renewal of your subscription, if applicable.
 
@@ -81,8 +81,8 @@ To use our Affiliate Account, you need to register your account and sign in.
 
 We conduct all transactions via third-party payment providers. To process payments via the payout method you have chosen, we will share some of your personal data with a third party payment service to which you want to receive your payouts.
 
-- If you choose PayPal as your payout method, AdGuard will share the email address you indicate with [PayPal (Europe) S.à r.l. et Cie, S.C.A.](https://www.paypal.com/). PayPal privacy policy: <https://www.paypal.com/cy/webapps/mpp/ua/privacy-full>.
-- If you choose Mellow as your payout method, AdGuard will share the email address you indicate with [TMS SolarWeb Ltd](https://www.mellow.io/). Mellow privacy policy: <https://www.mellow.io/documents/privacy-policy>.
+- If you choose PayPal as your payout method, AdGuard will share the email address you indicate with [PayPal (Europe) S.à r.l. et Cie, S.C.A.](https://www.paypal.com/). PayPal privacy policy: [www.paypal.com/cy/webapps/mpp/ua/privacy-full](https://www.paypal.com/cy/webapps/mpp/ua/privacy-full).
+- If you choose Mellow as your payout method, AdGuard will share the email address you indicate with [TMS SolarWeb Ltd](https://www.mellow.io/). Mellow privacy policy: [www.mellow.io/documents/privacy-policy](https://www.mellow.io/documents/privacy-policy).
 
 AdGuard does not request or have access to your accounts in third-party payment services.
 
@@ -127,7 +127,7 @@ When we transfer data to other countries, we always implement appropriate safegu
 
 If you wish to obtain a copy of the Standard Contractual Clauses used, please contact us at <privacy@adguard.com>.
 
-To determine if a non-EU country has an adequate level of data protection, please visit <https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en>.
+To determine if a non-EU country has an adequate level of data protection, please visit [commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
 
 ## How we use your Personal Data
 
@@ -159,7 +159,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to withdraw a consent** where the data processing is based on the consent.
 
-**Right to lodge a complaint** with a data protection authority. You can find the contact details of our data protection authorities here: <https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument>.
+**Right to lodge a complaint** with a data protection authority. You can find the contact details of our data protection authorities here: [www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument).
 
 If we receive your Personal Data from a third party, we will use reasonable efforts to inform you about it.
 

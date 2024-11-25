@@ -9,7 +9,7 @@ We do not share or sell your personal information. We are strongly committed to 
 1. We collect only the information necessary for our products and services to function properly.
 1. AdGuard apps filter traffic locally on your device. We don’t know what websites you visit.
 1. AdGuard apps periodically connect to our servers to download filter updates and check your license status.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](my.adguard.com) or by sending us a request at <privacy@adguard.com>.
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at <privacy@adguard.com>.
 
 ## Who we are
 
@@ -66,15 +66,15 @@ For the exact data that the payment provider collects about you, please see the 
 
 **Using our software**. When you choose to use our app, you provide us your data, including Personal Data. This information, which we must  process to ensure the full functionality of the AdGuard software, depends on the operating system for which the software is designed and is listed as follows:
 
-- For AdGuard for Windows: <https://adguard.com/privacy/windows.html>
-- For AdGuard for Android: <https://adguard.com/privacy/android.html>
-- For AdGuard for Mac: <https://adguard.com/privacy/mac.html>
-- For AdGuard for iOS: <https://adguard.com/privacy/ios.html>
-- For AdGuard Browser Extension: <https://adguard.com/privacy/browser-extension.html>
-- For AdGuard for Safari: <https://adguard.com/privacy/safari.html>
-- For AdGuard Browser Assistant: <https://adguard.com/privacy/assistant.html>
-- For AdGuard Content Blocker: <https://adguard.com/privacy/content-blocker.html>
-- For AdGuard Home: <https://adguard.com/privacy/home.html>
+- For AdGuard for Windows: [adguard.com/privacy/windows.html](https://adguard.com/privacy/windows.html)
+- For AdGuard for Android: [adguard.com/privacy/android.html](https://adguard.com/privacy/android.html)
+- For AdGuard for Mac: [adguard.com/privacy/mac.html](https://adguard.com/privacy/mac.html)
+- For AdGuard for iOS: [adguard.com/privacy/ios.html](https://adguard.com/privacy/ios.html)
+- For AdGuard Browser Extension: [adguard.com/privacy/browser-extension.html](https://adguard.com/privacy/browser-extension.html)
+- For AdGuard for Safari: [adguard.com/privacy/safari.html](https://adguard.com/privacy/safari.html)
+- For AdGuard Browser Assistant: [adguard.com/privacy/assistant.html](https://adguard.com/privacy/assistant.html)
+- For AdGuard Content Blocker: [adguard.com/privacy/content-blocker.html](https://adguard.com/privacy/content-blocker.html)
+- For AdGuard Home: [adguard.com/privacy/home.html](https://adguard.com/privacy/home.html)
 
 **Diagnostic / Device information**. By default, we do not collect any information about your device. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard software you are using. Please refer to the respective privacy notices for more information.
 
@@ -132,13 +132,13 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object**: The right to object to processing of your Personal Data.
 
-**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used, and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard account at <my.adguard.com>.
+**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used, and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard account at [my.adguard.com](https://my.adguard.com).
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 
 **Right to withdraw a consent** where the data processing is based on the consent.
 
-**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at <https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument>.
+**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at [www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument).
 
 When we receive your Personal Data from a third party, we will use reasonable efforts to inform you about it.
 

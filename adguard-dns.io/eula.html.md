@@ -15,7 +15,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 **If Your project aligns with the AGPLv3 license criteria, You are permitted to utilize this component of AdGuard DNS under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard DNS End-User License Agreement below is mandatory.**
 
-**The text of the AGPLv3 license is accessible in the project’s source code repository and also on the Free Software Foundation website at [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).**
+**The text of the AGPLv3 license is accessible in the project’s source code repository and also on the Free Software Foundation website at [www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).**
 
 ## 1. General
 
@@ -32,7 +32,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 The provisions of this section apply to plans for private AdGuard DNS requiring paid subscription and do not apply to public AdGuard DNS and free Starter plan for private AdGuard DNS.
 
-2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at [https://adguard-dns.io](https://adguard-dns.io).
+2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at [adguard-dns.io](https://adguard-dns.io).
 To test private AdGuard DNS, you can try the Starter plan. For more monthly requests, devices and servers, You need to purchase a subscription: Personal, Team, or Enterprise plans with monthly or yearly payments. Once You purchase a subscription, it is automatically and immediately activated and linked to Your AdGuard account, so You can enjoy using Your private AdGuard DNS right after purchasing Your subscription until it is expired or canceled.
 
 2.2. You may be entitled to a refund. Please refer to the refund terms and conditions in section 3.
@@ -54,7 +54,7 @@ Note that when Your AdGuard account is created, You are subscribed to messages a
 
 ## 3. Refund policy
 
-We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from [https://adguard-dns.io](https://adguard-dns.io) (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller).
+We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from [adguard-dns.io](https://adguard-dns.io) (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller).
 
 > Important: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
@@ -94,7 +94,7 @@ You have no right to:
 
 ## 6. User data and Privacy Policy
 
-6.1. AdGuard DNS collects and processes very limited user data and has a strong Privacy Policy available at [https://adguard-dns.io/privacy.html](https://adguard-dns.io/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to Your use of AdGuard DNS and Your browsing of the [https://adguard-dns.io](https://adguard-dns.io) website.
+6.1. AdGuard DNS collects and processes very limited user data and has a strong Privacy Policy available at [adguard-dns.io/privacy.html](https://adguard-dns.io/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to Your use of AdGuard DNS and Your browsing of the [adguard-dns.io](https://adguard-dns.io) website.
 
 6.2. By connecting to and by using AdGuard DNS, You agree to have read, understand and accept terms and conditions of data processing set out in our Privacy Policy available at the link mentioned above, which explains what type of information we collect, how it is shared and used.
 
@@ -161,8 +161,8 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
-Email: [support@adguard.com](support@adguard.com)
+Email: [support@adguard.com](mailto:support@adguard.com)
 
-Website: [https://adguard-dns.io](https://adguard-dns.io)
+Website: [adguard-dns.io](https://adguard-dns.io)
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

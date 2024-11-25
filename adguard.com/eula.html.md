@@ -16,7 +16,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 **If your project aligns with the GNU General Public License v3.0 or the Apache License, Version 2.0 criteria, you are permitted to utilize these components and versions of AdGuard under the provisions of the relevant open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the End-User License Agreement of AdGuard below is mandatory.**
 
-**The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at https://www.gnu.org/licenses/gpl-3.0.html and on the Apache Software Foundation website at <https://www.apache.org/licenses/LICENSE-2.0>, respectively.**
+**The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at https://www.gnu.org/licenses/gpl-3.0.html and on the Apache Software Foundation website at [www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0), respectively.**
 
 ## 1. Definitions
 
@@ -39,7 +39,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 1.10. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software, that the Rightholder provides from time to time in its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
 
-1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, <https://adguard.com/>).
+1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, [adguard.com](https://adguard.com/)).
 
 ## 2. License grant
 
@@ -95,7 +95,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 The provisions of this Section 4 apply to Software requiring paid licenses and activation (and do not apply to Software for which the Rightholder offers free licenses without activation).
 
-4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [https://adguard.com/terms-of-sale.html](https://adguard.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
+4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [adguard.com/terms-of-sale.html](https://adguard.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
 4.2. In order to use the Software for other than evaluation purposes or beyond the evaluation period, You must activate the Software. Depending on the Software You are using and how You purchased licenses to the Software, activation may be processed in one of the several different ways. Typically, activation is processed by Your providing a valid email address to which the Rightholder will send an activation code after Your payment for the number of licenses purchased through an applicable order. You will receive an activation code for each license purchased. Activation of certain Software may also be processed through the mobile application platform through which You purchased licenses (e.g., through an Amazon subscription or through Apple App Store codes). Activation codes may apply to one or more devices, depending on the license purchased. Once an activation code is used, the license associated with that activation code begins for the duration of the license purchased by an applicable order. If You have acquired Software that is intended to be used on more than one Computer then Your License begins from the date of activation of the Software on the first Computer.
 
@@ -135,7 +135,7 @@ Note that when Your Account is created You are automatically subscribed to notif
 
 ## 6. Privacy Policy and information collection
 
-6.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at <https://adguard.com/privacy.html>. The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
+6.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
 
 6.2. Before using the Software, You acknowledge that You have read and understand our Privacy Policy.
 By installing and using the Software, You acknowledge that You agree to this EULA and terms and conditions of data processing by the Rightholder set out in our Privacy Policy available at the link mentioned above.

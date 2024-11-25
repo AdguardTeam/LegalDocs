@@ -18,7 +18,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 **For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the END-USER LICENSE AGREEMENT OF ADGUARD below is mandatory.**
 
-**The text of the GNU GPL-3 license is accessible in the project’s source code repository and also on the GNU Project website at [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).**
+**The text of the GNU GPL-3 license is accessible in the project’s source code repository and also on the GNU Project website at [www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).**
 
 ## 1. Definitions
 
@@ -36,7 +36,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 1.7. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software that the Rightholder provides from time to time at its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
 
-1.8. “Website” is the website operated by the Rightholder (for example, [https://adguard.com/](https://adguard.com/)).
+1.8. “Website” is the website operated by the Rightholder (for example, [adguard.com](https://adguard.com/)).
 
 ## 2. License grant
 
@@ -87,7 +87,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 (B) the functionality of the Software, including operation of its blocking and filtering components, may be limited due to the characteristics and settings of the web browser application in which You installed the Software.
 
-To use the Software in other web browser applications, You may install the Software in those applications, or You may install AdGuard Ad Blocker, which provides enhanced blocking and filtering functionality: [https://adguard.com/](https://adguard.com/).
+To use the Software in other web browser applications, You may install the Software in those applications, or You may install AdGuard Ad Blocker, which provides enhanced blocking and filtering functionality: [adguard.com](https://adguard.com/).
 
 4.4. You are solely responsible for compliance with terms of use of websites You visit.
 
@@ -95,7 +95,7 @@ To use the Software in other web browser applications, You may install the Softw
 
 ## 5. Privacy Policy and data processing
 
-5.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [https://adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
+5.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
 
 5.2. Before using the Software, You acknowledge that You have read and understand our Privacy Policy.
 
