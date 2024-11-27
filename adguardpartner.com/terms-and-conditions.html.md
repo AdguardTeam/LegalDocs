@@ -230,7 +230,7 @@ The following types of activities are strictly prohibited:
 
 ### (1) AdGuard Privacy Policy
 
-AdGuard processes very limited data and has a strong Privacy Policy available at https://adguard.com/en/privacy.html that explains in detail how AdGuard handles your personal data in relation to your use of the Affiliate Account and the Affiliate Website.
+AdGuard processes very limited data and has a strong Privacy Policy available at https://adguard.com/website-privacy.html that explains in detail how AdGuard handles your personal data in relation to your use of the Affiliate Account and the Affiliate Website.
 
 By accessing and using the Affiliate Account or the Affiliate Website, you acknowledge that you have read, understood and accepted terms and conditions of data processing set out in our Privacy Policy, available at the link mentioned above, which explains what type of information we collect, how it is shared and used.
 
