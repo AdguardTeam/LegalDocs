@@ -247,7 +247,7 @@ AdGuard will receive and process certain data to perform our obligations under t
 
 To process payments via the payout method you have chosen, AdGuard will share some of your personal data with a third-party payment service that you have chosen to receive your payouts.
 
-(a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with PayPal (Europe) S.à r.l. et Cie, S.C.A. PayPal Privacy Policy: https://www.paypal.com/cy/webapps/mpp/ua/privacy-full.
+* (a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with PayPal (Europe) S.à r.l. et Cie, S.C.A. PayPal Privacy Policy: https://www.paypal.com/cy/webapps/mpp/ua/privacy-full.
 (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with TMS SolarWeb Ltd. Mellow Privacy Policy: https://mellow.io/documents/privacy-policy.
 
 AdGuard does not request or have access to your accounts in third-party payment services.
