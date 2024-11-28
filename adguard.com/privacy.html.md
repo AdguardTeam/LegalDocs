@@ -9,7 +9,7 @@ We do not share or sell your personal information. We are strongly committed to 
 1. We collect only the information necessary for our products and services to function properly.
 1. AdGuard apps filter traffic locally on your device. We don’t know what websites you visit.
 1. AdGuard apps periodically connect to our servers to download filter updates and check your license status.
-1. If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## Who we are
 
