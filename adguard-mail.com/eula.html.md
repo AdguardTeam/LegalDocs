@@ -9,6 +9,7 @@ BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE
 IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
+
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([https://adguard-mail.com/](https://adguard-mail.com/), “Website”).
 
 ## 1. General
@@ -21,11 +22,11 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 1.4. AdGuard Mail, which AdGuard Software Limited may provide on a free basis in accordance with Section 1.2, may have a number of limitations, such as restrictions on the number of email aliases you can create and the number of recipients you can forward emails to. Information on these and other limitations is provided on the Website.
 
-1.6. To use AdGuard Mail, you must install the Application or visit the Website and log in using your email address or sign up by creating a new account. You must provide a valid email address when signing up. You may also log in with an email and password that you have previously registered on the Website or other Rightholder’s websites, such as adguard.com.
+1.5. To use AdGuard Mail, you must install the Application or visit the Website and log in using your email address or sign up by creating a new account. You must provide a valid email address when signing up. You may also log in with an email and password that you have previously registered on the Website or other Rightholder’s websites, such as adguard.com.
 
-1.7. We may modify or discontinue AdGuard Mail free services and benefits without notice at any time at our sole discretion.
+1.6. We may modify or discontinue AdGuard Mail free services and benefits without notice at any time at our sole discretion.
 
-1.8 Your continued use of AdGuard Mail after any modifications to this EULA have been made will constitute your acceptance of such modifications.
+1.7. Your continued use of AdGuard Mail after any modifications to this EULA have been made will constitute your acceptance of such modifications.
 
 ## 2. Restrictions
 
@@ -69,11 +70,11 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 3. Personal data and Privacy Policy
 
-3.1. AdGuard Mail has a strong [Privacy Policy](https://adguard-mail.com/privacy.html) that describes what data AdGuard Mail apps can collect and when. Another document — [Website & Cookies Privacy notice](https://adguard-mail.com/privacy/website.html) — explains in detail how AdGuard Software Limited handles your personal data in relation to your browsing of the Website.
+3.1. AdGuard Mail collects and processes limited user data and has a strong Privacy Notice available at [https://adguard-mail.com/privacy.html](https://adguard-mail.com/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard Mail and your browsing of the Website.
 
-3.2. Before using AdGuard Mail, you acknowledge that you have read and understood our Privacy Policy, which explains the types of information we collect and process, and what may happen to that information, including, without limitation, how such information is shared and used.
+3.2. Before using AdGuard Mail, you acknowledge that you have read and understood our Privacy Notice, which explains the types of information we collect and process, and what may happen to that information, including, without limitation, how such information is shared and used.
 
-By installing and using AdGuard Mail, you agree to the present Terms and the terms and conditions of data processing by AdGuard Software Limited as set out in our Privacy Policy, which is available at the link above.
+By installing and using AdGuard Mail, you agree to the present Terms and the terms and conditions of data processing by AdGuard Software Limited as set out in our Privacy Notice, which is available at the link above.
 
 3.3. AdGuard Software Limited shall receive and process certain data to fulfill our obligations set forth in these Terms and to provide you with the functionality of AdGuard Mail. The data we process depends on the operating system for which the Software is designed. Such data may be considered personal data in accordance with the laws of certain territories and countries. We take the protection of your personal data seriously and process it in accordance with applicable data protection laws. You can read more about our data processing practices in our Privacy Policy.
 
@@ -133,7 +134,7 @@ No action, regardless of its form, arising out of the transactions under this EU
 
 Should you have any questions concerning this EULA, or if you wish to contact the Rightholder for any reason, please reach out to our customer support service:
 
-Email: <support@adguard-mail.com>
-Website: <https://adguard-mail.com>
+Email: [support@adguard-mail.com](mailto:support@adguard-mail.com)
+Website: https://adguard-mail.com
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
