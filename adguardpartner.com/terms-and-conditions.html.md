@@ -53,22 +53,22 @@ The following conditions apply to all types of commission earning for all Softwa
 
 ### (2) Your commissions for AdGuard Ad Blocker
 
-You are entitled to receive fifty percent (50%) of the purchase or renewal of subscriptions to the AdGuard Ad Blocker made by users referred by you, subject to the following conditions:
+You are entitled to receive fifty percent (50%) of the purchase or renewal of subscriptions to the AdGuard Ad Blocker made by users referred by you, subject to the conditions described below.
 
-- (a) You earn your commission for a subscription purchase when:
-    a. A user downloads AdGuard Ad Blocker from the Software Website accessed by the user via your personalized link or through your personalized installation link,
-    b. The downloaded Software is installed, and
-    c. The installed Software is activated by the purchased subscription. The subscription does not have to be purchased through your personalized link. See Restrictions below for additional conditions on the purchased subscription.
-- (b) You will earn your commission for a subscription renewal when the subscription previously activated in the installed Software that was downloaded via your personalized link or through your personalized installation link is renewed.
+- (a) You will earn your commission for a subscription purchase when:
+    - a. A user downloads AdGuard Ad Blocker from the Software Website accessed by the user via your personalized link or through your personalized installation link,
+    - b. The downloaded Software is installed, and
+    - c. The installed Software is activated by the purchased subscription. The subscription does not have to be purchased through your personalized link. See Restrictions below for additional conditions on the purchased subscription.
+- (b) You will earn your commission for a subscription renewal when the subscription previously activated in the installed Software and downloaded via your personalized link is renewed.
 
 ### (3) Your commissions for AdGuard VPN
 
 You are entitled to receive forty percent (40%) of the purchase or renewal of subscriptions to the AdGuard VPN made by users referred by you, subject to the following conditions:
 
 - (a) You earn your commission for a subscription purchase when
-    a. A user downloads AdGuard VPN from the Software Website accessed by the user via your personalized link or through your personalized installation link,
-    b. The downloaded Software is installed, and
-    c. The installed Software is activated by the purchased subscription. The subscription does not have to be purchased through your personalized link. See Restrictions below for additional conditions on the purchased subscription.
+    - a. A user downloads AdGuard VPN from the Software Website accessed by the user via your personalized link or through your personalized installation link,
+    - b. The downloaded Software is installed, and
+    - c. The installed Software is activated by the purchased subscription. The subscription does not have to be purchased through your personalized link. See Restrictions below for additional conditions on the purchased subscription.
 - (b) You will earn your commission for a subscription renewal when the subscription previously activated in the installed Software that was downloaded via your personalized link or through your personalized installation link is renewed.
 
 ### (4) Your commissions for AdGuard DNS
@@ -76,11 +76,11 @@ You are entitled to receive forty percent (40%) of the purchase or renewal of su
 You are entitled to receive forty percent (40%) of the purchase or renewal of subscriptions to the AdGuard DNS made by users referred by you, subject to the following conditions:
 
 - (a) You earn your commission for a subscription purchase when
-    a. A user signs up for AdGuard DNS via your personalized link.
-    b. The user purchases a subscription for this Software using the email address specified during the registration.
+    - a. A user signs up for AdGuard DNS via your personalized link.
+    - b. The user purchases a subscription for this Software using the email address specified during the registration.
 - (b) You earn your commission for a subscription purchase when
-    a. A user signs up for AdGuard DNS via your personalized link.
-    b. The user purchases a subscription for AdGuard VPN using the email address specified during the registration.
+    - a. A user signs up for AdGuard DNS via your personalized link.
+    - b. The user purchases a subscription for AdGuard VPN using the email address specified during the registration.
 - (c) You will earn your commission when the subscription purchased by the method specified in clauses (a) or (b) of this subsection is renewed.
 
 ### (5) Your referrals’ commissions
@@ -247,8 +247,8 @@ AdGuard will receive and process certain data to perform our obligations under t
 
 To process payments via the payout method you have chosen, AdGuard will share some of your personal data with a third-party payment service that you have chosen to receive your payouts.
 
-- (a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with PayPal (Europe) S.à r.l. et Cie, S.C.A. [PayPal Privacy Policy](https://www.paypal.com/cy/webapps/mpp/ua/privacy-full).
-- (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with TMS SolarWeb Ltd. [Mellow Privacy Policy]( https://mellow.io/documents/privacy-policy).
+- (a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with PayPal (Europe) S.à r.l. et Cie, S.C.A. [PayPal Privacy Policy](https://www.paypal.com/cy/webapps/mpp/ua/privacy-full)
+- (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with TMS SolarWeb Ltd. [Mellow Privacy Policy]( https://mellow.io/documents/privacy-policy)
 
 AdGuard does not request or have access to your accounts in third-party payment services.
 
@@ -305,8 +305,8 @@ By accessing and using the Affiliate Account or the Affiliate Website and by par
 
 ## 12. Limitation of liability
 
-(a) TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER ADGUARD NOR ITS SUPPLIERS OR AFFILIATES SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE PROVIDED UNDER THESE TERMS WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADGUARD OR ITS SUPPLIERS OR AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
-(b) THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THESE TERMS.
+- (a) TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER ADGUARD NOR ITS SUPPLIERS OR AFFILIATES SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE PROVIDED UNDER THESE TERMS WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADGUARD OR ITS SUPPLIERS OR AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+- (b) THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THESE TERMS.
 
 ## 13. Term and termination
 
