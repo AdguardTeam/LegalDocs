@@ -8,15 +8,15 @@ We do not share or sell your personal information. We are strongly committed to 
 
 1. We don’t collect logs on VPN servers and don’t know what websites you visit.
 1. We collect only the information necessary for our products and services to function properly.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account  at <my.adguard-vpn.com> or by sending us a request at <privacy@adguard-vpn.com>.
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at my.adguard-vpn.com or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 ## Who we are
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations and explains how, why and when we process your personal data. Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
-ADGUARD SOFTWARE LIMITED is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203-205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
-If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at <privacy@adguard-vpn.com>.
+If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 Please read this Privacy Policy thoroughly.
 
@@ -60,17 +60,17 @@ For the exact data that the payment provider collects about you, please see the 
 
 **Using our software**. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
 
-- For AdGuard VPN for Windows: <https://adguard-vpn.com/privacy/windows.html>
-- For AdGuard VPN for Android: <https://adguard-vpn.com/privacy/android.html>
-- For AdGuard VPN for Mac: <https://adguard-vpn.com/privacy/mac.html>
-- For AdGuard VPN for iOS: <https://adguard-vpn.com/privacy/ios.html>
-- For AdGuard VPN Browser Extension: <https://adguard-vpn.com/privacy/extension.html>
+- For AdGuard VPN for Windows: https://adguard-vpn.com/privacy/windows.html
+- For AdGuard VPN for Android: https://adguard-vpn.com/privacy/android.html
+- For AdGuard VPN for Mac: https://adguard-vpn.com/privacy/mac.html
+- For AdGuard VPN for iOS: https://adguard-vpn.com/privacy/ios.html
+- For AdGuard VPN Browser Extension: https://adguard-vpn.com/privacy/extension.html
 
 **Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two reasons: to prevent misuse of our service and to know when a user’s subscription has expired. When the subscription expires or is canceled, the free limit is reactivated and without knowing your previous data usage we cannot properly enforce the rules that limit using the free version.
 
 We store only the number of bytes used by the account, it is not associated with locations. Traffic usage data is stored for 90 days.
 
-Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.  This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
+Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection. This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
 
 **Diagnostic / Device information**. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
@@ -88,7 +88,7 @@ We use different legal bases to process Personal Data depending on the type of d
 
 ## Where we process your Personal Data
 
-We store your Personal Data in our own data center located in Frankfurt. Your Personal Data may be processed by our employees, who can only access your data through their job duties on a need-to-know basis. If you have questions or would like to know from which countries your Personal Data may be accessed, you can write to us at <privacy@adguard-vpn.com>.
+We store your Personal Data in our own data center located in Frankfurt. Your Personal Data may be processed by our employees, who can only access your data through their job duties on a need-to-know basis. If you have questions or would like to know from which countries your Personal Data may be accessed, you can write to us at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 For data transfers to other countries, we always implement appropriate safeguards to ensure that your Personal Data always remains safe and that your rights are respected:
 
@@ -111,13 +111,13 @@ We retain Personal Data for as long as necessary to provide you with our product
 
 In some countries and regions, you may have certain rights in relation to your Personal Data under applicable data protection laws.
 
-If you wish to exercise your rights with respect to your Personal Data, please contact us at <privacy@adguard-vpn.com>. We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
+If you wish to exercise your rights with respect to your Personal Data, please contact us at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com). We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
 
 You are entitled to exercise the following rights in relation to your Personal Data:
 
 **Right of access**: The right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
 
-**Right to erasure or right to be forgotten**: The right to completely delete your Personal Data. You can do this at will via AdGuard Account, or by sending a request to <privacy@adguard-vpn.com>.
+**Right to erasure or right to be forgotten**: The right to completely delete your Personal Data. You can do this at will via AdGuard Account, or by sending a request to [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 **Right to rectification**: The right to correct any incomplete or inaccurate Personal Data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified.
 
@@ -131,7 +131,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to withdraw a consent** where the data processing is based on the consent.
 
-**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at <https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument>.
+**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument.
 
 When we receive your Personal Data from a third party, we will use reasonable efforts to inform you about it.
 
