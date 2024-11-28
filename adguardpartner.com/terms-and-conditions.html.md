@@ -6,7 +6,7 @@
 
 AdGuard Software Limited (hereafter, “AdGuard”, “we,” “us,” “our”) is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus.
 
-AdGuard is the rights holder of AdGuard Ad Blocker: [adguard.com](https://adguard.com/), AdGuard VPN: [adguard-vpn.com](https://adguard-vpn.com/), and AdGuard DNS: [adguard-dns.io](https://adguard-dns.io/) (hereafter, collectively, the “Software”). We also operate the websites of the Software mentioned above (hereafter, the “Software Websites”), as well as the AdGuard Affiliate Account service (hereafter, the “Affiliate Account”) available at [aff.adguard.com](https://aff.adguard.com/) (hereafter, the “Affiliate Website”).
+AdGuard is the rights holder of AdGuard Ad Blocker: [adguard.com](https://adguard.com/), AdGuard VPN: [adguard-vpn.com](https://adguard-vpn.com/), and AdGuard DNS: [adguard-dns.io](https://adguard-dns.io/) (hereafter, collectively, the “Software”). We also operate the websites of the Software mentioned above (hereafter, the “Software Websites”), as well as the AdGuard Affiliate Account service (hereafter, the “Affiliate Account”) available at [adguardpartner.com](https://adguardpartner.com/) (hereafter, the “Affiliate Website”).
 
 We are committed to protecting our users by offering them the Software, and we invite you to partner with us and earn commissions for selling licenses and subscriptions to the Software via the Affiliate Account and the Affiliate Website (hereafter, the “Affiliate Program”).
 
