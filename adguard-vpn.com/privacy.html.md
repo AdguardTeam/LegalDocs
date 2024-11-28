@@ -8,7 +8,7 @@ We do not share or sell your personal information. We are strongly committed to 
 
 1. We don’t collect logs on VPN servers and don’t know what websites you visit.
 1. We collect only the information necessary for our products and services to function properly.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account  at my.adguard-vpn.com or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at my.adguard-vpn.com or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 ## Who we are
 
@@ -70,7 +70,7 @@ For the exact data that the payment provider collects about you, please see the 
 
 We store only the number of bytes used by the account, it is not associated with locations. Traffic usage data is stored for 90 days.
 
-Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.  This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
+Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection. This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
 
 **Diagnostic / Device information**. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
