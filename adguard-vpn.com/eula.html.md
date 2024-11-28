@@ -1,7 +1,7 @@
 
 # AdGuard VPN End-User License Agreement
 
-*April 10, 2024*
+**June 4, 2024**
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -9,13 +9,14 @@ BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE
 IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
+
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website ([https://adguard-vpn.com/](https://adguard-vpn.com/), “Website”).
 
 **A certain component of AdGuard VPN, DnsLibs, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the Apache License, Version 2.0.**
 
 **If your project aligns with the Apache License, Version 2.0 criteria, you are permitted to utilize this component of AdGuard VPN under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard VPN End-User License Agreement below is mandatory.**
 
-**The text of the Apache License, Version 2.0 is accessible in the project’s source code repository and also on the Apache Software Foundation website at <https://www.apache.org/licenses/LICENSE-2.0>.**
+**The text of the Apache License, Version 2.0 is accessible in the project’s source code repository and also on the Apache Software Foundation website at https://www.apache.org/licenses/LICENSE-2.0.**
 
 ## 1. General
 
@@ -28,6 +29,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 1.4. AdGuard VPN provided by AdGuard Software Limited in accordance with clause 1.2 on the basis of a paid subscription may have a limit on the number of Software instances that you can simultaneously connect to the VPN under your AdGuard personal account (“Account”). Information about the limitations is provided on the Website as well as when you purchase the subscription.
 
 1.5. AdGuard VPN that AdGuard Software Limited may provide in accordance with clause 1.2 on a free basis may have a number of limitations, such as the maximum amount of traffic per month received through the VPN connection, limitation on the speed of the VPN connection, limitation on the available locations for the VPN servers, limitation on the number of Software instances that you can simultaneously connect to the VPN under your Account. Information on limitations is provided on the Website.
+
 1.6. To use AdGuard VPN, you must install AdGuard VPN and sign in using your email address or sign up by creating a new Account. You must provide a valid email address when signing up. You may also sign in with an email and password you have already registered at the Website or other Rightholder’s websites, such as adguard.com, before.
 
 1.7. We may also modify or discontinue AdGuard VPN free services and benefits without notice at any time at our sole discretion. Free-of-charge services may be discontinued at the end of the respective contract period.
@@ -50,7 +52,7 @@ The term of use of AdGuard VPN starts from the purchase of the subscription. If 
 
 ## 3. Refund policy
 
-We grant our customers an opportunity to get a 100% refund on the funds they spent on one-year and two-year AdGuard VPN subscriptions purchased through <https://adguard-vpn.com/> (for subscriptions purchased elsewhere, check the refund policy of the particular reseller).
+We grant our customers an opportunity to get a 100% refund on the funds they spent on one-year and two-year AdGuard VPN subscriptions purchased through https://adguard-vpn.com/ (for subscriptions purchased elsewhere, check the refund policy of the particular reseller).
 
 > **Important**: monthly subscriptions are non-refundable. One-year and two-year subscriptions have a 30-day money-back guarantee. All refund requests made within 30 days of the purchase of a 1-year or 2-year subscription are granted regardless of the reason.
 
@@ -94,7 +96,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 5.1. AdGuard Software Limited guarantees a strict no-logging policy for AdGuard VPN services: your activities while using it are not monitored, recorded, logged, stored, or passed to any third party. Keynote: we do not record IP addresses and domain names of sites you visit; we do not record your IP address.
 
-5.2. AdGuard VPN collects and processes very limited user data and has a strong Privacy Policy available at <https://adguard-vpn.com/privacy.html> that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the Website.
+5.2. AdGuard VPN collects and processes very limited user data and has a strong Privacy Policy available at https://adguard-vpn.com/privacy.html that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard VPN and your browsing of the Website.
 
 5.3. Before using AdGuard VPN, you acknowledge that you have read and understand our Privacy policy, which explains what type of information we receive and process, and what might happen to that information, including, without limitation, how such information is shared and used.
 
@@ -147,7 +149,7 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should you have any questions concerning this EULA, or if you desire to contact the Rightholder for any reason, please contact our customer support service:
 
-Email: <support@adguard-vpn.com>
-Website: <https://adguard-vpn.com>
+Email: [support@adguard-vpn.com](mailto:support@adguard-vpn.com)
+Website: https://adguard-vpn.com
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
