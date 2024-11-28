@@ -81,8 +81,8 @@ To use our Affiliate Account, you need to register your account and sign in.
 
 We conduct all transactions via third-party payment providers. To process payments via the payout method you have chosen, we will share some of your personal data with a third party payment service to which you want to receive your payouts.
 
-- If you choose PayPal as your payout method, AdGuard will share the email address you indicate with [PayPal (Europe) S.à r.l. et Cie, S.C.A.](https://www.paypal.com/). PayPal privacy policy: <https://www.paypal.com/cy/webapps/mpp/ua/privacy-full>.
-- If you choose Mellow as your payout method, AdGuard will share the email address you indicate with [TMS SolarWeb Ltd](https://www.mellow.io/). Mellow privacy policy: <https://www.mellow.io/documents/privacy-policy>.
+- (a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with [PayPal (Europe) S.à r.l. et Cie, S.C.A.](https://www.paypal.com/). PayPal privacy policy: <https://www.paypal.com/cy/webapps/mpp/ua/privacy-full>.
+- (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with [TMS SolarWeb Ltd](https://www.mellow.io/). Mellow privacy policy: <https://www.mellow.io/documents/privacy-policy>.
 
 AdGuard does not request or have access to your accounts in third-party payment services.
 
