@@ -58,7 +58,11 @@ Note that when Your AdGuard account is created, You are subscribed to messages a
 
 We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from [adguard-dns.io](https://adguard-dns.io) (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller).
 
-> Important: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
+---
+
+**Important**: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
+
+---
 
 The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between You and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), You need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method You have chosen and usually takes up to 10 business days.
 

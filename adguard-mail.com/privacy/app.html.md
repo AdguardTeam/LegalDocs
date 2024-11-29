@@ -2,13 +2,21 @@
 
 *August 23, 2024*
 
-> **Keynote:** This Privacy Policy lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+---
+
+**Keynote:** This Privacy Policy lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+
+---
 
 ## What data AdGuard Mail apps can collect and when
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-> AdGuard Mail applications are available on multiple platforms: iOS, Android, macOS, Windows, and Web. They share identical functionality and a common code base. The following information represents the full range of data that may be collected, although the specific details gathered can vary depending on the platform, with some platforms collecting less.
+---
+
+AdGuard Mail applications are available on multiple platforms: iOS, Android, macOS, Windows, and Web. They share identical functionality and a common code base. The following information represents the full range of data that may be collected, although the specific details gathered can vary depending on the platform, with some platforms collecting less.
+
+---
 
 ### User registration and authorization
 
