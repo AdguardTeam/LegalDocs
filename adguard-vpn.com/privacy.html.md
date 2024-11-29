@@ -8,13 +8,13 @@ We do not share or sell your personal information. We are strongly committed to 
 
 1. We don’t collect logs on VPN servers and don’t know what websites you visit.
 1. We collect only the information necessary for our products and services to function properly.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account  at [my.adguard-vpn.com](https://my.adguard-vpn.com) or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at my.adguard-vpn.com or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 ## Who we are
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations and explains how, why and when we process your personal data. Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
-ADGUARD SOFTWARE LIMITED is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203-205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
 If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
@@ -70,7 +70,7 @@ For the exact data that the payment provider collects about you, please see the 
 
 We store only the number of bytes used by the account, it is not associated with locations. Traffic usage data is stored for 90 days.
 
-Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection.  This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
+Additionally, we collect information on the number of instances of our software that have an active VPN connection for both the free and paid versions. We receive this information from our VPN servers through which you establish a VPN connection. This is also done for the same reason — to make sure the user stays within the agreed-upon limits.
 
 **Diagnostic / Device information**. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 

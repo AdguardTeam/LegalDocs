@@ -16,7 +16,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 **If your project aligns with the GNU General Public License v3.0 or the Apache License, Version 2.0 criteria, you are permitted to utilize these components and versions of AdGuard under the provisions of the relevant open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the End-User License Agreement of AdGuard below is mandatory.**
 
-**The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at https://www.gnu.org/licenses/gpl-3.0.html and on the Apache Software Foundation website at [www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0), respectively.**
+**The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at [www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html) and on the Apache Software Foundation website at [www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0), respectively.**
 
 ## 1. Definitions
 
@@ -35,6 +35,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 1.7. “Software Beta Application” is a version of the Software, so identified, to be used only to test the Software for a limited time period. The beta version of the Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
 
 1.8. “Software Trial Application” is a version of the Software, so identified, to be used only to review, demonstrate and evaluate the Software for a limited time period. The Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
+
 1.9. “Third Party Software” are software modules, libraries and applications owned and/or licensed by third parties that are distributed with the Software and that may be part of the Software.
 
 1.10. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software, that the Rightholder provides from time to time in its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
@@ -188,7 +189,7 @@ By sending us the files, You provide us with Your consent to process the files a
 
 ## 9. Licenses to third-party software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address support@adguard.com. If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 ## 10. Ownership
 
@@ -216,7 +217,6 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our customer support service:
 
-Email: [support@adguard.com](mailto:support@adguard.com)
-Website: [adguard.com](https://adguard.com/)
+You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

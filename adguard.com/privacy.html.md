@@ -15,7 +15,7 @@ We do not share or sell your personal information. We are strongly committed to 
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations, and explains how, why, and when we process your Personal Data. Our general principle is to collect only the information that is necessary to provide you with the full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
-ADGUARD SOFTWARE LIMITED is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus, and acts as the data controller when processing your data.
 
 If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
@@ -27,7 +27,7 @@ If you do not agree with our policies and practices described in this Privacy Po
 
 There are several ways how we may get your Personal Data:
 
-- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected, how it is collected, and how you can manage it, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
+- When you visit our website adguard.com and its subdomains (“Website”). For more information about what data is collected, how it is collected, and how you can manage it, please see the Privacy Policy of AdGuard Websites at https://adguard.com/website-privacy.html.
 - When you use our products. You can find the full list of Personal Data collected on a privacy notice page dedicated to the product you use.
 
 ## What data we process
@@ -124,7 +124,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right of access**: The right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
 
-**Right to erasure or right to be forgotten**: The right to completely delete your Personal Data. You can do this at will in your AdGuard account or by sending a request to [privacy@adguard.com](mailto:privacy@adguard.com).
+**Right to erasure or right to be forgotten**: The right to completely delete your Personal Data. You can do this at will in your AdGuard account or by sending  a request to [privacy@adguard.com](mailto:privacy@adguard.com).
 
 **Right to rectification**: The right to correct any incomplete or inaccurate Personal Data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified.
 
@@ -170,7 +170,7 @@ To the extent not prohibited by applicable law, we do not allow the use of our s
 
 ## How we use cookies
 
-The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
+The definition of cookies and how we use them is explained in detail in the dedicated section of our Privacy Policy. For details, please see the Privacy Policy of AdGuard Websites: https://adguard.com/website-privacy.html.
 
 ## Changes to this Privacy Policy
 

@@ -9,6 +9,7 @@ BY CONNECTING TO ADGUARD DNS, OR BY USING IT, OR BY PRESSING A BUTTON INDICATING
 IF YOU DO NOT AGREE TO BE BOUND BY THIS EULA, DO NOT CONNECT TO ADGUARD DNS AND DO NOT USE ADGUARD DNS.
 
 NOTE THAT THIS EULA REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THIS EULA OR ANY BREACH THEREOF TO ARBITRATION.
+
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify this EULA from time to time without prior notification. The amendment of EULA may be broadcasted to You by sending an email and/or by publishing the updated EULA on the [AdGuard DNS website](https://adguard-dns.io/) (“Website”).
 
 **A certain component of AdGuard DNS, public DNS server, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the GNU Affero General Public License, Version 3 (AGPLv3).**
@@ -26,6 +27,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 1.3. You are entitled, in accordance with the license granted in clause 1.2 herein, to connect to and use AdGuard DNS on a certain number of devices, with certain number of monthly requests, certain number of available DNS servers, certain number of rules You can set, and certain level of support, which are indicated when you purchased Your subscription.
 
 1.4. In order to use private AdGuard DNS, You shall register Your AdGuard account using Your email address and create a private DNS server. A valid email address must be provided at registration for creation of the AdGuard DNS account. You may also log in with an email and password You have already registered at adguard.com before. You can connect to and use public AdGuard DNS without registering Your AdGuard account.
+
 1.5. We may also modify or discontinue our free services and benefits without notice at any time at our sole discretion. Non-gratuitous services may be discontinued at the end of the term of the respective contract.
 
 ## 2. Terms of Sale, Term
@@ -111,7 +113,7 @@ You represent and warrant that
 
 6.5. AdGuard Software Limited will use Your email address that You used when binding AdGuard DNS to Your account or creating a new account to send You notifications about modifications, new versions, and features of AdGuard DNS. In addition, You can provide Your consent to receive promotional information about AdGuard DNS, or similar products or services offered by AdGuard Software Limited. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your AdGuard account or unsubscribe right in the received email.
 
-6.6. If You subscribe to AdGuard blog or AdGuard affiliate program, AdGuard Software Limited will use Your email address that You specified when subscribing to send You related notifications. By subscribing You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](privacy@adguard.com).
+6.6. If You subscribe to AdGuard blog or AdGuard affiliate program, AdGuard Software Limited will use Your email address that You specified when subscribing to send You related notifications. By subscribing You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## 7. Warranty disclaimer
 

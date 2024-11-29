@@ -13,16 +13,17 @@ We do not share or sell your personal information. We are strongly committed to 
 
 1. When you sign up for our services or buy an AdGuard DNS subscription, you provide us with your email address. We’ll use it to notify you of changes to your AdGuard account. If you agree, we’ll also keep you informed about AdGuard DNS sales and news.
 
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at my.adguard.com or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
+
 Below, we list all the information we may process via AdGuard DNS and explain why we do it and how we use this information. We do not collect anything for tracking purposes and take all necessary measures to protect the information you share with us.
 
 ## Who we are
 
-ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy informs you of  your rights and our obligations and explains how, why, and when we process your personal data. Our general principle is to collect only the information necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
+ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy informs you of your rights and our obligations and explains how, why, and when we process your personal data. Our general principle is to collect only the information necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
-ADGUARD SOFTWARE LIMITED is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203-205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
-If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](privacy@adguard.com).
+If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 Please read this Privacy Policy thoroughly.
 
@@ -40,7 +41,7 @@ AdGuard DNS operates as a DNS resolver that can block access to certain domains 
 
 - **Private AdGuard DNS** blocks DNS queries or modifies DNS responses in accordance with the user’s preferences. In addition to that, it displays the queries and statistics to the user via the AdGuard DNS dashboard. Registering an AdGuard account is required to use this type of DNS resolver.
 
-If you disagree with our classification of  a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard.com](mailto:support@adguard.com).
+If you disagree with our classification of a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard.com](mailto:support@adguard.com).
 
 ## What data we process and when
 
@@ -53,6 +54,7 @@ We do not collect anything about the user specifically, except where necessary t
 - We store aggregated performance metrics of our DNS servers, namely the number of complete requests to a particular server, the number of blocked requests, and the speed of processing requests.
 
 - We keep and store an anonymous database of domains requested in the last 24 hours. There is no information whatsoever that could link any of these domain names to the original user who sent the request. We need this information to identify and block new trackers and threats.
+
 - We also log how many times this or that tracker has been blocked. We need this information to remove outdated rules from our filters.
 
 All this data that we process is not shared with any third parties. It is used solely for internal purposes such as performance analytics. The only information we may share is derivative information, i.e., lists of domains that our servers recognize as advertising, tracking, or malicious.
@@ -96,6 +98,7 @@ In this case, AdGuard DNS will block DNS queries or modify them according to the
 We process the following data to enable you to use private AdGuard DNS:
 
 - The email address you used to create your account.
+
 - We store logs of DNS queries from connected devices in order to display it to you on the AdGuard DNS dashboard. Logs contain status and content of requests, names of companies who own the requested resources, names of connected devices, date of requests. Additionally, we will log anonymized IP addresses (limited to subnet) of connected devices from which incoming DNS requests are received, when this option is enabled by you. Users may opt to disable logging via the account settings. The log is only stored for a limited period of time which can also be configured via the account settings.
 
 ## What legal bases we use to process your Personal Data
@@ -112,7 +115,7 @@ We use different legal bases to process Personal Data depending on the type of d
 
 ## Where we process your Personal Data
 
-We store your Personal Data in our own data center located in Frankfurt. Your Personal Data may be processed by our employees, who can only access your data through their job duties on a need-to-know basis. If you have questions or want to know from which countries access may be possible, you can write to us at [privacy@adguard.com](privacy@adguard.com).
+We store your Personal Data in our own data center located in Frankfurt. Your Personal Data may be processed by our employees, who can only access your data through their job duties on a need-to-know basis. If you have questions or want to know from which countries access may be possible, you can write to us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 For data transfers to other countries, we always implement appropriate safeguards to ensure that your Personal Data always remains safe and that your rights are respected:
 
@@ -124,7 +127,7 @@ For data transfers to other countries, we always implement appropriate safeguard
 
 - The transfer is necessary for the performance of a contract with you or to take steps requested by you prior to entering into that contract.
 
-If you would like a copy of the Standard Contractual Clauses used, please contact us at [privacy@adguard.com](privacy@adguard.com).
+If you would like a copy of the Standard Contractual Clauses used, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 To determine if a non-EU country has an adequate level of data protection, please [the European Commission website](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
 
@@ -138,7 +141,7 @@ We retain Personal Data for as long as necessary to continue providing you with 
 
 In some countries and regions, you may have certain rights in relation to your Personal Data under applicable data protection laws.
 
-If you wish to exercise your rights with respect to your Personal Data, please contact us at [privacy@adguard.com](privacy@adguard.com). We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
+If you wish to exercise your rights with respect to your Personal Data, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com). We will consider and act upon any request in accordance with applicable data protection laws. We may ask you to further confirm your identity and will respond to you within the time period specified by applicable data protection law. Please note that in certain cases stipulated by applicable data protection law, we may charge you a reasonable fee for processing your request or refuse your request.
 
 You are entitled to exercise the following rights in relation to your Personal Data:
 

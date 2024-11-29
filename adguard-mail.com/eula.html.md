@@ -9,6 +9,7 @@ BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE
 IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
+
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([adguard-mail.com](https://adguard-mail.com/), “Website”).
 
 ## 1. General
@@ -21,11 +22,11 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 1.4. AdGuard Mail, which AdGuard Software Limited may provide on a free basis in accordance with Section 1.2, may have a number of limitations, such as restrictions on the number of email aliases you can create and the number of recipients you can forward emails to. Information on these and other limitations is provided on the Website.
 
-1.6. To use AdGuard Mail, you must install the Application or visit the Website and log in using your email address or sign up by creating a new account. You must provide a valid email address when signing up. You may also log in with an email and password that you have previously registered on the Website or other Rightholder’s websites, such as adguard.com.
+1.5. To use AdGuard Mail, you must install the Application or visit the Website and log in using your email address or sign up by creating a new account. You must provide a valid email address when signing up. You may also log in with an email and password that you have previously registered on the Website or other Rightholder’s websites, such as adguard.com.
 
-1.7. We may modify or discontinue AdGuard Mail free services and benefits without notice at any time at our sole discretion.
+1.6. We may modify or discontinue AdGuard Mail free services and benefits without notice at any time at our sole discretion.
 
-1.8 Your continued use of AdGuard Mail after any modifications to this EULA have been made will constitute your acceptance of such modifications.
+1.7. Your continued use of AdGuard Mail after any modifications to this EULA have been made will constitute your acceptance of such modifications.
 
 ## 2. Restrictions
 

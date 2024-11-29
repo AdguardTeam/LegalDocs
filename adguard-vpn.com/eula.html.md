@@ -9,6 +9,7 @@ BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE
 IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
+
 AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website ([adguard-vpn.com](https://adguard-vpn.com/), “Website”).
 
 **A certain component of AdGuard VPN, DnsLibs, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the Apache License, Version 2.0.**
@@ -28,6 +29,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 1.4. AdGuard VPN provided by AdGuard Software Limited in accordance with clause 1.2 on the basis of a paid subscription may have a limit on the number of Software instances that you can simultaneously connect to the VPN under your AdGuard personal account (“Account”). Information about the limitations is provided on the Website as well as when you purchase the subscription.
 
 1.5. AdGuard VPN that AdGuard Software Limited may provide in accordance with clause 1.2 on a free basis may have a number of limitations, such as the maximum amount of traffic per month received through the VPN connection, limitation on the speed of the VPN connection, limitation on the available locations for the VPN servers, limitation on the number of Software instances that you can simultaneously connect to the VPN under your Account. Information on limitations is provided on the Website.
+
 1.6. To use AdGuard VPN, you must install AdGuard VPN and sign in using your email address or sign up by creating a new Account. You must provide a valid email address when signing up. You may also sign in with an email and password you have already registered at the Website or other Rightholder’s websites, such as adguard.com, before.
 
 1.7. We may also modify or discontinue AdGuard VPN free services and benefits without notice at any time at our sole discretion. Free-of-charge services may be discontinued at the end of the respective contract period.
