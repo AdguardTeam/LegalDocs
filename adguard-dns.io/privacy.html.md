@@ -155,7 +155,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object:** the right to object to processing of your Personal Data.
 
-**Right to data portability:** the right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from the AdGuard account on my.adguard.com.
+**Right to data portability:** the right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from the AdGuard account on [my.adguard.com](https://my.adguard.com).
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 

@@ -16,7 +16,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 **If Your project aligns with the AGPLv3 license criteria, You are permitted to utilize this component of AdGuard DNS under the provisions of the open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the AdGuard DNS End-User License Agreement below is mandatory.**
 
-**The text of the AGPLv3 license is accessible in the project’s source code repository and also on the Free Software Foundation website at [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).**
+**The text of the AGPLv3 license is accessible in the project’s source code repository and also on the Free Software Foundation website at [www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).**
 
 ## 1. General
 
@@ -34,7 +34,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 The provisions of this section apply to plans for private AdGuard DNS requiring paid subscription and do not apply to public AdGuard DNS and free Starter plan for private AdGuard DNS.
 
-2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at [https://adguard-dns.io](https://adguard-dns.io).
+2.1. A customer pays for a subscription that allows them to activate AdGuard DNS, a service that is available at [adguard-dns.io](https://adguard-dns.io).
 To test private AdGuard DNS, you can try the Starter plan. For more monthly requests, devices and servers, You need to purchase a subscription: Personal, Team, or Enterprise plans with monthly or yearly payments. Once You purchase a subscription, it is automatically and immediately activated and linked to Your AdGuard account, so You can enjoy using Your private AdGuard DNS right after purchasing Your subscription until it is expired or canceled.
 
 2.2. You may be entitled to a refund. Please refer to the refund terms and conditions in section 3.
@@ -56,9 +56,13 @@ Note that when Your AdGuard account is created, You are subscribed to messages a
 
 ## 3. Refund policy
 
-We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from [https://adguard-dns.io](https://adguard-dns.io) (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller).
+We grant our customers a possibility to return 100% of funds they spent on AdGuard DNS Yearly subscriptions purchased from [adguard-dns.io](https://adguard-dns.io) (for subscriptions purchased elsewhere, look for the refund policy of that particular reseller).
 
-> Important: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
+---
+
+**Important**: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
+
+---
 
 The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between You and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), You need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method You have chosen and usually takes up to 10 business days.
 
@@ -96,7 +100,7 @@ You have no right to:
 
 ## 6. User data and Privacy Policy
 
-6.1. AdGuard DNS collects and processes very limited user data and has a strong Privacy Policy available at [https://adguard-dns.io/privacy.html](https://adguard-dns.io/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to Your use of AdGuard DNS and Your browsing of the [https://adguard-dns.io](https://adguard-dns.io) website.
+6.1. AdGuard DNS collects and processes very limited user data and has a strong Privacy Policy available at [adguard-dns.io/privacy.html](https://adguard-dns.io/privacy.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to Your use of AdGuard DNS and Your browsing of the [adguard-dns.io](https://adguard-dns.io) website.
 
 6.2. By connecting to and by using AdGuard DNS, You agree to have read, understand and accept terms and conditions of data processing set out in our Privacy Policy available at the link mentioned above, which explains what type of information we collect, how it is shared and used.
 
@@ -139,7 +143,7 @@ You represent and warrant that
 
 ## 9. Licenses to third party software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 ## 10. Miscellaneous
 

@@ -2,17 +2,25 @@
 
 *August 23, 2024*
 
-> **Keynote:** This Privacy Policy lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+---
+
+**Keynote:** This Privacy Policy lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+
+---
 
 ## What data AdGuard Mail apps can collect and when
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
-> AdGuard Mail applications are available on multiple platforms: iOS, Android, macOS, Windows, and Web. They share identical functionality and a common code base. The following information represents the full range of data that may be collected, although the specific details gathered can vary depending on the platform, with some platforms collecting less.
+---
+
+AdGuard Mail applications are available on multiple platforms: iOS, Android, macOS, Windows, and Web. They share identical functionality and a common code base. The following information represents the full range of data that may be collected, although the specific details gathered can vary depending on the platform, with some platforms collecting less.
+
+---
 
 ### User registration and authorization
 
-Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com/). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [https://adguard.com/privacy/website.html](https://adguard.com/privacy/website.html).
+Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com/). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/privacy/website.html](https://adguard.com/privacy/website.html).
 
 When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguard.com](https://auth.adguard.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
 

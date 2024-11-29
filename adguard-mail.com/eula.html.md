@@ -10,7 +10,7 @@ IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE 
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 
-AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([https://adguard-mail.com/](https://adguard-mail.com/), “Website”).
+AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([adguard-mail.com](https://adguard-mail.com/), “Website”).
 
 ## 1. General
 
@@ -135,6 +135,6 @@ No action, regardless of its form, arising out of the transactions under this EU
 Should you have any questions concerning this EULA, or if you wish to contact the Rightholder for any reason, please reach out to our customer support service:
 
 Email: [support@adguard-mail.com](mailto:support@adguard-mail.com)
-Website: https://adguard-mail.com
+Website: [adguard-mail.com](https://adguard-mail.com)
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

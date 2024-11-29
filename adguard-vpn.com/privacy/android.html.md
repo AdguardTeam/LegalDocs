@@ -5,14 +5,18 @@
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard VPN for Android and explains why we do it and how we use this information.
 
-This Privacy Notice supplements the AdGuard VPN Privacy Policy available at <https://adguard-vpn.com/privacy.html>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
+This Privacy Notice supplements the AdGuard VPN Privacy Policy available at [adguard-vpn.com/privacy.html](https://adguard-vpn.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
-> **Keynote**:
->
-> - We do not collect logs on VPN servers and do not know what websites you visit.
-> - We only collect the information necessary for AdGuard VPN for Android to function fully and properly.
-> - We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
-> - You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account or by sending us a request at <privacy@adguard-vpn.com>.
+---
+
+**Keynote**:
+
+- We do not collect logs on VPN servers and do not know what websites you visit.
+- We only collect the information necessary for AdGuard VPN for Android to function fully and properly.
+- We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+- You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account or by sending us a request at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
+
+---
 
 ## What data AdGuard VPN for Android can collect and when
 

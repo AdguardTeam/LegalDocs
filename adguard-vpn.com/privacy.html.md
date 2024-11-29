@@ -30,7 +30,7 @@ Some data that we receive and process may be treated as personal data (“Person
 
 ### When you are using our website
 
-**When you visit our website <adguard-vpn.com> and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
+**When you visit our website [adguard-vpn.com](https://adguard-vpn.com) and its subdomains**. For more information about what data is collected, how it is collected, and how you can manage it, please see the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html).
 
 **Account registration**. We process your email address and a hash of the password which you provide to us at the registration. That ensures that you can retrieve your password if needed.
 
@@ -60,11 +60,11 @@ For the exact data that the payment provider collects about you, please see the 
 
 **Using our software**. When you choose to use our app, you will provide us your data, including Personal Data. This information, which we must process to ensure the full functionality of AdGuard VPN services, depends on the operating system for which the software is designed. For details, please refer to the corresponding privacy notices.
 
-- For AdGuard VPN for Windows: https://adguard-vpn.com/privacy/windows.html
-- For AdGuard VPN for Android: https://adguard-vpn.com/privacy/android.html
-- For AdGuard VPN for Mac: https://adguard-vpn.com/privacy/mac.html
-- For AdGuard VPN for iOS: https://adguard-vpn.com/privacy/ios.html
-- For AdGuard VPN Browser Extension: https://adguard-vpn.com/privacy/extension.html
+- For AdGuard VPN for Windows: [adguard-vpn.com/privacy/windows.html](https://adguard-vpn.com/privacy/windows.html)
+- For AdGuard VPN for Android: [adguard-vpn.com/privacy/android.html](https://adguard-vpn.com/privacy/android.html)
+- For AdGuard VPN for Mac: [adguard-vpn.com/privacy/mac.html](https://adguard-vpn.com/privacy/mac.html)
+- For AdGuard VPN for iOS: [adguard-vpn.com/privacy/ios.html](https://adguard-vpn.com/privacy/ios.html)
+- For AdGuard VPN Browser Extension: [adguard-vpn.com/privacy/extension.html](https://adguard-vpn.com/privacy/extension.html)
 
 **Usage information**. When you use our VPN service, we need to make sure that you stay within the agreed-upon limits. Therefore, we collect data on your traffic usage. This is done for two reasons: to prevent misuse of our service and to know when a user’s subscription has expired. When the subscription expires or is canceled, the free limit is reactivated and without knowing your previous data usage we cannot properly enforce the rules that limit using the free version.
 
@@ -97,7 +97,7 @@ For data transfers to other countries, we always implement appropriate safeguard
 - The transfer has your explicit consent.
 - The transfer is necessary for the performance of a contract with you or to take steps requested by you prior to entering into that contract.
 
-If you would like a copy of the Standard Contractual Clauses used, please contact us at <privacy@adguard-vpn.com>.
+If you would like a copy of the Standard Contractual Clauses used, please contact us at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com).
 
 To determine if a non-EU country has an adequate level of data protection, please visit [the European Commission website](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
 
@@ -125,13 +125,13 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object**: The right to object to processing of your Personal Data.
 
-**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard Account at <my.adguard.com>.
+**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard Account at [my.adguard.com](https://my.adguard.com).
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 
 **Right to withdraw a consent** where the data processing is based on the consent.
 
-**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument.
+**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities at [www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument).
 
 When we receive your Personal Data from a third party, we will use reasonable efforts to inform you about it.
 
@@ -159,7 +159,7 @@ You are not obligated to provide your Personal Data to us. However, as this info
 
 ### Age limitations
 
-To the extent not prohibited by applicable law, we do not allow the use of our Services, Products, and Website by persons under the age of 18. If you learn that someone under the age of 18 has unlawfully provided us with Personal Data, please contact us at <privacy@adguard-vpn.com>. We will take steps to delete such information.
+To the extent not prohibited by applicable law, we do not allow the use of our Services, Products, and Website by persons under the age of 18. If you learn that someone under the age of 18 has unlawfully provided us with Personal Data, please contact us at [privacy@adguard-vpn.com](mailto:privacy@adguard-vpn.com). We will take steps to delete such information.
 
 ## Changes to this Privacy Policy
 

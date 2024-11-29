@@ -18,7 +18,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 **For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the END-USER LICENSE AGREEMENT OF ADGUARD below is mandatory.**
 
-**The text of the GNU GPL-3 license is accessible in the project’s source code repository and also on the GNU Project website at [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).**
+**The text of the GNU GPL-3 license is accessible in the project’s source code repository and also on the GNU Project website at [www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).**
 
 ## 1. Definitions
 
@@ -36,7 +36,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 1.7. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software that the Rightholder provides from time to time at its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
 
-1.8. “Website” is the website operated by the Rightholder (for example, [https://adguard.com/](https://adguard.com/)).
+1.8. “Website” is the website operated by the Rightholder (for example, [adguard.com](https://adguard.com/)).
 
 ## 2. License grant
 
@@ -44,7 +44,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 2.2. In case You intend to install and use a Software Beta Application, the Rightholder hereby grants You a non-exclusive free license to use the Software Beta Application to test its functionality during the granted term of testing, provided that You participate in the Beta testing program of the Rightholder and comply with all rules of the Beta testing program and with all requirements, restrictions and terms specified in this EULA. You are not allowed to use the Software Beta Application for purposes other than those specified in this clause or after the expiry of the granted term of testing.
 
-2.3. You are entitled to receive technical support via the Website and by contacting the Rightholder’s support team at [support@adguard.com](support@adguard.com) and to get Updates.
+2.3. You are entitled to receive technical support via the Website and by contacting the Rightholder’s support team at [support@adguard.com](mailto:support@adguard.com) and to get Updates.
 
 ## 3. License restrictions
 
@@ -87,7 +87,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 (B) the functionality of the Software, including operation of its blocking and filtering components, may be limited due to the characteristics and settings of the web browser application in which You installed the Software.
 
-To use the Software in other web browser applications, You may install the Software in those applications, or You may install AdGuard Ad Blocker, which provides enhanced blocking and filtering functionality: [https://adguard.com/](https://adguard.com/).
+To use the Software in other web browser applications, You may install the Software in those applications, or You may install AdGuard Ad Blocker, which provides enhanced blocking and filtering functionality: [adguard.com](https://adguard.com/).
 
 4.4. You are solely responsible for compliance with terms of use of websites You visit.
 
@@ -95,7 +95,7 @@ To use the Software in other web browser applications, You may install the Softw
 
 ## 5. Privacy Policy and data processing
 
-5.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [https://adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
+5.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
 
 5.2. Before using the Software, You acknowledge that You have read and understand our Privacy Policy.
 
@@ -125,7 +125,7 @@ By installing and using the Software, You acknowledge that You agree to this EUL
 
 ## 8. Licenses to Third-party Software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third-party Software. Such licenses allow You to copy, modify, and redistribute the Third-party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third-party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third-party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third-party Software. Such licenses allow You to copy, modify, and redistribute the Third-party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third-party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third-party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 ## 9. Ownership
 
@@ -158,6 +158,6 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 ## 13. Contact Information
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact us:
-Email: [support@adguard.com](support@adguard.com)
-Website: <adguard.com>
+Email: [support@adguard.com](mailto:support@adguard.com)
+Website: [adguard.com](https://adguard.com/)
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

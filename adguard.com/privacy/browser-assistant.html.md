@@ -3,9 +3,13 @@
 
 *August 7, 2024*
 
->**Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+---
 
-This Privacy Notice supplements the AdGuard Privacy Policy available at <https://adguard.com/privacy.htm>, which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
+**Keynote:** This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+
+---
+
+This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.htm](https://adguard.com/privacy.htm), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 ## What data AdGuard Browser Assistant can collect and when
 
