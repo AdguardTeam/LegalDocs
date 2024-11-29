@@ -4,7 +4,7 @@
     "description": "This repository contains AdGuard’s legal documents, they are later synced to the website. The purpose is to be transparent about the history of their changes.",
     "main": "index.js",
     "scripts": {
-        "lint": "markdownlint ."
+        "lint": "markdownlint . && node check-md-files.js"
     },
     "author": "",
     "license": "ISC",
