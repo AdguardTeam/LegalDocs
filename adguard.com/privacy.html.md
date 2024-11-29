@@ -166,7 +166,7 @@ You are not obligated to provide your Personal Data to us. However, as this info
 
 ### Age limitations
 
-To the extent not prohibited by applicable law, we do not allow the use of our services, products, and Website by persons under the age of 16. If you learn that someone under the age of 16 has unlawfully provided us with Personal Data, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com). We will take steps to delete that information.
+To the extent not prohibited by applicable law, we do not allow the use of our services, products, and Website by persons under the age of 16. If you learn that someone under the age of 16 has unlawfully provided us with Personal Data, For details, please see the Privacy Policy of AdGuard Websites: [adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
 
 ## How we use cookies
 
