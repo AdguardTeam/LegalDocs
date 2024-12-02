@@ -3,6 +3,20 @@ const path = require('path');
 
 let errorFound = false;
 
+const prohibitedAmpRegex = /&(?!amp;|lt;|gt;|quot;|apos;)/;
+
+function checkLine(line) {
+    if (line.includes('<')) {
+        return false;
+    }
+
+    if (line.includes('>')) {
+        return false;
+    }
+
+    return !prohibitedAmpRegex.test(line);
+}
+
 function checkFiles(dir) {
     const files = fs.readdirSync(dir);
 
@@ -22,9 +36,8 @@ function checkFiles(dir) {
 
             const lines = content.split('\n');
             lines.forEach((line, index) => {
-                // Check for forbidden characters '<' or '>'
-                if (line.includes('<') || line.includes('>')) {
-                    console.error(`Error in ${filePath}:${index + 1}: Forbidden character '<' or '>' found.`);
+                if (!checkLine(line)) {
+                    console.error(`Error in ${filePath}:${index + 1}`);
                     errorFound = true;
                 }
             });
