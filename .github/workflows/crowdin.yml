@@ -23,6 +23,8 @@ jobs:
         run: npm run build:resx
 
       - name: Run Crowdin upload
+        env:
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
         run: |
           if [ "${{ github.ref_name }}" = "master" ]; then
             npm run crowdin:upload
