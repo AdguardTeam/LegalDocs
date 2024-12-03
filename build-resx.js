@@ -46,7 +46,7 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
         console.log(`Generated key: ${key}`);
 
         xmlBuilder = xmlBuilder.ele('data').att('name', key)
-            .ele('value').txt(content).up()
+            .ele('value').dat(content).up()
             .up()
     }
 
