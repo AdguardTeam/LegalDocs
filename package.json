@@ -6,7 +6,8 @@
     "scripts": {
         "lint": "markdownlint .",
         "build:resx": "node build-resx.js",
-        "crowdin:upload": "crowdin upload"
+        "crowdin:upload": "crowdin upload",
+        "crowdin:upload:dryrun": "crowdin upload --dryrun"
     },
     "author": "",
     "license": "ISC",

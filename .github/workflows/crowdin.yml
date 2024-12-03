@@ -3,10 +3,11 @@ name: Upload to Crowdin
 on:
   push:
     branches:
-      - "master"
+      - "*"
 
 jobs:
-  build:
+  crowdin:
+    if: github.event.pull_request.head.repo.fork == false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,7 +22,10 @@ jobs:
       - name: Build resx files
         run: npm run build:resx
 
-      - name: Sync translations
-        env:
-          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-        run: npm run crowdin:upload
+      - name: Run Crowdin upload
+        run: |
+          if [ "${{ github.ref_name }}" = "master" ]; then
+            npm run crowdin:upload
+          else
+            npm run crowdin:upload:dryrun
+          fi
