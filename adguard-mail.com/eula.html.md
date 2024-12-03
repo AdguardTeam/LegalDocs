@@ -70,7 +70,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 3. Personal data and Privacy Policy
 
-3.1. AdGuard Mail has a strong [Privacy Policy](https://adguard-mail.com/privacy.html) that describes what data AdGuard Mail apps can collect and when. Another document — [Website &amp; Cookies Privacy notice](https://adguard-mail.com/privacy/website.html) — explains in detail how AdGuard Software Limited handles your personal data in relation to your browsing of the Website.
+3.1. AdGuard Mail has a strong [Privacy Policy](https://adguard-mail.com/privacy.html) that describes what data AdGuard Mail apps can collect and when. Another document — [Website & Cookies Privacy notice](https://adguard-mail.com/privacy/website.html) — explains in detail how AdGuard Software Limited handles your personal data in relation to your browsing of the Website.
 
 3.2. Before using AdGuard Mail, you acknowledge that you have read and understood our Privacy Policy, which explains the types of information we collect and process, and what may happen to that information, including, without limitation, how such information is shared and used.
 

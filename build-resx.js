@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const {create} = require('xmlbuilder2');
 
 const basePath = 'crowdin';
 const outputFilename = 'docs.resx';
@@ -27,12 +28,12 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
         continue;
     }
 
-    const mdFiles = fs.readdirSync(sourceDir, { recursive: true })
+    const mdFiles = fs.readdirSync(sourceDir, {recursive: true})
         .filter(file => file.endsWith(filesToProcessExt));
 
     console.log(`Found ${mdFiles.length} files to process`);
 
-    let resxContent = '<?xml version="1.0" encoding="utf-8"?>\n<root>';
+    let xmlBuilder = create({version: '1.0', encoding: 'utf-8'}).ele('root');
 
     for (const filePath of mdFiles) {
         console.log(`Processing file: ${filePath}`);
@@ -44,14 +45,15 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
 
         console.log(`Generated key: ${key}`);
 
-        resxContent += `
-    <data name="${key}">
-        <value>${content}</value>
-    </data>        
-`
+        xmlBuilder = xmlBuilder.ele('data').att('name', key)
+            .ele('value').txt(content).up()
+            .up()
     }
 
-    resxContent += '</root>'
+    const resxContent = xmlBuilder.end({
+        prettyPrint: true,
+        indent: '    ',
+    });
 
     const outputDir = path.join(basePath, crowdinDir);
 

@@ -3,18 +3,8 @@ const path = require('path');
 
 let errorFound = false;
 
-const prohibitedAmpRegex = /&(?!amp;|lt;|gt;|quot;|apos;)/;
-
 function checkLine(line) {
-    if (line.includes('<')) {
-        return false;
-    }
-
-    if (line.includes('>')) {
-        return false;
-    }
-
-    return !prohibitedAmpRegex.test(line);
+    return !line.includes('<') && !line.includes('>');
 }
 
 function checkFiles(dir) {
