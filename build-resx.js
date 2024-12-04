@@ -3,7 +3,7 @@ const path = require('path');
 const {create} = require('xmlbuilder2');
 
 const basePath = 'crowdin';
-const outputFilename = 'docs.resx';
+const outputFilename = 'docs.en.resx';
 const filesToProcessExt = '.html.md'
 
 const mappings = {

@@ -6,13 +6,15 @@
     "scripts": {
         "lint": "markdownlint .",
         "build:resx": "node build-resx.js",
-        "crowdin:upload": "crowdin upload",
-        "crowdin:upload:dryrun": "crowdin upload --dryrun"
+        "crowdin:upload:sources": "crowdin upload sources",
+        "crowdin:upload:translations": "crowdin upload translations -l en --auto-approve-imported --import-eq-suggestions",
+        "crowdin:upload": "npm run crowdin:upload:sources && npm run crowdin:upload:translations",
+        "crowdin:upload:dryrun": "crowdin upload sources --dryrun && crowdin upload translations -l en --auto-approve-imported --import-eq-suggestions --dryrun"
     },
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "@crowdin/cli": "4.4.0",
+        "@crowdin/cli": "4.4.1",
         "markdownlint": "0.36.1",
         "markdownlint-cli": "0.43.0",
         "xmlbuilder2": "3.1.1"
