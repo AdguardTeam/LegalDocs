@@ -5,7 +5,7 @@
 ## 1. General
 
 Adguard Software Limited (hereafter, “AdGuard”, “we,” “us,” “our”) is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus.
-We operate the AdGuard Account services available at [my.adguard.com](https://my.adguard.com) (hereafter, the “Account”), and websites related to AdGuard software and services (hereafter, the “Websites”): AdGuard Ad Blocker (https://adguard.com/), AdGuard VPN (https://adguard-vpn.com/), AdGuard DNS (https://adguard-dns.io/), and AdGuard Mail (https://adguard-mail.com/).
+We operate the AdGuard Account services available at [my.adguard.com](https://my.adguard.com) (hereafter, the “Account”), and websites related to AdGuard software and services (hereafter, the “Websites”): AdGuard Ad Blocker (https://adguard.com), AdGuard VPN (https://adguard-vpn.com), AdGuard DNS (https://adguard-dns.io), and AdGuard Mail (https://adguard-mail.com).
 
 IMPORTANT: THESE TERMS AND CONDITIONS (HEREAFTER, “TERMS” OR “AGREEMENT”) REGULATE THE USE OF THE ACCOUNT AND THE WEBSITES AND CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF THE ACCOUNT IS USED BY OR FOR AN ENTITY, AN ENTITY, HEREAFTER ALSO, “YOU”, “YOUR”, THE “USER”) AND ADGUARD (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE ACCOUNT, HEREAFTER ALSO, THE “RIGHTHOLDER”). READ IT CAREFULLY BEFORE USING THE ACCOUNT OR THE WEBSITES.
 
@@ -199,7 +199,7 @@ If AdGuard terminates or suspends your Account for any reason, you are prohibite
 
 ## 12. Licenses to Third-Party Software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain third party software. Such licenses allow you to copy, modify, and redistribute the third party software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any third party software, AdGuard will provide you with the source code upon receipt of your request at the AdGuard’s email address support@adguard.com. If such licenses demand the provision of rights to use, copy or modify any third party software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain third party software. Such licenses allow you to copy, modify, and redistribute the third party software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any third party software, AdGuard will provide you with the source code upon receipt of your request at [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any third party software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 ## 13. Miscellaneous
 
@@ -235,7 +235,7 @@ No action, regardless of form, arising out of the transactions under these Terms
 
 Should you have any questions concerning these Terms, or if you desire to contact AdGuard for any reason, please contact our Customer Support Service:
 
-Email: support@adguard.com
-Website: https://adguard.com/
+Email: [support@adguard.com](mailto:support@adguard.com)
+Website: [adguard.com](https://adguard.com)
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Account and the Websites and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

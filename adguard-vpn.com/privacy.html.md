@@ -44,7 +44,7 @@ You can also provide us with your consent to process your email for sending mark
 
 We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 
-We conduct all transactions via [Paddle.com Market Ltd](https://www.paddle.com/) and [PayPro Global, Inc.](https://payproglobal.com/) to enable payments if you purchase a subscription to use our software and services.
+We conduct all transactions via [Paddle.com Market Ltd](https://www.paddle.com) and [PayPro Global, Inc.](https://payproglobal.com) to enable payments if you purchase a subscription to use our software and services.
 The data processed depends on the payment provider and may include the following:
 
 - Email address

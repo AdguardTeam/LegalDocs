@@ -36,7 +36,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 1.7. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software that the Rightholder provides from time to time at its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
 
-1.8. “Website” is the website operated by the Rightholder (for example, [adguard.com](https://adguard.com/)).
+1.8. “Website” is the website operated by the Rightholder (for example, [adguard.com](https://adguard.com)).
 
 ## 2. License grant
 
@@ -87,7 +87,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 (B) the functionality of the Software, including operation of its blocking and filtering components, may be limited due to the characteristics and settings of the web browser application in which You installed the Software.
 
-To use the Software in other web browser applications, You may install the Software in those applications, or You may install AdGuard Ad Blocker, which provides enhanced blocking and filtering functionality: [adguard.com](https://adguard.com/).
+To use the Software in other web browser applications, You may install the Software in those applications, or You may install AdGuard Ad Blocker, which provides enhanced blocking and filtering functionality: [adguard.com](https://adguard.com).
 
 4.4. You are solely responsible for compliance with terms of use of websites You visit.
 
@@ -158,6 +158,8 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 ## 13. Contact Information
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact us:
+
 Email: [support@adguard.com](mailto:support@adguard.com)
-Website: [adguard.com](https://adguard.com/)
+Website: [adguard.com](https://adguard.com)
+
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

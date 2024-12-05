@@ -10,7 +10,7 @@ IF YOU DO NOT AGREE TO BE BOUND BY THIS EULA, DO NOT CONNECT TO ADGUARD DNS AND 
 
 NOTE THAT THIS EULA REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THIS EULA OR ANY BREACH THEREOF TO ARBITRATION.
 
-AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify this EULA from time to time without prior notification. The amendment of EULA may be broadcasted to You by sending an email and/or by publishing the updated EULA on the [AdGuard DNS website](https://adguard-dns.io/) (“Website”).
+AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify this EULA from time to time without prior notification. The amendment of EULA may be broadcasted to You by sending an email and/or by publishing the updated EULA on the [AdGuard DNS website](https://adguard-dns.io) (“Website”).
 
 **A certain component of AdGuard DNS, public DNS server, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the GNU Affero General Public License, Version 3 (AGPLv3).**
 
@@ -64,7 +64,7 @@ We grant our customers a possibility to return 100% of funds they spent on AdGua
 
 ---
 
-The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between You and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), You need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method You have chosen and usually takes up to 10 business days.
+The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between You and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io), You need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method You have chosen and usually takes up to 10 business days.
 
 ## 4. Restrictions
 

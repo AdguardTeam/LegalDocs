@@ -20,7 +20,7 @@ AdGuard Mail applications are available on multiple platforms: iOS, Android, mac
 
 ### User registration and authorization
 
-Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com/). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/privacy/website.html](https://adguard.com/website-privacy.html).
+Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
 
 When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguard.com](https://auth.adguard.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
 
@@ -165,4 +165,4 @@ AdGuard Mail utilizes Amazon Simple Email Service (Amazon SES) to forward emails
 
 Amazon SES may retain certain data, such as logs, for a limited period of time for operational purposes, including tracking email deliverability and investigating service issues. However, the content of the emails is typically deleted shortly after processing is complete.
 
-Amazon SES is a trusted service provider that complies with strict privacy and security standards. By using AdGuard Mail, you acknowledge and agree that your email data will be handled by Amazon SES in accordance with their privacy practices. For more details, please refer to [Amazon’s Privacy Notice](https://aws.amazon.com/privacy/) and [AWS SES Data Handling Policies](https://docs.aws.amazon.com/ses/latest/dg/deleting-personal-data.html).
+Amazon SES is a trusted service provider that complies with strict privacy and security standards. By using AdGuard Mail, you acknowledge and agree that your email data will be handled by Amazon SES in accordance with their privacy practices. For more details, please refer to [Amazon’s Privacy Notice](https://aws.amazon.com/privacy) and [AWS SES Data Handling Policies](https://docs.aws.amazon.com/ses/latest/dg/deleting-personal-data.html).
