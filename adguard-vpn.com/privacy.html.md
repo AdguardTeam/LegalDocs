@@ -26,7 +26,7 @@ If you do not agree with our policies and practices described in this Privacy Po
 
 We process different data depending on the situation. You can learn details about what data we process in this section.
 
-Some data that we receive and process may be treated as personal data (“Personal Data”) in accordance with the laws of certain territories and countries. When we use terms “personal data" or “personal information”, we mean any information relating to an identified or identifiable natural person, excluding any anonymized and depersonalized data where your identity is absent or has been removed and cannot be recovered.
+Some data that we receive and process may be treated as personal data (“Personal Data”) in accordance with the laws of certain territories and countries. When we use terms “personal data” or “personal information”, we mean any information relating to an identified or identifiable natural person, excluding any anonymized and depersonalized data where your identity is absent or has been removed and cannot be recovered.
 
 ### When you are using our website
 
@@ -44,7 +44,7 @@ You can also provide us with your consent to process your email for sending mark
 
 We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 
-We conduct all transactions via [Paddle.com Market Ltd](https://www.paddle.com/) and [PayPro Global, Inc.](https://payproglobal.com/) to enable payments if you purchase a subscription to use our software and services.
+We conduct all transactions via [Paddle.com Market Ltd](https://www.paddle.com) and [PayPro Global, Inc.](https://payproglobal.com) to enable payments if you purchase a subscription to use our software and services.
 The data processed depends on the payment provider and may include the following:
 
 - Email address

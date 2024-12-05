@@ -10,11 +10,11 @@ IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE 
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 
-AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([adguard-mail.com](https://adguard-mail.com/), “Website”).
+AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard Mail website ([adguard-mail.com](https://adguard-mail.com), “Website”).
 
 ## 1. General
 
-1.1. AdGuard Software Limited provides AdGuard Mail ("Software”), which is an email forwarding and temporary email application available across platforms, including web-based access. You are solely and exclusively responsible for the use of AdGuard Mail. AdGuard Software Limited shall not be liable for any loss, whether monetary or non-monetary, including but not limited to attorney fees or court costs, regardless of any laws or statutes that might suggest otherwise.
+1.1. AdGuard Software Limited provides AdGuard Mail (“Software”), which is an email forwarding and temporary email application available across platforms, including web-based access. You are solely and exclusively responsible for the use of AdGuard Mail. AdGuard Software Limited shall not be liable for any loss, whether monetary or non-monetary, including but not limited to attorney fees or court costs, regardless of any laws or statutes that might suggest otherwise.
 
 1.2. AdGuard Software Limited grants you a non-exclusive and limited license to download and use AdGuard Mail within the scope of the functionality described on the Website, provided that you comply with all requirements, restrictions, and terms specified in this EULA. The AdGuard Mail application and services are owned and copyrighted by AdGuard Software Limited and are protected worldwide. AdGuard Software Limited retains all rights, title, and interest in and to the AdGuard Mail application and services and any portion thereof, including, without limitation, all copyrights, trademarks, service marks, trade secrets, and other intellectual property rights. All rights are reserved unless otherwise noted. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using AdGuard Mail in any way not expressly authorized by AdGuard Software Limited with written consent or permitted by this EULA is strictly prohibited.
 
@@ -58,7 +58,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 (B) Infringing upon the intellectual property rights of others, including but not limited to patents, trademarks, trade secrets, copyrights, or other proprietary rights.
 
-(C) Engaging in the transmission of unsolicited advertising, "spam" emails, or other deceptive practices, including misrepresenting yourself as another person or entity.
+(C) Engaging in the transmission of unsolicited advertising, “spam” emails, or other deceptive practices, including misrepresenting yourself as another person or entity.
 
 2.9. Only persons 18 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
 

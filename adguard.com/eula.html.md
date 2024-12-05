@@ -40,7 +40,7 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 1.10. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software, that the Rightholder provides from time to time in its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
 
-1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, [adguard.com](https://adguard.com/)).
+1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, [adguard.com](https://adguard.com)).
 
 ## 2. License grant
 

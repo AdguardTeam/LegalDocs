@@ -10,7 +10,7 @@ IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE 
 
 NOTE THAT THESE TERMS REQUIRE THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DISPUTE ARISING OUT OF THE INTERPRETATION OR APPLICATION OF THESE TERMS OR ANY BREACH THEREOF TO ARBITRATION.
 
-AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website ([adguard-vpn.com](https://adguard-vpn.com/), “Website”).
+AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may modify these Terms from time to time without prior notice. The amendment of these Terms may be broadcasted to you via email and/or by publishing the updated Terms on the AdGuard VPN website ([adguard-vpn.com](https://adguard-vpn.com), “Website”).
 
 **A certain component of AdGuard VPN, DnsLibs, is subject to dual licensing, making it accessible through both a commercial license and an open-source license, namely, the Apache License, Version 2.0.**
 
@@ -20,7 +20,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 1. General
 
-1.1. AdGuard Software Limited provides AdGuard VPN ("Software”), which is a virtual private network (VPN) software for your exclusive use, at your own risk and responsibility. You are solely and exclusively responsible for the use of AdGuard VPN. AdGuard Software Limited shall not be liable for any loss, monetary or non-monetary harm, and this shall not include attorney fees or court costs irrespective of any laws or statutes that prescribe otherwise.
+1.1. AdGuard Software Limited provides AdGuard VPN (”Software”), which is a virtual private network (VPN) software for your exclusive use, at your own risk and responsibility. You are solely and exclusively responsible for the use of AdGuard VPN. AdGuard Software Limited shall not be liable for any loss, monetary or non-monetary harm, and this shall not include attorney fees or court costs irrespective of any laws or statutes that prescribe otherwise.
 
 1.2. AdGuard Software Limited grants you a non-exclusive and limited license to download and use AdGuard VPN within the scope of the functionality described on the Website, provided that you comply with all requirements, restrictions and terms specified in this EULA. The AdGuard VPN services are owned and copyrighted by AdGuard Software Limited and are protected worldwide. AdGuard Software Limited retains all rights, title, and interest in and to the AdGuard VPN services and any portion thereof, including, without limitation, all copyrights, trademarks, service marks, trade secrets, and other intellectual property rights. All rights are reserved unless otherwise noted. Modifying, distributing to unauthorized parties, reverse engineering, or otherwise using AdGuard VPN in any way not expressly authorized by AdGuard Software Limited with written consent or permitted by this EULA is strictly prohibited.
 
@@ -36,7 +36,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 2. Terms of sale
 
-2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from [adguard-vpn.com](https://adguard-vpn.com/).
+2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from [adguard-vpn.com](https://adguard-vpn.com).
 
 In order to use the paid version of AdGuard VPN, you need to purchase a monthly, one-year, or two-year subscription. Once you purchase a subscription, it is automatically linked to your Account.
 The period of use of AdGuard VPN granted by the Rightholder is specified when you purchase the subscription.
@@ -52,7 +52,7 @@ The term of use of AdGuard VPN starts from the purchase of the subscription. If 
 
 ## 3. Refund policy
 
-We grant our customers an opportunity to get a 100% refund on the funds they spent on one-year and two-year AdGuard VPN subscriptions purchased through [adguard-vpn.com](https://adguard-vpn.com/) (for subscriptions purchased elsewhere, check the refund policy of the particular reseller).
+We grant our customers an opportunity to get a 100% refund on the funds they spent on one-year and two-year AdGuard VPN subscriptions purchased through [adguard-vpn.com](https://adguard-vpn.com) (for subscriptions purchased elsewhere, check the refund policy of the particular reseller).
 
 ---
 

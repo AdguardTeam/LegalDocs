@@ -2,7 +2,7 @@
 
 *October 31, 2024*
 
-This Data Processing Agreement ("Agreement") governs the specific requirements of Data Protection Laws to the extent that Company’s use of AdGuard Services implies the processing of Personal Data subject to Data Protection Laws.
+This Data Processing Agreement (”Agreement”) governs the specific requirements of Data Protection Laws to the extent that Company’s use of AdGuard Services implies the processing of Personal Data subject to Data Protection Laws.
 
 This Agreement is complementary to our Privacy Policy, which serves as the primary reference for our data protection practices and measures.
 
@@ -16,32 +16,32 @@ Unless otherwise defined herein, capitalized terms and expressions used in this 
 
 Terms and definitions
 
-- **"AdGuard"**: AdGuard Software Limited, a company duly incorporated under the laws of Cyprus, with a registration number 332952.
-- **"AdGuard Services" or "Services"**: The Services are provided by AdGuard and specified on the Website.
-- **"Agreement"**: Means this Data Processing Agreement and all Schedules.
-- **"Company"**: A customer of the AdGuard Services under the Service Agreement.
-- **"Company Personal Data"**: Means any Personal Data related to the Company or the Company’s customers or employees processed in connection with the Service Agreement.
-- **"Contracted Processor"**: Means a Subprocessor.
-- **"Data Protection Laws"**: Means EU Data Protection Laws and, to the extent applicable, the data protection or privacy laws of any other country.
-- **"EEA"**: Means the European Economic Area.
-- **"EU Data Protection Laws"**: Means EU Directive 95/46/EC, as transposed into domestic legislation of each Member State and as amended, replaced, or superseded from time to time, including by the GDPR and laws implementing or supplementing the GDPR.
-- **"GDPR"**: Means the EU General Data Protection Regulation 2016/679.
-- **"Data Transfer"**: Means a transfer of a Company's Personal Data from a Controller to a Processor or a Contracted Processor, or an onward transfer of Company Personal Data from a Processor to a Subprocessor, or between two establishments of a Subprocessor.
-- **"Service Agreement"**: Means an agreement between AdGuard and Customer which is regulated by separate written document under which AdGuard may grant to Company a non-exclusive, non-transferable right to access and use the AdGuard Services, in accordance with the terms and limitations set forth in that Service Agreement and the applicable Subscription Plan. Under that Service Agreement, the Company may have the right to distribute the AdGuard Services to the End Users. Therefore, in order to secure the personal data of End Users to whom the AdGuard Services may be distributed under the Service Agreement, the Company undertakes to follow the rules specified in the present Agreement (Data Processing Agreement).
-- **"Subprocessor"**: Means any person appointed by or on behalf of a Processor to process Personal Data on behalf of a Controller in connection with the Agreement.
-- **"Website"**: https://adguard.com, https://adguard-vpn.com, https://adguard-dns.io/, or any other website related to the provision of AdGuard Services on behalf of AdGuard.
+- **”AdGuard”**: AdGuard Software Limited, a company duly incorporated under the laws of Cyprus, with a registration number 332952.
+- **”AdGuard Services” or ”Services”**: The Services are provided by AdGuard and specified on the Website.
+- **”Agreement”**: Means this Data Processing Agreement and all Schedules.
+- **”Company”**: A customer of the AdGuard Services under the Service Agreement.
+- **”Company Personal Data”**: Means any Personal Data related to the Company or the Company’s customers or employees processed in connection with the Service Agreement.
+- **”Contracted Processor”**: Means a Subprocessor.
+- **”Data Protection Laws”**: Means EU Data Protection Laws and, to the extent applicable, the data protection or privacy laws of any other country.
+- **”EEA”**: Means the European Economic Area.
+- **”EU Data Protection Laws”**: Means EU Directive 95/46/EC, as transposed into domestic legislation of each Member State and as amended, replaced, or superseded from time to time, including by the GDPR and laws implementing or supplementing the GDPR.
+- **”GDPR”**: Means the EU General Data Protection Regulation 2016/679.
+- **”Data Transfer”**: Means a transfer of a Company’s Personal Data from a Controller to a Processor or a Contracted Processor, or an onward transfer of Company Personal Data from a Processor to a Subprocessor, or between two establishments of a Subprocessor.
+- **”Service Agreement”**: Means an agreement between AdGuard and Customer which is regulated by separate written document under which AdGuard may grant to Company a non-exclusive, non-transferable right to access and use the AdGuard Services, in accordance with the terms and limitations set forth in that Service Agreement and the applicable Subscription Plan. Under that Service Agreement, the Company may have the right to distribute the AdGuard Services to the End Users. Therefore, in order to secure the personal data of End Users to whom the AdGuard Services may be distributed under the Service Agreement, the Company undertakes to follow the rules specified in the present Agreement (Data Processing Agreement).
+- **”Subprocessor”**: Means any person appointed by or on behalf of a Processor to process Personal Data on behalf of a Controller in connection with the Agreement.
+- **”Website”**: https://adguard.com, https://adguard-vpn.com, https://adguard-dns.io/, or any other website related to the provision of AdGuard Services on behalf of AdGuard.
 
-The terms, "Commission", "Controller", "Data Subject", "Member State", "Personal Data", "Personal Data Breach", "Processing" and "Supervisory Authority" shall have the same meaning as in the GDPR or other applicable Data Protection Law, and their cognate terms shall be construed accordingly.
+The terms, ”Commission”, ”Controller”, ”Data Subject”, ”Member State”, ”Personal Data”, ”Personal Data Breach”, ”Processing” and ”Supervisory Authority” shall have the same meaning as in the GDPR or other applicable Data Protection Law, and their cognate terms shall be construed accordingly.
 
-The following terminology applies to these Agreement: “Company”, "You" and "Your" refers to you as a Company and a Contractor under Service Agreement. "We", "Ourselves", "Our" and "Us", refers to AdGuard. "Party", "Parties" refers to both the Company and AdGuard. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+The following terminology applies to these Agreement: “Company”, ”You” and ”Your” refers to you as a Company and a Contractor under Service Agreement. ”We”, ”Ourselves”, ”Our” and ”Us”, refers to AdGuard. ”Party”, ”Parties” refers to both the Company and AdGuard. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ### 1. GENERAL PROVISIONS
 
 In order to protect and secure personal data of End Users of the Services the Parties hereby agree about the following:
 
-- The Company act as a Data Controller (the "Controller").
+- The Company act as a Data Controller (the ”Controller”).
 
-- The Company wishes to subcontract certain Services (as defined below), which imply the processing of Personal Data, to AdGuard, acting as a Data Processor (the "Processor").
+- The Company wishes to subcontract certain Services (as defined below), which imply the processing of Personal Data, to AdGuard, acting as a Data Processor (the ”Processor”).
 
 - The Parties seek to implement a data processing agreement that complies with the requirements of the current legal framework in relation to data processing and with the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) and other applicable data protection laws.
 
@@ -67,7 +67,7 @@ Controller instructs Processor to process Company Personal Data to:
 
 ### 3. PROCESSOR PERSONNEL
 
-Processor shall take reasonable steps to ensure the reliability of any employee, agent or contractor of any Contracted Processor who may have access to Company Personal Data, ensuring in each case that access is strictly limited to those individuals who need to know / access the relevant Company Personal Data, as strictly necessary for the purposes of the Principal Agreement, and/or to comply with Data Protection Laws and other relevant legislation in the context of that individual's duties to the Contracted Processor, ensuring that all such individuals are subject to confidentiality undertakings or professional or statutory obligations of confidentiality.
+Processor shall take reasonable steps to ensure the reliability of any employee, agent or contractor of any Contracted Processor who may have access to Company Personal Data, ensuring in each case that access is strictly limited to those individuals who need to know / access the relevant Company Personal Data, as strictly necessary for the purposes of the Principal Agreement, and/or to comply with Data Protection Laws and other relevant legislation in the context of that individual’s duties to the Contracted Processor, ensuring that all such individuals are subject to confidentiality undertakings or professional or statutory obligations of confidentiality.
 
 ### 4. SECURITY
 

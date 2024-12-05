@@ -71,7 +71,7 @@ You can also provide us with your consent to process your email for sending mark
 
 **Buying a subscription.** If you purchase a subscription to Private AdGuard DNS, we’ll use the email address you provide to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 
-We conduct all transactions via the Paddle payment provider [Paddle.com Market Ltd](https://www.paddle.com/) to enable payments if you purchase a subscription to use our software and services. The data processed depends on the payment provider and may include the following:
+We conduct all transactions via the Paddle payment provider [Paddle.com Market Ltd](https://www.paddle.com) to enable payments if you purchase a subscription to use our software and services. The data processed depends on the payment provider and may include the following:
 
 - Email address
 
