@@ -24,7 +24,7 @@
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions of AdGuard websites](terms-and-conditions.html.md)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
-- [Data processing agreement](data-processing-agreement.md)
+- [Data processing agreement](data-processing-agreement.html.md)
 
 Links to legal documents in the footer are arranged in order of importance. The same applies to the list of other documents at the end of each legal document.
 
@@ -37,7 +37,7 @@ Other documents:
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions of AdGuard websites](terms-and-conditions.html.md)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
-- [Data processing agreement](data-processing-agreement.md)
+- [Data processing agreement](data-processing-agreement.html.md)
 
 - Privacy notices:
     - [AdGuard Assistant](privacy/browser-assistant.html.md)
