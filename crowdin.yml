@@ -8,3 +8,4 @@ files:
   - source: '**/docs.en.resx'
     dest: '**/docs.resx'
     translation: '**/docs.%two_letters_code%.resx'
+    update_option: 'update_as_unapproved'
