@@ -135,7 +135,6 @@ No action, regardless of its form, arising out of the transactions under this EU
 Should you have any questions concerning this EULA, or if you wish to contact the Rightholder for any reason, please reach out to our customer support service:
 
 Email: [support@adguard-mail.com](mailto:support@adguard-mail.com)
-
 Website: [adguard-mail.com](https://adguard-mail.com)
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
