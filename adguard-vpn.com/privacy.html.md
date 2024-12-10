@@ -82,7 +82,7 @@ Additionally, we collect information on the number of instances of our software 
 
 All collected data is anonymized and cannot be associated with your AdGuard account under any circumstances.
 
-THIS DATA IS NOT SHARED BY DEFAULT. We only collect user-experience metrics if you explicitly agree to send them. If you initially consent to share metrics but later change your mind, you may revoke your consent at any time by disabling data collection in the application settings.
+This data is not shared by default. We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN apps and extensions.
 
 ## What legal bases we use to process your Personal Data
 
