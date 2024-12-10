@@ -74,6 +74,16 @@ Additionally, we collect information on the number of instances of our software 
 
 **Diagnostic / Device information**. However, if you experience problems using our software and you give us your consent, we will collect and process some diagnostic information for crash reports and some information about the device used to run our software in order to help you. The exact information we collect and process depends on the AdGuard VPN software you are using. For details, please refer to the corresponding privacy notices.
 
+**User experience metrics**. To analyze and improve the current functionality, collect user-experience metrics pertaining to interactions with various screens. The collected information includes the following:
+
+- Screen name: the name of the screens the user interacts with
+- Buttons clicked: actions taken by clicking specific buttons
+- Synthetic identifier: a unique identifier used to link multiple events within the same session
+
+All collected data is anonymized and cannot be associated with your AdGuard account under any circumstances.
+
+THIS DATA IS NOT SHARED BY DEFAULT. We only collect user-experience metrics if you explicitly agree to send them. If you initially consent to share metrics but later change your mind, you may revoke your consent at any time by disabling data collection in the application settings.
+
 ## What legal bases we use to process your Personal Data
 
 We use different legal bases to process Personal Data depending on the type of data, the purposes, and circumstances of processing.
