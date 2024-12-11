@@ -94,7 +94,7 @@ To analyze and improve the current functionality we also collect user experience
 - Buttons clicked
 - Synthetic identifier
 
-**This data is not shared by default.** We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN for Mac.
+**This data is not shared by default.** We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN for Windows.
 
 ### Checking for program updates
 
