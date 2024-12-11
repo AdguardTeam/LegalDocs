@@ -78,7 +78,7 @@ We also collect user experience metrics. All data is anonymized and cannot be as
 
 - Screen name
 - Buttons clicked
-- Synthetic identifier
+- Synthetic identifier: a unique identifier used to link multiple events within the same session
 
 **This data is not shared by default.** We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN for iOS.
 
