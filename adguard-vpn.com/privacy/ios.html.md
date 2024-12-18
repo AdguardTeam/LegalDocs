@@ -74,14 +74,6 @@ AdGuard VPN periodically connects to our server to check the account status. The
 
 When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.
 
-We also collect user experience metrics. All data is anonymized and cannot be associated with your AdGuard account. It includes the following data:
-
-- Screen name
-- Buttons clicked
-- Synthetic identifier: a unique identifier used to link multiple events within the same session
-
-**This data is not shared by default.** We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN for iOS.
-
 ### Connecting to the VPN server
 
 When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.

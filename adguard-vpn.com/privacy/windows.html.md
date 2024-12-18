@@ -88,14 +88,6 @@ AdGuard VPN periodically connects to our server to check the account status. The
 
 We need this information to check the account status and authorization on the VPN server.
 
-To analyze and improve the current functionality we also collect user experience metrics. All data is anonymized and cannot be associated with your AdGuard account. It includes the following data:
-
-- Screen name
-- Buttons clicked
-- Synthetic identifier: a unique identifier used to link multiple events within the same session
-
-**This data is not shared by default.** We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN for Windows.
-
 ### Checking for program updates
 
 AdGuard VPN for Windows periodically connects to its servers to check for app updates. When it happens, no personal information is sent to our servers.

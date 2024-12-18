@@ -73,16 +73,6 @@ AdGuard VPN periodically connects to our server to check the account status. The
 
 **Why we need this information:** To ensure that users have access to available server locations and the VPN server, and give users the choice of available locations.
 
-We also collect user experience metrics. All data is anonymized and cannot be associated with your AdGuard account. It includes the following data:
-
-- Screen name
-- Buttons clicked
-- Synthetic identifier: a unique identifier used to link multiple events within the same session
-
-**This data is not shared by default.** We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN Browser Extension.
-
-**Why we need this information:** To analyze and improve the current functionality, we collect user experience metrics pertaining to interactions with various screens.
-
 ### Sending a message to support
 
 If a user does not attach debug logs, only their message is sent, along with the following information:
