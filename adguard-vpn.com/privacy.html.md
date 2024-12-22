@@ -78,11 +78,9 @@ Additionally, we collect information on the number of instances of our software 
 
 - Screen name: the name of the screens the user interacts with
 - Buttons clicked: actions taken by clicking specific buttons
-- Synthetic identifier: a unique identifier used to link multiple events within the same session
+- Synthetic identifier: a unique identifier used to link multiple events within the same session. All collected data is anonymized and **cannot be associated with your AdGuard account** under any circumstances.
 
-All collected data is anonymized and cannot be associated with your AdGuard account under any circumstances.
-
-**By default this data is not collected**. We only collect user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN apps and extensions.
+**By default this data is not collected**. We only gather user experience metrics if you explicitly agree to send them. If you initially agree to share metrics but change your mind later, you may revoke your consent at any time by disabling data collection in the settings of AdGuard VPN apps and extensions.
 
 ## What legal bases we use to process your Personal Data
 
