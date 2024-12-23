@@ -1,6 +1,6 @@
 # AdGuard VPN Privacy Policy
 
-*August 7, 2024*
+*December 23, 2024*
 
 ## Summary
 
