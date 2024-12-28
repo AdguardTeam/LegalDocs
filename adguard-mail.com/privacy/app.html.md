@@ -18,6 +18,10 @@ AdGuard Mail applications are available on multiple platforms: iOS, Android, mac
 
 ---
 
+### Upon starting the application
+
+When you open AdGuard Mail, we collect information about the source of its installation (Webmaster ID). This data helps us determine the origin of the AdGuard Mail installation and is essential for ensuring the application functions correctly. The collection of this information is a **default process** and is critical to maintaining and improving app performance.
+
 ### User registration and authorization
 
 Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
