@@ -20,7 +20,36 @@ AdGuard Mail applications are available on multiple platforms: iOS, Android, mac
 
 ### Upon starting the application
 
-When you open AdGuard Mail, we collect information about the source of its installation (Webmaster ID). This data helps us determine the origin of the AdGuard Mail installation and is essential for ensuring the application functions correctly. The collection of this information is a **default process** and is critical to maintaining and improving app performance.
+When you launch AdGuard Mail for the first time, we collect the following data:
+
+- **App version**
+- **App identifier**
+- **Device OS**
+- **App language**
+- **OS language**
+- **Authorization token**
+- **userAgent**
+- **Webmaster ID**: The information about the affiliate identifier and the source of app installation
+
+**Why we need this information:**
+
+- To count the number of apps of a certain type and version
+- To communicate with you in your language
+- To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
+
+The collection of this information is a **default process** and is critical to maintaining and improving app performance.
+
+### Using the app
+
+AdGuard Mail periodically connects to our server to check the account status. The following information is sent:
+
+- **Authorization token**
+- **App identifier**
+- **App version**
+- **Device OS**
+- **OS language**
+
+We need this information to check the account status and authorization on the server.
 
 ### User registration and authorization
 
