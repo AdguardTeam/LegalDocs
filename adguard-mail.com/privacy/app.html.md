@@ -28,7 +28,7 @@ When you launch AdGuard Mail for the first time, we collect the following data:
 - **App language**
 - **OS language**
 - **Authorization token**
-- **userAgent**
+- **User-Agent**
 - **Webmaster ID**: The information about the affiliate identifier and the source of app installation
 
 **Why we need this information:**
