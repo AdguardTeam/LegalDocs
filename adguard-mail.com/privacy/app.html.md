@@ -29,13 +29,14 @@ When you launch AdGuard Mail for the first time, we collect the following data:
 - **OS language**
 - **Authorization token**
 - **User-Agent**
-- **Webmaster ID**: The information about the affiliate identifier and the source of app installation
+- **App installation channel**
 
 **Why we need this information:**
 
 - To count the number of apps of a certain type and version
 - To communicate with you in your language
 - To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
+- To learn the source of AdGuard Mail installation
 
 The collection of this information is a **default process** and is critical to maintaining and improving app performance.
 
