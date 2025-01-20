@@ -63,13 +63,14 @@ When a user requests the trial period, the following information is sent to our 
 - App language
 - Marketing consent flag indicating whether user has consented to receive marketing emails
 - Build identifier
-- Webmaster ID (affiliate identifier and affiliate source parameters)
+- App installation channel
 
 **Why we need this information:**
 
 - To know which device is requesting the trial features
 - To notify the user of their trial period. Activation instructions and other trial materials will be sent to the email address provided
 - To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
+- To learn the source of AdGuard installation
 
 ### App updates check
 

@@ -18,6 +18,40 @@ AdGuard Mail applications are available on multiple platforms: iOS, Android, mac
 
 ---
 
+### Upon starting the application
+
+When you launch AdGuard Mail for the first time, we collect the following data:
+
+- **App version**
+- **App identifier**
+- **Device OS**
+- **App language**
+- **OS language**
+- **Authorization token**
+- **User-Agent**
+- **App installation channel**
+
+**Why we need this information:**
+
+- To count the number of apps of a certain type and version
+- To communicate with you in your language
+- To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
+- To learn the source of AdGuard Mail installation
+
+The collection of this information is a **default process** and is critical to maintaining and improving app performance.
+
+### Using the app
+
+AdGuard Mail periodically connects to our server to check the account status. The following information is sent:
+
+- **Authorization token**
+- **App identifier**
+- **App version**
+- **Device OS**
+- **OS language**
+
+We need this information to check the account status and authorization on the server.
+
 ### User registration and authorization
 
 Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
