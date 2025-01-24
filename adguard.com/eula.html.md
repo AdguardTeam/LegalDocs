@@ -219,4 +219,4 @@ Should You have any questions concerning this EULA, or if You desire to contact 
 
 You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
-© 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2025 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

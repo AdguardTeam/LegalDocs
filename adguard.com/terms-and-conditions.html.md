@@ -238,4 +238,4 @@ Should you have any questions concerning these Terms, or if you desire to contac
 Email: [support@adguard.com](mailto:support@adguard.com)
 Website: [adguard.com](https://adguard.com)
 
-© 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Account and the Websites and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2025 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Account and the Websites and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

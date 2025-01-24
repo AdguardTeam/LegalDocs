@@ -369,4 +369,4 @@ Should you have any questions concerning these Terms, or if you desire to contac
 Email: [support@adguard.com](mailto:support@adguard.com)
 Website: [adguardpartner.com](https://adguardpartner.com)
 
-© 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Affiliate Account and the Affiliate Website and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2025 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Affiliate Account and the Affiliate Website and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
