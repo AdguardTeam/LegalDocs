@@ -137,4 +137,4 @@ Should you have any questions concerning this EULA, or if you wish to contact th
 Email: [support@adguard-mail.com](mailto:support@adguard-mail.com)
 Website: [adguard-mail.com](https://adguard-mail.com)
 
-© 2025 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

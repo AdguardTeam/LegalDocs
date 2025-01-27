@@ -171,4 +171,4 @@ Email: [support@adguard.com](mailto:support@adguard.com)
 
 Website: [adguard-dns.io](https://adguard-dns.io)
 
-© 2025 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
