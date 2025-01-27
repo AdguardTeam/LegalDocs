@@ -156,4 +156,4 @@ Should you have any questions concerning this EULA, or if you desire to contact 
 Email: [support@adguard-vpn.com](mailto:support@adguard-vpn.com)
 Website: [adguard-vpn.com](https://adguard-vpn.com)
 
-© 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
