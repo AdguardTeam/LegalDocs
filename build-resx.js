@@ -6,7 +6,7 @@ const basePath = 'crowdin';
 const outputFilename = 'docs.en.resx';
 const filesToProcessExt = '.html.md'
 
-const KEYS_SEPARATOR = '<!-- CUT HERE -->';
+const KEYS_SEPARATOR = '<!-- CROWDIN KEY SPLIT MARKER  -->';
 
 const CROWDIN_MAX_STRING_LENGTH = 65535;
 const TRANSLATION_RATIO = 1.1;
@@ -48,7 +48,7 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
 
         console.log(`Processing file: ${fullFilePath}`);
         const content = fs.readFileSync(fullFilePath, 'utf8');
-        
+
         const baseKey = filePath
             .replace(filesToProcessExt, '')
             .replaceAll('/', '.');
@@ -62,7 +62,7 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
             }
 
             for (let i = 0; i < parts.length; i++) {
-                const part = parts[i].trim();
+                const part = parts[i];
                 if (part.length > MAX_STRING_LENGTH) {
                     console.error(`Error: Part ${i + 1} of file ${fullFilePath} exceeds maximum length`);
                     process.exit(1);

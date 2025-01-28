@@ -177,7 +177,7 @@ By registering your Affiliate Account and by using the Affiliate Website, you re
 - (p) You will not violate the copyright and other intellectual property rights of AdGuard or third parties.
 - (q) You will not process personal data of users referred by you in violation of applicable personal data protection laws and regulations.
 - (r) You are not a person, and you are not acting on behalf of any person or entity to whom provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions, and national security controls of the European Union, the United States, and other applicable foreign agencies.
-<!-- CUT HERE -->
+<!-- CROWDIN KEY SPLIT MARKER  -->
 ## 7. Rules of participation in the Affiliate Program
 
 Please read this section carefully before using your Affiliate Account and the Affiliate Website.
