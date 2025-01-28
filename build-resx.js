@@ -6,6 +6,13 @@ const basePath = 'crowdin';
 const outputFilename = 'docs.en.resx';
 const filesToProcessExt = '.html.md'
 
+const KEYS_SEPARATOR = '<!-- CROWDIN KEY SPLIT MARKER  -->';
+
+const CROWDIN_MAX_STRING_LENGTH = 65535;
+const TRANSLATION_RATIO = 1.1;
+const MAX_BYTES_PER_CHAR = 2;
+const MAX_STRING_LENGTH = Math.floor(CROWDIN_MAX_STRING_LENGTH / (MAX_BYTES_PER_CHAR * TRANSLATION_RATIO));
+
 const mappings = {
     'adguard-mail.com': 'legal-github-docs-mail',
     'adguard.com': 'legal-github-docs-adguard',
@@ -37,18 +44,42 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
     let xmlBuilder = create({version: '1.0', encoding: 'utf-8'}).ele('root');
 
     for (const filePath of mdFiles) {
-        console.log(`Processing file: ${filePath}`);
-        const content = fs.readFileSync(path.join(sourceDir, filePath), 'utf8');
+        const fullFilePath = path.join(sourceDir, filePath);
 
-        const key = filePath
+        console.log(`Processing file: ${fullFilePath}`);
+        const content = fs.readFileSync(fullFilePath, 'utf8');
+
+        const baseKey = filePath
             .replace(filesToProcessExt, '')
             .replaceAll('/', '.');
 
-        console.log(`Generated key: ${key}`);
+        if (content.length > MAX_STRING_LENGTH) {
+            const parts = content.split(KEYS_SEPARATOR);
 
-        xmlBuilder = xmlBuilder.ele('data').att('name', key)
-            .ele('value').dat(content).up()
-            .up()
+            if (parts.length === 1) {
+                console.error(`Error: File ${fullFilePath} exceeds maximum length and no ${KEYS_SEPARATOR} comment found`);
+                process.exit(1);
+            }
+
+            for (let i = 0; i < parts.length; i++) {
+                const part = parts[i];
+                if (part.length > MAX_STRING_LENGTH) {
+                    console.error(`Error: Part ${i + 1} of file ${fullFilePath} exceeds maximum length`);
+                    process.exit(1);
+                }
+
+                const key = `${baseKey}.${i + 1}`;
+                console.log(`Generated key: ${key}`);
+                xmlBuilder = xmlBuilder.ele('data').att('name', key)
+                    .ele('value').dat(part).up()
+                    .up();
+            }
+        } else {
+            console.log(`Generated key: ${baseKey}`);
+            xmlBuilder = xmlBuilder.ele('data').att('name', baseKey)
+                .ele('value').dat(content).up()
+                .up();
+        }
     }
 
     const resxContent = xmlBuilder.end({
@@ -68,4 +99,3 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
 }
 
 console.log('\nProcessing complete!');
-
