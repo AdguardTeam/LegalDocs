@@ -21,6 +21,10 @@ const mappings = {
     'adguardpartner.com': 'legal-github-docs-aff',
 };
 
+const getPartialKeySuffix = (partIndex) => {
+    return `.__part__.${partIndex + 1}`;
+}
+
 console.log('Starting document processing...');
 
 if (!fs.existsSync(basePath)) {
@@ -68,7 +72,7 @@ for (const [sourceDir, crowdinDir] of Object.entries(mappings)) {
                     process.exit(1);
                 }
 
-                const key = `${baseKey}.${i + 1}`;
+                const key = `${baseKey}${getPartialKeySuffix(i)}`;
                 console.log(`Generated key: ${key}`);
                 xmlBuilder = xmlBuilder.ele('data').att('name', key)
                     .ele('value').dat(part).up()
