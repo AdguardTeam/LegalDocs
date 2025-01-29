@@ -19,7 +19,7 @@ ADGUARD SOFTWARE LIMITED (“We”, “Us”, “Our”) processes your data in 
     - AdGuard Mail website at [adguard-mail.com](https://adguard-mail.com).
 - Use AdGuard Account services at [my.adguard.com](https://my.adguard.com) (hereafter, the “AdGuard Account”).
 
-- Use AdGuard Affiliate Account services at [aff.adguard.com](https://aff.adguard.com) (hereafter, the “Affiliate Account”).
+- Use AdGuard Affiliate Account services at [adguardpartner.com](https://adguardpartner.com) (hereafter, the “Affiliate Account”).
 
 ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus, and acts as the data controller when processing your data.
 
