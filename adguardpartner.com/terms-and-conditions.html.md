@@ -4,7 +4,7 @@
 
 ## 1. General
 
-ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartisias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
 AdGuard is the rights holder of AdGuard Ad Blocker: [adguard.com](https://adguard.com), AdGuard VPN: [adguard-vpn.com](https://adguard-vpn.com), and AdGuard DNS: [adguard-dns.io](https://adguard-dns.io) (hereafter, collectively, the “Software”). We also operate the websites of the Software mentioned above (hereafter, the “Software Websites”), as well as the AdGuard Affiliate Account service (hereafter, the “Affiliate Account”) available at [adguardpartner.com](https://adguardpartner.com) (hereafter, the “Affiliate Website”).
 

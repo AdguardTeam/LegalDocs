@@ -15,7 +15,7 @@ We do not share or sell your personal information. We are strongly committed to 
 
 ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy provides you with the necessary information regarding your rights and our obligations, and explains how, why, and when we process your Personal Data. Our general principle is to collect only the information that is necessary to provide you with the full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
-ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, at Anexartisias and Athinon 79, Nora Court Flat/Office 203–205, 3040. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
 If you have any questions about this Privacy Policy or if you want to exercise any of your rights, please contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
