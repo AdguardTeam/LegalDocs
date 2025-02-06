@@ -21,7 +21,7 @@ ADGUARD SOFTWARE LIMITED (“We”, “Us”, “Our”) processes your data in 
 
 - Use AdGuard Affiliate Account services at [adguardpartner.com](https://adguardpartner.com) (hereafter, the “Affiliate Account”).
 
-ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartisias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
 This Privacy Policy provides you with the necessary information regarding your rights and our obligations and explains how, why and when we process your data. Our general principle is to collect only the information that is necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
