@@ -4,7 +4,8 @@
 
 ## 1. General
 
-Adguard Software Limited (hereafter, “AdGuard”, “we,” “us,” “our”) is a company registered in Nicosia, Cyprus, registered office is at Klimentos 41-43, KLIMENTOS TOWER, Flat/Office 25, 1061, Nicosia, Cyprus.
+ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203–205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
+
 We operate the AdGuard Account services available at [my.adguard.com](https://my.adguard.com) (hereafter, the “Account”), and websites related to AdGuard software and services (hereafter, the “Websites”): AdGuard Ad Blocker (https://adguard.com), AdGuard VPN (https://adguard-vpn.com), AdGuard DNS (https://adguard-dns.io), and AdGuard Mail (https://adguard-mail.com).
 
 IMPORTANT: THESE TERMS AND CONDITIONS (HEREAFTER, “TERMS” OR “AGREEMENT”) REGULATE THE USE OF THE ACCOUNT AND THE WEBSITES AND CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF THE ACCOUNT IS USED BY OR FOR AN ENTITY, AN ENTITY, HEREAFTER ALSO, “YOU”, “YOUR”, THE “USER”) AND ADGUARD (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE ACCOUNT, HEREAFTER ALSO, THE “RIGHTHOLDER”). READ IT CAREFULLY BEFORE USING THE ACCOUNT OR THE WEBSITES.
