@@ -28,7 +28,7 @@ AdGuard provides the Websites to promote the AdGuard software, enable you to pur
 
 ### (3) Your use of the Account and the Websites
 
-AdGuard hereby grants you a non-exclusive, non-transferable, revocable licensee to connect, access and use the Account within the scope of its functionality and to access and use the Websites, provided that you comply with all requirements, restrictions and terms specified in these Terms.
+AdGuard hereby grants you a non-exclusive, non-transferable, revocable license to connect, access, and use the Account within the scope of its functionality and to access and use the Websites, provided that you comply with all requirements, restrictions and terms specified in these Terms.
 
 The Account contains sections related to the AdGuard software. Use of the respective sections of the Account is only possible if you agree to the EULA and privacy policy of the corresponding AdGuard software.
 
