@@ -1,7 +1,7 @@
 
 # AdGuard Home Privacy Notice
 
-*August 7, 2024*
+*February 10, 2025*
 
 ---
 
@@ -12,6 +12,14 @@
 This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.html](https://adguard.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 ## What data AdGuard Home can collect and when
+
+:::note Disclaimer
+
+AdGuard Home logs and DNS query logs that it processes are stored on the device where AdGuard Home is running. They and their retention are managed by the user.
+
+AdGuard Home itself does not send anything to us and all cases when it connects to any servers are related to its functionality. These cases are described below.
+
+:::
 
 ### Processing DNS queries
 
