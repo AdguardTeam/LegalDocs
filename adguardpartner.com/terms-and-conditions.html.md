@@ -225,7 +225,7 @@ The following types of activities are strictly prohibited:
 - (p) Using ads that include content related to race, national origin, gender, sexual preference, or physical ability.
 - (q) Using ads that violate any applicable laws, rules, or regulations.
 - (r) Using scareware and otherwise misleading users to induce them to visit the Software Websites, download and install the Software, or purchase subscriptions to the Software.
-- (s) Posting or distributing AdGuard coupons, discount codes, or promotions on third-party coupon or deal aggregation websites, coupon extensions, or platforms, including but not limited to websites such as RetailMeNot, Coupons.com, KarmaNow, and Honey. This restriction does not apply to websites or platforms that are owned by you — such use may be allowed upon prior written approval by AdGuard.
+- (s) Posting or distributing AdGuard coupons, discount codes, or promotions on third-party coupon or deal aggregation websites, coupon extensions, or platforms, including but not limited to ones such as RetailMeNot, Coupons.com, KarmaNow, and Honey. This restriction does not apply to websites or platforms that are owned by you — such use may be allowed upon prior written approval by AdGuard.
 - (t) Using cloaking, delayed redirects, or any other means to disguise the source of traffic and manipulate tracking attribution.
 - (u) The practice of cookie stuffing, forced clicks, or any method that artificially places affiliate cookies without user intent.
 - (v) Using unauthorized coupon codes or creating fake coupons.
