@@ -1,6 +1,6 @@
 # Terms and Conditions of AdGuard Affiliate Program
 
-*February 26, 2024*
+*February 10, 2025*
 
 ## 1. General
 
@@ -195,9 +195,9 @@ The following types of activities do not require prior approval by AdGuard:
 
 ### (2) Activities requiring approval
 
-The following types of activities can be used after prior written approval by AdGuard:
+The following types of activities can be performed only after receiving prior written approval from AdGuard:
 
-- (a) Using coupons and promo codes.
+- (a) Using coupons and promo codes, except for the uses listed under Prohibited activities below.
 - (b) Sending email newsletters such as news, informative and promo newsletters from the Affiliate to your audience.
 - (c) Placing ads on social media, including feeds, groups, etc.
 - (d) Placing ads in your messengers.
@@ -225,6 +225,11 @@ The following types of activities are strictly prohibited:
 - (p) Using ads that include content related to race, national origin, gender, sexual preference, or physical ability.
 - (q) Using ads that violate any applicable laws, rules, or regulations.
 - (r) Using scareware and otherwise misleading users to induce them to visit the Software Websites, download and install the Software, or purchase subscriptions to the Software.
+- (s) Posting or distributing AdGuard coupons, discount codes, or promotions on third-party coupon or deal aggregation websites, coupon extensions, or platforms, including but not limited to ones such as RetailMeNot, Coupons.com, KarmaNow, and Honey. This restriction does not apply to websites or platforms that are owned by you — such use may be allowed upon prior written approval by AdGuard.
+- (t) Using cloaking, delayed redirects, or any other means to disguise the source of traffic and manipulate tracking attribution.
+- (u) The practice of cookie stuffing, forced clicks, or any method that artificially places affiliate cookies without user intent.
+- (v) Using unauthorized coupon codes or creating fake coupons.
+- (w) Listing or advertising the final discounted Software price with the AdGuard coupon already applied as standard or regular price without mentioning the discount or coupon.
 
 ## 8. Data processing
 
@@ -248,7 +253,7 @@ AdGuard will receive and process certain data to perform our obligations under t
 To process payments via the payout method you have chosen, AdGuard will share some of your personal data with a third-party payment service that you have chosen to receive your payouts.
 
 - (a) If you choose PayPal as your payout method, AdGuard will share the email address you indicate with PayPal (Europe) S.à r.l. et Cie, S.C.A. [PayPal Privacy Policy](https://www.paypal.com/cy/webapps/mpp/ua/privacy-full)
-- (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with TMS SolarWeb Ltd. [Mellow Privacy Policy]( https://mellow.io/documents/privacy-policy)
+- (b) If you choose Mellow as your payout method, AdGuard will share the email address you indicate with TMS SolarWeb Ltd. [Mellow Privacy Policy](https://mellow.io/documents/privacy-policy)
 
 AdGuard does not request or have access to your accounts in third-party payment services.
 
