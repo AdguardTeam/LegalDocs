@@ -195,7 +195,7 @@ The following types of activities do not require prior approval by AdGuard:
 
 ### (2) Activities requiring approval
 
-The following types of activities can be used after prior written approval by AdGuard:
+The following types of activities can be performed only after receiving prior written approval from AdGuard:
 
 - (a) Using coupons and promo codes, except for the uses listed under Prohibited activities below.
 - (b) Sending email newsletters such as news, informative and promo newsletters from the Affiliate to your audience.
