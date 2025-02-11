@@ -50,4 +50,4 @@ Unless the user agrees to submit this information by manually clicking the “Su
 
 ### Browsing Security website check
 
-If the “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the [Lookup API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about visited websites is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.
+If the “Phishing and malware protection” option is enabled, AdGuard checks every website before the user visits it. We use the [Safe Browsing API](https://adguard.com/kb/general/browsing-security/) for this purpose, and the information about visited websites is sent in the form of hash prefixes. This doesn’t allow us to determine which website is being visited.
