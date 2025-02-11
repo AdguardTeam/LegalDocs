@@ -231,6 +231,10 @@ The following types of activities are strictly prohibited:
 - (v) Using unauthorized coupon codes or creating fake coupons.
 - (w) Listing or advertising the final discounted Software price with the AdGuard coupon already applied as standard or regular price without mentioning the discount or coupon.
 
+### (4) Promo codes and coupons validity
+
+Promo codes and discount coupons issued to affiliate partners are valid for a period of six (6) months from the date of issuance, unless otherwise specified. After this period, the promo codes will automatically expire and can no longer be used for any discounts or promotional offers. Upon expiration, you must request new promo codes to be issued in order to continue offering discounts to your customers.
+
 ## 8. Data processing
 
 ### (1) AdGuard Privacy Policy
