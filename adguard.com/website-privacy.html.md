@@ -41,7 +41,7 @@ We process different data depending on the situation. You can learn details abou
 
 Some data that we receive and process may be treated as personal data (“Personal Data”) in accordance with the laws of certain territories and countries. When we use terms “personal data” or “personal information”, we mean any information relating to an identified or identifiable natural person, excluding any anonymized and depersonalized data where your identity is absent or has been removed and cannot be recovered.
 
-When you visit the Websites, the AdGuard Account, or the Affiliate Accountand their subdomains, we process the following information obtained by our web server to provide you with the content you request: IP addresses in anonymized form, timestamp of the server request, type and version of your web browser, name and version of your operating system, requesting domain (URL), address of the previously visited page (referrer URL), host name.
+When you visit the Websites, the AdGuard Account, or the Affiliate Account and their subdomains, we process the following information obtained by our web server to provide you with the content you request: IP addresses in anonymized form, timestamp of the server request, type and version of your web browser, name and version of your operating system, requesting domain (URL), address of the previously visited page (referrer URL), host name.
 
 ### When you visit the Websites
 
