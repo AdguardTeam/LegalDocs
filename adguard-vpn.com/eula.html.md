@@ -60,7 +60,7 @@ We grant our customers an opportunity to get a 100% refund on the funds they spe
 
 ---
 
-The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with Adguard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement. To get a refund for a subscription purchased through the Website, contact the support team: [support@adguard-vpn.com](mailto:support@adguard-vpn.com) Processing time depends on your choice of payment method and usually takes up to 10 business days.
+The subscription in question becomes blocked at the moment the refund is issued. After 30 days, all refund requests are reviewed individually, and the decision to issue a refund rests with Adguard Software Ltd. We do not grant partial refunds for subscription upgrades or renewals. Each partial refund request is discussed separately between the Customer and Support and is granted only upon mutual agreement. To get a refund for a subscription purchased through the Website, contact the support team: [support@adguard-vpn.com](mailto:support@adguard-vpn.com). Processing time depends on your choice of payment method and usually takes up to 10 business days.
 
 ## 4. Restrictions
 

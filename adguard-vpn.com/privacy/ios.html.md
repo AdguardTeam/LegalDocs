@@ -72,8 +72,6 @@ AdGuard VPN periodically connects to our server to check the account status. The
 - App type
 - OS language
 
-When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.
-
 ### Connecting to the VPN server
 
 When you click *Connect*, the app will send your authorization token to AdGuard servers. We need this information to check the account status and authorization on the VPN server.
