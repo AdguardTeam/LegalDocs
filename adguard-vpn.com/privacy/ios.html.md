@@ -3,7 +3,7 @@
 
 *August 7, 2024*
 
-This Privacy Notice lists all the information that we, Adguard Software Ltd. (”we”, ”us”, or ”our”), may collect when you use AdGuard VPN for iOS and explains why we do it and how we use this information.
+This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard VPN for iOS and explains why we do it and how we use this information.
 
 This Privacy Notice supplements the AdGuard VPN Privacy Policy available at [adguard-vpn.com/privacy.html](https://adguard-vpn.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
