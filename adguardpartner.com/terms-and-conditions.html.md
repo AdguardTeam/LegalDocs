@@ -175,8 +175,9 @@ By registering your Affiliate Account and by using the Affiliate Website, you re
 - (n) You will not use another person’s email address or impersonate another person or a representative of another company when registering your Affiliate Account.
 - (o) You will not create Affiliate Accounts by automated means or under false pretenses.
 - (p) You will not violate the copyright and other intellectual property rights of AdGuard or third parties.
-- (q) You will not process personal data of users referred by you in violation of applicable personal data protection laws and regulations.
-- (r) You are not a person, and you are not acting on behalf of any person or entity to whom provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions, and national security controls of the European Union, the United States, and other applicable foreign agencies.
+- (q) You will not use the AdGuard brand name, or any similar spellings, in domain names, store names, or business names. Additionally, you will not use graphics, layouts, color schemes, or visual elements on your websites or promotional materials that may mislead visitors into believing they are visiting or interacting with an official AdGuard website or property. All promotional materials must clearly indicate that you are not AdGuard itself or an official representative of AdGuard.
+- (r) You will not process personal data of users referred by you in violation of applicable personal data protection laws and regulations.
+- (s) You are not a person, and you are not acting on behalf of any person or entity to whom provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions, and national security controls of the European Union, the United States, and other applicable foreign agencies.
 <!-- CROWDIN KEY SPLIT MARKER  -->
 ## 7. Rules of participation in the Affiliate Program
 
