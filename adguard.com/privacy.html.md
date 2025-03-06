@@ -9,7 +9,7 @@ We do not share or sell your personal information. We are strongly committed to 
 1. We collect only the information necessary for our products and services to function properly.
 1. AdGuard apps filter traffic locally on your device. We don’t know what websites you visit.
 1. AdGuard apps periodically connect to our servers to download filter updates and check your license status.
-1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
+1. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [adguardaccount.com](https://adguardaccount.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## Who we are
 
@@ -132,7 +132,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to object**: The right to object to processing of your Personal Data.
 
-**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used, and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard account at [my.adguard.com](https://my.adguard.com).
+**Right to data portability**: The right to receive provided Personal Data in a structured, commonly used, and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from your AdGuard account at [adguardaccount.com](https://adguardaccount.com).
 
 **Right not to be subject to a decision based solely on automated processing**, including profiling.
 

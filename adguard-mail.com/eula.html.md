@@ -120,7 +120,7 @@ By installing and using AdGuard Mail, you agree to the present Terms and the ter
 
 7.1. **Termination by AdGuard Software Limited.** AdGuard Software Limited may suspend or terminate your access to the AdGuard Mail service at any time, with or without cause, including, but not limited to, if you breach this EULA or engage in prohibited activities. Termination of your access to AdGuard Mail does not affect your access to your AdGuard account or other services provided by AdGuard Software Limited. We may provide notice of termination via the primary email address associated with your AdGuard Mail account.
 
-7.2. **Termination by You.** You may terminate your use of the AdGuard Mail service through your personal account dashboard at [my.adguard.com](https://my.adguard.com), which serves as the management point for your AdGuard Mail account and other AdGuard services. Termination of your use of AdGuard Mail will not impact your ability to access your AdGuard account or other AdGuard services.
+7.2. **Termination by You.** You may terminate your use of the AdGuard Mail service through your personal account dashboard at [adguardaccount.com](https://adguardaccount.com), which serves as the management point for your AdGuard Mail account and other AdGuard services. Termination of your use of AdGuard Mail will not impact your ability to access your AdGuard account or other AdGuard services.
 
 7.3. **Effect of Termination.** Upon termination, your right to use AdGuard Mail will immediately cease. Sections of this EULA that, by their nature, should survive termination shall continue to apply, including but not limited to sections related to liability, warranties, governing law, and dispute resolution.
 
