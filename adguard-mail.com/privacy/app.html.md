@@ -54,9 +54,9 @@ We need this information to check the account status and authorization on the se
 
 ### User registration and authorization
 
-Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguard.com](https://auth.adguard.com). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
+Registration and authorization for AdGuard Mail are managed through the AdGuard web-based authentication service at [auth.adguardaccount.com](https://auth.adguardaccount.com). The privacy policy governing the AdGuard website and related sites is outlined in the document available at [adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
 
-When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguard.com](https://auth.adguard.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
+When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguardaccount.com](https://auth.adguardaccount.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
 
 ### Mailbox management
 
