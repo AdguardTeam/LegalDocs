@@ -54,7 +54,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.9. When You purchase an AdGuard VPN subscription, an AdGuard Account is automatically created for the email address that You used at the purchase. AdGuard Account can also be registered during the installation of the Software if You enter your email address in the wizard window, or directly via the Website. By registering the Account, you affirm that you are 16 years or older.
 
-If desired, the User can delete the Account in the *Settings* section. The active subscription will be cancelled. To get a refund, you’ll need to contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
+If desired, You can delete the Account in the *Settings* section. The active subscription will be cancelled. In this case, You can ask for a refund if You bought a 1-year or 2-year subscription no more than 30 days ago. To get a refund, You’ll need to contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
 
 Note that when Your Account is created You are automatically subscribed to notifications about modifications, new versions, and features of the Software.
 
