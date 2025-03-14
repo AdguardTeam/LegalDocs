@@ -1,7 +1,7 @@
 
 # AdGuard VPN End-User License Agreement
 
-*April 10, 2024*
+*March 13, 2025*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -36,19 +36,29 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 2. Terms of sale
 
-2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from [adguard-vpn.com](https://adguard-vpn.com).
+2.1. Customer pays for a subscription that allows activating AdGuard VPN, a piece of software downloadable from [adguard-vpn.com](https://adguard-vpn.com). In order to use the paid version of AdGuard VPN, you need to purchase a monthly, one-year, or two-year subscription. Once you purchase a subscription, it is automatically linked to your Account. You don’t need to activate the Software: a VPN subscription becomes active as soon as you purchase it. The period of use of AdGuard VPN granted by the Rightholder is specified when you purchase the subscription. The term of use of AdGuard VPN starts from the purchase of the subscription. If the term of use of AdGuard VPN starts at a different time, this information will be provided when you purchase the subscription.
 
-In order to use the paid version of AdGuard VPN, you need to purchase a monthly, one-year, or two-year subscription. Once you purchase a subscription, it is automatically linked to your Account.
-The period of use of AdGuard VPN granted by the Rightholder is specified when you purchase the subscription.
-The term of use of AdGuard VPN starts from the purchase of the subscription. If the term of use of AdGuard VPN starts at a different time, this information will be provided when you purchase the subscription.
+2.2. Purchases of subscriptions for the Software from Rightholder’s website are governed by separate Terms of Sale published at [adguard-vpn.com/terms-of-sale.html](https://adguard-vpn.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of subscriptions for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
-2.2 The order process is conducted by online reseller Paddle.com. Paddle provides all customer service inquiries and handles returns. Please refer to our Privacy policy to learn more about processing of your data by Paddle.
+2.3. You are entitled to a refund in accordance with the Terms of Sale.
 
-2.3. If you have not canceled the auto-payment feature, your Account will be charged automatically, and your AdGuard VPN subscription will be renewed. If you turn off auto-renewal, you will receive an email notification before your AdGuard VPN subscription expires to the address you provided during the original purchase, with full renewal terms. You will also be notified in advance should the AdGuard VPN subscription price increase.
+2.4. You can cancel the purchased subscription at any time in accordance with the Terms of Sale. The canceled subscription will be valid until its expiry date.
 
-2.4. After a subscription purchased using coupons or discounts expires, the payment for the subscription renewal is charged at full price. Information on price changes will be sent to the email address used to purchase the subscription.
+2.5. You can cancel the automatic subscription renewal at any time in accordance with the Terms of Sale.
 
-2.5. You can cancel the automatic subscription renewal service anytime, at no additional cost, in your Account to which the AdGuard VPN subscription is bound. Your paid subscription will still be valid, but you will have to renew it manually when it expires.
+2.6. You can extend the subscription term up to another month, year, or two by purchasing another subscription. If you have a monthly subscription and buy a 1-year or 2-year subscription, you’ll be switched to annual or biannual billing — and vice versa.
+
+2.7. You can transfer the purchased subscription to another device. To do this, you need to log out from your Account on the Software installed on the device you want to unbind and then log in to your Account on the Software installed on another device.
+
+2.8. You can transfer the purchased subscription to another Account. To do this, contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
+
+2.9. When you purchase an AdGuard VPN subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 16 years or older.
+
+If desired, you can delete the Account in the *Settings* section. The active subscription will be cancelled. In this case, you can ask for a refund if you bought a 1-year or 2-year subscription no more than 30 days ago. To get a refund, you’ll need to contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
+
+Note that when your Account is created you are automatically subscribed to notifications about modifications, new versions, and features of the Software. You can unsubscribe at any time.
+
+2.10. The Rightholder reserves the right to use any means and procedures to verify the validity of the subscription and/or legality of a copy of the Software installed and/or used on your device.
 
 ## 3. Refund policy
 
