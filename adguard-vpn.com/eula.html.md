@@ -52,13 +52,13 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.8. You can transfer the purchased subscription to another Account. To do this, contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
 
-2.9. When you purchase an AdGuard VPN subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered during the installation of the Software if you enter your email address in the wizard window, or directly via the Website. By registering the Account, you affirm that you are 16 years or older.
+2.9. When you purchase an AdGuard VPN subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 16 years or older.
 
 If desired, you can delete the Account in the *Settings* section. The active subscription will be cancelled. In this case, you can ask for a refund if you bought a 1-year or 2-year subscription no more than 30 days ago. To get a refund, you’ll need to contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
 
-Note that when your Account is created you are automatically subscribed to notifications about modifications, new versions, and features of the Software.
+Note that when your Account is created you are automatically subscribed to notifications about modifications, new versions, and features of the Software. You can unsubscribe at any time.
 
-2.10. The Rightholder reserves the right to use any means and procedures to verify the validity of the subscription and/or legality of a copy of the Software installed and/or used on Your Computer.
+2.10. The Rightholder reserves the right to use any means and procedures to verify the validity of the subscription and/or legality of a copy of the Software installed and/or used on your device.
 
 ## 3. Refund policy
 
