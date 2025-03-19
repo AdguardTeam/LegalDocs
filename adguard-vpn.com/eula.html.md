@@ -52,7 +52,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.8. You can transfer the purchased subscription to another Account. To do this, contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
 
-2.9. When you purchase an AdGuard VPN subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 16 years or older.
+2.9. When you purchase an AdGuard VPN subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 18 years or older.
 
 If desired, you can delete the Account in the *Settings* section. The active subscription will be cancelled. In this case, you can ask for a refund if you bought a 1-year or 2-year subscription no more than 30 days ago. To get a refund, you’ll need to contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
 
@@ -98,7 +98,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.8. You may not use the Software for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where the Software is used and where the VPN servers are located, including, but not limited to accessing, downloading, uploading, transmitting via the VPN connection any materials or information of unacceptable content, including offensive, false, misleading, criminal and law breaking, defamatory, libelous, slanderous, discrediting honor, dignity and business reputation, racist, sexist, pornographic, harming or attempting to harm minors, promoting hatred against any individuals or entities, groups of persons united by cultural, professional, national, territorial, ethnic or any other characteristics, infringing any patent, trademark, trade secret, copyright or other intellectual property of any party, transmitting any unsolicited advertising and “spam” emails, misrepresent yourself as another person.
 
-4.9. Only persons 16 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, if you have been or are prohibited to access AdGuard VPN, or if your Account has been suspended or closed due to any reason.
+4.9. Only persons 18 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, if you have been or are prohibited to access AdGuard VPN, or if your Account has been suspended or closed due to any reason.
 
 4.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard VPN.
 

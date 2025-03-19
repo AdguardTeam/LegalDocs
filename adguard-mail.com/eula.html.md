@@ -44,7 +44,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.7. You can transfer the purchased subscription to another Account. To do this, contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
 
-2.8. When you purchase an AdGuard Mail subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 16 years or older.
+2.8. When you purchase an AdGuard Mail subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 18 years or older.
 
 If desired, you can delete the Account in the *Settings* section. The active subscription will be cancelled. In this case, you can ask for a refund if you bought a 1-year subscription no more than 30 days ago. To get a refund, you’ll need to contact our support team at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
@@ -96,7 +96,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 (C) Engaging in the transmission of unsolicited advertising, “spam” emails, or other deceptive practices, including misrepresenting yourself as another person or entity.
 
-4.9. Only persons 16 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
+4.9. Only persons 18 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
 
 4.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard Mail.
 
