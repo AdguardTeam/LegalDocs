@@ -112,7 +112,7 @@ The provisions of this Section 4 apply to Software requiring paid licenses and a
 
 4.8. You can transfer the purchased license to another Account. To do this, You need to unbind the purchased license from Your Account and then bind the purchased license to another Account.
 
-4.9. When You purchase an AdGuard license, an AdGuard Account is automatically created for the email address that You used at the purchase. AdGuard Account can also be registered during the installation of the Software designed for the OS Windows if You enter your email address in the wizard window, or when signing up to the trial period in Android version, or directly via the Website, if You decide to sign up at the Website. By registering the Account you affirm that you are 16 years or older.
+4.9. When You purchase an AdGuard license, an AdGuard Account is automatically created for the email address that You used at the purchase. AdGuard Account can also be registered during the installation of the Software designed for the OS Windows if You enter your email address in the wizard window, or when signing up to the trial period in Android version, or directly via the Website, if You decide to sign up at the Website. By registering the Account, you affirm that you are 16 years or older.
 
 You are responsible for keeping the activation code confidential. Your activation codes may be stored with and retrievable by accessing Your Account.
 
@@ -163,7 +163,7 @@ By sending us the files, You provide us with Your consent to process the files a
 
 6.5. The Rightholder will use Your email address that You used when binding the Software to Your Account or creating a new Account to send You notifications about modifications, new versions, and features of the Software. In addition, You can provide Your consent to receive promotional information about the Software, or similar products or services offered by the Rightholder. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your Account or unsubscribe right in the received email.
 
-6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
+6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing, You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## 7. WARRANTY DISCLAIMER
 

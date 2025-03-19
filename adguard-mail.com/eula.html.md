@@ -1,7 +1,7 @@
 
 # AdGuard Mail End-User License Agreement
 
-*March 18, 2025*
+*March 19, 2025*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS OR USING THE SOFTWARE, WHETHER ACCESSED VIA THE WEB OR AS AN INSTALLED APPLICATION.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -96,7 +96,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 (C) Engaging in the transmission of unsolicited advertising, “spam” emails, or other deceptive practices, including misrepresenting yourself as another person or entity.
 
-4.9. Only persons 18 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
+4.9. Only persons 16 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
 
 4.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard Mail.
 

@@ -1,7 +1,7 @@
 
 # AdGuard VPN End-User License Agreement
 
-*March 13, 2025*
+*March 19, 2025*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -98,7 +98,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.8. You may not use the Software for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where the Software is used and where the VPN servers are located, including, but not limited to accessing, downloading, uploading, transmitting via the VPN connection any materials or information of unacceptable content, including offensive, false, misleading, criminal and law breaking, defamatory, libelous, slanderous, discrediting honor, dignity and business reputation, racist, sexist, pornographic, harming or attempting to harm minors, promoting hatred against any individuals or entities, groups of persons united by cultural, professional, national, territorial, ethnic or any other characteristics, infringing any patent, trademark, trade secret, copyright or other intellectual property of any party, transmitting any unsolicited advertising and “spam” emails, misrepresent yourself as another person.
 
-4.9. Only persons 18 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, if you have been or are prohibited to access AdGuard VPN, or if your Account has been suspended or closed due to any reason.
+4.9. Only persons 16 years of age or older may use AdGuard VPN. You are not allowed to connect to and use AdGuard VPN if you are a minor, if you have been or are prohibited to access AdGuard VPN, or if your Account has been suspended or closed due to any reason.
 
 4.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard VPN.
 

@@ -1,7 +1,7 @@
 
 # Privacy Policy of AdGuard Websites
 
-*September 27, 2024*
+*March 19, 2025*
 
 **Keynote:** We are proud to say that we fight for users’ privacy, and we are strongly committed to this principle and to being as transparent as possible.
 
@@ -181,7 +181,7 @@ You are under no obligation to provide your Personal Data to us. However, becaus
 
 ### Age limitations
 
-To the extent not prohibited by applicable law, we do not allow the use of the Websites, the AdGuard Account, or the Affiliate Account by anyone under the age of 18 years. If you learn that anyone younger than 18 has unlawfully provided us with Personal Data, please contact us and we will take steps to delete such information.
+To the extent not prohibited by applicable law, we do not allow the use of the Websites, the AdGuard Account, or the Affiliate Account by anyone under the age of 16 years. If you learn that anyone younger than 18 has unlawfully provided us with Personal Data, please contact us and we will take steps to delete such information.
 
 ## Do Not Track
 
