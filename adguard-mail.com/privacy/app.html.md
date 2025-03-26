@@ -1,6 +1,6 @@
 # AdGuard Mail Privacy Policy
 
-*December 4, 2024*
+*March 18, 2025*
 
 ---
 
@@ -18,7 +18,7 @@ AdGuard Mail applications are available on multiple platforms: iOS, Android, mac
 
 ---
 
-### Upon starting the application
+### Starting the application
 
 When you launch AdGuard Mail for the first time, we collect the following data:
 
@@ -174,6 +174,22 @@ This data is used only internally and is not shared with third parties.
 - To identify issues users may face while using the app
 - To fix mistakes in the UI/UX
 - To learn what people like or don’t like about our app
+
+### Buying a subscription
+
+We process your email address for billing and payment purposes. If you purchase a subscription to AdGuard Mail, we’ll need to know your contact details to send you information about the purchase.
+
+We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
+
+We conduct all transactions via [Paddle.com Market Ltd](https://www.paddle.com) and [PayPro Global, Inc.](https://payproglobal.com) to enable payments if you purchase a subscription to use our software and services.
+The data processed depends on the payment provider and may include the following:
+
+- Email address
+- Country of residence
+- Zip or postal code
+- (If you use a bank card to make a purchase) Number, name, expiration date, and the security code associated with the bank card
+
+For the exact data that the payment provider collects about you, please see the corresponding privacy policy: [Paddle’s Privacy Policy](https://www.paddle.com/legal/privacy), [PayPro Global’s Privacy Policy](https://docs.payproglobal.com/documents/legal/privacyPolicy.pdf)
 
 ## Server data storage and logging practices
 

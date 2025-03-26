@@ -51,8 +51,7 @@ To test private AdGuard DNS, you can try the Starter plan. For more monthly requ
 
 2.8. You can cancel automatic renewal at any time in Your AdGuard account to which the AdGuard DNS subscription is bound at no additional cost. Your paid subscription will still be valid, but you will need to manually renew it when it expires.
 
-2.9 When You purchase Your subscription, Your AdGuard account is automatically created for the email address that You used at the purchase. Your AdGuard account can also be created via the AdGuard website, if You decide to sign up at the website. By registering Your AdGuard account you affirm that You are 16 years or older.
-Note that when Your AdGuard account is created, You are subscribed to messages about modifications, new versions, and features of AdGuard DNS.
+2.9 When You purchase Your subscription, Your AdGuard account is automatically created for the email address that You used at the purchase. Your AdGuard account can also be created via the AdGuard website, if You decide to sign up at the website. By registering Your AdGuard account, you affirm that You are 18 years or older. Note that when Your AdGuard account is created, You are subscribed to messages about modifications, new versions, and features of AdGuard DNS.
 
 ## 3. Refund policy
 
@@ -117,7 +116,7 @@ You represent and warrant that
 
 6.5. AdGuard Software Limited will use Your email address that You used when binding AdGuard DNS to Your account or creating a new account to send You notifications about modifications, new versions, and features of AdGuard DNS. In addition, You can provide Your consent to receive promotional information about AdGuard DNS, or similar products or services offered by AdGuard Software Limited. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your AdGuard account or unsubscribe right in the received email.
 
-6.6. If You subscribe to AdGuard blog or AdGuard affiliate program, AdGuard Software Limited will use Your email address that You specified when subscribing to send You related notifications. By subscribing You affirm that You are 16 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
+6.6. If You subscribe to AdGuard blog or AdGuard affiliate program, AdGuard Software Limited will use Your email address that You specified when subscribing to send You related notifications. By subscribing, You affirm that You are 18 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 ## 7. Warranty disclaimer
 
