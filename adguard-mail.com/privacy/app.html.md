@@ -24,10 +24,10 @@ When you launch AdGuard Mail for the first time, we collect the following data:
 
 - **App version**
 - **App identifier**
-- **Device OS**
 - **App language**
+- **Device OS**
 - **OS language**
-- **Authorization token**
+- **OS theme**
 - **User-Agent**
 - **App installation channel**
 
@@ -37,6 +37,7 @@ When you launch AdGuard Mail for the first time, we collect the following data:
 - To communicate with you in your language
 - To know if the user was referred by an AdGuard affiliate, and if so, which affiliate
 - To learn the source of AdGuard Mail installation
+- To make the AdGuard Mail theme match the system theme
 
 The collection of this information is a **default process** and is critical to maintaining and improving app performance.
 
@@ -45,10 +46,12 @@ The collection of this information is a **default process** and is critical to m
 AdGuard Mail periodically connects to our server to check the account status. The following information is sent:
 
 - **Authorization token**
+- **User in-app purchase data**
 - **App identifier**
 - **App version**
 - **Device OS**
 - **OS language**
+- **Limits of the free version**: number of aliases and recipients used, emails forwarded to aliases, and emails sent to Temp Mail address
 
 We need this information to check the account status and authorization on the server.
 
@@ -58,9 +61,9 @@ Registration and authorization for AdGuard Mail are managed through the AdGuard 
 
 When you register or log in to AdGuard Mail or other AdGuard services, you will be directed to [auth.adguardaccount.com](https://auth.adguardaccount.com), where you may be required to provide your login credentials (email and password). Upon successful authorization, an OAuth access token is issued to the app.
 
-### Mailbox management
+### Mailbox management in Temp Mail
 
-When you manage your mailboxes, including actions such as creating, retrieving, or deleting a mailbox, the following information may be transmitted to our servers:
+When you manage your mailboxes, including actions such as creating, retrieving, or deleting a mailbox, the following information may be transmitted:
 
 - **Mailbox ID**: A unique identifier for the mailbox associated with your account that is used to perform the requested action.
 - **Temporary email address**: The temporary email address linked to the mailbox.
@@ -68,12 +71,12 @@ When you manage your mailboxes, including actions such as creating, retrieving, 
 
 The information transmitted allows us to manage your mailboxes efficiently. While mailbox IDs are used internally, the temporary email address is inherently transient and non-identifiable, reducing privacy risks.
 
-### Message handling
+### Message handling in Temp Mail
 
-When interacting with messages in your mailboxes, such as retrieving, updating (marking as read), or deleting messages, the following information is transmitted:
+When interacting with messages in your in Temp Mail mailboxes, such as retrieving, updating (marking as read), or deleting messages, the following information is transmitted:
 
 - **Mailbox ID and message ID**: Unique identifiers used to retrieve, update, or delete specific messages.
-- **Message content**: When requesting an email message, the complete content of the message is transmitted.
+- **Message content**: When requesting an email message, the full contents of the messages and the status of read messages are transmitted.
 
 Storing the content of incoming emails is a fundamental function of the temporary email service within AdGuard Mail. AdGuard Mail stores all information related to incoming messages, including the sender, subject, full email text, time of receipt, and more. This information is retained until you explicitly delete it or delete the account to which it belongs.
 
@@ -83,10 +86,9 @@ Meanwhile, the alias service of AdGuard Mail does not store incoming messages an
 
 When managing aliases and recipients, including actions like creating, retrieving, updating, or deleting, the following information is transmitted:
 
-- **Alias ID**: The unique identifier for the alias.
-- **Recipient ID**: The unique identifier of the recipient.
+- **Alias ID**: The unique identifier, name, description, and status of the alias.  Fields that may contain user-defined information about the recipient.
+- **Recipient ID**: The unique identifier, name, description, and status of the recipient. Fields that may contain user-defined information about the recipient.
 - **Email address**: The email address associated with the recipient or alias.
-- **Recipient name and description**: Optional fields that may contain user-defined information about the recipient.
 
 Alias and recipient management involves data that directly identifies email addresses and associated users. While email addresses are considered Personally Identifiable Information (PII), they are essential for the functionality of the service.
 
@@ -94,9 +96,10 @@ Alias and recipient management involves data that directly identifies email addr
 
 When managing your account access or sessions, including actions like logging out, the following information may be transmitted:
 
-- **User ID and email address**: Unique identifiers for your account.
+- **User ID**: The unique identifier and status of your account.
+- **Email address**: The email address associated with your account.
 - **Session information**: Details about the active sessions associated with your account.
-- **Access token**: A token used to authenticate and maintain your session.
+- **Authorization token**: A token used to authenticate and maintain your session.
 
 This information is crucial for maintaining secure access to your account and managing sessions across multiple devices.
 
@@ -109,29 +112,20 @@ When viewing or managing statistics and blocked senders, the following informati
 
 This information allows you to monitor activity and manage unwanted communications effectively. The data transmitted is used primarily for user interface purposes and generally does not contain sensitive personal information.
 
-### App updates check
-
-To check for app updates, AdGuard Mail connects to its servers. During this process, the following information may be sent:
-
-- **App platform**
-- **App version**
-- **App identifier**
-- **App language**
-- **Browser or OS version**
-- **Update channel**
-
-Update checks are performed periodically or at your request. We do not store or reuse this data, but we aggregate it in an anonymous form to count the total number of AdGuard products installed.
-
 ### Sending a message to support
 
 You can send messages to support directly from the app. If the *Send app and system info* option is enabled, the following information will be sent along with the message and the email address provided:
 
-- **App platform**
 - **App version**
 - **App identifier**
 - **App language**
+- **Device OS**
 - **Browser or OS version**
 - **App configuration**
+- **Account info**: Email address, user status, limits, default recipient?
+- **System theme**
+- **Device language**
+- **Info about active temp mail address, aliases, and blocked senders**
 
 This detailed information is used by the support team to better assist with resolving your issue.
 
@@ -139,30 +133,34 @@ This detailed information is used by the support team to better assist with reso
 
 The first time the app is launched, you will be asked if you want to allow AdGuard to send automatic crash reports. If you agree (and only if you agree), the following information will be sent to our servers if the app crashes:
 
-- **App language**
-- **App name, identifier and version**
+- **App identifier and version**
 - **Build identifier**
-- **Crash information (error message and stack trace)**
+- **Crash information**: Error message, stack trace, and timezone of the user
 - **Device name and model**
-- **OS version and kernel build**
-- **Screen orientation**
-- **Screen resolution and density**
-- **Total and free RAM**
+- **OS version, architecture, root status, and kernel build**
+- **Hardware device info**: Screen orientation, resolution, and density, total and free RAM and ROM, etc.
+- **Device meta info**
 - **Unidentifiable device ID**
 
 **Why we need this information:** To troubleshoot critical issues. It helps us stay informed about new problems that are not reported by users.
 
-Crash report data is stored only on our servers. We do not use any third-party services to collect or store crash reports. All crash reports are stored for 30 days.
+Crash report data is stored only on our servers. We do not use any third-party services with external hosting to collect or store crash reports. All crash reports are stored on our servers.
 
 ### Technical and interaction data
 
 The first time the app is launched, you will be asked if you want to allow AdGuard Mail to send technical and interaction data. If you agree, the following information will be sent:
 
-- **App configuration and enabled features**
-- **App language**
+- **App identifier and version**
 - **Build identifier**
-- **Device information (type, screen size, language, and OS version)**
-- **Names of screens viewed within the app**
+- **Crash information**: Error message, stack trace, and timezone of the user
+- **Device name and model**
+- **OS version, architecture, root status, and kernel build**
+- **Hardware device info**: Screen orientation, resolution, and density, total and free RAM and ROM, etc.
+- **Device meta info**
+- **Unidentifiable device ID**
+- **Accessibility tool status**
+- **The last time the app was launched**
+- **Permissions granted by the user to the app**
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
 
