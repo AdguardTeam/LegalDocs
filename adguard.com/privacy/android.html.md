@@ -1,6 +1,6 @@
 # AdGuard for Android Privacy Notice
 
-*August 7, 2024*
+*May 28, 2025*
 
 ---
 
@@ -43,6 +43,8 @@ To validate the license status AdGuard connects to its servers. When it happens,
 - License key
 - App language
 - Build identifier
+- Crash reports
+- Telemetry
 
 **Why we need this information:** We use this data to check the license status and to bind the license to the device. This information is also used to display the user’s license keys in the AdGuard account.
 
@@ -142,9 +144,19 @@ Crash report data is stored only on our servers. We do not use any third party s
 
 The first time the app is launched, users are asked if they want to allow AdGuard to send technical and interaction data. If they do, the following information is sent:
 
+- App version
+- App language
+- App theme
 - App configuration (enabled features and activation status)
-- Device information (type, screen size, language, and OS version)
-- Names of the screens viewed inside the app
+- Names of the screens, dialogs, and toasts viewed inside the app
+- User clicks on app elements
+- Time since the app was first used
+- Device information (type, screen size, language, platform, and OS version)
+- User agent (device brand and model, name, version, and system architecture)
+- Unique generated identifier
+- Authorization status
+- Kill Switch status
+- License status and expiration date
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
 
