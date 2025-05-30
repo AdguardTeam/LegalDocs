@@ -1,6 +1,6 @@
 # AdGuard for Android Privacy Notice
 
-*August 7, 2024*
+*May 28, 2025*
 
 ---
 
@@ -35,7 +35,7 @@ Upon authorization, the app receives an active license for that account from the
 
 ### License status check
 
-To validate the license status AdGuard connects to its servers. When it happens, the following information is sent:
+To validate the license status, AdGuard connects to its servers. When it happens, the following information is sent:
 
 - App identifier
 - App version
@@ -43,10 +43,16 @@ To validate the license status AdGuard connects to its servers. When it happens,
 - License key
 - App language
 - Build identifier
+- User consent to send crash reports
+- User consent to send telemetry data
 
-**Why we need this information:** We use this data to check the license status and to bind the license to the device. This information is also used to display the user’s license keys in the AdGuard account.
+**Why we need this information:**
 
-Users may also enter their AdGuard account credentials (login and password) to activate the functionality of the full version of the app. In this case, the app will also send this login and password pair to the server in order to authenticate the user.
+We use this data primarily to verify the license status and to bind the license to the device, ensuring that your license keys are properly associated with your activated devices. This information also allows us to display your license keys and device list in your AdGuard account.
+
+If you have consented to send crash reports and telemetry data, we collect this information to help us identify and fix issues within the app, improve its stability, and enhance overall performance and user experience. Collecting crash reports enables us to detect unexpected errors, while telemetry data provides insights into how the app is used, allowing us to optimize features and address potential problems proactively.
+
+If you activate the full version of the app using your AdGuard account credentials, the app sends your login and password to authenticate your identity securely.
 
 ### License reset
 
@@ -142,9 +148,19 @@ Crash report data is stored only on our servers. We do not use any third party s
 
 The first time the app is launched, users are asked if they want to allow AdGuard to send technical and interaction data. If they do, the following information is sent:
 
+- App version
+- App language
+- App theme
 - App configuration (enabled features and activation status)
-- Device information (type, screen size, language, and OS version)
-- Names of the screens viewed inside the app
+- Names of the screens, dialogs, and toasts viewed inside the app
+- User clicks on app elements
+- Time since the app was first used
+- Device information (type, screen size, language, platform, and OS version)
+- User agent (device brand and model, name, version, and system architecture)
+- Unique generated identifier
+- Authorization status
+- Kill Switch status
+- License status and expiration date
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
 
