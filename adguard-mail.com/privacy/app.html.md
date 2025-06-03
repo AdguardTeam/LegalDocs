@@ -122,7 +122,7 @@ You can send messages to support directly from the app. If the *Send app and sys
 - **Device OS**
 - **Browser or OS version**
 - **App configuration**
-- **Account info**: Email address, user status, limits, default recipient?
+- **Account info**: Email address, user status, limits, default recipient
 - **System theme**
 - **Device language**
 - **Info about active temp mail address, aliases, and blocked senders**
