@@ -1,7 +1,7 @@
 
 # AdGuard Mail End-User License Agreement
 
-*March 19, 2025*
+*June 18, 2025*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS OR USING THE SOFTWARE, WHETHER ACCESSED VIA THE WEB OR AS AN INSTALLED APPLICATION.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -30,9 +30,9 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 ## 2. Terms of sale
 
-2.1. Customer pays for a subscription that allows activating AdGuard Mail, a piece of software downloadable from [adguard-mail.com](https://adguard-mail.com). In order to use the paid version of AdGuard Mail, you need to purchase a monthly or one-year subscription. Once you purchase a subscription, it is automatically linked to your Account. You don’t need to activate the Software: it becomes active as soon as you purchase it. The period of use of AdGuard Mail granted by the Rightholder is specified when you purchase the subscription. The term of use of AdGuard Mail starts from the purchase of the subscription. If the term of use of AdGuard Mail starts at a different time, this information will be provided when you purchase the subscription.
+2.1. Customer pays for a subscription that allows activating AdGuard Mail, a piece of software downloadable from [adguard-mail.com](https://adguard-mail.com). In order to use the paid version of AdGuard Mail, you need to purchase a monthly or a yearly subscription. Once you purchase a subscription, it is automatically linked to your Account. You don’t need to activate the Software: your subscription becomes active as soon as you purchase it. The period of use of AdGuard Mail granted by the Rightholder is specified when you purchase the subscription. The term of use of AdGuard Mail starts from the purchase of the subscription. If the term of use of AdGuard Mail starts at a different time, this information will be provided when you purchase the subscription.
 
-2.2. Purchases of subscriptions for the Software from Rightholder’s website are governed by separate Terms of Sale, which are expressly incorporated by reference into this EULA. Purchases of subscriptions for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
+2.2. Purchases of subscriptions for the Software from Rightholder’s website are governed by separate Terms of Sale published at [adguard-mail.com/terms-of-sale.html](https://adguard-mail.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of subscriptions for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
 2.3. You are entitled to a refund in accordance with the Terms of Sale.
 
@@ -40,9 +40,9 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.5. You can cancel the automatic subscription renewal at any time in accordance with the Terms of Sale.
 
-2.6. You can extend the subscription term up to another month, year, or two by purchasing another subscription. If you have a monthly subscription and buy a 1-year subscription, you’ll be switched to annual billing — and vice versa.
+2.6. You can extend the subscription term up to another month or year by purchasing another subscription. If you have a monthly subscription and buy a 1-year subscription, you’ll be switched to annual billing — and vice versa.
 
-2.7. You can transfer the purchased subscription to another Account. To do this, contact our support team at [support@adguard-vpn.com](mailto:support@adguard-vpn.com).
+2.7. You can transfer the purchased subscription to another Account. To do this, contact our support team at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
 2.8. When you purchase an AdGuard Mail subscription, an AdGuard Account is automatically created for the email address that you used at the purchase. AdGuard Account can also be registered after the installation of the Software or directly via the Website. By registering the Account, you affirm that you are 18 years or older.
 
