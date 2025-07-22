@@ -1,6 +1,6 @@
 # AdGuard for Windows Privacy Notice
 
-*August 7, 2024*
+*July 22, 2025*
 
 ---
 
@@ -68,21 +68,19 @@ To check for updates of blocking filters, AdGuard connects to its servers. When 
 
 ### App crash report
 
-If AdGuard crashes, it creates an automatic crash report. Upon the next launch AdGuard will ask you to send it to us. In this report, the following information is sent:
+If AdGuard crashes, it automatically generates a crash report. When you next open AdGuard, you will be prompted to send this report to us. The report contains diagnostic information to help us identify and fix problems quickly.
 
-- Stack trace
-- Memory minidump (only in case of a crash in the native code)
-- Computer’s name
-- AdGuard version
-- AdGuard settings
-- App identifier
-- Active Windows user name
-- .NET Framework version
-- List of active processes
+The following data is included in the crash report:
 
-**Why we need this information:** To troubleshoot critical issues. It keeps us aware of new problems not reported by users.
+- App information: App name, version, and app identifier
+- Operating system details: Windows version, build number, system architecture (e.g., x64, ARM), and .NET Framework version
+- User environment: Active Windows user name and computer’s name
+- App configuration: AdGuard version and settings
+- Crash diagnostics: Stack trace, memory minidump (only if the crash occurred in native code), recent application log lines, and crash-specific error messages
+- System status: List of active processes, total and available RAM
+- Unique identifiers: Anonymous crash report ID for tracking the issue
 
-Crash report data is stored only on our servers. We do not use any third party services to collect and store crash reports. All crash reports are stored for 30 days.
+**Why we need this information:** This data helps us troubleshoot critical issues and detect crashes that users might not report themselves. Crash reports are stored securely on our servers for 30 days and are not shared with third parties.
 
 ### Installer crash
 
@@ -97,7 +95,7 @@ If AdGuard crashes during the installation process, it creates an automatic cras
 - Active Windows user name
 - Installer logs
 
-**Why we need this information:*- The installer is a separate program from AdGuard and it can also have bugs and errors. The information received in crash reports allows us to understand the causes of problems and fix them in time.
+**Why we need this information:** The installer is a separate program from AdGuard and it can also have bugs and errors. The information received in crash reports allows us to understand the causes of problems and fix them in time.
 
 ### App uninstall
 
