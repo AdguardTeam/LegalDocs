@@ -14,6 +14,24 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
+### Technical and interaction data
+
+Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
+
+- App name and version
+- App language
+- App configuration (enabled features, protection status, selected filters, etc.)
+- License status and expiration date
+- User interactions: names of screens, windows, dialogs, buttons clicked
+- Time since the first app launch
+- Device parameters (OS version, screen resolution, system locale, system theme)
+- User agent string
+- Unique generated identifier
+- Activation source
+- Network status
+
+When data is sent, your IP address may be temporarily collected as part of standard server access logs. No personally identifiable information (PII) is collected. This data is used internally only, never shared with third parties.
+
 ### User authorization
 
 Users have the option to activate the license by logging into their personal account in the app. The following information is sent to our servers:
