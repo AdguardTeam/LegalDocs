@@ -1,6 +1,6 @@
 # AdGuard for Windows Privacy Notice
 
-*August 7, 2024*
+*July 22, 2025*
 
 ---
 
@@ -13,6 +13,24 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard
 ## What data AdGuard for Windows can collect and when
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
+
+### Technical and interaction data
+
+Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
+
+- App name and version
+- App language
+- App configuration (enabled features, protection status, selected filters, etc.)
+- License status and expiration date
+- User interactions: names of screens, windows, dialogs, buttons clicked
+- Time since the first app launch
+- Device parameters (OS version, screen resolution, system locale, system theme)
+- User agent string
+- Unique generated identifier
+- Activation source
+- Network status
+
+When data is sent, your IP address may be temporarily collected as part of standard server access logs. No personally identifiable information (PII) is collected. This data is used internally only, never shared with third parties.
 
 ### User authorization
 
@@ -68,21 +86,19 @@ To check for updates of blocking filters, AdGuard connects to its servers. When 
 
 ### App crash report
 
-If AdGuard crashes, it creates an automatic crash report. Upon the next launch AdGuard will ask you to send it to us. In this report, the following information is sent:
+If AdGuard crashes, it automatically generates a crash report. When you next open AdGuard, you will be prompted to send this report to us. The report contains diagnostic information to help us identify and fix problems quickly.
 
-- Stack trace
-- Memory minidump (only in case of a crash in the native code)
-- Computer’s name
-- AdGuard version
-- AdGuard settings
-- App identifier
-- Active Windows user name
-- .NET Framework version
-- List of active processes
+The following data is included in the crash report:
 
-**Why we need this information:** To troubleshoot critical issues. It keeps us aware of new problems not reported by users.
+- App information: App name, version, and app identifier
+- Operating system details: Windows version, build number, system architecture (e.g., x64, ARM), and .NET Framework version
+- User environment: Active Windows user name and computer’s name
+- App configuration: AdGuard version and settings
+- Crash diagnostics: Stack trace, memory minidump (only if the crash occurred in native code), recent application log lines, and crash-specific error messages
+- System status: List of active processes, total and available RAM
+- Unique identifiers: Anonymous crash report ID for tracking the issue
 
-Crash report data is stored only on our servers. We do not use any third party services to collect and store crash reports. All crash reports are stored for 30 days.
+**Why we need this information:** This data helps us troubleshoot critical issues and detect crashes that users might not report themselves. Crash reports are stored securely on our servers for 30 days and are not shared with third parties.
 
 ### Installer crash
 
@@ -97,7 +113,7 @@ If AdGuard crashes during the installation process, it creates an automatic cras
 - Active Windows user name
 - Installer logs
 
-**Why we need this information:*- The installer is a separate program from AdGuard and it can also have bugs and errors. The information received in crash reports allows us to understand the causes of problems and fix them in time.
+**Why we need this information:** The installer is a separate program from AdGuard and it can also have bugs and errors. The information received in crash reports allows us to understand the causes of problems and fix them in time.
 
 ### App uninstall
 
