@@ -1,6 +1,6 @@
 # AdGuard for Windows Privacy Notice
 
-*July 22, 2025*
+*July 30, 2025*
 
 ---
 
@@ -23,13 +23,12 @@ Upon first launch, users are asked if they consent to send technical and interac
 - App language
 - App configuration (enabled features, protection status, etc.)
 - License status and expiration date
-- User interactions: names of screens, windows, dialogs, buttons clicked
+- User interactions: names of screens, windows, dialogs, and clicked buttons
 - Time since the app was first used
-- Device information (OS version, screen resolution, system locale, system theme)
-- User agent (device brand and model, name, version, and system architecture)
-- Unique generated identifier
-- Activation source
-- Network status
+- Device information: OS version, screen resolution, system locale, and system theme
+- User agent information: device brand and model, name, version, and system architecture
+
+Submitting this information is optional. If you choose not to consent, no data will be transmitted. You may withdraw your consent at any time.
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
 
