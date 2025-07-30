@@ -18,19 +18,29 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
 
-- App name and version
+- App version
 - App language
-- App configuration (enabled features, protection status, selected filters, etc.)
-- License status and expiration date
-- User interactions: names of screens, windows, dialogs, buttons clicked
-- Time since the first app launch
-- Device parameters (OS version, screen resolution, system locale, system theme)
-- User agent string
+- App theme
+- App configuration (enabled features and activation status)
+- Names of the screens, dialogs, and toasts viewed inside the app
+- User clicks on app elements
+- Time since the app was first used
+- Device information (type, screen size, language, platform, and OS version)
+- User agent (device brand and model, name, version, and system architecture)
 - Unique generated identifier
-- Activation source
-- Network status
+- Authorization status
+- License status and expiration date
 
-When data is sent, your IP address may be temporarily collected as part of standard server access logs. No personally identifiable information (PII) is collected. This data is used internally only, never shared with third parties.
+When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
+
+This data is used only internally and is not shared with third parties.
+
+**Why we need this information:**
+
+- To find out which features are used the most
+- To find issues that one may face while using the app
+- To fix mistakes in the UI/UX
+- To learn what people like or don’t like about our app
 
 ### User authorization
 

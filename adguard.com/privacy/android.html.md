@@ -146,7 +146,7 @@ Crash report data is stored only on our servers. We do not use any third party s
 
 ### Technical and interaction data
 
-The first time the app is launched, users are asked if they want to allow AdGuard to send technical and interaction data. If they do, the following information is sent:
+Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
 
 - App version
 - App language
@@ -159,7 +159,6 @@ The first time the app is launched, users are asked if they want to allow AdGuar
 - User agent (device brand and model, name, version, and system architecture)
 - Unique generated identifier
 - Authorization status
-- Kill Switch status
 - License status and expiration date
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
