@@ -94,7 +94,7 @@ Update checks are performed periodically or when prompted by the user. We do not
 
 To check for updates of blocking filters, AdGuard connects to its servers. When it happens, no information is being sent. The program periodically downloads a file with all filter versions and their available updates.
 
-### App crash report
+### Automatic crash reports
 
 If AdGuard crashes, it automatically generates a crash report. When you next open AdGuard, you will be prompted to send this report to us. The report contains diagnostic information to help us identify and fix problems quickly.
 
