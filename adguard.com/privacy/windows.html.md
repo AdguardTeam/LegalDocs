@@ -18,18 +18,18 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
 
+- App name
 - App version
 - App language
-- App theme
-- App configuration (enabled features and activation status)
-- Names of the screens, dialogs, and toasts viewed inside the app
-- User clicks on app elements
+- App configuration (enabled features, protection status, etc.)
+- License status and expiration date
+- User interactions: names of screens, windows, dialogs, buttons clicked
 - Time since the app was first used
-- Device information (type, screen size, language, platform, and OS version)
+- Device information (OS version, screen resolution, system locale, system theme)
 - User agent (device brand and model, name, version, and system architecture)
 - Unique generated identifier
-- Authorization status
-- License status and expiration date
+- Activation source
+- Network status
 
 When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
 
@@ -108,7 +108,9 @@ The following data is included in the crash report:
 - System status: List of active processes, total and available RAM
 - Unique identifiers: Anonymous crash report ID for tracking the issue
 
-**Why we need this information:** This data helps us troubleshoot critical issues and detect crashes that users might not report themselves. Crash reports are stored securely on our servers for 30 days and are not shared with third parties.
+**Why we need this information:** This data helps us troubleshoot critical issues and detect crashes that users might not report themselves.
+
+Crash reports are stored securely on our servers for 30 days and are not shared with third parties.
 
 ### Installer crash
 
