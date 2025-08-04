@@ -16,17 +16,11 @@ Here we describe all cases when and what data is sent to our server, so you can 
 
 ### Technical and interaction data
 
-Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
+Upon first launch, users are asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
 
-- App name
-- App version
-- App language
-- App configuration (enabled features, protection status, etc.)
-- License status and expiration date
-- User interactions: names of screens, windows, dialogs, and clicked buttons
-- Time since the app was first used
-- Device information: OS version, screen resolution, system locale, and system theme
-- User agent information: device brand and model, name, version, and system architecture
+- App configuration (enabled features, license and app status, etc.)
+- Device information (brand name, type, screen size, language, etc.)
+- User interactions (names of visited screens and events like button clicks, etc.)
 
 Submitting this information is optional. If you choose not to consent, no data will be transmitted. You may withdraw your consent at any time.
 

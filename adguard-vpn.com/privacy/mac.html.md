@@ -65,22 +65,11 @@ When you launch AdGuard VPN for Mac for the first time, the following informatio
 
 ### Technical and interaction data
 
-Users are also asked upon first launch if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
+Upon first launch, users are also asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
 
-- App name
-- App version
-- App language
-- App configuration: enabled features, Kill Switch status
-- App theme
-- App type (VPN_MAC)
-- Exclusion mode
-- License type and status
-- Login status
-- Statistics and cohort ID
-- User interactions: tab switches, taskbar clicks, and location connection/disconnection
-- Time since first app launch
-- Device information: type, screen size, language, platform, and OS version
-- User agent: device brand and model, name, version, and system architecture
+- App configuration (enabled features, license and app status, etc.)
+- Device information (brand name, type, screen size, language, etc.)
+- User interactions (names of visited screens and events like button clicks, etc.)
 
 Submitting this information is entirely optional — if you choose not to consent, no data will be transmitted. You may disable or withdraw your consent at any time.
 
