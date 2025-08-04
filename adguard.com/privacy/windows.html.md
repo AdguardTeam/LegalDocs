@@ -1,6 +1,6 @@
 # AdGuard for Windows Privacy Notice
 
-*July 30, 2025*
+*August 4, 2025*
 
 ---
 

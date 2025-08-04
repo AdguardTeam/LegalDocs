@@ -1,6 +1,6 @@
 # AdGuard for Android Privacy Notice
 
-*July 30, 2025*
+*August 4, 2025*
 
 ---
 
@@ -146,21 +146,11 @@ Crash report data is stored only on our servers. We do not use any third party s
 
 ### Technical and interaction data
 
-Upon first launch, users are asked if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
+Upon first launch, users are asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
 
-- App name
-- App version
-- App language
-- App theme
-- App configuration (enabled features and activation status)
-- Names of the screens, dialogs, and toasts viewed inside the app
-- User clicks on app elements
-- Time since the app was first used
-- Device information: type, screen size, language, platform, and OS version
-- User agent: device brand and model, name, version, and system architecture
-- Unique generated identifier
-- Authorization status
-- License status and expiration date
+- App configuration (enabled features, license and app status, etc.)
+- Device information (brand name, type, screen size, language, etc.)
+- User interactions (names of visited screens and events like button taps, etc.)
 
 Submitting this information is optional. If you choose not to consent, no data will be transmitted. You may withdraw your consent at any time.
 
