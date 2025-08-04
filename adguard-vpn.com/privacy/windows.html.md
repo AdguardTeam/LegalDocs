@@ -1,7 +1,7 @@
 
 # AdGuard VPN for Windows Privacy Notice
 
-*August 7, 2024*
+*August 4, 2025*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard VPN for Windows and explains why we do it and how we use this information.
 
@@ -71,6 +71,36 @@ When you launch AdGuard VPN for Windows for the first time, the following inform
 - To monitor the number of simultaneous connections
 
 - To count the number of apps of a certain type and version
+
+### Technical and interaction data
+
+Users are also asked upon first launch if they consent to send technical and interaction data. If they agree, the following anonymized data is sent:
+
+- App name
+- App version
+- App language
+- App configuration: enabled features, Kill Switch status
+- App theme
+- App type (VPN_WINDOWS)
+- Exclusion mode
+- License type and status
+- Login status
+- Statistics and cohort ID
+- User interactions: tab switches, taskbar clicks, and location connection/disconnection
+- Time since first app launch
+- Device information: type, screen size, language, platform, and OS version
+- User agent: device brand and model, name, version, and system architecture
+
+Submitting this information is entirely optional — if you choose not to consent, no data will be transmitted. You may disable or withdraw your consent at any time.
+
+When data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs. This data is used only internally and is not shared with third parties.
+
+**Why we collect this information:**
+
+- To understand how users interact with the app and which features are most valuable.
+- To detect and resolve usability or configuration issues.
+- To improve overall user experience and UI/UX consistency.
+- To guide future product development based on real-world usage patterns.
 
 ### Using the app
 
