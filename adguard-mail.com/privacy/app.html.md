@@ -1,6 +1,6 @@
 # AdGuard Mail Privacy Policy
 
-*March 18, 2025*
+*August 11, 2025*
 
 ---
 
@@ -18,7 +18,7 @@ AdGuard Mail applications are available on multiple platforms: iOS, Android, mac
 
 ---
 
-### Starting the application
+### Starting the app
 
 When you launch AdGuard Mail for the first time, we collect the following data:
 
@@ -81,6 +81,8 @@ When interacting with messages in your in Temp Mail mailboxes, such as retrievin
 Storing the content of incoming emails is a fundamental function of the temporary email service within AdGuard Mail. AdGuard Mail stores all information related to incoming messages, including the sender, subject, full email text, time of receipt, and more. This information is retained until you explicitly delete it or delete the account to which it belongs.
 
 Meanwhile, the alias service of AdGuard Mail does not store incoming messages and only performs the function of forwarding messages to the target mailboxes specified by you.
+
+We also search for and identify links with tracking pixels in emails to create content blocking rules and protect our users from tracking. The search is based solely on technical characteristics of URLs, without access to personal information. During the filtering process, we do not manually process, read, or store the content of emails. Thus, it does not violate your privacy and is fully compliant with our personal data protection principles.
 
 ### Alias and recipient management
 
