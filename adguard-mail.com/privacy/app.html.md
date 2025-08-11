@@ -82,7 +82,7 @@ Storing the content of incoming emails is a fundamental function of the temporar
 
 Meanwhile, the alias service of AdGuard Mail does not store incoming messages and only performs the function of forwarding messages to the target mailboxes specified by you.
 
-We also search for and identify links with tracking pixels in emails to create content blocking rules and protect our users from tracking. The search is based solely on technical characteristics of URLs, without access to personal information. During the filtering process, we do not manually process, read, or store the content of emails. Thus, it does not violate your privacy and is fully compliant with our personal data protection principles.
+We may also search for and identify links with tracking pixels in emails to create content blocking rules and protect our users from tracking. The search is based solely on technical characteristics of URLs, without access to personal information. During the filtering process, we do not manually process, read, or store the content of emails. Thus, it protects your privacy and is fully compliant with our personal data protection principles.
 
 ### Alias and recipient management
 
