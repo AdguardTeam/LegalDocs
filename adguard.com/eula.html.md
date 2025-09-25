@@ -1,6 +1,6 @@
 # AdGuard End-User License Agreement
 
-*April 10, 2024*
+*September 25, 2025*
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -161,7 +161,7 @@ Such files may include:
 
 By sending us the files, You provide us with Your consent to process the files and data for the purpose of providing technical support. For more information on data processing, please see our Privacy Policy and the Privacy Notice suitable for the Software.
 
-6.5. The Rightholder will use Your email address that You used when binding the Software to Your Account or creating a new Account to send You notifications about modifications, new versions, and features of the Software. In addition, You can provide Your consent to receive promotional information about the Software, or similar products or services offered by the Rightholder. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your Account or unsubscribe right in the received email.
+6.5. The Rightholder will use Your email address that You used when binding the Software to Your Account or creating a new Account to send You notifications about modifications, new versions, features of the Software, and account-related notifications. In addition, You can provide Your consent to receive promotional information about the Software, or similar products or services offered by the Rightholder. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your Account or unsubscribe right in the received email.
 
 6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing, You affirm that You are 18 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
