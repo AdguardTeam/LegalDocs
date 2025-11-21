@@ -31,7 +31,7 @@ When the data is sent to AdGuard, your IP address may be temporarily collected a
 
 This data is used only internally and is not shared with third parties.
 
-**Why do we need this information:**
+**Why we need this information:**
 
 - To find out which features are used the most
 - To find issues that one may face while using the app
