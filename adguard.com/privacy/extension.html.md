@@ -58,7 +58,7 @@ If the “Send statistics for ad filters usage” option is enabled, the followi
 - Rule text
 - How many times the rule was triggered
 
-**Why do we need this information:** We automatically optimize filters and remove rules that are rarely used. To do this, we collect information about which rules are triggered.
+**Why we need this information:** We automatically optimize filters and remove rules that are rarely used. To do this, we collect information about which rules are triggered.
 
 ### Sending a web page complaint
 
