@@ -91,7 +91,7 @@ You have no right to:
 
 ## 5. Use of blocking and filtering functionality
 
-5.1. By using AdGuard DNS, You acknowledge and agree to use blocklists, rules, filters that may be produced by AdGuard Software Limited or by You or by third parties and utilized by blocking and filtering functionality of AdGuard DNS solely at Your own will and risk.
+5.1. By using AdGuard DNS, You acknowledge and agree to use blocklists, rules, filters that may be produced by AdGuard Software Limited or by You or by third parties and utilized by blocking and filtering functionality of AdGuard DNS solely at Your own will and risk, in accordance with the Rightholder’s [Filter Policy](https://adguard.com/kb/general/ad-filtering/filter-policy/) available on the Website.
 
 5.2. You are solely responsible for using blocking and filtering functionality of AdGuard DNS, connecting Your devices to, enabling, disabling, configuring, customizing of such functionality, editing rules used in such functionality.
 
