@@ -126,7 +126,7 @@ Note that when Your Account is created You are automatically subscribed to notif
 
 ## 5. Use of blocking and filtering components
 
-5.1. By using the Software, You acknowledge and agree to use filters that may be produced by the Rightholder or by third parties and utilized by blocking and filtering components of the Software solely at Your own will and risk, in accordance with the Rightholder’s Filter Policy available on the Website.
+5.1. By using the Software, You acknowledge and agree to use filters that may be produced by the Rightholder or by third parties and utilized by blocking and filtering components of the Software solely at Your own will and risk, in accordance with the Rightholder’s [Filter Policy](https://adguard.com/kb/general/ad-filtering/filter-policy/) available on the Website.
 
 5.2. You are solely responsible for using filters utilized by blocking and filtering components of the Software, enabling, disabling, configuring, customizing of such filters, editing filtering rules used in such filters.
 
