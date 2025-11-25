@@ -1,6 +1,6 @@
 # Terms and Conditions of AdGuard Affiliate Program
 
-*February 10, 2025*
+*November 25, 2025*
 
 ## 1. General
 
@@ -101,6 +101,22 @@ You understand and agree that the following restrictions will apply to your part
 
 You have the right to view reports on the Affiliate Website regarding your commission revenue, number of user visits to the Software Websites via your personalized link, number of installations of the Software downloaded via your personalized installation link, number of registrations through the Software Websites and the Software with your personalized link, and to filter your commission statistics by date and time period, country, subaccount, the Affiliate Referral, the Software, source.
 
+### (8) Commission reversals on cancellations, refunds, and fraudulent activity
+
+You acknowledge and agree that any commission will be voided, reversed, and deducted from your Affiliate Account balance if the underlying purchase is refunded, canceled, returned, subject to a chargeback, or determined by AdGuard, in its sole discretion, to be fraudulent or in violation of these Terms. This ensures that commissions are paid only on genuine, final, and compliant sales.
+
+### (9) Right to withhold pending review
+
+AdGuard may place a reasonable compliance hold on any pending or future commission payments if we suspect a breach of these Terms, fraud, traffic quality issues, or tracking manipulation. During the review, commissions may accrue but will not be paid out. Once the review is concluded, AdGuard may release, reduce, or reverse the affected commissions in whole or in part.
+
+### (10) Set-off and negative balances
+
+If your account balance is insufficient to cover any reversals, chargebacks, clawbacks, or other amounts owed to AdGuard, you acknowledge that your Affiliate Account may reflect a negative balance. AdGuard may set off such amounts against any current or future commissions or other sums payable to you until fully recovered.
+
+### (11) Ineligible transactions
+
+No commission will be due on ineligible transactions, including but not limited to self-referrals, non-bona-fide orders, fraudulent transactions, use of unauthorized coupons, or orders placed in violation of these Terms.
+
 ## 4. Payout
 
 ### (1) Available payout methods
@@ -125,6 +141,10 @@ AdGuard will process your payouts on the following terms:
 
 Your chosen payout method may be subject to territorial and other restrictions. You must check such restrictions yourself with third-party payment services associated with your payout method. AdGuard is not responsible for the availability, reliability, operability, restrictions of your chosen payout method and connected third-party payment services.
 
+### (4) Compliance holds on payouts
+
+AdGuard may delay or withhold payouts, in whole or in part, for up to ninety (90) days or for the duration reasonably necessary to complete a compliance or fraud review. We may request your cooperation and documentation; failure to cooperate may result in suspension or termination.
+
 ## 5. Intellectual property rights
 
 Please review this section carefully prior to using your Affiliate Account and the Affiliate Website.
@@ -134,12 +154,14 @@ Any violation of this section will constitute a material breach of these Terms a
 ### (1) Content of the Affiliate Account and the Affiliate Website
 
 AdGuard is the owner of all right, title and interest in and to or the licensee of all intellectual property rights to the content of the Affiliate Account and the Affiliate Website, including, without limitation, all source or object code, scripts, databases, functionality, software, computer programs, techniques, improvements, designs, audio, video, text, photographs, graphics, concepts, formulas, processes, documentation, trade secrets, and any other copyrighted works or works of authorship, provided by AdGuard when you use the Affiliate Account or the Affiliate Website.
+
 AdGuard is the owner of all intellectual property rights to all trademarks, service marks, and logos provided in the content of the Affiliate Account and the Affiliate Website, excluding those owned by third parties.
+
 Modifying, reverse engineering, copying, reproducing, aggregating, republishing, uploading, encoding, selling, licensing, distributing to unauthorized parties, or otherwise exploiting the Affiliate Account or the Affiliate Website for any purpose whatsoever not expressly authorized by AdGuard by these Terms or with a written consent is strictly prohibited.
 
 ### (2) Licensing promo tools to you
 
-The promo materials that the Company provides to you via the Affiliate Website to promote the Software contain copyrighted materials owned by the Company, such as promo texts, banners, images, media kits (hereinafter, the “Promo Tools”).
+The promo materials that AdGuard provides to you via the Affiliate Website to promote the Software contain copyrighted materials owned by AdGuard, such as promo texts, banners, images, media kits (hereinafter, the “Promo Tools”).
 
 AdGuard hereby grants you a non-exclusive, non-transferable, revocable, royalty-free license to copy, reproduce, publish, upload, post, publicly display, broadcast, transmit, encode, translate, and store the Promo Tools subject to the following conditions:
 
@@ -150,6 +172,19 @@ AdGuard hereby grants you a non-exclusive, non-transferable, revocable, royalty-
 Use of the Promo Tools for any other purpose is expressly prohibited by law and may result in severe civil and criminal penalties.
 
 All texts and associated graphics of the Promo Tools are provided “as is” and without any warranties.
+
+### (3) Your obligations regarding intellectual property
+
+In connection with your participation in the Affiliate Program, you further agree that:
+
+(a) While you may research and draw inspiration from various sources, you must not:
+
+- Directly copy or plagiarize content from AdGuard or other affiliates;
+- Use automated spinning tools to mass-produce low-quality variations of existing content;
+- Create content that exists solely for SEO manipulation without providing real value to users.
+
+(b) Except for the Promo Tools used in accordance with Section 5(2), you may not reproduce, adapt, translate, or create derivative works from any AdGuard-owned content without prior written consent.
+(c) Any downloadable software, browser extension, toolbar, or similar technology used to promote AdGuard must be pre-approved in writing by AdGuard.
 
 ## 6. Restrictions
 
@@ -175,17 +210,29 @@ By registering your Affiliate Account and by using the Affiliate Website, you re
 - (n) You will not use another person’s email address or impersonate another person or a representative of another company when registering your Affiliate Account.
 - (o) You will not create Affiliate Accounts by automated means or under false pretenses.
 - (p) You will not violate the copyright and other intellectual property rights of AdGuard or third parties.
-- (q) You will not use the AdGuard brand name, or any similar spellings, in domain names, store names, or business names. Additionally, you will not use graphics, layouts, color schemes, or visual elements on your websites or promotional materials that may mislead visitors into believing they are visiting or interacting with an official AdGuard website or property. All promotional materials must clearly indicate that you are not AdGuard itself or an official representative of AdGuard.
+- (q) You will not use the AdGuard brand name, trademarks, or any confusingly similar variations or misspellings, in domain names, social media profile names (e.g., “AdGuard Deals” on Twitter), or as the title of any paid search ad. Additionally, you will not use graphics, layouts, color schemes, or visual elements on your websites, social media pages, or promotional materials that mimic AdGuard’s official branding or may otherwise mislead visitors into believing they are interacting with an official AdGuard property. All affiliate-run properties must be clearly identifiable as third-party promotional sites. For guidance on proper brand usage, refer to AdGuard’s official brand guidelines or media kit.
 - (r) You will not process personal data of users referred by you in violation of applicable personal data protection laws and regulations.
 - (s) You are not a person, and you are not acting on behalf of any person or entity to whom provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions, and national security controls of the European Union, the United States, and other applicable foreign agencies.
+- (t) You will provide and maintain accurate and truthful information during the registration process and for the duration of your participation in the Affiliate Program. Using a false identity, fraudulent information, or misrepresenting your promotional methods is grounds for immediate termination.
+- (u) You will respond promptly, truthfully, and completely to any inquiries from AdGuard regarding your traffic sources, promotional methods, or compliance with these Terms within three (3) business days, unless a shorter period is reasonably required due to urgency. Failure to respond to compliance inquiries may result in the suspension of your Affiliate Account and withholding of payments pending investigation.
+- (v) Affiliate account integrity: Unless expressly permitted in writing by AdGuard, you may maintain only one Affiliate Account. Transferring, selling, or assigning your Affiliate Account is prohibited.
 <!-- CROWDIN KEY SPLIT MARKER  -->
 ## 7. Rules of participation in the Affiliate Program
 
 Please read this section carefully before using your Affiliate Account and the Affiliate Website.
 
-Any of your activities in the Affiliate Program that require approval, that are conducted without AdGuard’s approval or in violation of the terms of approval, and any of your activities in the Affiliate Program that are considered prohibited activities, violate these Terms and may result in, among other things, the temporary or permanent blocking of the balance of your Affiliate Account, the suspension or termination of your rights to use your Affiliate Account and the Affiliate Website, and the suspension or termination of your participation in the Affiliate Program.
+Any violation of these rules constitutes a material breach of these Terms and may result in, among other things, the temporary or permanent blocking of the balance of your Affiliate Account, forfeiture of commissions, and immediate termination of your participation in the Affiliate Program.
 
-### (1) Allowed activities
+### (1) Fundamental obligations
+
+- (a) Clear affiliate disclosure: You must prominently and clearly disclose your affiliate relationship with AdGuard wherever you post an affiliate link. This disclosure must be in line with the Federal Trade Commission (FTC) Endorsement Guides and any other applicable laws. It must inform users that you may earn a commission if they make a purchase through your links. An example of an acceptable disclosure is: “As an AdGuard Affiliate, I earn from qualifying purchases.”
+- (b) Truthful marketing and no false claims: All statements you make about AdGuard products must be truthful, accurate, and substantiated. You shall not make inflated, false, or misleading claims about the features, benefits, or performance of the Software. Any endorsements or testimonials must reflect real experiences.
+- (c) Accurate and updated promotional content: You are responsible for ensuring all promotional materials you use, including coupon codes, discounts, pricing, and product information, are accurate and up-to-date. Outdated offers or misleading information must be promptly removed or corrected to avoid customer confusion.
+- (d) Third-party intellectual property warranty: You represent and warrant that you have all sufficient rights and permissions to display all content (including text, images, videos, and logos) on your Affiliate Sites, and that your participation in this Program will not infringe upon the intellectual property rights of any third party. You agree to indemnify AdGuard from any claims arising from a breach of this warranty.
+- (e) Email newsletter compliance (if approved): Each email must include a functional unsubscribe link, a valid physical mailing address, accurate sender and subject information, and be sent only to recipients who have provided the required consent. Unsolicited bulk email is prohibited. You must comply with all applicable laws (including CAN-SPAM, ePrivacy, and CASL).
+- (f) Original content creation: You must create original, value-adding promotional content. Plagiarism, scraping, or the use of automated tools, including AI-powered rewriting tools, to repurpose existing content (“spun content”) derived from AdGuard properties or from other affiliates is strictly prohibited.
+
+### (2) Allowed activities
 
 The following types of activities do not require prior approval by AdGuard:
 
@@ -194,7 +241,7 @@ The following types of activities do not require prior approval by AdGuard:
 - (c) Native advertising, which refers to ads created to match the content of your website.
 - (d) Search advertising, which refers to contextual ads without the keywords disallowed by AdGuard.
 
-### (2) Activities requiring approval
+### (3) Activities requiring approval
 
 The following types of activities can be performed only after receiving prior written approval from AdGuard:
 
@@ -203,10 +250,25 @@ The following types of activities can be performed only after receiving prior wr
 - (c) Placing ads on social media, including feeds, groups, etc.
 - (d) Placing ads in your messengers.
 - (e) Placing ads within your applications, software, or services.
+- (f) Using any downloadable software, browser extension, toolbar, or similar technology to promote AdGuard.
 
-### (3) Prohibited activities
+### (4) Paid search and trademark (TM) bidding policy
 
-The following types of activities are strictly prohibited:
+You are strictly prohibited from engaging in any form of paid search marketing that bids on AdGuard's trademarks or diverts traffic from AdGuard’s official marketing channels, except with prior, explicit written permission from AdGuard. This policy applies to all platforms that allow keyword-triggered advertising, including search engines, their partner networks, content networks, and social platforms.
+
+- (a) Using coupons and promo codes, except for the uses listed under Prohibited activities below.
+(a) Definition of “Protected Terms”: “Protected Terms” include “AdGuard,” “AdGuard VPN,” “AdGuard DNS,” and any other trademarks owned by AdGuard, as well as any common misspellings, phonetic equivalents, or variations thereof (e.g., “Ad Guard,” “adgaurd”). This prohibition extends to “trademark-plus” (TM+) bidding, where Protected Terms are combined with other words (e.g., “AdGuard coupon,” “AdGuard review,” “download AdGuard”).
+- (b) Specific prohibitions: You shall not:
+    - i. Bid on any Protected Term in any paid search auction on any search engine (including but not limited to Google, Bing, Yandex, DuckDuckGo).
+    - ii. Use any Protected Term in your ad copy, ad title, or Display URL.
+    - iii. Engage in “direct linking,” “URL hijacking,” or “ad hijacking.” All traffic from a paid search ad must be directed to a landing page on your own website that provides original, substantive content and value to the user. Linking directly from a paid search ad to any AdGuard Software Website via an affiliate link is strictly forbidden.
+    - iv. Mimic AdGuard’s official advertisements or pose as AdGuard in any capacity, including through the use of vanity/“official” language, badges, or formatting that implies the ad is from AdGuard.
+- (c) Negative keyword requirement: To ensure compliance, you must add all Protected Terms (including “AdGuard” and its common misspellings) as negative keywords in all of your paid search campaigns to prevent your ads from appearing on searches for those terms.
+- **(d) This policy applies globally, at all times, whether or not AdGuard is actively bidding on the Protected Terms. The use of dynamic keyword insertion or ad customizers that may result in the insertion of Protected Terms into ad copy is strictly prohibited.**
+
+### (5) Prohibited activities
+
+The following activities are strictly prohibited and constitute grounds for immediate termination and commission forfeiture. This list is non-exhaustive, and AdGuard reserves the right, in its sole discretion, to determine whether any conduct is fraudulent, unethical, or otherwise non-compliant with these Terms.
 
 - (a) Using any form of promotion of the Software that could cause reputational damage to AdGuard.
 - (b) Sending unsolicited SMS messages, emails, or spam via social media, including messenger applications and services, social networks, forums, dating services, etc.
@@ -227,16 +289,50 @@ The following types of activities are strictly prohibited:
 - (q) Using ads that violate any applicable laws, rules, or regulations.
 - (r) Using scareware and otherwise misleading users to induce them to visit the Software Websites, download and install the Software, or purchase subscriptions to the Software.
 - (s) Posting or distributing AdGuard coupons, discount codes, or promotions on third-party coupon or deal aggregation websites, coupon extensions, or platforms, including but not limited to ones such as RetailMeNot, Coupons.com, KarmaNow, and Honey. This restriction does not apply to websites or platforms that are owned by you — such use may be allowed upon prior written approval by AdGuard.
-- (t) Using cloaking, delayed redirects, or any other means to disguise the source of traffic and manipulate tracking attribution.
-- (u) The practice of cookie stuffing, forced clicks, or any method that artificially places affiliate cookies without user intent.
-- (v) Using unauthorized coupon codes or creating fake coupons.
+- (t) Using cloaking, delayed redirects, or any other means to mask the traffic source or interfere with tracking attribution.
+- (u) The practice of cookie stuffing, cookie dropping, or forced clicks. This includes placing affiliate tracking cookies on a user’s device without their full knowledge and affirmative consent.
+- (v) Posting, sharing, or promoting any unauthorized, “leaked,” or private coupon codes. All coupons or promotions must be provided directly by AdGuard through the Affiliate Program or be an official, publicly available promotion.
 - (w) Listing or advertising the final discounted Software price with the AdGuard coupon already applied as standard or regular price without mentioning the discount or coupon.
+- (x) Plagiarism and content spinning: You shall not copy, “scrape,” “spin,” or plagiarize content from any AdGuard-owned website or from any other affiliate participating in this Program. The use of automated tools, including AI-powered rewriting tools, to repurpose existing content (“spun content”) is explicitly forbidden. All promotional content must be original and add value.
+- (y) Self-referrals: You are prohibited from using your own affiliate link to purchase AdGuard products for your personal use, for the use of your immediate family or associates, or for your own business. The purpose of the Affiliate Program is to refer new, genuine third-party customers.
+- (z) Promotion on illegal or objectionable channels: You may not promote AdGuard on websites or channels that contain or promote illegal activities, such as pirated software, hate speech, violence, discrimination, or other illicit content inconsistent with AdGuard’s brand values.
+- (aa) Malicious software and adware: You shall not use or promote any form of malware, spyware, adware, malicious redirects, or forced installations. The use of ad injectors, unwanted toolbars, or any software that hijacks traffic to insert your affiliate code is strictly forbidden.
+- (ab) Brand hijacking and cross-brand diversion: Using AdGuard’s brand, marks, or brand-based queries to attract users and then intentionally diverting them to non-AdGuard or competing products, services, bots, or properties. This includes, but is not limited to, using redirects, split-testing flows, or traffic “funnels” that lead users away from AdGuard.
+- (ac) Sub-affiliate networks: Operating or feeding links into a sub-affiliate network without AdGuard’s prior written approval. If approved, you remain fully and solely responsible for the compliance of all your sub-publishers with these Terms.
+- (ad) Loyalty and cashback sites: Promoting AdGuard through a loyalty, cashback, or rebate model without AdGuard’s prior, explicit written approval. AdGuard reserves the right to set specific terms for such promotions.
 
-### (4) Promo codes and coupons validity
+### (6) Promo codes and coupons validity
 
 Promo codes and discount coupons issued to affiliate partners are valid for a period of six (6) months from the date of issuance, unless otherwise specified. After this period, the promo codes will automatically expire and can no longer be used for any discounts or promotional offers. Upon expiration, you must request new promo codes to be issued in order to continue offering discounts to your customers.
 
-## 8. Data processing
+## 8. Affiliate code of conduct
+
+### (1) Professional conduct
+
+You agree to conduct yourself in a professional and ethical manner as a participant in the AdGuard Affiliate Program. You shall not engage in any activity that harms the reputation of AdGuard, its products, or other affiliates.
+
+### (2) Non-interference with other affiliates
+
+You are strictly prohibited from interfering with the promotional activities of other AdGuard affiliates or attempting to divert commissions from them. This includes, but is not limited to:
+
+- (a) Creating or using any technology, script, software, or browser extension that intercepts or diverts traffic or overwrites tracking cookies from other affiliates.
+- (b) Engaging in “mass reporting,” “coordinated harassment,” or filing bad-faith, vexatious complaints against other affiliates’ content, websites, or social media accounts. This specifically includes abusing platform reporting systems to falsely flag legitimate content or trigger automatic removals in an attempt to eliminate competition.
+
+### (3) Non-disparagement
+
+You agree that, during the term of this Agreement and thereafter, you will not make, publish, or otherwise communicate any false, misleading, or malicious public statements that disparage or harm the image or reputation of AdGuard, its parent or affiliated companies, its products, its employees, or the AdGuard Affiliate Program. This does not prohibit you from providing honest, good-faith feedback to AdGuard privately or from making truthful statements as required by law.
+
+## 9. Legal status and responsibilities
+
+### (1) Independent contractor status
+
+Your participation in the Affiliate Program does not create any employment, agency, partnership, or joint venture relationship between you and AdGuard. You are an independent contractor. You have no authority to make or accept any offers or representations on AdGuard’s behalf. You shall not make any statement, whether on your site or otherwise, that would reasonably contradict anything in this section.
+
+### (2) Taxes and legal compliance
+
+You are solely responsible for the payment of all taxes applicable to the commissions you earn through the Affiliate Program. AdGuard will not withhold any taxes from your payments. You are also responsible for complying with all applicable local, state, and federal laws, rules, and regulations in your jurisdiction.
+
+## 10. Data processing
 
 ### (1) AdGuard Privacy Policy
 
@@ -273,7 +369,15 @@ You are obliged to process personal data of users referred by you in accordance 
 
 You hereby acknowledge and agree that your processing of the personal data of users referred by you is separate and independent from AdGuard’s processing of such users’ personal data. You are not bound to AdGuard in any controller, joint controller, or processor relationship with respect to the processing of the personal data of such users. You are solely responsible for complying with applicable data protection laws with respect to the processing of the personal data of such users.
 
-## 9. Third-party websites and services
+### (6) Your status as an independent controller
+
+You acknowledge that, with respect to any personal data you collect directly from users for your own purposes (e.g., through your website’s newsletter sign-up or analytics), you act as an independent data controller. You are solely responsible for your own compliance with all applicable data protection laws, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+
+### (7) Your privacy obligations
+
+You represent and warrant that you will maintain a publicly accessible and legally compliant privacy policy on all your promotional websites. You are responsible for implementing all necessary notices, obtaining required consents, and providing mechanisms for data subjects to exercise their rights as required by applicable data protection laws.
+
+## 11. Third-party websites and services
 
 The Affiliate Account or the Affiliate Website may contain links to other websites or services owned and/or operated by third parties.
 
@@ -283,7 +387,7 @@ You must independently review the terms of use and privacy policies of third-par
 
 Visiting third-party websites and using third-party services is entirely at your own discretion. You are solely responsible for your use of third-party websites and services and for complying with their terms of use.
 
-## 10. Modifications, availability, and management
+## 12. Modifications, availability, and management
 
 By accessing and using the Affiliate Account or the Affiliate Website, you agree to the following terms:
 
@@ -302,7 +406,15 @@ AdGuard reserves the right, but not the obligation, to:
 - (c) Refuse, restrict access to, limit the availability of, or disable your Affiliate Account or any portion thereof, or temporarily or permanently block the balance of your Affiliate Account;
 - (d) Otherwise manage the Affiliate Account and the Affiliate Website to protect our rights and property and to ensure the proper operation of the Affiliate Account and the Affiliate Website.
 
-## 11. Warranty disclaimer
+### (3) Compliance cooperation and audit rights
+
+AdGuard reserves the right to audit your promotional activities for compliance with these Terms. You agree to provide reasonable cooperation in any such review, which may include providing substantiation for traffic sources, campaign settings, ad screenshots, and relevant logs. Failure to cooperate with a compliance audit may result in suspension, withholding of payments, or termination.
+
+### (4) Program integrity reporting and anti-retaliation
+
+AdGuard may maintain a confidential channel for reporting suspected violations of these Terms. Retaliation against any affiliate who makes a good-faith report is strictly prohibited. Abuse of reporting mechanisms (e.g., submitting bad-faith or coordinated false reports as a form of harassment) constitutes a material breach of these Terms.
+
+## 13. Warranty disclaimer
 
 By accessing and using the Affiliate Account or the Affiliate Website and by participating in the Affiliate Program, you expressly agree to the following terms:
 
@@ -313,12 +425,12 @@ By accessing and using the Affiliate Account or the Affiliate Website and by par
 - (e) ADGUARD IS NOT RESPONSIBLE FOR ANY THIRD-PARTY SERVICE INSTALLED BY YOU, INTENTIONALLY OR INADVERTENTLY, BY PURCHASING LICENSES OR DOWNLOADING THE SOFTWARE FROM AN UNAUTHORIZED PARTY THAT IS NOT OUR AFFILIATE.
 - (f) YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR PARTICULAR USE OF THE AFFILIATE ACCOUNT SERVICE DOES NOT VIOLATE ANY APPLICABLE LAW, THE RIGHTS OF ANY THIRD PARTY, OR YOUR CONTRACTUAL OBLIGATIONS TO ANY THIRD PARTY.
 
-## 12. Limitation of liability
+## 14. Limitation of liability
 
 - (a) TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER ADGUARD NOR ITS SUPPLIERS OR AFFILIATES SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE), ARISING OUT OF THE USE OF, OR INABILITY TO USE THE AFFILIATE ACCOUNT SERVICE OR THE AFFILIATE WEBSITE PROVIDED UNDER THESE TERMS WHETHER BASED ON ANY THEORY OF LIABILITY, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADGUARD OR ITS SUPPLIERS OR AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 - (b) THE FOREGOING LIMITATIONS ON LIABILITY ARE INTENDED TO APPLY TO ALL ASPECTS OF THESE TERMS.
 
-## 13. Term and termination
+## 15. Term and termination
 
 ### (1) Term
 
@@ -338,11 +450,22 @@ If you confirm the deletion of your Affiliate Account:
 
 AdGuard reserves the right to terminate these Terms and the provision of the Affiliate Account or the Affiliate Website to you for good cause. In such an event, we reserve the right, but not the obligation, to notify you thirty (30) business days prior to the date of the proposed termination by sending a message to your email address or posting a notice on the Affiliate Website. You will have the opportunity to request a payout before the date of the proposed termination.
 
-### (4) Termination by AdGuard due to your breach of these Terms
+### (4) Termination by AdGuard for breach
 
-WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS, ADGUARD RESERVES THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE AFFILIATE ACCOUNT SERVICE AND THE AFFILIATE WEBSITE TO YOU IN CASE OF YOUR MATERIAL BREACH OF THESE TERMS OR ANY APPLICABLE LAW, INCLUDING, WITHOUT LIMITATION, YOUR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OR OF ANY APPLICABLE LAW OR REGULATION. IF SUCH BREACH IS NOT CURED WITHIN TEN (10) BUSINESS DAYS AFTER NOTICE OF SUCH BREACH, WE MAY TERMINATE YOUR USE OF THE AFFILIATE ACCOUNT SERVICE AND THE AFFILIATE WEBSITE OR DELETE YOUR AFFILIATE ACCOUNT AND BLOCK THE BALANCE OF YOUR AFFILIATE ACCOUNT AT ANY TIME, WITHOUT NOTICE, IN OUR SOLE DISCRETION. If AdGuard terminates or suspends your Affiliate Account for any reason, you are prohibited from participating in the Affiliate Program and from registering and creating a new Affiliate Account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your Affiliate Account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive relief.
+AdGuard reserves the right to terminate your participation in the Affiliate Program **immediately and without prior notice** if you are in **Material Breach** of these Terms. A “Material Breach” includes, but is not limited to, any violation of the rules outlined in Section 6 (Restrictions), Section 7 (Rules of participation in the Affiliate Program), and Section 8 (Affiliate Code of Conduct). For violations deemed by AdGuard, in its sole discretion, to be fraudulent, malicious, or causing significant harm (such as Brand Hijacking, Partner Sabotage, or use of malware), no cure period will be provided.
 
-## 14. Miscellaneous
+### (5) Consequences of termination for cause
+
+In the event of termination for a Material Breach, the following shall apply:
+
+- (a) Commission forfeiture and reversal (the “clawback”): Any and all commissions, whether pending or already paid, that were earned during any period of non-compliance or as a result of fraudulent, prohibited, or non-compliant methods, shall be immediately void and forfeited. AdGuard expressly reserves the right to “reverse” or “clawback” any such commissions.
+- (b) Right to withhold and offset: You expressly agree that AdGuard shall have the right to withhold any and all pending commission payments owed to you for a reasonable period to investigate any suspected breach. Furthermore, AdGuard reserves the right to offset any future commissions or other payments owed to you against any amount you owe to AdGuard, including amounts related to clawed-back commissions, chargebacks, or any other damages sustained by AdGuard as a result of your breach. This right is in addition to any other legal or equitable remedies AdGuard may have.
+
+### (6) Post-termination obligations
+
+Upon termination for any reason, you must immediately cease using and remove all AdGuard affiliate links, logos, and Promotional Content from your Affiliate Sites.
+
+## 16. Miscellaneous
 
 ### (1) Applicable law, arbitration, and choice of venue
 
@@ -372,7 +495,7 @@ You may not assign, by operation of law or otherwise, any rights or delegate any
 
 No action, regardless of form, arising out of the transactions under these Terms, may be brought by either party hereto more than one (1) year after the cause of action has accrued, except that an action for infringement of intellectual property rights may be brought within the maximum applicable statutory period.
 
-## 15. Contact information
+## 17. Contact information
 
 Should you have any questions concerning these Terms, or if you desire to contact AdGuard for any reason, please contact our Support Service:
 
