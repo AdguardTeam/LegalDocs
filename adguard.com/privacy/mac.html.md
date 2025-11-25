@@ -15,6 +15,27 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
+### Technical and interaction data
+
+Upon first launch, users are asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
+
+- App configuration (enabled features, license and app status, etc.)
+- Device information (brand name, type, screen size, language, etc.)
+- User interactions (names of visited screens and events like button clicks, etc.)
+
+Submitting this information is optional. If you choose not to consent, no data will be transmitted. You may withdraw your consent at any time.
+
+When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
+
+This data is used only internally and is not shared with third parties.
+
+**Why we need this information:**
+
+- To find out which features are used the most
+- To find issues that one may face while using the app
+- To fix mistakes in the UI/UX
+- To learn what people like or don’t like about our app
+
 ### User authorization
 
 Users have the option to activate the license by logging into their personal account in the app. The following information is sent to our servers:
@@ -29,19 +50,12 @@ Upon authorization, the app receives an active license for that account from the
 To validate the license status, AdGuard connects to its servers. When it happens, the following information is sent:
 
 - Computer name
-
 - MAC address hash
-
 - Hardware ID hash
-
 - OS language
-
 - App identifier
-
 - App version
-
 - License key
-
 - Build identifier
 
 **Why we need this information:** We use this information to check the license status and display the user’s license keys in the AdGuard account. MAC and hardware ID hashes are also used to tie the license to the computer.
@@ -57,17 +71,11 @@ The license is reset upon user request. When it happens, the app identifier is s
 To check for app updates, AdGuard connects to its servers. When it happens, the following information is sent:
 
 - App identifier
-
 - Update channel
-
 - App name
-
 - App version
-
 - App language
-
 - Automatic update flag
-
 - OS version
 
 **Why we need this information:** This data is sent to our servers in order to return a correct response about what updates are available for the current version of the application.
@@ -83,17 +91,11 @@ To check for filter updates, AdGuard connects to its servers. When it happens, n
 When a user activates the trial period, the following information is sent to our server:
 
 - Computer name
-
 - MAC address hash
-
 - Hardware ID hash
-
 - OS language
-
 - App identifier
-
 - App version
-
 - Build identifier
 
 **Why we need this information:** To keep track of when the app’s trial period expires.
@@ -109,13 +111,9 @@ Users can send messages to support right from the app. If they do, a special fil
 The following information is included in this report:
 
 - App identifier
-
 - App version
-
 - OS language
-
 - OS version
-
 - App settings
 
 **Why we need this information:** This information is used by the support team to understand whether they are dealing with a paid version user or not, and to perform minimal diagnostics.
@@ -127,24 +125,17 @@ If the “Include a diagnostic report” option is enabled, the app will also se
 In case of a malfunction that leads to an unexpected app crash, the user is prompted to send a special crash report. The report will only be sent if the user has previously agreed to send crash reports. We will receive the following information:
 
 - App identifier
-
 - Device hardware hash
-
 - Device model, its memory size and disk space
-
 - App version
-
 - OS and Kernel versions
-
 - Stack trace
-
 - List of components used by the app and their versions
-
 - OS’s last boot timestamp
-
 - App’s last boot timestamp
 
 **Why we need this information:** To troubleshoot critical issues.  It keeps us aware of new problems not reported by users.
+
 Crash report data is stored only on our servers. We do not use any third party services to collect and store crash reports. All crash reports are stored for 30 days.
 
 ### App uninstall
@@ -162,7 +153,6 @@ If the “Phishing and malware protection” option is enabled, AdGuard checks e
 If the “Help us with Browsing security filters development” option is enabled, the app will periodically send anonymous security-related data:
 
 - URLs of visited websites that AdGuard identifies as potentially untrustworthy (access to them is blocked by the “Security” module)
-
 - Information about the nature of identified threats
 
 The information described above, when collected by AdGuard for Mac, is generally not correlated with any other personal information and is used anonymously in aggregation with similar information from other users of the AdGuard software for analytical purposes.
