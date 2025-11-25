@@ -144,7 +144,7 @@ Your chosen payout method may be subject to territorial and other restrictions. 
 ### (4) Compliance holds on payouts
 
 AdGuard may delay or withhold payouts, in whole or in part, for up to ninety (90) days or for the duration reasonably necessary to complete a compliance or fraud review. We may request your cooperation and documentation; failure to cooperate may result in suspension or termination.
-
+<!-- CROWDIN KEY SPLIT MARKER  -->
 ## 5. Intellectual property rights
 
 Please review this section carefully prior to using your Affiliate Account and the Affiliate Website.
@@ -185,7 +185,7 @@ In connection with your participation in the Affiliate Program, you further agre
 
 (b) Except for the Promo Tools used in accordance with Section 5(2), you may not reproduce, adapt, translate, or create derivative works from any AdGuard-owned content without prior written consent.
 (c) Any downloadable software, browser extension, toolbar, or similar technology used to promote AdGuard must be pre-approved in writing by AdGuard.
-<!-- CROWDIN KEY SPLIT MARKER  -->
+
 ## 6. Restrictions
 
 Please read this section carefully before using your Affiliate Account and the Affiliate Website.
