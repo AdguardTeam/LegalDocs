@@ -413,7 +413,7 @@ AdGuard reserves the right to audit your promotional activities for compliance w
 ### (4) Program integrity reporting and anti-retaliation
 
 AdGuard may maintain a confidential channel for reporting suspected violations of these Terms. Retaliation against any affiliate who makes a good-faith report is strictly prohibited. Abuse of reporting mechanisms (e.g., submitting bad-faith or coordinated false reports as a form of harassment) constitutes a material breach of these Terms.
-
+<!-- CROWDIN KEY SPLIT MARKER  -->
 ## 13. Warranty disclaimer
 
 By accessing and using the Affiliate Account or the Affiliate Website and by participating in the Affiliate Program, you expressly agree to the following terms:
