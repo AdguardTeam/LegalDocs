@@ -185,7 +185,7 @@ In connection with your participation in the Affiliate Program, you further agre
 
 (b) Except for the Promo Tools used in accordance with Section 5(2), you may not reproduce, adapt, translate, or create derivative works from any AdGuard-owned content without prior written consent.
 (c) Any downloadable software, browser extension, toolbar, or similar technology used to promote AdGuard must be pre-approved in writing by AdGuard.
-<!-- CROWDIN KEY SPLIT MARKER  -->
+
 ## 6. Restrictions
 
 Please read this section carefully before using your Affiliate Account and the Affiliate Website.
@@ -216,7 +216,7 @@ By registering your Affiliate Account and by using the Affiliate Website, you re
 - (t) You will provide and maintain accurate and truthful information during the registration process and for the duration of your participation in the Affiliate Program. Using a false identity, fraudulent information, or misrepresenting your promotional methods is grounds for immediate termination.
 - (u) You will respond promptly, truthfully, and completely to any inquiries from AdGuard regarding your traffic sources, promotional methods, or compliance with these Terms within three (3) business days, unless a shorter period is reasonably required due to urgency. Failure to respond to compliance inquiries may result in the suspension of your Affiliate Account and withholding of payments pending investigation.
 - (v) Affiliate account integrity: Unless expressly permitted in writing by AdGuard, you may maintain only one Affiliate Account. Transferring, selling, or assigning your Affiliate Account is prohibited.
-
+<!-- CROWDIN KEY SPLIT MARKER  -->
 ## 7. Rules of participation in the Affiliate Program
 
 Please read this section carefully before using your Affiliate Account and the Affiliate Website.
