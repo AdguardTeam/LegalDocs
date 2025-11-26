@@ -71,7 +71,7 @@ For the exact data that the payment provider collects about you, please see the 
 - For AdGuard for Mac: [adguard.com/privacy/mac.html](https://adguard.com/privacy/mac.html)
 - For AdGuard for iOS: [adguard.com/privacy/ios.html](https://adguard.com/privacy/ios.html)
 - For AdGuard Browser Extension: [adguard.com/privacy/browser-extension.html](https://adguard.com/privacy/browser-extension.html)
-- For AdGuard for Safari: [adguard.com/privacy/safari.html](https://adguard.com/privacy/safari.html)
+- For AdGuard Mini for Mac: [adguard.com/privacy/mac-mini.html](https://adguard.com/privacy/mac-mini.html)
 - For AdGuard Browser Assistant: [adguard.com/privacy/assistant.html](https://adguard.com/privacy/assistant.html)
 - For AdGuard Content Blocker: [adguard.com/privacy/content-blocker.html](https://adguard.com/privacy/content-blocker.html)
 - For AdGuard Home: [adguard.com/privacy/home.html](https://adguard.com/privacy/home.html)
