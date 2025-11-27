@@ -80,7 +80,7 @@ The Software is the intellectual property of AdGuard Wallet Limited and is prote
 
 7.3 Network fees are determined by the relevant blockchains. We do not control, collect or refund such fees and are not liable for failed or delayed transactions due to fee settings or network conditions.
 
-7.4 The Software is intended for Users who are 18 years of age or older, and any registration by, use of or access to the Software by any natural person under 18 is unauthorized, unlicensed and in violation of this Agreement. Children under 18 and at least 18 years of age are only permitted to use or access the Software if the following conditions are met: (a) such children use the Software through an account owned by a parent or legal guardian (b) with their explicit permission and (c) under their direct supervision. Children under 18 years of age are not permitted to use the Software.
+7.4 The Software is intended for Users who are at least 18 years old. Any registration, use, or access to the Software by a person under the age of 18 is unauthorized and in violation of this Agreement.
 
 7.5. By using the Software, you represent that you are 18 or older and that you agree to and will abide by this Agreement. If You violate any of the terms of this Agreement, or otherwise violate any agreement or policy/procedure between you and the Rightsholder, the Rightsholder may terminate this Agreement with you.
 

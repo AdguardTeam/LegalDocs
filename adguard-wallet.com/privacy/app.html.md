@@ -16,7 +16,7 @@ We act as the data controller when processing your data, where applicable. This 
 
 This Privacy Policy applies to the use of the AdGuard Wallet application (the **“AdGuard Wallet App”**). It does **not** apply to third-party websites or services linked within the AdGuard Wallet App. We recommend reviewing the privacy policies of those services separately.
 
-If you have any questions, please contact us at privacy@adguard.com.
+If you have any questions, please contact us at [privacy@adguard-wallet.com](mailto:privacy@adguard-wallet.com).
 
 ## Definitions
 
@@ -131,4 +131,4 @@ We may update this Privacy Policy from time to time. In the event of changes, us
 If you have any questions or concerns about this Privacy Policy or our data handling practices, please contact us.
 
 Email: [privacy@adguard-wallet.com](mailto:privacy@adguard-wallet.com)
-Website: [@adguard-wallet.com](https://@adguard-wallet.com)
+Website: [adguard-wallet.com](https://@adguard-wallet.com)
