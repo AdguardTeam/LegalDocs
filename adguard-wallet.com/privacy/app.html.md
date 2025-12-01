@@ -131,4 +131,4 @@ We may update this Privacy Policy from time to time. In the event of changes, us
 If you have any questions or concerns about this Privacy Policy or our data handling practices, please contact us.
 
 Email: [privacy@adguard-wallet.com](mailto:privacy@adguard-wallet.com)
-Website: [adguard-wallet.com](https://@adguard-wallet.com)
+Website: [adguard-wallet.com](https://adguard-wallet.com)
