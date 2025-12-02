@@ -12,7 +12,7 @@
 - [android.html.md](privacy/android.html.md) - AdGuard for Android Privacy Notice.
 - [ios.html.md](privacy/ios.html.md) - AdGuard for iOS Privacy Notice.
 - [mac.html.md](privacy/mac.html.md) - AdGuard for Mac Privacy Notice.
-- [mac-mini.html.md](privacy/mac-mini.html.md) - AdGuard Mini for Mac Privacy Notice.
+- [mini-mac.html.md](privacy/mini-mac.html.md) - AdGuard Mini for Mac Privacy Notice.
 - [windows.html.md](privacy/windows.html.md) - AdGuard for Windows Privacy Notice.
 - [home.html.md](privacy/home.html.md) - AdGuard Home Privacy Notice.
 
@@ -46,7 +46,7 @@ Other documents:
     - [AdGuard for Android](privacy/android.html.md)
     - [AdGuard for iOS](privacy/ios.html.md)
     - [AdGuard for Mac](privacy/mac.html.md)
-    - [AdGuard Mini for Mac](privacy/mac-mini.html.md)
+    - [AdGuard Mini for Mac](privacy/mini-mac.html.md)
     - [AdGuard for Windows](privacy/windows.html.md)
     - [AdGuard Home](privacy/home.html.md)
     - [AdGuard Temp Mail](https://adguard.com/privacy/temp-mail.html)
