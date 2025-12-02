@@ -12,9 +12,9 @@ NOTE THAT THIS EULA REQUIRES THAT YOU AND ADGUARD SOFTWARE LIMITED SUBMIT ANY DI
 
 AdGuard Software Limited may modify this EULA from time to time without prior notification. The amendment of EULA may be broadcasted to you by sending an email and/or by publishing the updated EULA on the AdGuard website.
 
-**The AdGuard Browser Extension, AdGuard Mini for Mac, and AdGuard Content Blocker are subject to dual licensing, making them accessible through both a commercial license and an open-source license, namely the GNU General Public License v3.0 (or later).**
+**The AdGuard Browser Extension, AdGuard for Safari and AdGuard Content Blocker are subject to dual licensing, making them accessible through both a commercial license and an open-source license, namely the GNU General Public License v3.0 (or later).**
 
-**If your project aligns with the GNU General Public License v3.0 license criteria, you are permitted to utilize the AdGuard Browser Extension, AdGuard Mini for Mac, and AdGuard Content Blocker under the provisions of the open-source license.**
+**If your project aligns with the GNU General Public License v3.0 license criteria, you are permitted to utilize the AdGuard Browser Extension, AdGuard for Safari and AdGuard Content Blocker under the provisions of the open-source license.**
 
 **For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the END-USER LICENSE AGREEMENT OF ADGUARD below is mandatory.**
 
@@ -28,7 +28,7 @@ AdGuard Software Limited may modify this EULA from time to time without prior no
 
 1.3. “Rightholder” (“we”, “us”, “our”) is ADGUARD SOFTWARE LIMITED, an entity organized and existing under the laws of the Republic of Cyprus. The Rightholder is the owner of all rights, exclusive or otherwise, to the Software.
 
-1.4. “Software” is the ADGUARD software program, such as AdGuard Browser Extension, AdGuard Mini for Mac, AdGuard Content Blocker, and corresponding documentation, associated media, printed materials, and online or electronic documentation, and all updates or upgrades of the above that are provided to You.
+1.4. “Software” is the ADGUARD software program, such as AdGuard Browser Extension, AdGuard for Safari, AdGuard Content Blocker, and corresponding documentation, associated media, printed materials, and online or electronic documentation, and all updates or upgrades of the above that are provided to You.
 
 1.5. “Software Beta Application” is a version of the Software, so identified, to be used only to test the Software for a limited time period. The beta version of the Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
 
