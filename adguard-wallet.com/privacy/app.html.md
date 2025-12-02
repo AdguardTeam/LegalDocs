@@ -1,6 +1,6 @@
 # Privacy Policy of AdGuard Wallet (the “Privacy Policy”)
 
-*November 25, 2025*
+*December 2, 2025*
 
 **Keynote:** We are proud to say that we fight for users’ privacy, and we are strongly committed to this principle and to being as transparent as possible. We believe that privacy is a fundamental human right. That is why we are transparent about what AdGuard Wallet does and explain the purpose of every bit of technical data that may be processed locally on your device or through optional interactions. This Privacy Policy applies when you interact with our AdGuard Wallet App, as defined below.
 
@@ -16,7 +16,7 @@ We act as the data controller when processing your data, where applicable. This 
 
 This Privacy Policy applies to the use of the AdGuard Wallet application (the **“AdGuard Wallet App”**). It does **not** apply to third-party websites or services linked within the AdGuard Wallet App. We recommend reviewing the privacy policies of those services separately.
 
-If you have any questions, please contact us at [privacy@adguard-wallet.com](mailto:privacy@adguard-wallet.com).
+If you have any questions, please contact us at [support@adguard-wallet.com](mailto:support@adguard-wallet.com).
 
 ## Definitions
 
@@ -35,8 +35,9 @@ In this Privacy Policy:
 We do **not** collect or process the following data:
 
 - Your name, email, or address
-- Your network metadata
+- Your network metadata (please note that your IP address may be processed for routing, security, and service integrity purposes, and is not retained after the request is completed)
 - Any wallet private keys or stored assets
+- Your wallet addresses (except for limited processing that is strictly required when interacting with third-party service providers such as swap or on-/off-ramp partners)
 - Any in-app user activity or behavior data
 - Any device identifiers, cookies, or tracking pixels
 - Any analytics data through third-party SDKs or services
@@ -54,8 +55,9 @@ Certain data is processed **only locally** on your device to provide the functio
 - Public wallet addresses
 - Transaction history
 - Token balances
+- Cryptographically protected private keys and your recovery (seed) phrase, which are generated, stored, and used **exclusively locally** on your device and are **never transmitted**, **shared**, or **accessible** to AdGuard or any third parties
 
-To provide up-to-date information, the AdGuard Wallet App may connect directly to public blockchain nodes or third-party APIs (e.g., price aggregators). This communication is not relayed or monitored by us in any way.
+To provide up-to-date information, the AdGuard Wallet app may connect to public blockchain nodes or third-party APIs through AdGuard’s privacy-preserving proxy servers.
 
 ## Tracking of External Links
 
@@ -85,10 +87,11 @@ Our data collection practices are limited to information essential for Services 
 - **Wallet Data Handling:** We temporarily process wallet addresses during API interactions to support essential app functionality. This occurs when AdGuard is used with default settings, which you are free to customize or disable at any time.
 - **User Preference Settings:** Your chosen preferences and configuration details are processed strictly to deliver our services. This data is generally stored locally on your device. If synchronization across devices is enabled, the data is encrypted in such a way that only your approved devices can decrypt it.
 - **Optional Feedback Submissions:** We only collect comments, feedback, or survey answers if you willingly decide to provide them.
-Analytics and Usage Metrics: With your permission (through MetaMetrics), we collect data about how you use the AdGuard Wallet App to help improve its features. This information is pseudonymized and not connected to any personally identifiable data unless you explicitly request otherwise. You may turn off this feature at any time.
 - **Device Identifier Data:** If you activate wallet notifications, we collect device-specific identifiers required for sending push notifications. These identifiers are stored only as long as notification preferences remain active, and the feature can be disabled whenever you choose.
 
-Firstly, please note that we do not collect Personal Data by default, only when needed or when submitted by you. If you submit diagnostic data through optional features, you may request its deletion by contacting us at privacy@adguard-wallet.com.
+## Your Rights
+
+Firstly, please note that we do not collect Personal Data by default, only when needed or when submitted by you. If you submit diagnostic data through optional features, you may request its deletion by contacting us at [support@adguard-wallet.com](mailto:support@adguard-wallet.com).
 
 Your rights associated with the Services are described below.
 
@@ -130,5 +133,5 @@ We may update this Privacy Policy from time to time. In the event of changes, us
 
 If you have any questions or concerns about this Privacy Policy or our data handling practices, please contact us.
 
-Email: [privacy@adguard-wallet.com](mailto:privacy@adguard-wallet.com)
+Email: [support@adguard-wallet.com](mailto:support@adguard-wallet.com)
 Website: [adguard-wallet.com](https://adguard-wallet.com)
