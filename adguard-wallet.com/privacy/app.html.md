@@ -55,7 +55,8 @@ To provide up-to-date information, the AdGuard Wallet app may connect to public 
 
 ## Tracking of External Links
 
-When you click on external links within the AdGuard Wallet App, the request may be routed through a **Traffic Distribution System (TDS)** for performance tracking or link redirection management.
+When you click on external links within the AdGuard Wallet App, your request may be routed through our **privacy-preserving redirection service** to ensure correct link handling and measure overall performance.
+
 During this process, we may collect **non-identifiable technical data**, including:
 
 - Timestamp of the click
