@@ -11,7 +11,7 @@
 
 This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.html](https://adguard.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
-## What data AdGuard Mini for Mac can collect and when
+## What data AdGuard Mini for Mac (formerly AdGuard for Safari) can collect and when
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
