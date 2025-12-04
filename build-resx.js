@@ -18,6 +18,7 @@ const mappings = {
     'adguard.com': 'legal-github-docs-adguard',
     'adguard-dns.io': 'legal-github-docs-dns',
     'adguard-vpn.com': 'legal-github-docs-vpn',
+    'adguard-wallet.com': 'legal-github-docs-wallet',
     'adguardpartner.com': 'legal-github-docs-aff',
 };
 
