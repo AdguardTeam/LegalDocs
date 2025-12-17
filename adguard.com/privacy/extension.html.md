@@ -1,7 +1,7 @@
 
 # AdGuard Browser Extension Privacy Notice
 
-*August 7, 2024*
+*December 16, 2025*
 
 This Privacy Notice lists all the information that we, Adguard Software Ltd. (“we”, “us”, or “our”), may collect when you use AdGuard Browser Extension and explains why we do it and how we use this information.
 
