@@ -15,6 +15,27 @@ This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard
 
 Here we describe all cases when and what data is sent to our server, so you can be sure that we only collect the minimum necessary for the application to work properly. The information we collect about you depends on how you interact with our application.
 
+### Technical and interaction data
+
+Upon first launch, users are asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
+
+- App configuration (extension version, enabled features, etc.)
+- Device information (brand name, type, OS name, language, etc.)
+- User interactions (names of visited screens and events like button clicks, etc.)
+
+Submitting this information is optional. If you choose not to consent, no data will be transmitted. You may withdraw your consent at any time.
+
+When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
+
+This data is used only internally and is not shared with third parties.
+
+**Why we need this information:**
+
+- To find out which features are used the most
+- To find issues that one may face while using the app
+- To fix mistakes in the UI/UX
+- To learn what people like or don’t like about our app
+
 ### Checking for filter updates
 
 To check for filter updates, AdGuard connects to its servers. When it happens, the following information is sent:
