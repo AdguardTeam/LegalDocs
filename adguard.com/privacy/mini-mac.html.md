@@ -20,7 +20,7 @@ Here we describe all cases when and what data is sent to our server, so you can 
 Upon first launch, users are asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
 
 - App configuration (version, enabled features, etc.)
-- Device information (brand name, type, OS name, language, etc.)
+- Device information (brand name, type, OS, language, etc.)
 - User interactions (names of visited screens and events like button clicks, etc.)
 
 Submitting this information is optional. If you choose not to consent, no data will be transmitted. You may withdraw your consent at any time.
