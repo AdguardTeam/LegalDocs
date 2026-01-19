@@ -96,7 +96,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 (C) Engaging in the transmission of unsolicited advertising, “spam” emails, or other deceptive practices, including misrepresenting yourself as another person or entity.
 
-(D) Using the application, including aliases or temporary email addresses, to violate applicable law, third-party rights, or the terms, policies, or restrictions of third-party services, including, without limitation, creating or managing multiple accounts where such conduct is prohibited or circumventing safeguards imposed by such services.
+(D) Using aliases or temporary email addresses to violate the terms of service of third parties, circumvent their safeguards, and evade their restrictions (e.g., create or manage multiple accounts where such conduct is prohibited).
 
 4.9. Only persons 18 years of age or older may use AdGuard Mail. You are not allowed to use AdGuard Mail if you are a minor, if you have been or are prohibited to access AdGuard Mail, or if your Account has been suspended or deleted due to any reason.
 
