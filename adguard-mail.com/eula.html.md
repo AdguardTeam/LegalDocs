@@ -104,7 +104,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.11. You may not download, install, use the Software or purchase the subscription to the Software if the country in which you reside is an EU or U.S. embargoed country, or if you are a person to whom the shipment of the Software is prohibited under the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
 
-4.12. In the event of a violation, we reserve the right to suspend your account or limit your access to AdGuard Mail at our sole discretion. Such suspension or restriction may be implemented by AdGuard Mail immediately and without notice, including on a temporary basis while we investigate suspected misuse of the application or the Services. If your Account has been suspended, you may contact us for further information.
+4.12. In the event of a violation, we reserve the right to suspend your Account or limit your access to AdGuard Mail at our sole discretion. We may implement such a suspension or restriction immediately and without notice, including on a temporary basis, while investigating suspected misuse of the application or services. If your Account has been suspended, you may contact us for further information.
 
 ## 5. Personal data and Privacy Policy
 
