@@ -1,7 +1,7 @@
 
 # AdGuard Mini for Mac Privacy Notice
 
-*November 26, 2025*
+*January 29, 2026*
 
 ---
 
