@@ -167,6 +167,8 @@ By sending us the files, You provide us with Your consent to process the files a
 
 6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing, You affirm that You are 18 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
 
+<!-- CROWDIN KEY SPLIT MARKER  -->
+
 ## 7. WARRANTY DISCLAIMER
 
 7.1. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. THE RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. THE RIGHTHOLDER DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SOFTWARE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. THE RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
@@ -222,4 +224,4 @@ Should You have any questions concerning this EULA, or if You desire to contact 
 Email: [support@adguard.com](mailto:support@adguard.com)
 Website: [adguard.com](https://adguard.com)
 
-© 2026 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
