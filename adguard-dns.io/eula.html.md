@@ -1,7 +1,7 @@
 
 # AdGuard DNS End-User License Agreement
 
-*April 10, 2024*
+*March 5, 2026*
 
 IMPORTANT: THIS END-USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE, HEREAFTER “RIGHTHOLDER”). READ IT CAREFULLY BEFORE USING THE ADGUARD DNS PRODUCTS AND SERVICES.
 BY CONNECTING TO ADGUARD DNS, OR BY USING IT, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THIS EULA, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU ARE CONFIRMING YOUR ACCEPTANCE OF ADGUARD DNS AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA.
@@ -91,11 +91,13 @@ You have no right to:
 
 ## 5. Use of blocking and filtering functionality
 
-5.1. By using AdGuard DNS, You acknowledge and agree to use blocklists, rules, filters that may be produced by AdGuard Software Limited or by You or by third parties and utilized by blocking and filtering functionality of AdGuard DNS solely at Your own will and risk, in accordance with the Rightholder’s [Filter Policy](https://adguard.com/kb/general/ad-filtering/filter-policy/) available on the Website.
+5.1. By using AdGuard DNS, You acknowledge and agree to use blocklists, rules, filters that may be produced by AdGuard Software Limited or by You or by third parties and utilized by blocking and filtering functionality of AdGuard DNS solely at Your own will and risk, in accordance with the Rightholder’s [Filter Policy](https://adguard.com/kb/general/ad-filtering/filter-policy/) available on the Website. IF YOU DO NOT AGREE TO USE SUCH BLOCKLISTS, RULES, AND FILTERS OR DO NOT AGREE WITH THE RULES SET FORTH IN THE RIGHTHOLDER’S FILTER POLICY, THEN DO NOT CONNECT TO ADGUARD DNS AND DO NOT USE ADGUARD DNS.
 
 5.2. You are solely responsible for using blocking and filtering functionality of AdGuard DNS, connecting Your devices to, enabling, disabling, configuring, customizing of such functionality, editing rules used in such functionality.
 
-5.3. You and users of devices connected by You to AdGuard DNS are solely responsible for their compliance with terms of use of visited websites. AdGuard Software Limited shall not be responsible and shall not be liable for compliance with terms of use of any visited website.
+5.3. Before enabling and using rules or filters developed and/or provided by third parties in the AdGuard DNS, You agree to carefully familiarize Yourself with the terms of use of such third-party rules and filters on the websites of their developers or suppliers and to decide whether to enable and use such third-party rules or filters. AdGuard Software Limited shall not be responsible and shall not be liable for the use of such third-party rules or filters. Under no circumstances shall the placement of such third-party rules or filters in the interface of AdGuard DNS and their description in the documentation of AdGuard DNS be considered a recommendation or incentive by AdGuard Software Limited to enable and use such third-party rules or filters.
+
+5.4. You and users of devices connected by You to AdGuard DNS are solely responsible for their compliance with rules, terms of use, and policies of any visited website. You hereby acknowledge that the use of AdGuard DNS and blocklists, rules, or filters may significantly affect user experience when visiting and using third-party websites and services, their functionality, and compliance with the rules, terms of use, and policies of third-party websites and services.
 
 ## 6. User data and Privacy Policy
 

@@ -1,6 +1,6 @@
 # AdGuard End-User License Agreement
 
-*September 25, 2025*
+*March 5, 2026*
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -126,13 +126,15 @@ Note that when Your Account is created You are automatically subscribed to notif
 
 ## 5. Use of blocking and filtering components
 
-5.1. By using the Software, You acknowledge and agree to use filters that may be produced by the Rightholder or by third parties and utilized by blocking and filtering components of the Software solely at Your own will and risk, in accordance with the Rightholder’s [Filter Policy](https://adguard.com/kb/general/ad-filtering/filter-policy/) available on the Website.
+5.1. By using the Software, You acknowledge and agree to use filters that may be produced by the Rightholder or by third parties and utilized by blocking and filtering components of the Software solely at Your own will and risk, in accordance with the Rightholder’s [Filter Policy](https://adguard.com/kb/general/ad-filtering/filter-policy/) available on the Website. IF YOU DO NOT AGREE TO USE SUCH FILTERS OR DO NOT AGREE WITH THE RULES SET FORTH IN THE RIGHTHOLDER’S FILTER POLICY, THEN DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
 
 5.2. You are solely responsible for using filters utilized by blocking and filtering components of the Software, enabling, disabling, configuring, customizing of such filters, editing filtering rules used in such filters.
 
-5.3. You are solely responsible for compliance with terms of use of websites You visit.
+5.3. Before enabling and using filters developed and/or provided by third parties in the Software, You agree to carefully familiarize Yourself with the terms of use of such third-party filters on the websites of their developers or suppliers and to decide whether to enable and use such third-party filters. The Rightholder shall not be responsible and shall not be liable for the use of such third-party filters or the content of their rules. Under no circumstances shall the placement of such third-party filters in the Software interface and their description in the Software documentation be considered a recommendation or incentive by the Rightholder to enable and use such third-party filters.
 
-5.4. The Rightholder shall not be responsible and shall not be liable for Your compliance with terms of use of websites You visit when using the Software.
+5.4. You are solely responsible for compliance with rules, terms of use, and policies of websites You visit. You hereby acknowledge that the use of the Software and filters may significantly affect Your user experience when visiting and using third-party websites and services, their functionality, and Your compliance with the rules, terms of use, and policies of third-party websites and services.
+
+5.5. The Rightholder shall not be responsible and shall not be liable for Your compliance with terms of use of websites You visit when using the Software.
 
 ## 6. Privacy Policy and information collection
 
@@ -164,7 +166,7 @@ By sending us the files, You provide us with Your consent to process the files a
 6.5. The Rightholder will use Your email address that You used when binding the Software to Your Account or creating a new Account to send You notifications about modifications, new versions, features of the Software, and account-related notifications. In addition, You can provide Your consent to receive promotional information about the Software, or similar products or services offered by the Rightholder. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your Account or unsubscribe right in the received email.
 
 6.6. If You subscribe to the AdGuard blog or affiliate program, the Rightholder will use Your email address that You specified when subscribing to send You related notifications. By subscribing, You affirm that You are 18 years or older. If You wish to unsubscribe, You may contact us at [privacy@adguard.com](mailto:privacy@adguard.com).
-
+<!-- CROWDIN KEY SPLIT MARKER  -->
 ## 7. WARRANTY DISCLAIMER
 
 7.1. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK. THE SOFTWARE IS PROVIDED ON AN “AS IS” AND AN “AS AVAILABLE” BASIS. THE RIGHTHOLDER AND ITS SUPPLIERS AND PARTNERS DISCLAIM ALL WARRANTIES AND REPRESENTATIONS WITH REGARD TO THE SOFTWARE OR ANY PRODUCTS OR SERVICES PROVIDED UNDER THIS EULA, WHETHER EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND QUIET ENJOYMENT. THE RIGHTHOLDER DOES NOT WARRANT THAT THE SOFTWARE IS ERROR-FREE OR WILL OPERATE WITHOUT INTERRUPTION. NO RIGHTS OR REMEDIES REFERRED TO IN ARTICLE 2 or ARTICLE 2A OF THE UNIFORM COMMERCIAL CODE (UCC), AS IMPLEMENTED IN ANY JURISDICTION, WILL BE CONFERRED ON YOU UNLESS EXPRESSLY GRANTED HEREIN. THE SOFTWARE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS OR HIGH-RISK ENVIRONMENTS OR USE CASES REQUIRING FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS. THE RIGHTHOLDER SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES.
