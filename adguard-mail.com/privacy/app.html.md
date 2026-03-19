@@ -150,30 +150,21 @@ Crash report data is stored only on our servers. We do not use any third-party s
 
 ### Technical and interaction data
 
-The first time the app is launched, you will be asked if you want to allow AdGuard Mail to send technical and interaction data. If you agree, the following information will be sent:
+Upon first launch, users are also asked if they consent to send technical and interaction data, disabled by default. If they agree, the following anonymized data is sent:
 
-- **App identifier and version**
-- **Build identifier**
-- **Crash information**: Error message, stack trace, and timezone of the user
-- **Device name and model**
-- **OS version, architecture, root status, and kernel build**
-- **Hardware device info**: Screen orientation, resolution, and density, total and free RAM and ROM, etc.
-- **Device meta info**
-- **Unidentifiable device ID**
-- **Accessibility tool status**
-- **The last time the app was launched**
-- **Permissions granted by the user to the app**
+- App configuration (enabled features, license and app status, etc.)
+- Device information (brand name, type, screen size, language, etc.)
+- User interactions (names of visited screens and events like button clicks, etc.)
 
-When the data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs.
+Submitting this information is entirely optional — if you choose not to consent, no data will be transmitted. You may disable or withdraw your consent at any time.
+When data is sent to AdGuard, your IP address may be temporarily collected as part of our server logs. This data is used only internally and is not shared with third parties.
 
-This data is used only internally and is not shared with third parties.
+**Why we collect this information:**
 
-**Why we need this information:**
-
-- To find out which features are used the most
-- To identify issues users may face while using the app
-- To fix mistakes in the UI/UX
-- To learn what people like or don’t like about our app
+- To understand how users interact with the app and which features are most valuable.
+- To detect and resolve usability or configuration issues.
+- To improve overall user experience and UI/UX consistency.
+- To guide future product development based on real-world usage patterns.
 
 ### Buying a subscription
 
