@@ -1,7 +1,7 @@
 
 # AdGuard DNS End-User License Agreement
 
-*March 5, 2026*
+*April 23, 2026*
 
 IMPORTANT: THIS END-USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE, HEREAFTER “RIGHTHOLDER”). READ IT CAREFULLY BEFORE USING THE ADGUARD DNS PRODUCTS AND SERVICES.
 BY CONNECTING TO ADGUARD DNS, OR BY USING IT, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THIS EULA, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU ARE CONFIRMING YOUR ACCEPTANCE OF ADGUARD DNS AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA.
@@ -69,25 +69,31 @@ The subscription in question becomes blocked the moment the refund is issued. Af
 
 You have no right to:
 
-- rent, lease, loan, export or sell access to AdGuard DNS services to third parties;
+(A) rent, lease, loan, export or sell access to AdGuard DNS services to third parties;
 
-- utilize framing techniques to enclose AdGuard DNS logos, trademarks, author attribution and copyright notices;
+(B) utilize framing techniques to enclose AdGuard DNS logos, trademarks, author attribution and copyright notices;
 
-- use automated agents or inject scripts into AdGuard DNS products and services to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from AdGuard DNS products and services;
+(C) use automated agents or inject scripts into AdGuard DNS products and services to create multiple accounts, generate automated searches, requests, scrape, strip, or mine data from AdGuard DNS products and services;
 
-- run or disclose the results of any benchmark tests or analyses of AdGuard DNS products and services without AdGuard DNS’s written consent;
+(D) run or disclose the results of any benchmark tests or analyses of AdGuard DNS products and services without AdGuard DNS’s written consent;
 
-- hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means;
+(E) hide, conceal or obscure any part of the AdGuard DNS website via HTML/CSS, scripting, or any other means;
 
-- use AdGuard DNS for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used;
+(F) use AdGuard DNS for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in countries where it is used;
 
-- use another person’s email address or misrepresent yourself as another person when signing up to create Your account or when logging in to use AdGuard DNS;
+(G) use another person’s email address or misrepresent yourself as another person when signing up to create Your account or when logging in to use AdGuard DNS;
 
-- perform illegal monitoring of and a list of websites accessed by other individuals when users who use private DNS to filter Internet access for others must not violate the privacy of those individuals;
+(H) perform illegal monitoring of and a list of websites accessed by other individuals when users who use private DNS to filter Internet access for others must not violate the privacy of those individuals;
 
-- disclose to third parties and otherwise misuse a list of websites from the query log visited by other individuals, if private AdGuard DNS is used to filter Internet access for such individuals with the logging function enabled;
+(I) disclose to third parties and otherwise misuse a list of websites from the query log visited by other individuals, if private AdGuard DNS is used to filter Internet access for such individuals with the logging function enabled;
 
-- connect to and use AdGuard DNS or purchase the subscription to AdGuard DNS if the country in which You reside belongs to E.U. or U.S. embargoed countries, or if You are a person to which shipment of software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+(J) connect to and use, export, re-export, transfer AdGuard DNS or purchase the subscription to AdGuard DNS if any of the following occurs:
+
+(1) the country in which You reside or are established belongs to E.U. or U.S. embargoed or sanctioned countries,
+
+(2) You are a person or a company to which shipment of AdGuard DNS is prohibited by the export control laws, rules, regulations, restrictions sanctions and national security controls of the European Union, the United States, and other applicable foreign agencies,
+
+(3) You provide direct or indirect access to or otherwise make available AdGuard DNS to any such person or company.
 
 ## 5. Use of blocking and filtering functionality
 
@@ -108,13 +114,14 @@ You have no right to:
 6.3. AdGuard Software Limited shall receive and process certain data to perform our obligations set forth in this EULA and to provide You with the functionality of AdGuard DNS. The data we process may be treated as personal data in accordance with the laws of certain territories and countries. You can read more about data processing in our Privacy Policy.
 
 6.4. To provide You with logging functionality after You activate it in Private AdGuard DNS, AdGuard Software Limited needs to process IP addresses of connected devices from which incoming DNS requests are received. AdGuard Software Limited does not automatically collect such data until You enable the appropriate functionality.
-You represent and warrant that
 
-- You have the necessary authorizations and consents from persons who use devices connected to Your account to enable logging of IP addresses of such devices when DNS queries are received from them,
+You represent and warrant that:
 
-- You are using appropriate legal bases to process such IP addresses and other logging information,
+(A) You have the necessary authorizations and consents from persons who use devices connected to Your account to enable logging of IP addresses of such devices when DNS queries are received from them,
 
-- You have duly informed such persons of this functionality and that such IP addresses and other logging information will be provided to the Company for processing.
+(B) You are using appropriate legal bases to process such IP addresses and other logging information,
+
+(C) You have duly informed such persons of this functionality and that such IP addresses and other logging information will be provided to the Company for processing.
 
 6.5. AdGuard Software Limited will use Your email address that You used when binding AdGuard DNS to Your account or creating a new account to send You notifications about modifications, new versions, and features of AdGuard DNS. In addition, You can provide Your consent to receive promotional information about AdGuard DNS, or similar products or services offered by AdGuard Software Limited. If You wish to stop receiving the marketing emails, You can withdraw Your consent any time in Your AdGuard account or unsubscribe right in the received email.
 
@@ -172,4 +179,4 @@ Email: [support@adguard.com](mailto:support@adguard.com)
 
 Website: [adguard-dns.io](https://adguard-dns.io)
 
-© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2026 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

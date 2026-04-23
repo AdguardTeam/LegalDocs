@@ -1,9 +1,9 @@
 
 # AdGuard VPN End-User License Agreement
 
-*March 19, 2025*
+*April 23, 2026*
 
-IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE.
+IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
 
 IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE, AND/OR YOU MUST DELETE THE INSTALLED SOFTWARE.
@@ -84,7 +84,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.5. In the event that you fail to comply with this EULA, Rightholder may terminate all licenses to the Software, and you must destroy all copies of the Software.
 
-4.6. Unless otherwise provided herein, you shall not when using the beta version of the Software
+4.6. Unless otherwise provided herein, you shall not when using the beta version of the Software:
 
 (A) use the beta version of the Software for a purpose other than the sole purpose of testing the Software,
 
@@ -102,7 +102,15 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard VPN.
 
-4.11. You may not download, install, use the Software or purchase the subscription to the Software if the country in which you reside has restricted or prohibited the use of VPN software, or the country belongs to E.U. or U.S. embargoed countries, or if you are a person to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+4.11. You may not download, install, use, export, re-export, transfer the Software or purchase the subscription to the Software if any of the following occurs:
+
+(A) the country in which you reside or are established has restricted or prohibited the use of VPN software,
+
+(B) the country in which you reside or are established belongs to E.U. or U.S. embargoed or sanctioned countries,
+
+(C) you are a person or a company to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions, sanctions, and national security controls of the European Union, the United States, and other applicable foreign agencies,
+
+(D) you provide direct or indirect access to or otherwise make available the Software to any such person or company.
 
 4.12. In case of violation, we reserve the right to suspend your Account or limit access to AdGuard VPN at our sole discretion. Such suspension or access limitation may be implemented by AdGuard VPN instantly and without any notice. If your Account has been suspended, you can contact us for further information.
 
@@ -167,4 +175,4 @@ Should you have any questions concerning this EULA, or if you desire to contact 
 Email: [support@adguard-vpn.com](mailto:support@adguard-vpn.com)
 Website: [adguard-vpn.com](https://adguard-vpn.com)
 
-© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2026 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
