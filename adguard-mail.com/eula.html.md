@@ -1,7 +1,7 @@
 
 # AdGuard Mail End-User License Agreement
 
-*June 18, 2025*
+*April 23, 2026*
 
 IMPORTANT: THESE TERMS OF SERVICE (“TERMS”, “EULA”) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE, TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS OR USING THE SOFTWARE, WHETHER ACCESSED VIA THE WEB OR AS AN INSTALLED APPLICATION.
 BY USING THE SOFTWARE, OR BY PRESSING A BUTTON INDICATING YOUR ACCEPTANCE IN THE WINDOW CONTAINING THESE TERMS, OR BY TYPING THE APPROPRIATE SYMBOL(S), YOU CONFIRM YOUR ACCEPTANCE OF THE SOFTWARE AND AGREE TO BECOME BOUND BY THESE TERMS.
@@ -76,7 +76,7 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.5. In the event that you fail to comply with this EULA, Rightholder may terminate all licenses to the Software, and you must destroy all copies of the Software.
 
-4.6. Unless otherwise provided herein, you shall not when using the beta version of the Software
+4.6. Unless otherwise provided herein, you shall not when using the beta version of the Software:
 
 (A) use the beta version of the Software for any purpose other than to test the Software,
 
@@ -102,7 +102,13 @@ The subscription in question becomes blocked at the moment the refund is issued.
 
 4.10. You may not use another person’s email address or misrepresent yourself as another person when signing up to create your Account or when logging in to use AdGuard Mail.
 
-4.11. You may not download, install, use the Software or purchase the subscription to the Software if the country in which you reside is an EU or U.S. embargoed country, or if you are a person to whom the shipment of the Software is prohibited under the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+4.11. You may not download, install, use, export, re-export, transfer the Software or purchase the subscription to the Software if any of the following occurs:
+
+(A) the country in which you reside is an EU or U.S. embargoed or sanctioned country,
+
+(B) you are a person or a representative of a company to whom the shipment of the Software is prohibited under the export control laws, rules, regulations, restrictions sanctions, and national security controls of the European Union, the United States, and other applicable foreign agencies,
+
+(C) you provide direct or indirect access to or otherwise make available the Software to any such person or company.
 
 4.12. In the event of a violation, we reserve the right to suspend your Account or limit your access to AdGuard Mail at our sole discretion. We may implement such a suspension or restriction immediately and without notice, including on a temporary basis, while investigating suspected misuse of the application or services. If your Account has been suspended, you may contact us for further information.
 
@@ -175,4 +181,4 @@ Should you have any questions concerning this EULA, or if you wish to contact th
 Email: [support@adguard-mail.com](mailto:support@adguard-mail.com)
 Website: [adguard-mail.com](https://adguard-mail.com)
 
-© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2026 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

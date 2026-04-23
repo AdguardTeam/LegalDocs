@@ -1,6 +1,6 @@
 # Terms and Conditions of AdGuard Account and AdGuard Websites
 
-*March 27, 2026*
+*April 23, 2026*
 
 ## 1. General
 
@@ -88,7 +88,8 @@ By registering your Account and by using the Websites, you represent and warrant
 (n) You will not use another person’s email address or impersonate another person or a representative of another company when registering your Account.
 (o) You will not create user Accounts by automated means or under false pretenses.
 (p) You are not domiciled or reside in a country that belongs to E.U. or U.S. embargoed countries.
-(q) You are not a person, and you are not acting on behalf of a person or a company to which provision of the Account or the Websites is prohibited by the export control laws, rules, regulations, restrictions and national security controls of the European Union, the United States, and other applicable foreign agencies.
+(q) You are not a person or a company, and you are not acting on behalf of a person or a company to which provision of the Account or the Websites or shipment of AdGuard products is prohibited by the export control laws, rules, regulations, restrictions, sanctions, and national security controls of the European Union, the United States, and other applicable foreign agencies.
+(r) You will not provide direct or indirect access to or otherwise make available the Account, the Websites or AdGuard products to individuals or companies described in clause 4 (q) of these Terms.
 
 Any use of the Account or the Websites in violation of the foregoing violates these Terms and may result in, among other things, termination or suspension of your rights to use the Account and the AdGuard software.
 
@@ -239,4 +240,4 @@ Should you have any questions concerning these Terms, or if you desire to contac
 Email: [support@adguard.com](mailto:support@adguard.com)
 Website: [adguard.com](https://adguard.com)
 
-© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Account and the Websites and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2026 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Account and the Websites and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.

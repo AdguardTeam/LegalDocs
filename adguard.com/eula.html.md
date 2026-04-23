@@ -1,6 +1,6 @@
 # AdGuard End-User License Agreement
 
-*March 5, 2026*
+*April 23, 2026*
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -71,15 +71,21 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 3.6. Unless otherwise provided herein, You shall not:
 
 (A) install or use more than the number of copies of the Software for which You purchased a license,
+
 (B) download the Software Trial Application under more than one username,
+
 (C) alter the contents of a hard drive or Computer system to enable the use of the Software Trial Application for a period in excess of the trial period for one license to such Software Trial Application, or
+
 (D) use the Software Trial Application for a purpose other than the sole purpose of determining whether to purchase a license to a non-trial version of the Software.
 
 3.7. Unless otherwise provided herein, You shall not when using the Software Beta Application:
 
 (A) use the Software Beta Application for a purpose other than the sole purpose of testing the Software,
+
 (B) use the Software Beta Application if You do not participate in the Beta testing program of the Rightholder or if You violate the rules of the Beta testing program,
+
 (C) distribute, share, send, or make the Software Beta Application otherwise available to third parties without prior written consent of the Rightholder, or
+
 (D) breach the confidentiality of the Software Beta Application, its functions, features, characteristics, design, user interface, documentation, or other related materials by publishing, sharing, sending, disclosing, or otherwise making available to third parties without prior written consent of the Rightholder.
 
 3.8. You shall not disclose, share, send, or make otherwise available to third parties information about vulnerabilities in the Software of which you become aware or discover, or use information about such vulnerabilities to compromise the security or privacy of other End Users, or otherwise violate the terms, conditions and restrictions of the Responsible Disclosure Program of the Rightholder available on the Website.
@@ -90,7 +96,15 @@ Adguard Software Limited may modify this EULA from time to time without prior no
 
 3.11. You may not use another person’s email address or misrepresent Yourself as another person when signing up to create Your Account or when logging in to use the Software.
 
-3.12. You may not download, install, use the Software or purchase the subscription to the Software if the country in which You reside has restricted or prohibited the use of the Software, or the country belongs to E.U. or U.S. embargoed countries, or if You are a person to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions, and national security controls of the European Union, the United States, and other applicable foreign agencies.
+3.12. You may not download, install, use, export, re-export, transfer the Software or purchase the subscription to the Software if any of the following occurs:
+
+(A) the country in which You reside or are established has restricted or prohibited the use of the Software,
+
+(B) the country in which You reside or are established belongs to E.U. or U.S. embargoed or sanctioned countries,
+
+(C) You are a person or a company to which shipment of the Software is prohibited by the export control laws, rules, regulations, restrictions, sanctions, and national security controls of the European Union, the United States, and other applicable foreign agencies,
+
+(D) You provide direct or indirect access to or otherwise make available the Software to any such person or company.
 
 ## 4. Sales, activation, and term
 
