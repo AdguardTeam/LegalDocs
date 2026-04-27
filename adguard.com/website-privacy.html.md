@@ -69,6 +69,8 @@ If you choose to register your account using your third-party account, such as a
 
 To receive newsletters and promotional emails about the AdGuard software, you can opt-in and subscribe to the newsletters. You can withdraw your consent at any time by unsubscribing in your account settings or by clicking on the appropriate link in the email you receive.
 
+If you enable the *Send read receipts to AdGuard* option in *Settings* → *Email subscriptions*, we will collect data indicating whether you have opened our emails or clicked any links in them. We use this information to keep our subscriber list up to date and remove inactive subscribers who no longer engage with our emails. We do not use third-party mail services or share this data with any external parties. You can opt out of sending read receipts at any time by disabling this option in your settings.
+
 Data processing during the use of the AdGuard software as well as the sections of the AdGuard Account related to the AdGuard software is governed by the privacy policies of the respective software.
 
 ### When you use the Affiliate Account
