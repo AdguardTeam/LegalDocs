@@ -103,7 +103,7 @@ We process the following data to enable you to use private AdGuard DNS:
 
 ## Crash reports and telemetry in AdGuard DNS apps
 
-AdGuard DNS applications may offer you the option to share anonymized usage data and crash reports to help us improve the applications.
+AdGuard DNS may offer you the option of sharing anonymized usage data and crash reports with us to help improve our service.
 
 This option is disabled by default and is only enabled with your consent. You can withdraw your consent at any time in **Settings** → **Help improve AdGuard DNS**.
 
