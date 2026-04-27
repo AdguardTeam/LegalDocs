@@ -109,8 +109,8 @@ This option is disabled by default and is only enabled with your consent. You ca
 
 If enabled, we may process:
 
-- **Usage data**, such as interaction with the application interface and technical events
-- **Crash reports**, such as application version, OS version, device model, and diagnostic data related to application failures
+- **Usage data**, such as interaction with the app interface and technical events
+- **Crash reports**, such as app version, OS version, device model, and diagnostic data related to app failures
 
 We do not intend to collect personal data such as email addresses, DNS queries, or browsing history through this functionality. The data processed is limited to technical and diagnostic information, may include device-related data or system-generated identifiers, and is not used to identify you.
 
