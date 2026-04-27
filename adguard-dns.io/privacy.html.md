@@ -101,7 +101,7 @@ We process the following data to enable you to use private AdGuard DNS:
 
 - We store logs of DNS queries from connected devices in order to display it to you on the AdGuard DNS dashboard. Logs contain status and content of requests, names of companies who own the requested resources, names of connected devices, date of requests. Additionally, we will log anonymized IP addresses (limited to subnet) of connected devices from which incoming DNS requests are received, when this option is enabled by you. Users may opt to disable logging via the account settings. The log is only stored for a limited period of time which can also be configured via the account settings.
 
-## Crash reports and telemetry in AdGuard DNS applications
+## Crash reports and telemetry in AdGuard DNS apps
 
 AdGuard DNS applications may offer you the option to share anonymized usage data and crash reports to help us improve the applications.
 
