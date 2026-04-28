@@ -1,6 +1,6 @@
 # Privacy Policy of AdGuard Websites
 
-*March 27, 2026*
+*April 28, 2026*
 
 **Keynote:** We are proud to say that we fight for users’ privacy, and we are strongly committed to this principle and to being as transparent as possible.
 
