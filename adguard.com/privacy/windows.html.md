@@ -2,11 +2,12 @@
 
 *August 4, 2025*
 
----
+This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information.
 
-**Keynote**: This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. The information we collect includes no more than is crucial to provide the full functionality of AdGuard products. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
-
----
+>Keynote:
+* The information we collect includes no more than is crucial to provide the full functionality of AdGuard products.
+* We do not share or sell your personal information.
+* We are strongly committed to protecting user privacy and being as transparent as possible.
 
 This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.html](https://adguard.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
