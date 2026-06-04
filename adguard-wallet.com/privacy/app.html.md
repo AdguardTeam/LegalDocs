@@ -1,6 +1,6 @@
 # Privacy Policy of AdGuard Wallet (the “Privacy Policy”)
 
-*June 4, 2026*
+*December 2, 2025*
 
 **Keynote:** We are proud to say that we fight for users’ privacy, and we are strongly committed to this principle and to being as transparent as possible. We believe that privacy is a fundamental human right. That is why we are transparent about what AdGuard Wallet does and explain the purpose of every bit of technical data that may be processed locally on your device or through optional interactions. This Privacy Policy applies when you interact with our AdGuard Wallet App, as defined below.
 
@@ -16,7 +16,7 @@ We act as the data controller when processing your data, where applicable. This 
 
 This Privacy Policy applies to the use of the AdGuard Wallet application (the **“AdGuard Wallet App”**). It does **not** apply to third-party websites or services linked within the AdGuard Wallet App. We recommend reviewing the privacy policies of those services separately.
 
-If you have any questions, please contact us at [legal@adguard-wallet.com](mailto:legal@adguard-wallet.com).
+If you have any questions, please contact us at [support@adguard-wallet.com](mailto:support@adguard-wallet.com).
 
 ## Definitions
 
@@ -97,7 +97,7 @@ Our data collection practices are limited to information essential for Services 
 
 ## Your Rights
 
-Firstly, please note that we do not collect Personal Data by default, only when needed or when submitted by you. If you submit diagnostic data through optional features, you may request its deletion by contacting us at [legal@adguard-wallet.com](mailto:legal@adguard-wallet.com).
+Firstly, please note that we do not collect Personal Data by default, only when needed or when submitted by you. If you submit diagnostic data through optional features, you may request its deletion by contacting us at [support@adguard-wallet.com](mailto:support@adguard-wallet.com).
 
 Your rights associated with the Services are described below.
 
@@ -139,5 +139,5 @@ We may update this Privacy Policy from time to time. In the event of changes, us
 
 If you have any questions or concerns about this Privacy Policy or our data handling practices, please contact us.
 
-Email: [legal@adguard-wallet.com](mailto:legal@adguard-wallet.com)
+Email: [support@adguard-wallet.com](mailto:support@adguard-wallet.com)
 Website: [adguard-wallet.com](https://adguard-wallet.com)
