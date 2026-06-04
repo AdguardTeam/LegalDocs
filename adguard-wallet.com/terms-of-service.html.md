@@ -1,6 +1,6 @@
 # Terms of Service for AdGuard Wallet
 
-*December 2, 2025*
+*June 4, 2026*
 
 **IMPORTANT:** THESE TERMS OF SERVICE (the **“Terms”** or the **“Agreement”**) ARE A LEGAL AGREEMENT BETWEEN YOU (AN INDIVIDUAL OR ENTITY) AND **ADGUARD WALLET LIMITED** (THE **“Rightsholder,”** **“we,”** **“us,”** or **“our”**). BY INSTALLING OR USING THE SOFTWARE, YOU ACCEPT THESE TERMS AND CONFIRM THAT YOU HAVE READ AND UNDERSTOOD THEM AND ANY DOCUMENTS REFERRED TO HEREIN, INCLUDING OUR **PRIVACY POLICY**. IF YOU DO NOT AGREE, **DO NOT INSTALL OR USE** THE SOFTWARE.
 
@@ -148,7 +148,7 @@ The Software is the intellectual property of AdGuard Wallet Limited and is prote
 
 If you have any questions or concerns regarding this Agreement, please contact us.
 
-Email: [support@adguard-wallet.com](mailto:support@adguard-wallet.com)
+Email: [legal@adguard-wallet.com](mailto:legal@adguard-wallet.com)
 Website: [adguard-wallet.com](https://adguard-wallet.com)
 
 © 2025 AdGuard Wallet Limited. All Rights Reserved.
