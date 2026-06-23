@@ -101,7 +101,7 @@ When updating userscripts, we first check for a new version and then download th
 
 ### Sending a web page complaint
 
-The user can submit a report of a website problem directly from the app. The app will automatically open [reports.adguard.com](reports.adguard.com/new_issue.html) and forward some information about its configuration. The user can then alter or delete it.
+The user can submit a report of a website problem directly from the app. The app will automatically open [reports.adguard.com](https://reports.adguard.com/new_issue.html) and forward some information about its configuration. The user can then alter or delete it.
 
 Unless the user agrees to submit this information by clicking *Next*, none of this information is stored or sent anywhere. If the user agrees, the report will become public (but anonymous) on [GitHub](https://github.com/AdguardTeam/AdguardFilters/issues).
 
