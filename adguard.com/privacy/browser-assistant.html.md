@@ -9,7 +9,7 @@
 
 ---
 
-This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.htm](https://adguard.com/privacy.htm), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
+This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.html](https://adguard.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 ## What data AdGuard Browser Assistant can collect and when
 
