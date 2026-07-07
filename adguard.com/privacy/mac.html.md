@@ -1,7 +1,7 @@
 
 # AdGuard for Mac Privacy Notice
 
-*July 2, 2026*
+*July 7, 2026*
 
 ---
 
