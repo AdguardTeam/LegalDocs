@@ -133,4 +133,3 @@ This data is used only internally and is not shared with third parties.
 - To learn what people like or don’t like about our app
 
 The information described above, when collected by AdGuard Mini for Android, is generally not correlated with any other personal information and is anonymously aggregated with similar information from other users of the AdGuard software for analytical purposes.
-
