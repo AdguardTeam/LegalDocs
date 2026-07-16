@@ -34,6 +34,15 @@ Users have the option to activate the license by logging into their personal acc
 
 Upon authorization, the app receives an active license for that account from the server.
 
+### Purchase of a subscription via Google Play
+
+When a user purchases a subscription through the Google Play Store, the following transaction-related information is sent to our servers:
+
+- App identifier
+- Subscription duration
+
+**Why we need this information:** We need this data to generate your license.
+
 ### License status check
 
 To validate the license status, AdGuard connects to its servers. When it happens, the following information is sent:
