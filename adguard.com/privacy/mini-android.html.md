@@ -36,7 +36,7 @@ Upon authorization, the app receives an active license for that account from the
 
 ### Purchase of a subscription via Google Play
 
-When a user purchases a subscription through the Google Play Store, the following transaction-related information is sent to our servers:
+When a user purchases a subscription through Google Play, the following transaction-related information is sent to our servers:
 
 - App identifier
 - Subscription duration
