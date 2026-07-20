@@ -44,7 +44,7 @@ To check for filter updates, AdGuard connects to its servers. When it happens, t
 - App identifier
 - Version of the extension
 
-By default, filter updates are automatically checked every 48 hours. Otherwise, it’s done according to the selected interval, or whenever it’s manually requested by a user. We do not store this data, but we do aggregate it in an anonymous form to count the total number of active users.
+By default, filter updates are automatically checked every 48 hours. When system-wide filtering via Apple’s URL Filter is enabled, pre-filter data is additionally updated approximately every 45 minutes; the same information is sent. This additional update behavior applies only to paid users who have the *System-wide protection* feature turned on. We do not store this data, but we do aggregate it in an anonymous form to count the total number of active users.
 
 ### Sending a web page complaint
 
