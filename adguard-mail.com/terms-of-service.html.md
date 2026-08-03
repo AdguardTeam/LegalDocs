@@ -33,7 +33,7 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.1. Customer pays for a subscription that provides access to AdGuard Mail, a service available via [adguard-mail.com](https://adguard-mail.com), including its web-based features, email forwarding, aliases, temporary email functionality, applications, and extensions. In order to use the paid version of AdGuard Mail, you need to purchase a monthly or a yearly subscription. Once you purchase a subscription, it is automatically linked to your Account. You don’t need to perform any additional activation: your subscription becomes active as soon as you purchase it. The period of use of AdGuard Mail granted by the Rightholder is specified when you purchase the subscription. The term of use of AdGuard Mail starts from the purchase of the subscription. If the term of use of AdGuard Mail starts at a different time, this information will be provided when you purchase the subscription.
 
-2.2. Purchases of subscriptions for AdGuard Mail from Rightholder’s website are governed by separate Terms of Sale published at [adguard-mail.com/terms-of-sale.html](https://adguard-mail.com/terms-of-sale.html), which are expressly incorporated by reference into this Terms of Sale. Purchases of subscriptions from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
+2.2. Purchases of subscriptions for AdGuard Mail from Rightholder’s website are governed by separate Terms of Sale published at [adguard-mail.com/terms-of-sale.html](https://adguard-mail.com/terms-of-sale.html), which are expressly incorporated by reference into this Terms of service. Purchases of subscriptions from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
 2.3. You are entitled to a refund in accordance with the Terms of Sale.
 
@@ -183,11 +183,11 @@ WITHOUT LIMITING THE ABOVE, ADGUARD DOES NOT WARRANT THAT EMAILS WILL BE DELIVER
 
 9.1. **Termination by AdGuard Software Limited.** AdGuard Software Limited may suspend or terminate your access to the AdGuard Mail service at any time, with or without cause, including, but not limited to, if you breach these Terms or engage in prohibited activities. Termination of your access to AdGuard Mail does not affect your access to your AdGuard account or other services provided by AdGuard Software Limited. We may provide notice of termination via the primary email address associated with your AdGuard Mail account.
 
-9.2. **Termination by You.** You may terminate your use of the AdGuard Mail service through your personal account dashboard at [adguardaccount.com](https://adguardaccount.com), which serves as the management point for your AdGuard Mail account and other AdGuard services. Termination of your use of AdGuard Mail will not impact your ability to access your AdGuard account or other AdGuard services.
+9.2. **Termination by you.** You may terminate your use of the AdGuard Mail service through your personal account dashboard at [adguardaccount.com](https://adguardaccount.com), which serves as the management point for your AdGuard Mail account and other AdGuard services. Termination of your use of AdGuard Mail will not impact your ability to access your AdGuard account or other AdGuard services.
 
-9.3. **Effect of Termination.** Upon termination, your right to use AdGuard Mail will immediately cease. Sections of these Terms that, by their nature, should survive termination shall continue to apply, including but not limited to sections related to liability, warranties, governing law, and dispute resolution.
+9.3. **Effect of termination.** Upon termination, your right to use AdGuard Mail will immediately cease. Sections of these Terms that, by their nature, should survive termination shall continue to apply, including but not limited to sections related to liability, warranties, governing law, and dispute resolution.
 
-9.4. **Notice of Termination.** Where reasonably possible, we will provide you with notice of termination via the primary email address associated with your AdGuard Mail account. Notice may also be provided through the AdGuard Mail application or by other reasonable means.
+9.4. **Notice of termination.** Where reasonably possible, we will provide you with notice of termination via the primary email address associated with your AdGuard Mail account. Notice may also be provided through the AdGuard Mail application or by other reasonable means.
 
 ## 10. Period for bringing actions
 
