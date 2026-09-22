@@ -90,9 +90,13 @@ When managing aliases and recipients, including actions like creating, retrievin
 
 - **Alias ID**: The unique identifier, name, description, and status of the alias.  Fields that may contain user-defined information about the recipient.
 - **Recipient ID**: The unique identifier, name, description, and status of the recipient. Fields that may contain user-defined information about the recipient.
-- **Email address**: The email address associated with the recipient or alias.
+- **Email routing metadata**: Information required to enable email forwarding and reply routing, including sender and recipient email addresses, alias addresses, message identifiers, delivery metadata, and timestamps.
 
-Alias and recipient management involves data that directly identifies email addresses and associated users. While email addresses are considered Personally Identifiable Information (PII), they are essential for the functionality of the service.
+Email addresses and related routing data may constitute Personally Identifiable Information (PII). However, processing this information is necessary for the operation of the service.
+
+To provide alias-based email forwarding and reply functionality, AdGuard Mail creates **encrypted** reply-routing metadata. The sender’s email address, which is required for routing replies, is stored in this metadata in encrypted form and is not stored in plain text within reply mappings. This data is required for email forwarding, reply routing, processing delivery failures and spam complaints, sender blocking, troubleshooting, and abuse prevention.
+
+**When an account is deleted, associated reply-routing metadata is removed**. When an alias is deleted, certain technical records may be retained for a limited period to process delayed delivery notifications and are deleted afterward.
 
 ### Session and account access management
 
