@@ -94,7 +94,7 @@ When managing aliases and recipients, including actions like creating, retrievin
 
 Email addresses and related routing data may constitute Personally Identifiable Information (PII). However, processing this information is necessary for the operation of the service.
 
-To provide alias-based email forwarding and reply functionality, AdGuard Mail creates **encrypted** reply-routing metadata. The sender's email address, which is required for routing replies, is stored in this metadata in encrypted form and is not stored in plain text within reply mappings. This data is required for email forwarding, reply routing, processing delivery failures and spam complaints, sender blocking, troubleshooting, and abuse prevention.
+To provide alias-based email forwarding and reply functionality, AdGuard Mail creates **encrypted** reply-routing metadata. The sender’s email address, which is required for routing replies, is stored in this metadata in encrypted form and is not stored in plain text within reply mappings. This data is required for email forwarding, reply routing, processing delivery failures and spam complaints, sender blocking, troubleshooting, and abuse prevention.
 
 **When an account is deleted, associated reply-routing metadata is removed**. When an alias is deleted, certain technical records may be retained for a limited period to process delayed delivery notifications and are deleted afterward.
 
