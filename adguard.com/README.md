@@ -15,11 +15,13 @@
 - [mini-mac.html.md](privacy/mini-mac.html.md) - AdGuard Mini for Mac Privacy Notice.
 - [windows.html.md](privacy/windows.html.md) - AdGuard for Windows Privacy Notice.
 - [home.html.md](privacy/home.html.md) - AdGuard Home Privacy Notice.
+- [tempmail-tos.html.md](tempmail-tos.html.md) - AdGuard Temp Mail Terms of Service.
+- [tempmail.html.md](privacy/tempmail.html.md) - AdGuard Temp Mail Privacy Notice.
 
 ## List of documents in the footer
 
 - [EULA](eula.html.md)
-- [EULA of AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/eula.html)
+- [Terms of Service of AdGuard Temp Mail](tempmail-tos.html.md)
 - [Privacy policy](privacy.html.md)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions of AdGuard websites](terms-and-conditions.html.md)
@@ -33,7 +35,7 @@ For example, this is what it should look like when you open the Privacy policy:
 Other documents:
 
 - [EULA](eula.html.md)
-- [EULA of AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/eula.html)
+- [Terms of Service of AdGuard Temp Mail](tempmail-tos.html.md)
 - [Privacy policy of AdGuard websites](website-privacy.html.md)
 - [Terms and conditions of AdGuard websites](terms-and-conditions.html.md)
 - [Terms of sale](https://adguard.com/en/terms-of-sale.html)
@@ -49,4 +51,4 @@ Other documents:
     - [AdGuard Mini for Mac](privacy/mini-mac.html.md)
     - [AdGuard for Windows](privacy/windows.html.md)
     - [AdGuard Home](privacy/home.html.md)
-    - [AdGuard Temp Mail](https://adguard.com/privacy/temp-mail.html)
+    - [AdGuard Temp Mail](privacy/tempmail.html.md)
