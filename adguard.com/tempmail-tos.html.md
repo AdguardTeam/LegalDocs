@@ -31,18 +31,27 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 2.1. It is prohibited to:
 
 (A) Sell, rent, lease, or export access to AdGuard Temp Mail services to third parties.
+
 (B) Use framing techniques to incorporate the AdGuard Temp Mail website or its parts into other websites or materials.
+
 (C) Employ automated agents, scripts, or other methods to create multiple email boxes, generate automated queries, scrape, strip, or mine data from AdGuard Temp Mail products and services.
-(D) Conduct or disclose the results of any benchmark tests or analyses of AdGuard Temp Mail products and services without the written consent of Adguard Software Limited.
+
+(D) Conduct or disclose the results of any benchmark tests or analyses of AdGuard Temp Mail products and services without the written consent of AdGuard Software Limited.
+
 (E) Hide, obscure, or in any way alter the visibility of any part of the AdGuard Temp Mail website via HTML/CSS, scripting, or any other means.
 
 2.2. You may not use AdGuard Temp Mail for any unauthorized or illegal purpose or activity under applicable international, national, and local laws in the countries where the Service is used. It is forbidden to use the provided temporary email addresses for:
 
 (A) Violating user agreements of third parties, including but not limited to mass creation of accounts on third-party services, circumventing their safeguards, or evading their restrictions.
+
 (B) Committing or encouraging any illegal or criminal activities, including fraud, distribution of malware, phishing, and other similar activities.
+
 (C) Sending spam, unsolicited messages, or engaging in any activity that can be classified as abuse of email services.
+
 (D) Bulk signups, coupon harvesting, promotional abuse, ban evasion, credential stuffing, harassment, or other abusive use of third-party services.
+
 (E) Infringing upon the intellectual property rights of others, including but not limited to patents, trademarks, trade secrets, copyrights, or other proprietary rights.
+
 2.3. You may not interfere with, overload, scan, test, attack, or attempt to gain unauthorized access to the Service, its mail systems, domains, infrastructure.
 
 2.4. The AdGuard Temp Mail service is designed and developed for non-commercial personal use only and is not intended for business use.
@@ -51,7 +60,6 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 
 2.6. In the event of a violation, we reserve the right to suspend or limit your access to AdGuard Temp Mail at our sole discretion. We may implement such a suspension or restriction immediately and without notice, including on a temporary basis, while investigating suspected misuse of the Service.
 
-## 3. Third-Party Content and Security Risks
 ## 3. Third-Party Content and Security Risks
 
 3.1. AdGuard Temp Mail is solely a service for receiving and viewing emails and is not responsible for the content of the emails received by the user. This includes any liability for illegal content that may be contained in incoming emails. Users are advised to exercise caution and discretion when opening emails, especially from unknown sources.
@@ -69,11 +77,10 @@ AdGuard Software Limited (“Rightholder”, “we”, “us”, “our”) may 
 4.2. Temporary email addresses are intended for short-term, non-critical use. They should not be used to create or maintain important accounts, receive confidential information, or store messages that need to be preserved. Deleted temporary email addresses, the messages in them, and any related data cannot be recovered. Long-term availability and data retention are not part of the Service, and AdGuard does not bear responsibility for any damage or data loss resulting from these automatic deletion policies.
 
 ## 5. User Data and Privacy Policy
-5.1. AdGuard Temp Mail collects and processes very limited user data and has a strong [Privacy Notice](https://adguard.com/privacy/temp-mail.html) that explains in detail how Adguard Software Limited handles your personal data in relation to your use of AdGuard Temp Mail and your browsing of the [AdGuard Temp Mail website](https://adguard.com/adguard-temp-mail/overview.html).
 
+5.1. AdGuard Temp Mail collects and processes very limited user data and has a strong [Privacy Notice](https://adguard.com/privacy/temp-mail.html) that explains in detail how AdGuard Software Limited handles your personal data in relation to your use of AdGuard Temp Mail and your browsing of the [AdGuard Temp Mail website](https://adguard.com/adguard-temp-mail/overview.html).
 
 5.2. By using AdGuard Temp Mail, you agree to these Terms and acknowledge that you have read and understood our Privacy Notice, which explains the types of information we collect and process, and what may happen to that information, including, without limitation, how such information is shared and used.
-
 
 5.3. AdGuard Software Limited shall receive and process certain data to fulfill our obligations set forth in these Terms and to provide you with the functionality of AdGuard Temp Mail. Such data may be considered personal data in accordance with the laws of certain territories and countries. We take the protection of your personal data seriously and process it in accordance with applicable data protection laws. You can read more about our data processing practices in our Privacy Notice.
 
@@ -103,7 +110,7 @@ WITHOUT LIMITING THE ABOVE, ADGUARD DOES NOT WARRANT THAT EMAILS WILL BE DELIVER
 
 ## 8. Miscellaneous
 
-8.1. Applicable Law, Arbitration, and Choice of Venue. These ToS will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. These ToS shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of these ToS or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section  shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
+8.1. Applicable Law, Arbitration, and Choice of Venue. These ToS will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. These ToS shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of these ToS or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
 
 8.2. Entire Agreement and Non-waiver. These ToS contain the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by You in relation to the Software licensed hereunder shall be of no effect. The failure or delay of Rightholder to exercise any of its rights under these ToS or upon any breach of these ToS shall not be deemed a waiver of those rights or of the breach.
 
@@ -113,7 +120,7 @@ WITHOUT LIMITING THE ABOVE, ADGUARD DOES NOT WARRANT THAT EMAILS WILL BE DELIVER
 
 8.5. No Use Where Prohibited. Use of the services is unauthorized in any jurisdiction that does not give effect to all provisions of these ToS.
 
-8.6. Assignment. You may not assign, by operation of law or otherwise, any rights or delegate any duties under the EULA to any third party without prior written consent by Rightholder. Any purported assignment lacking such consent will be void at its inception. Rightholder may assign all or part of its rights and/or delegate all or part of its duties under the EULA to any party, at any time, and in its sole discretion, upon notice of assignment by publishing such notice on its website.
+8.6. Assignment. You may not assign, by operation of law or otherwise, any rights or delegate any duties under these ToS to any third party without prior written consent by Rightholder. Any purported assignment lacking such consent will be void at its inception. Rightholder may assign all or part of its rights and/or delegate all or part of its duties under these ToS to any party, at any time, and in its sole discretion, upon notice of assignment by publishing such notice on its website.
 
 ## 9. Period for Bringing Actions
 
@@ -123,8 +130,8 @@ No action, regardless of form, arising out of the transactions under these ToS, 
 
 Should You have any questions concerning these ToS, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
-Email: <support@adguard.com>
+Email: [support@adguard.com](mailto:support@adguard.com)
 
-Website: <https://adguard.com/adguard-temp-mail/overview.html>
+Website: [adguard.com/adguard-temp-mail/overview.html](https://adguard.com/adguard-temp-mail/overview.html)
 
-© ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+© 2026 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Services and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
