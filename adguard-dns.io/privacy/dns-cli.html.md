@@ -1,7 +1,7 @@
 
 # AdGuard DNS CLI Privacy Notice
 
-*November 10, 2026*
+*November 19, 2026*
 
 ---
 
