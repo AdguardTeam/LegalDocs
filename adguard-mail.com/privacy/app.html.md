@@ -211,3 +211,15 @@ AdGuard Mail utilizes Amazon Simple Email Service (Amazon SES) to forward emails
 Amazon SES may retain certain data, such as logs, for a limited period of time for operational purposes, including tracking email deliverability and investigating service issues. However, the content of the emails is typically deleted shortly after processing is complete.
 
 Amazon SES is a trusted service provider that complies with strict privacy and security standards. By using AdGuard Mail, you acknowledge and agree that your email data will be handled by Amazon SES in accordance with their privacy practices. For more details, please refer to [Amazon’s Privacy Notice](https://aws.amazon.com/privacy) and [AWS SES Data Handling Policies](https://docs.aws.amazon.com/ses/latest/dg/deleting-personal-data.html).
+
+## Third-party service: hCaptcha
+
+AdGuard Mail utilizes hCaptcha to check whether user actions (such as submitting a login request or contact form) meet the service security requirements. To do this, hCaptcha analyzes the behavior of the app visitor based on various characteristics. This analysis starts automatically as soon as the app visitor starts using AdGuard Mail in guest mode, where hCaptcha enabled.
+
+For the analysis, hCaptcha evaluates various information (e.g. IP address, how long the visitor has been on the app, or mouse movements made by the user). The data collected during the analysis will be forwarded to IMI. hCaptcha analysis in the "invisible mode" may take place completely in the background. AdGuard Mail's visitors are not advised that such an analysis is taking place if the user is not shown a challenge.
+
+Data processing is based on Art. 6(1)(b) of the GDPR: the processing of personal data is necessary for the performance of a contract to which AdGuard Mail's visitor is party (for example, the website terms) or in order to take steps at the request of the website visitor prior to entering into a contract. AdGuard Mail needs to ensure that it is interacting with a human, not a bot, and that activities performed by the user are not related to fraud or abuse.
+
+In addition, processing may also be based on Art. 6(1)(f) of the GDPR: AdGuard Maiç has a legitimate interest in protecting the service from abusive automated crawling, spam, and other forms of abuse that can harm our service or other users of our service. IMI acts as a "data processor" acting on behalf of its customers as defined under the GDPR, and a "service provider" for the purposes of the California Consumer Privacy Act (CCPA).
+
+hCaptcha's service is provided by Intuition Machines, Inc., a Delaware US Corporation ("IMI"). For more information, please visit hCaptcha's [Privacy policy](https://www.hcaptcha.com/privacy) and [Terms of service](https://www.hcaptcha.com/terms).
