@@ -109,7 +109,7 @@ If you enable this feature, crash reports may include:
 - Device model
 - Diagnostic information related to the crash
 
-You can enable or disable automatic crash reporting in  **Settings** → **Help improve AdGuard DNS**.
+You can enable or disable automatic crash reporting in *Settings* → *Help improve AdGuard DNS*.
 
 Crash reports are retained for 30 days. We do not share this information with third parties.
 
