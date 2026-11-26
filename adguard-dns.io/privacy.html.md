@@ -59,6 +59,13 @@ We do not collect anything about the user specifically, except where necessary t
 
 All this data that we process is not shared with any third parties. It is used solely for internal purposes such as performance analytics. The only information we may share is derivative information, i.e., lists of domains that our servers recognize as advertising, tracking, or malicious.
 
+## When you are using our apps
+
+When you choose to use the AdGuard DNS apps, you provide us your data. This information, which we must process to ensure the full functionality of the apps, depends on the operating system for which the software is designed and is listed as follows:
+
+- AdGuard DNS for Android: [adguard-dns.io/privacy/android.html](https://adguard-dns.io/privacy/android.html)
+- AdGuard DNS for iOS: [adguard-dns.io/privacy/ios.html](https://adguard-dns.io/privacy/ios.html)
+
 ## When you are using our website
 
 **Account registration.** We process your email address and a hash of the password you use for authorization. That ensures that you can retrieve your password if needed.
@@ -100,23 +107,6 @@ We process the following data to enable you to use private AdGuard DNS:
 - The email address you used to create your account.
 
 - We store logs of DNS queries from connected devices in order to display it to you on the AdGuard DNS dashboard. Logs contain status and content of requests, names of companies who own the requested resources, names of connected devices, date of requests. Additionally, we will log anonymized IP addresses (limited to subnet) of connected devices from which incoming DNS requests are received, when this option is enabled by you. Users may opt to disable logging via the account settings. The log is only stored for a limited period of time which can also be configured via the account settings.
-
-## Crash reports and telemetry in AdGuard DNS apps
-
-AdGuard DNS may offer you the option of sharing anonymized usage data and crash reports with us to help improve our service.
-
-This option is disabled by default and is only enabled with your consent. You can withdraw your consent at any time in **Settings** → **Help improve AdGuard DNS**.
-
-If enabled, we may process:
-
-- **Usage data**, such as interaction with the app interface and technical events
-- **Crash reports**, such as app version, OS version, device model, and diagnostic data related to app failures
-
-We do not intend to collect personal data such as email addresses, DNS queries, or browsing history through this functionality. The data processed is limited to technical and diagnostic information, may include device-related data or system-generated identifiers, and is not used to identify you.
-
-We use this data solely for internal analytics, diagnostics, and product improvement. We do not use third-party analytics or crash reporting services, do not sell this data, and do not use it for advertising or tracking. Where required by applicable law, we process this data on the basis of your consent.
-
-We retain this data for no longer than 30 days, unless a longer retention period is reasonably necessary to investigate an ongoing technical issue.
 
 ## What legal bases we use to process your Personal Data
 
@@ -178,7 +168,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 **Right to withdraw a consent** where the data processing is based on the consent.
 
-**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities [here](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument).
+**Right to lodge a complaint** with a data protection authority. You can find contact details of our data protection authorities on the [Cyprus data protection authority website](https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/contact_en/contact_en?opendocument).
 
 When we receive your Personal Data from a third party, we will use reasonable efforts to inform you about it.
 
