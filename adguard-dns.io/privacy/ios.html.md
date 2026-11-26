@@ -98,7 +98,7 @@ We use this data solely for internal analytics, diagnostics, and product improve
 
 We retain this data for no longer than 30 days, unless a longer retention period is reasonably necessary to investigate an ongoing technical issue.
 
-### Crash reports
+### Automatic crash reports
 
 AdGuard DNS offers you the option of sharing crash reports with us to help improve our service. This option is disabled by default and is only enabled with your consent.
 
